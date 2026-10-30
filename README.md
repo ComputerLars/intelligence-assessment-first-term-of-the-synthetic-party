@@ -1,5 +1,9 @@
 # Intelligence Assessment: First Term of The Synthetic Party
 
+![The deployed public source registry](docs/assets/intelligence-assessment-pages-front.png)
+
+*The public-facing source registry, captured from the deployed GitHub Pages site. Computer Lars / Asker Bryld Staunæs — artistic research.*
+
 
 
 **Source registry:** https://computerlars.github.io/intelligence-assessment-first-term-of-the-synthetic-party/
