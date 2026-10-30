@@ -1,0 +1,37 @@
+A26-D05 | Corporate invoice
+
+PDF text extraction; layout and embedded images are not reproduced.
+
+[Source page 1]
+
+Invoice
+
+29. 11. 2024
+
+Receiver: Kaiken keskus ry
+
+Address: c/o Eskus, [████], 00540
+Helsinki, Finland
+
+Y-number (Organisation ID): 2727608-2
+
+[████]
+
+Please note that Holvi only accepts payments made in
+euros.
+
+Payer:
+
+Aarhus University
+
+Sum: 500 €
+
+Subject: Workshops and collaborative activity during 9. –
+13.12.2024 in Aarhus and Malmö in the context of an
+exhibition (project ‘Automatic Uprisings’).
+
+VAT 0 % because of the small amount of trade
+
+Due date 16. 12. 2024
+
+Interest on delayed payments 11 %

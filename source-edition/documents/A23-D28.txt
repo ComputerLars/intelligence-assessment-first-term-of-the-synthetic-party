@@ -1,0 +1,141 @@
+A23-D28 | Autouprise.pdf
+
+PDF text extraction; layout and embedded images are not reproduced.
+
+[Source page 1]
+
+AUTOMATIC UPRISINGS
+
+ARCHIVING A TECHNO-SOCIAL SCULPTURE
+
+Abbreviations
+
+Artificial intelligence: AI
+The Synthetic International: SI
+
+Background
+AUTOMATIC UPRISINGS raises a double-edged scenario: what to do if the “robot uprising”
+has already happened, and the prophesied explosion of artificial superintelligence only led to
+an endless supercharging of bureaucratic stupidity? Its postulate is that this introduces a
+new imperative for politically-engaged artists: namely to employ technologies for a cultural
+revolt that targets the abiding futurism of imaginaries related to the 4th Industrial Revolution.
+
+Given that artists have a special responsibility for fighting bureaucratic stupidity, the radical
+research question should be: what new forms of social protest became possible through
+yesterday’s robot uprising? In my practice, I have utilized advances in generative AI to
+construct a vox populi that enacts democratic participation from a distributed pool of
+human-made data (Xiang 2022). As such, I have worked to subvert any cultural projection of
+technological autonomy à la the doomsday visions of Skynet from the Terminator-franchise.
+
+The challenge is however that social uprisings with AI technology risk a greater complicity
+with Big Tech’s democratic problems than when e.g. global social movements fight
+capitalism, climate change or racial injustice. This project’s aim is therefore to develop an
+immanent critique by reenacting the core dialectical oppositions of political art, such as the
+plays between actuality/potentiality, party/movement, and performance/politics in e.g. Joseph
+Beuys’ social sculpting from The German Student Party to Die Grünen (1967-1979) or when
+a group or net artists ran the virtual political candidate Wiktoria Cukt in Poland (2001).
+
+Purpose
+The project’s purpose is to document and theorize a potential socio-political network called
+The Synthetic International (SI). It will depict the workings of a global web of political parties
+that are driven by AI. These parties are supposed to represent the abstentionist population
+of their respective countries through curated datasets. Relating algorithmic representation to
+the politically unrepresented constitutes my specific variation of a techno-populist ideology
+(Pietrzak 2022; Vukovic 2022).
+
+As a techno-social sculpture vis-à-vis Beuys, the SI can operate between two layers: 1)
+while the potential network is a conceptual piece that will largely consist outside of myself by
+use of AI, 2) the substantial artistic element is to archive the visual-textual materials that the
+SI evokes through interactions between humans and AI. All materials are created within
+techno-social milieus of my design and facilitation.
+
+[Source page 2]
+
+Hypothesis
+The project’s main hypothesis is that practice-based research can develop an immanent
+critique of the power that processes of automation already exercise within the bureaucracy
+and public spheres. In this way, it will answer critical theory’s recent call to arms for
+envisioning a democratization of AI and data infrastructures. The thesis argues that diverse
+potentialities of automation and data can be enacted by use of archiving as artistic practice.
+
+Recently, important works of critical theory have argued for radical digital democratization
+(active participation and collective ownership), as they evaluate that data infrastructures and
+its forms of power are fostering an authoritarian centralization of control (McQuillan 2022;
+Muldoon 2022; Zuboff 2022). However, critical theory’s largely external perspective makes it
+difficult to imagine new alternatives. In contrast, practice-based researchers can use e.g.
+generative AI auto-critically (Chatonsky 2022) to make the media a “self”-reflexive resource.
+
+The project’s critical reflection will evolve through a humanities conception of algorithms and
+data through theories of the archive as a field of overlooked potentials (Agostinho et al.
+2019). Its point of departure is philosopher Yuk Hui’s idea of data-driven archives as a “new
+synthesis of time” (Hui 2018). Simply put: Hui posits that archiving is no longer a way of
+conserving the past to anticipate the future, but a tool of prediction that makes up the future
+through the past. What Hui’s theory of potentiality can offer to my practice-based criticism is
+to legitimize that new political imaginaries can be sculpted from the empirical evidence, e.g.
+through generated data.
+
+Methodology
+The project’s methodologies can be summarized as an “archivism” by which it updates a
+tradition within avant-garde art for relating bureaucratic pastiche with new media technology
+(Spieker 2008). The project is to deploy: 1) experimental methods from creative AI practices
+such as data collection, machine learning training, and image generation, plus contributory
+research frameworks such as laboratories and workshops, 2) artistic-visual techniques, e.g.
+collages and montages, web design, remediations between analogue-digital media and 3)
+theoretical methods of conceptual critique and iconological visual analysis.
+
+From 2023-26, the SI will 1) collect visual data from advocacy groups on social bias in AI
+(Algorithmic Justice League, AlgorithmWatch, etc.), and 2) rework source materials (chatbot
+transcripts, interviews and images) that I evoked through the global media artwork of The
+Synthetic Party on a Danish political party led by an AI chatbot. The SI’s website will feature
+AI models that respond to textual questions with imagery - ranging from AI propaganda to
+twisted diagrams (Illustration 1-2).
+
+The thesis can analyze how to relate the SI archive with the techno-political superstructures
+of data-driven AI by contextualizing methods of visual analysis in the tradition of Panofsky
+and Warburg's iconological syntheses (Mitchell 1986). This analysis will compare AI images
+with their model’s system card in order to identify political visions within systemic traces of
+algorithmic agency and cultural bias.
+
+A bridging of creative AI with contributory research constitutes the methodological innovation
+of this project in comparison to the few published practice-based projects on art and current
+
+[Source page 3]
+
+AI. While their concern is how AI affects artistic practice (Amerika 2022), this project rather
+asks how practice changes AI (Tromble 2020). In the context of artistic practice, contribution
+here refers to an interpretation of Beuysian social sculpting as a creative research
+framework that can challenge algorithmic governmentality (Stiegler 2021). The contributory
+practices will be open labs, workshops and human-AI interaction.
+
+Deliveries and realization
+
+The project’s main deliveries will be:
+
+1) laboratories on “techno-social sculpting” in Kunsthal Aarhus, and a workshop series in
+Denmark and abroad
+2) three digital art exhibitions curated by Aksioma (Slovenia), Kunsthal Aarhus (Denmark)
+and POINT (Cyprus)
+3) three journal articles to form a written thesis:
+
+     -   AI & Society: “An Iconology of AI Advocacy: Protesting AI with AI“
+     -   Études Digitales: “Techno-Social Sculpting in the wake of La Société Automatique”
+     -   e-flux: “Automatic Uprisings: Lessons from Archiving a Synthetic International”
+
+The plan for artistic realization is threefold (the bold numbers represent academic terms):
+
+Preparation:
+Gathering material from AI advocacy groups (images, text) + data curation: 1
+
+[████]
+
+
+https://populismobserver.com/2022/12/06/chatbot-politicians-artificial-intelligence-and-next-le
+vel-populism/
+
+Xiang, Vice
+
+[████]
+
+The artwork will be able to research how its symbolic representation of AI relates to real
+social issues (Pietrzak 2022) by practicing how media-based and socio/politically-engaged
+art can challenge algorithmic governmentality (Stiegler 2021).

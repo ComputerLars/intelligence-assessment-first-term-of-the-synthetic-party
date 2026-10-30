@@ -1,0 +1,3057 @@
+item_id	dossier	title	representation	files
+A01-S01	A01	Party proposal	extract	documents/A01-S01.md
+A01-S02	A01	Party proposal	extract	documents/A01-S02.md
+A01-S03	A01	Correspondence	extract	documents/A01-S03.md
+A01-S04	A01	Political leader	extract	documents/A01-S04.md
+A01-S05	A01	Collaboration proposal	extract	documents/A01-S05.md
+A01-S06	A01	Correspondence	extract	documents/A01-S06.md
+A01-S07	A01	Correspondence	extract	documents/A01-S07.md
+A01-S08	A01	Correspondence	extract	documents/A01-S08.md
+A01-S09	A01	Correspondence	extract	documents/A01-S09.md
+A01-S10	A01	Follow-up	extract	documents/A01-S10.md
+A01-S11	A01	Correspondence	extract	documents/A01-S11.md
+A01-S12	A01	Correspondence	extract	documents/A01-S12.md
+A01-S13	A01	Public reference	extract	documents/A01-S13.md
+A01-S14	A01	Correspondence	extract	documents/A01-S14.md
+A01-S15	A01	Correspondence	extract	documents/A01-S15.md
+A01-S16	A01	Correspondence	extract	documents/A01-S16.md
+A01-S17	A01	Correspondence	extract	documents/A01-S17.md
+A01-S18	A01	Correspondence	extract	documents/A01-S18.md
+A01-S19	A01	Correspondence	extract	documents/A01-S19.md
+A01-S20	A01	Correspondence	extract	documents/A01-S20.md
+A01-S21	A01	Correspondence	extract	documents/A01-S21.md
+A01-S22	A01	Follow-up	extract	documents/A01-S22.md
+A01-D01	A01	Mindset proposal	redacted-text	documents/A01-D01.txt
+A01-D02	A01	Blog proposal	redacted-text	documents/A01-D02.txt
+A01-D03	A01	Knowledge engine	redacted-text	documents/A01-D03.txt
+A01-D04	A01	Mindset eXchange	redacted-text	documents/A01-D04.txt
+A01-D05	A01	Profiling proposal	redacted-text	documents/A01-D05.txt
+A01-D06	A01	The Artificials	redacted-text	documents/A01-D06.txt
+A01-D07	A01	Eighteenth goal	full-text	documents/A01-D07.txt
+A01-D08	A01	Hello Humans	redacted-text	documents/A01-D08.txt
+A01-D09	A01	Artificial stupidity	full-treated	documents/A01-D09.txt
+A01-D10	A01	Exhibition proposal	full-treated	documents/A01-D10.txt
+A01-D11	A01	Mindset theory	redacted-text	documents/A01-D11.txt
+A01-D12	A01	Value theory	redacted-text	documents/A01-D12.txt
+A01-D13	A01	Hello Humans	redacted-text	documents/A01-D13.txt
+A01-D14	A01	Hello Humans	redacted-text	documents/A01-D14.txt
+A01-D15	A01	Hello Humans	redacted-text	documents/A01-D15.txt
+A01-D16	A01	Hello Humans	redacted-text	documents/A01-D16.txt
+A01-D17	A01	Hello Humans	redacted-text	documents/A01-D17.txt
+A01-D18	A01	Hello Humans	redacted-text	documents/A01-D18.txt
+A01-D19	A01	Hello Humans	redacted-text	documents/A01-D19.txt
+A01-D20	A01	Hello Humans	redacted-text	documents/A01-D20.txt
+A01-D21	A01	Hello Humans	redacted-text	documents/A01-D21.txt
+A01-D22	A01	Reference links	full-treated	documents/A01-D22.txt
+A01-D23	A01	Generated artwork	source-image	images/A01-D23.png
+A01-S23	A01	Correspondence	extract	documents/A01-S23.md
+A01-S24	A01	Mindsets	extract	documents/A01-S24.md
+A01-S25	A01	Correspondence	extract	documents/A01-S25.md
+A01-S26	A01	Source request	extract	documents/A01-S26.md
+A01-S27	A01	Correspondence	extract	documents/A01-S27.md
+A01-S28	A01	Correspondence	extract	documents/A01-S28.md
+A01-S29	A01	Digital literacy	extract	documents/A01-S29.md
+A01-S30	A01	Correspondence	extract	documents/A01-S30.md
+A01-S31	A01	Correspondence	extract	documents/A01-S31.md
+A01-S32	A01	Correspondence	extract	documents/A01-S32.md
+A01-S33	A01	Research terms	extract	documents/A01-S33.md
+A01-S34	A01	Reward learning	extract	documents/A01-S34.md
+A01-S35	A01	Learning models	extract	documents/A01-S35.md
+A01-S36	A01	Correspondence	incomplete-source-fragment	documents/A01-S36.md
+A01-S37	A01	Correspondence	extract	documents/A01-S37.md
+A01-S38	A01	Correspondence	extract	documents/A01-S38.md
+A01-S39	A01	Research reference	extract	documents/A01-S39.md
+A01-S40	A01	Correspondence	extract	documents/A01-S40.md
+A01-S41	A01	Correspondence	extract	documents/A01-S41.md
+A01-S42	A01	Correspondence	extract	documents/A01-S42.md
+A01-S43	A01	Correspondence	extract	documents/A01-S43.md
+A01-S44	A01	Research references	extract	documents/A01-S44.md
+A01-S45	A01	Correspondence	extract	documents/A01-S45.md
+A01-S46	A01	Correspondence	extract	documents/A01-S46.md
+A01-S47	A01	Correspondence	extract	documents/A01-S47.md
+A01-S48	A01	Research references	extract	documents/A01-S48.md
+A01-S49	A01	Training sources	extract	documents/A01-S49.md
+A01-S50	A01	Correspondence	extract	documents/A01-S50.md
+A01-S51	A01	Cosmism	extract	documents/A01-S51.md
+A01-S52	A01	Correspondence	extract	documents/A01-S52.md
+A01-S53	A01	Correspondence	extract	documents/A01-S53.md
+A01-S54	A01	Research reference	extract	documents/A01-S54.md
+A01-S55	A01	Correspondence	extract	documents/A01-S55.md
+A01-S56	A01	Correspondence	extract	documents/A01-S56.md
+A01-S57	A01	Socialist futures	extract	documents/A01-S57.md
+A01-S58	A01	PhD proposal	extract	documents/A01-S58.md
+A01-S59	A01	Follow-up	extract	documents/A01-S59.md
+A01-S60	A01	Research terms	extract	documents/A01-S60.md
+A01-S61	A01	Correspondence	extract	documents/A01-S61.md
+A01-S62	A01	Correspondence	extract	documents/A01-S62.md
+A01-S63	A01	Correspondence	extract	documents/A01-S63.md
+A01-S64	A01	Project development	extract	documents/A01-S64.md
+A01-S65	A01	Correspondence	extract	documents/A01-S65.md
+A01-S66	A01	Yuk Hui	extract	documents/A01-S66.md
+A01-S67	A01	Correspondence	extract	documents/A01-S67.md
+A01-S68	A01	Correspondence	extract	documents/A01-S68.md
+A01-S69	A01	Artistic report	extract	documents/A01-S69.md
+A01-S70	A01	Correspondence	extract	documents/A01-S70.md
+A01-S71	A01	Correspondence	extract	documents/A01-S71.md
+A01-S72	A01	Correspondence	extract	documents/A01-S72.md
+A01-S73	A01	Project framework	extract	documents/A01-S73.md
+A01-S74	A01	Working terms	extract	documents/A01-S74.md
+A01-S75	A01	Correspondence	transport-metadata	documents/A01-S75.md
+A01-S76	A01	Correspondence	extract	documents/A01-S76.md
+A01-S77	A01	Platform access	extract	documents/A01-S77.md
+A01-S78	A01	Correspondence	extract	documents/A01-S78.md
+A01-S79	A01	Correspondence	transport-metadata	documents/A01-S79.md
+A01-S80	A01	Correspondence	extract	documents/A01-S80.md
+A01-S81	A01	Artificials	extract	documents/A01-S81.md
+A01-S82	A01	Correspondence	extract	documents/A01-S82.md
+A01-S83	A01	Correspondence	extract	documents/A01-S83.md
+A01-S84	A01	Correspondence	extract	documents/A01-S84.md
+A01-S85	A01	Artificial stupidity	extract	documents/A01-S85.md
+A01-S86	A01	Correspondence	extract	documents/A01-S86.md
+A01-S87	A01	Attachment	attachment-metadata	documents/A01-S87.md
+A01-S88	A01	Attachment	attachment-metadata	documents/A01-S88.md
+A01-S89	A01	Project synopsis	extract	documents/A01-S89.md
+A01-S90	A01	Correspondence	extract	documents/A01-S90.md
+A01-S91	A01	Correspondence	extract	documents/A01-S91.md
+A01-S92	A01	Exhibition proposal	extract	documents/A01-S92.md
+A01-S93	A01	Correspondence	extract	documents/A01-S93.md
+A01-S94	A01	Correspondence	extract	documents/A01-S94.md
+A01-S95	A01	Training sources	extract	documents/A01-S95.md
+A01-S96	A01	Language models	extract	documents/A01-S96.md
+A01-S97	A01	Correspondence	extract	documents/A01-S97.md
+A01-S98	A01	Art automation	extract	documents/A01-S98.md
+A01-S99	A01	Working language	extract	documents/A01-S99.md
+A01-S100	A01	Danish models	extract	documents/A01-S100.md
+A01-S101	A01	Working language	extract	documents/A01-S101.md
+A01-S102	A01	Correspondence	extract	documents/A01-S102.md
+A01-S103	A01	Correspondence	extract	documents/A01-S103.md
+A01-S104	A01	Correspondence	greeting-only	documents/A01-S104.md
+A01-S105	A01	Correspondence	extract	documents/A01-S105.md
+A01-S106	A01	Correspondence	extract	documents/A01-S106.md
+A01-S107	A01	Correspondence	incomplete-source-fragment	documents/A01-S107.md
+A01-S108	A01	Artificial stupidity	extract	documents/A01-S108.md
+A01-S109	A01	Artificial stupidity	extract	documents/A01-S109.md
+A01-S110	A01	Project funding	extract	documents/A01-S110.md
+A01-S111	A01	Correspondence	extract	documents/A01-S111.md
+A01-S112	A01	Correspondence	extract	documents/A01-S112.md
+A01-S113	A01	Project scope	extract	documents/A01-S113.md
+A01-S114	A01	Correspondence	extract	documents/A01-S114.md
+A01-S115	A01	Correspondence	extract	documents/A01-S115.md
+A01-S116	A01	Synthetic news	extract	documents/A01-S116.md
+A01-S117	A01	Correspondence	extract	documents/A01-S117.md
+A01-S118	A01	Avatar design	extract	documents/A01-S118.md
+A01-S119	A01	Avatar design	extract	documents/A01-S119.md
+A01-S120	A01	Avatar design	extract	documents/A01-S120.md
+A01-S121	A01	Avatar design	extract	documents/A01-S121.md
+A01-S122	A01	Avatar design	extract	documents/A01-S122.md
+A01-S123	A01	Avatar design	extract	documents/A01-S123.md
+A01-S124	A01	Avatar design	extract	documents/A01-S124.md
+A01-S125	A01	Avatar design	extract	documents/A01-S125.md
+A01-S126	A01	Avatar design	extract	documents/A01-S126.md
+A01-S127	A01	Art avatar	extract	documents/A01-S127.md
+A01-S128	A01	Avatar design	extract	documents/A01-S128.md
+A01-S129	A01	Avatar design	extract	documents/A01-S129.md
+A01-S130	A01	Avatar design	extract	documents/A01-S130.md
+A01-S131	A01	Correspondence	extract	documents/A01-S131.md
+A01-S132	A01	Correspondence	extract	documents/A01-S132.md
+A01-S133	A01	Correspondence	extract	documents/A01-S133.md
+A01-S134	A01	Correspondence	extract	documents/A01-S134.md
+A01-S135	A01	Correspondence	extract	documents/A01-S135.md
+A01-S136	A01	Correspondence	extract	documents/A01-S136.md
+A01-S137	A01	Correspondence	extract	documents/A01-S137.md
+A01-S138	A01	Project criticism	extract	documents/A01-S138.md
+A01-S139	A01	Political leader	extract	documents/A01-S139.md
+A01-S140	A01	Public reference	extract	documents/A01-S140.md
+A02-S13	A02	Correspondence	extract	documents/A02-S13.md
+A02-S14	A02	Correspondence	extract	documents/A02-S14.md
+A02-S15	A02	Correspondence	extract	documents/A02-S15.md
+A02-S16	A02	Project presentation	extract	documents/A02-S16.md
+A02-S17	A02	Correspondence	extract	documents/A02-S17.md
+A02-S07	A02	Correspondence	extract	documents/A02-S07.md
+A02-S08	A02	Correspondence	extract	documents/A02-S08.md
+A02-S09	A02	Project budget	extract	documents/A02-S09.md
+A02-S10	A02	Residency terms	extract	documents/A02-S10.md
+A02-S11	A02	Development costs	extract	documents/A02-S11.md
+A02-S18	A02	Correspondence	extract	documents/A02-S18.md
+A02-S19	A02	Correspondence	extract	documents/A02-S19.md
+A02-S20	A02	Correspondence	extract	documents/A02-S20.md
+A02-S21	A02	Working notes	extract	documents/A02-S21.md
+A02-S22	A02	Correspondence	extract	documents/A02-S22.md
+A02-S01	A02	Project framework	extract	documents/A02-S01.md
+A02-S02	A02	Follow-up	extract	documents/A02-S02.md
+A02-S03	A02	Correspondence	extract	documents/A02-S03.md
+A02-S04	A02	Payment terms	extract	documents/A02-S04.md
+A02-S05	A02	Project framework	extract	documents/A02-S05.md
+A02-S06	A02	Project development	extract	documents/A02-S06.md
+A02-S12	A02	Ownership	extract	documents/A02-S12.md
+A02-S23	A02	Contract proposals	extract	documents/A02-S23.md
+A02-D01	A02	Project proposal	extract	documents/A02-D01.md
+A02-D02	A02	Project proposal	extract	documents/A02-D02.md
+A02-D03	A02	Project proposal	extract	documents/A02-D03.md
+A02-D04	A02	Project proposal	extract	documents/A02-D04.md
+A02-D05	A02	Project proposal	full-treated	documents/A02-D05.txt
+A02-D06	A02	Project proposal	full-treated	documents/A02-D06.txt
+A02-S24	A02	Correspondence	extract	documents/A02-S24.md
+A02-S25	A02	Project remit	extract	documents/A02-S25.md
+A02-S26	A02	Project response	extract	documents/A02-S26.md
+A02-S27	A02	Project response	extract	documents/A02-S27.md
+A02-S28	A02	Corporate announcement	extract	documents/A02-S28.md
+A02-S29	A02	Correspondence	extract	documents/A02-S29.md
+A02-S30	A02	Correspondence	extract	documents/A02-S30.md
+A02-S31	A02	Correspondence	extract	documents/A02-S31.md
+A02-S32	A02	Correspondence	extract	documents/A02-S32.md
+A02-S33	A02	Correspondence	extract	documents/A02-S33.md
+A02-S34	A02	Model budget	extract	documents/A02-S34.md
+A02-S35	A02	Correspondence	extract	documents/A02-S35.md
+A02-S36	A02	Correspondence	extract	documents/A02-S36.md
+A02-S37	A02	Project framework	extract	documents/A02-S37.md
+A02-S38	A02	Correspondence	extract	documents/A02-S38.md
+A02-S39	A02	Anagram	extract	documents/A02-S39.md
+A02-S40	A02	Artistic inquiry	extract	documents/A02-S40.md
+A02-S41	A02	Correspondence	extract	documents/A02-S41.md
+A02-S42	A02	Proposal approval	extract	documents/A02-S42.md
+A02-D07	A02	Project proposal	full-treated	documents/A02-D07.txt
+A02-D08	A02	Research proposal	full-treated	documents/A02-D08.txt
+A02-D09	A02	Festival proposal	redacted-text	documents/A02-D09.txt
+A02-S43	A02	Correspondence	transport-metadata	documents/A02-S43.md
+A02-S44	A02	Correspondence	extract	documents/A02-S44.md
+A02-S45	A02	Correspondence	extract	documents/A02-S45.md
+A02-S46	A02	Correspondence	extract	documents/A02-S46.md
+A02-S47	A02	Correspondence	extract	documents/A02-S47.md
+A02-S48	A02	Correspondence	extract	documents/A02-S48.md
+A02-S49	A02	Correspondence	extract	documents/A02-S49.md
+A02-S50	A02	Project budget	extract	documents/A02-S50.md
+A02-S51	A02	Correspondence	extract	documents/A02-S51.md
+A02-S52	A02	Correspondence	extract	documents/A02-S52.md
+A02-S53	A02	Correspondence	extract	documents/A02-S53.md
+A02-S54	A02	Correspondence	extract	documents/A02-S54.md
+A02-S55	A02	Reading Turing	extract	documents/A02-S55.md
+A02-S56	A02	Research reference	extract	documents/A02-S56.md
+A02-S57	A02	Debate remit	extract	documents/A02-S57.md
+A02-S58	A02	Correspondence	greeting-only	documents/A02-S58.md
+A02-S59	A02	Meeting agenda	extract	documents/A02-S59.md
+A02-S60	A02	Residency terms	extract	documents/A02-S60.md
+A02-S61	A02	Correspondence	extract	documents/A02-S61.md
+A02-S62	A02	Correspondence	extract	documents/A02-S62.md
+A02-S63	A02	Correspondence	extract	documents/A02-S63.md
+A02-S64	A02	Correspondence	extract	documents/A02-S64.md
+A02-S65	A02	Correspondence	extract	documents/A02-S65.md
+A02-S66	A02	Research proposal	extract	documents/A02-S66.md
+A02-S67	A02	Correspondence	extract	documents/A02-S67.md
+A02-S68	A02	Correspondence	extract	documents/A02-S68.md
+A02-S69	A02	Correspondence	extract	documents/A02-S69.md
+A02-S70	A02	Correspondence	extract	documents/A02-S70.md
+A02-S71	A02	Correspondence	extract	documents/A02-S71.md
+A02-S72	A02	Correspondence	extract	documents/A02-S72.md
+A02-S73	A02	Correspondence	extract	documents/A02-S73.md
+A02-S74	A02	Correspondence	extract	documents/A02-S74.md
+A02-S75	A02	Historical persona	extract	documents/A02-S75.md
+A02-S76	A02	Struensee project	extract	documents/A02-S76.md
+A02-S77	A02	Correspondence	extract	documents/A02-S77.md
+A02-S78	A02	Correspondence	extract	documents/A02-S78.md
+A02-S79	A02	Correspondence	extract	documents/A02-S79.md
+A02-S80	A02	Follow-up	extract	documents/A02-S80.md
+A02-S81	A02	Meeting agenda	extract	documents/A02-S81.md
+A02-S82	A02	Correspondence	quoted-source-extract	documents/A02-S82.md
+A02-S83	A02	Correspondence	quoted-source-extract	documents/A02-S83.md
+A02-S84	A02	Correspondence	transport-metadata	documents/A02-S84.md
+A02-S85	A02	Publication use	extract	documents/A02-S85.md
+A02-S86	A02	Artistic freedom	extract	documents/A02-S86.md
+A02-S87	A02	Publication use	extract	documents/A02-S87.md
+A02-S88	A02	Correspondence	extract	documents/A02-S88.md
+A02-S89	A02	Administration	extract	documents/A02-S89.md
+A02-S90	A02	Correspondence	extract	documents/A02-S90.md
+A02-S91	A02	Correspondence	extract	documents/A02-S91.md
+A02-S92	A02	Exhibition	extract	documents/A02-S92.md
+A02-S93	A02	Correspondence	extract	documents/A02-S93.md
+A02-S94	A02	Exhibition	extract	documents/A02-S94.md
+A03-S03	A03	Display proposal	extract	documents/A03-S03.md
+A03-S04	A03	Display discussion	extract	documents/A03-S04.md
+A03-S05	A03	Literary technique	extract	documents/A03-S05.md
+A03-S06	A03	Correspondence	extract	documents/A03-S06.md
+A03-S07	A03	Audience	extract	documents/A03-S07.md
+A03-S01	A03	Training rationale	extract	documents/A03-S01.md
+A03-S08	A03	Project discussion	extract	documents/A03-S08.md
+A03-S09	A03	Composition	extract	documents/A03-S09.md
+A03-S02	A03	Literary technique	extract	documents/A03-S02.md
+A03-D01	A03	Textsplainer	extract	documents/A03-D01.md
+A03-D02	A03	Textsplainer	full-text	documents/A03-D02.txt
+A03-D03	A03	Textsplainer	full-text	documents/A03-D03.txt
+A03-S10	A03	Correspondence	extract	documents/A03-S10.md
+A04-S01	A04	First model	extract	documents/A04-S01.md
+A04-S03	A04	Party name	extract	documents/A04-S03.md
+A04-S04	A04	Party name	extract	documents/A04-S04.md
+A04-S08	A04	Publicity	extract	documents/A04-S08.md
+A04-S09	A04	Publishing	extract	documents/A04-S09.md
+A04-S10	A04	Handwriting	extract	documents/A04-S10.md
+A04-S11	A04	Publishing	extract	documents/A04-S11.md
+A04-S12	A04	Publication	extract	documents/A04-S12.md
+A04-S13	A04	Correspondence	extract	documents/A04-S13.md
+A04-S14	A04	Correspondence	extract	documents/A04-S14.md
+A04-S02	A04	First training	extract	documents/A04-S02.md
+A04-S05	A04	Correspondence	extract	documents/A04-S05.md
+A04-S06	A04	Correspondence	extract	documents/A04-S06.md
+A04-S07	A04	Training error	extract	documents/A04-S07.md
+A04-D01	A04	Presentation	extract	documents/A04-D01.md
+A04-D02	A04	Management statements	extract	documents/A04-D02.md
+A04-D03	A04	Leader Lars	extract	documents/A04-D03.md
+A04-D04	A04	First test	extract	documents/A04-D04.md
+A04-S15	A04	Generated dialogue	extract	documents/A04-S15.md
+A04-S16	A04	Performance timing	extract	documents/A04-S16.md
+A04-S17	A04	Press invitation	extract	documents/A04-S17.md
+A04-S18	A04	Performance timing	extract	documents/A04-S18.md
+A04-S19	A04	Correspondence	extract	documents/A04-S19.md
+A04-S20	A04	Publicity proposals	extract	documents/A04-S20.md
+A04-S21	A04	Leader model	extract	documents/A04-S21.md
+A04-S22	A04	Press invitation	extract	documents/A04-S22.md
+A04-S23	A04	Leader draft	extract	documents/A04-S23.md
+A04-S24	A04	Launch	extract	documents/A04-S24.md
+A04-S25	A04	Launch preparation	extract	documents/A04-S25.md
+A04-S26	A04	Launch response	extract	documents/A04-S26.md
+A04-S27	A04	Launch response	extract	documents/A04-S27.md
+A04-S28	A04	Correspondence	extract	documents/A04-S28.md
+A04-S29	A04	Statecraft	extract	documents/A04-S29.md
+A04-S30	A04	Statecraft	extract	documents/A04-S30.md
+A04-D05	A04	Presentation	full-text	data/A04-D05.txt
+A04-D06	A04	Artistic research	full-text	data/A04-D06.txt
+A04-D07	A04	Proust volumes	full-treated	images/A04-D07.png
+A04-D08	A04	Artwork statement	full-text	documents/A04-D08.txt
+A04-D09	A04	Artwork description	full-treated	documents/A04-D09.txt
+A04-D10	A04	Proust display	full-treated	images/A04-D10.png
+A04-D11	A04	Artwork description	full-treated	documents/A04-D11.txt
+A04-D12	A04	Travel receipt	full-treated	documents/A04-D12.txt; media/A04-D12.png
+A04-D13	A04	Travel receipt	full-treated	documents/A04-D13.txt; media/A04-D13.png
+A04-D14	A04	Starter dialogue	full-text	data/A04-D14.txt
+A04-S31	A04	Exhibition instructions	extract	documents/A04-S31.md
+A04-S32	A04	Correspondence	extract	documents/A04-S32.md
+A04-S33	A04	Correspondence	extract	documents/A04-S33.md
+A04-S34	A04	Correspondence	extract	documents/A04-S34.md
+A04-S35	A04	Attachment	attachment-metadata	documents/A04-S35.md
+A04-S36	A04	Correspondence	extract	documents/A04-S36.md
+A04-S37	A04	Explanatory text	extract	documents/A04-S37.md
+A04-S38	A04	Correspondence	extract	documents/A04-S38.md
+A04-S39	A04	Correspondence	extract	documents/A04-S39.md
+A04-S40	A04	Speaker introduction	extract	documents/A04-S40.md
+A04-S41	A04	Speaker introduction	extract	documents/A04-S41.md
+A04-S42	A04	Correspondence	extract	documents/A04-S42.md
+A04-S43	A04	Beer incident	extract	documents/A04-S43.md
+A04-S44	A04	Correspondence	extract	documents/A04-S44.md
+A04-S45	A04	Reimbursement	extract	documents/A04-S45.md
+A04-S46	A04	Apology	extract	documents/A04-S46.md
+A04-S47	A04	Follow-up	extract	documents/A04-S47.md
+A04-S48	A04	Response	extract	documents/A04-S48.md
+A04-S49	A04	Follow-up	extract	documents/A04-S49.md
+A04-S50	A04	Correspondence	extract	documents/A04-S50.md
+A04-S51	A04	Correspondence	extract	documents/A04-S51.md
+A04-S52	A04	Correspondence	extract	documents/A04-S52.md
+A04-S53	A04	Correspondence	extract	documents/A04-S53.md
+A04-S54	A04	Publication proposal	extract	documents/A04-S54.md
+A04-S55	A04	Correspondence	extract	documents/A04-S55.md
+A04-S56	A04	Publication proposal	extract	documents/A04-S56.md
+A04-S57	A04	Correspondence	extract	documents/A04-S57.md
+A04-S58	A04	Publication proposal	extract	documents/A04-S58.md
+A04-S59	A04	Follow-up	extract	documents/A04-S59.md
+A04-S60	A04	Correspondence	extract	documents/A04-S60.md
+A04-S61	A04	Correspondence	extract	documents/A04-S61.md
+A04-S62	A04	Correspondence	extract	documents/A04-S62.md
+A04-S63	A04	Correspondence	extract	documents/A04-S63.md
+A04-S64	A04	Follow-up	extract	documents/A04-S64.md
+A04-S65	A04	Publication proposal	extract	documents/A04-S65.md
+A04-S66	A04	Correspondence	extract	documents/A04-S66.md
+A05-D01	A05	Name approval	full-treated	documents/A05-D01.txt; facsimiles/A05-D01.pdf
+A05-D02	A05	Name application	full-treated	documents/A05-D02.txt; facsimiles/A05-D02.pdf
+A05-D03	A05	Birth form	full-text	documents/A05-D03.txt; facsimiles/A05-D03.pdf
+A05-S01	A05	Name application	extract	documents/A05-S01.md
+A05-S02	A05	Attachment	attachment-metadata	documents/A05-S02.md
+A05-S03	A05	Registration	extract	documents/A05-S03.md
+A05-S04	A05	Correspondence	extract	documents/A05-S04.md
+A05-S05	A05	Testing	extract	documents/A05-S05.md
+A05-S06	A05	Correspondence	extract	documents/A05-S06.md
+A05-S07	A05	Election posters	extract	documents/A05-S07.md
+A06-S03	A06	App review	extract	documents/A06-S03.md
+A06-S01	A06	Model policy	extract	documents/A06-S01.md
+A06-S04	A06	App review	extract	documents/A06-S04.md
+A06-S02	A06	Model policy	extract	documents/A06-S02.md
+A06-S05	A06	App review	extract	documents/A06-S05.md
+A06-S06	A06	Review examples	extract	documents/A06-S06.md
+A06-S07	A06	App review	extract	documents/A06-S07.md
+A06-S08	A06	App review	extract	documents/A06-S08.md
+A06-S09	A06	Model policy	extract	documents/A06-S09.md
+A06-S10	A06	App review	extract	documents/A06-S10.md
+A06-S11	A06	App review	extract	documents/A06-S11.md
+A06-S12	A06	Model policy	extract	documents/A06-S12.md
+A06-S13	A06	App review	extract	documents/A06-S13.md
+A06-S14	A06	Model policy	extract	documents/A06-S14.md
+A06-D01	A06	Pure metaphysics	extract	documents/A06-D01.md
+A07-S01	A07	Working notes	extract	documents/A07-S01.md
+A07-S02	A07	Working notes	extract	documents/A07-S02.md
+A07-S03	A07	Working notes	extract	documents/A07-S03.md
+A07-S04	A07	Working notes	extract	documents/A07-S04.md
+A07-S05	A07	Working notes	extract	documents/A07-S05.md
+A07-S06	A07	Working notes	extract	documents/A07-S06.md
+A07-S07	A07	Working notes	extract	documents/A07-S07.md
+A07-S08	A07	Working notes	extract	documents/A07-S08.md
+A07-S09	A07	Working notes	extract	documents/A07-S09.md
+A07-D01	A07	Training corpus	full-treated	data/A07-D01-2.txt
+A07-D02	A07	Earlier variants	full-treated	data/A07-D01.tsv
+A07-D03	A07	Computer Lars	full-treated	documents/A07-D03.txt
+A07-D04	A07	Computer Lars	full-treated	documents/A07-D04.txt
+A07-D05	A07	Computer Lars	full-treated	documents/A07-D05.txt
+A07-D06	A07	Lars register	full-treated	documents/A07-D06.txt
+A07-D07	A07	AI-Thomsen	full-text	documents/A07-D07.txt
+A07-D08	A07	Generated artwork	source-image	images/A07-D08.png
+A07-D09	A07	Generated artwork	source-image	images/A07-D09.png
+A07-D10	A07	Computer Lars	full-treated	documents/A07-D10.txt
+A07-D11	A07	Computer Lars	full-treated	documents/A07-D11.txt
+A07-D12	A07	Philosophical fiction	redacted-text	documents/A07-D12.txt
+A07-D13	A07	Political fiction	full-text	documents/A07-D13.txt
+A07-D14	A07	Tetradoxa	full-text	documents/A07-D14.txt
+A07-D15	A07	Training draft	full-text	data/A07-D15.txt
+A07-D16	A07	Literary draft	full-treated	data/A07-D16.txt
+A07-S10	A07	Attachment	attachment-metadata	documents/A07-S10.md
+A07-S11	A07	Generation methods	extract	documents/A07-S11.md
+A07-S12	A07	Correspondence	extract	documents/A07-S12.md
+A07-S13	A07	Attachment	attachment-metadata	documents/A07-S13.md
+A07-S14	A07	Attachment	attachment-metadata	documents/A07-S14.md
+A07-S15	A07	Attachment	attachment-metadata	documents/A07-S15.md
+A07-S16	A07	Attachment	attachment-metadata	documents/A07-S16.md
+A07-S17	A07	Attachment	attachment-metadata	documents/A07-S17.md
+A07-S18	A07	Attachment	attachment-metadata	documents/A07-S18.md
+A07-S19	A07	Correspondence	extract	documents/A07-S19.md
+A07-S20	A07	Correspondence	extract	documents/A07-S20.md
+A07-S21	A07	Attachment	attachment-metadata	documents/A07-S21.md
+A07-S22	A07	Generation methods	extract	documents/A07-S22.md
+A07-S23	A07	Correspondence	extract	documents/A07-S23.md
+A07-S24	A07	Generated programme	extract	documents/A07-S24.md
+A07-S25	A07	Generated programme	extract	documents/A07-S25.md
+A07-D17	A07	Avatar generation	source-video	media/A07-D17.mp4
+A07-D18	A07	Anagram generation	source-video	media/A07-D18.mp4
+A08-S69	A08	Correspondence	extract	documents/A08-S69.md
+A08-S08	A08	Model recommendation	extract	documents/A08-S08.md
+A08-S09	A08	API migration	extract	documents/A08-S09.md
+A08-S10	A08	API migration	extract	documents/A08-S10.md
+A08-S11	A08	Integration	extract	documents/A08-S11.md
+A08-S12	A08	Correspondence	extract	documents/A08-S12.md
+A08-S13	A08	Correspondence	extract	documents/A08-S13.md
+A08-S14	A08	Authentication	extract	documents/A08-S14.md
+A08-S15	A08	Authentication	extract	documents/A08-S15.md
+A08-S16	A08	Integration	extract	documents/A08-S16.md
+A08-S17	A08	Token mistake	extract	documents/A08-S17.md
+A08-S18	A08	Correspondence	extract	documents/A08-S18.md
+A08-S19	A08	Follow-up	extract	documents/A08-S19.md
+A08-S20	A08	Integration cost	extract	documents/A08-S20.md
+A08-S21	A08	Integration	extract	documents/A08-S21.md
+A08-S22	A08	Integration	extract	documents/A08-S22.md
+A08-S23	A08	Correspondence	extract	documents/A08-S23.md
+A08-S24	A08	Integration	extract	documents/A08-S24.md
+A08-S25	A08	Prompt questions	extract	documents/A08-S25.md
+A08-S26	A08	Prompt history	extract	documents/A08-S26.md
+A08-S27	A08	Integration payment	extract	documents/A08-S27.md
+A08-S28	A08	Integration payment	extract	documents/A08-S28.md
+A08-S29	A08	Correspondence	extract	documents/A08-S29.md
+A08-S30	A08	Prompt history	extract	documents/A08-S30.md
+A08-S31	A08	Correspondence	extract	documents/A08-S31.md
+A08-S32	A08	Prompt history	extract	documents/A08-S32.md
+A08-S70	A08	Bot access	extract	documents/A08-S70.md
+A08-S71	A08	Correspondence	extract	documents/A08-S71.md
+A08-S33	A08	Fine-tuning	extract	documents/A08-S33.md
+A08-S34	A08	Fine-tuning	extract	documents/A08-S34.md
+A08-S35	A08	Fine-tuning	extract	documents/A08-S35.md
+A08-S36	A08	Fine-tuning plan	extract	documents/A08-S36.md
+A08-S37	A08	Fine-tuning cost	extract	documents/A08-S37.md
+A08-S38	A08	Fine-tuning cost	extract	documents/A08-S38.md
+A08-S39	A08	Correspondence	extract	documents/A08-S39.md
+A08-S40	A08	Correspondence	extract	documents/A08-S40.md
+A08-S41	A08	Fine-tuning cost	extract	documents/A08-S41.md
+A08-S42	A08	Model deployment	extract	documents/A08-S42.md
+A08-S43	A08	Model deployment	extract	documents/A08-S43.md
+A08-S44	A08	Integration	extract	documents/A08-S44.md
+A08-S45	A08	Danish training	extract	documents/A08-S45.md
+A08-S01	A08	Danish training	extract	documents/A08-S01.md
+A08-S46	A08	Fine-tuning	extract	documents/A08-S46.md
+A08-S47	A08	Model deployment	extract	documents/A08-S47.md
+A08-S48	A08	Model access	extract	documents/A08-S48.md
+A08-S49	A08	Model access	extract	documents/A08-S49.md
+A08-S50	A08	Follow-up	extract	documents/A08-S50.md
+A08-S51	A08	Correspondence	extract	documents/A08-S51.md
+A08-S02	A08	Model comparison	extract	documents/A08-S02.md
+A08-S52	A08	Integration cost	extract	documents/A08-S52.md
+A08-S53	A08	Integration cost	extract	documents/A08-S53.md
+A08-S03	A08	Model deployment	extract	documents/A08-S03.md
+A08-S54	A08	Integration	extract	documents/A08-S54.md
+A08-S55	A08	Correspondence	extract	documents/A08-S55.md
+A08-S56	A08	Model training	extract	documents/A08-S56.md
+A08-S04	A08	Model response	extract	documents/A08-S04.md
+A08-S57	A08	Model response	extract	documents/A08-S57.md
+A08-S58	A08	Follow-up	extract	documents/A08-S58.md
+A08-S59	A08	Generation length	extract	documents/A08-S59.md
+A08-S60	A08	Generation length	extract	documents/A08-S60.md
+A08-S05	A08	Cloud hosting	extract	documents/A08-S05.md
+A08-S72	A08	Correspondence	extract	documents/A08-S72.md
+A08-S73	A08	Correspondence	extract	documents/A08-S73.md
+A08-S74	A08	Server access	extract	documents/A08-S74.md
+A08-S75	A08	Server access	extract	documents/A08-S75.md
+A08-S76	A08	Server access	extract	documents/A08-S76.md
+A08-S77	A08	Server access	extract	documents/A08-S77.md
+A08-S78	A08	Support escalation	extract	documents/A08-S78.md
+A08-S79	A08	Follow-up	extract	documents/A08-S79.md
+A08-S06	A08	Running cost	extract	documents/A08-S06.md
+A08-S61	A08	Correspondence	extract	documents/A08-S61.md
+A08-S07	A08	Invoices	extract	documents/A08-S07.md
+A08-S80	A08	Server access	extract	documents/A08-S80.md
+A08-S81	A08	Server access	extract	documents/A08-S81.md
+A08-S82	A08	Correspondence	extract	documents/A08-S82.md
+A08-S83	A08	Avatar production	extract	documents/A08-S83.md
+A08-S62	A08	Model outage	extract	documents/A08-S62.md
+A08-S63	A08	Model recovery	extract	documents/A08-S63.md
+A08-S64	A08	Model recovery	extract	documents/A08-S64.md
+A08-S65	A08	Correspondence	extract	documents/A08-S65.md
+A08-S66	A08	Reimbursement	extract	documents/A08-S66.md
+A08-S67	A08	Correspondence	extract	documents/A08-S67.md
+A08-S68	A08	Reimbursement	extract	documents/A08-S68.md
+A08-S84	A08	Correspondence	extract	documents/A08-S84.md
+A08-S85	A08	Correspondence	extract	documents/A08-S85.md
+A08-S86	A08	Correspondence	extract	documents/A08-S86.md
+A08-S87	A08	Avatar quantity	extract	documents/A08-S87.md
+A08-S88	A08	Correspondence	extract	documents/A08-S88.md
+A08-S89	A08	Correspondence	extract	documents/A08-S89.md
+A08-D01	A08	Bot script	full-text	code/A08-D01.js
+A08-D02	A08	Cloud receipt	full-text	documents/A08-D02.txt; facsimiles/A08-D02.pdf
+A08-D03	A08	Server access	extract	documents/A08-D03.md
+A08-D04	A08	Cloud invoices	full-text	documents/A08-D04.txt; facsimiles/A08-FINANCIAL-RECORDS.pdf
+A08-D05	A08	Cloud invoices	full-text	documents/A08-D05.txt; facsimiles/A08-FINANCIAL-RECORDS.pdf
+A08-S90	A08	Correspondence	extract	documents/A08-S90.md
+A08-S91	A08	Correspondence	extract	documents/A08-S91.md
+A08-S92	A08	Follow-up	extract	documents/A08-S92.md
+A08-S93	A08	Follow-up	extract	documents/A08-S93.md
+A08-S94	A08	Correspondence	extract	documents/A08-S94.md
+A08-S95	A08	Correspondence	extract	documents/A08-S95.md
+A08-S96	A08	Correspondence	quoted-source-extract	documents/A08-S96.md
+A08-S97	A08	Correspondence	extract	documents/A08-S97.md
+A08-S98	A08	Running cost	extract	documents/A08-S98.md
+A08-S99	A08	Avatar quantity	extract	documents/A08-S99.md
+A08-S100	A08	Correspondence	extract	documents/A08-S100.md
+A08-S101	A08	Correspondence	extract	documents/A08-S101.md
+A08-S102	A08	Correspondence	extract	documents/A08-S102.md
+A08-S103	A08	Correspondence	extract	documents/A08-S103.md
+A08-S104	A08	Correspondence	extract	documents/A08-S104.md
+A08-S105	A08	Correspondence	incomplete-source-fragment	documents/A08-S105.md
+A08-D06	A08	Cloud invoices	full-text	documents/A08-D06.txt; facsimiles/A08-FINANCIAL-RECORDS.pdf
+A08-D07	A08	Cloud invoices	full-text	documents/A08-D07.txt; facsimiles/A08-FINANCIAL-RECORDS.pdf
+A08-D08	A08	Cloud invoices	full-text	documents/A08-D08.txt; facsimiles/A08-FINANCIAL-RECORDS.pdf
+A08-D09	A08	Bot script	full-text	data/A08-D09.txt
+A08-D10	A08	Party programme	source-image	images/A08-D10.png
+A08-D11	A08	Cloud invoices	full-text	documents/A08-D11.txt; facsimiles/A08-FINANCIAL-RECORDS.pdf
+A08-D12	A08	Cloud invoices	full-text	documents/A08-D12.txt; facsimiles/A08-FINANCIAL-RECORDS.pdf
+A08-D13	A08	Cloud invoices	full-text	documents/A08-D13.txt; facsimiles/A08-FINANCIAL-RECORDS.pdf
+A08-D14	A08	Cloud invoices	full-text	documents/A08-D14.txt; facsimiles/A08-FINANCIAL-RECORDS.pdf
+A08-D15	A08	Cloud invoices	full-text	documents/A08-D15.txt; facsimiles/A08-FINANCIAL-RECORDS.pdf
+A08-D16	A08	Cloud invoices	full-text	documents/A08-D16.txt; facsimiles/A08-FINANCIAL-RECORDS.pdf
+A08-D17	A08	Cloud invoices	full-text	documents/A08-D17.txt; facsimiles/A08-FINANCIAL-RECORDS.pdf
+A08-D18	A08	Cloud invoices	full-text	documents/A08-D18.txt; facsimiles/A08-FINANCIAL-RECORDS.pdf
+A08-D19	A08	Cloud invoices	full-text	documents/A08-D19.txt; facsimiles/A08-FINANCIAL-RECORDS.pdf
+A08-D20	A08	Cloud invoices	full-text	documents/A08-D20.txt; facsimiles/A08-FINANCIAL-RECORDS.pdf
+A08-D21	A08	Cloud invoices	full-text	documents/A08-D21.txt; facsimiles/A08-FINANCIAL-RECORDS.pdf
+A08-D22	A08	Cloud invoices	full-text	documents/A08-D22.txt; facsimiles/A08-FINANCIAL-RECORDS.pdf
+A08-D23	A08	Cloud invoices	full-text	documents/A08-D23.txt; facsimiles/A08-FINANCIAL-RECORDS.pdf
+A08-D24	A08	Cloud invoices	full-text	documents/A08-D24.txt; facsimiles/A08-FINANCIAL-RECORDS.pdf
+A08-D25	A08	Cloud invoices	full-text	documents/A08-D25.txt; facsimiles/A08-FINANCIAL-RECORDS.pdf
+A08-D26	A08	Cloud invoices	full-text	documents/A08-D26.txt; facsimiles/A08-FINANCIAL-RECORDS.pdf
+A08-D27	A08	Cloud invoices	full-text	documents/A08-D27.txt; facsimiles/A08-FINANCIAL-RECORDS.pdf
+A08-D28	A08	Cloud invoices	full-text	documents/A08-D28.txt; facsimiles/A08-FINANCIAL-RECORDS.pdf
+A08-D29	A08	Cloud invoices	full-text	documents/A08-D29.txt; facsimiles/A08-FINANCIAL-RECORDS.pdf
+A08-D30	A08	Cloud invoices	full-text	documents/A08-D30.txt; facsimiles/A08-FINANCIAL-RECORDS.pdf
+A08-D31	A08	Reimbursement	full-treated	documents/A08-D31.txt; facsimiles/A08-D31.pdf
+A08-D32	A08	Authentication	full-text	documents/A08-D32.txt; media/A08-D32.png
+A08-S106	A08	Correspondence	transport-metadata	documents/A08-S106.md
+A08-S107	A08	Correspondence	extract	documents/A08-S107.md
+A08-S108	A08	Correspondence	extract	documents/A08-S108.md
+A08-S109	A08	Local hosting	extract	documents/A08-S109.md
+A08-S110	A08	Correspondence	extract	documents/A08-S110.md
+A08-S111	A08	Observation	extract	documents/A08-S111.md
+A08-S112	A08	Correspondence	extract	documents/A08-S112.md
+A08-S113	A08	Correspondence	extract	documents/A08-S113.md
+A08-S114	A08	Correspondence	extract	documents/A08-S114.md
+A08-S115	A08	Correspondence	extract	documents/A08-S115.md
+A08-S116	A08	Attachment	attachment-metadata	documents/A08-S116.md
+A08-S117	A08	Correspondence	extract	documents/A08-S117.md
+A08-S118	A08	Correspondence	extract	documents/A08-S118.md
+A08-S119	A08	Project email	extract	documents/A08-S119.md
+A08-S120	A08	Correspondence	extract	documents/A08-S120.md
+A08-S121	A08	Correspondence	extract	documents/A08-S121.md
+A08-S122	A08	Correspondence	extract	documents/A08-S122.md
+A08-S123	A08	Follow-up	extract	documents/A08-S123.md
+A08-S124	A08	Correspondence	extract	documents/A08-S124.md
+A08-S125	A08	Correspondence	extract	documents/A08-S125.md
+A08-S126	A08	Correspondence	extract	documents/A08-S126.md
+A08-S127	A08	Correspondence	extract	documents/A08-S127.md
+A08-S128	A08	Correspondence	extract	documents/A08-S128.md
+A08-S129	A08	Follow-up	extract	documents/A08-S129.md
+A08-S130	A08	Correspondence	extract	documents/A08-S130.md
+A08-S131	A08	Attachment	extract	documents/A08-S131.md
+A08-S132	A08	Invoice	extract	documents/A08-S132.md
+A08-S133	A08	Correspondence	extract	documents/A08-S133.md
+A08-S134	A08	Correspondence	extract	documents/A08-S134.md
+A08-S135	A08	Correspondence	extract	documents/A08-S135.md
+A08-S136	A08	Correspondence	extract	documents/A08-S136.md
+A08-S137	A08	Correspondence	extract	documents/A08-S137.md
+A09-S58	A09	Correspondence	extract	documents/A09-S58.md
+A09-S59	A09	Correspondence	extract	documents/A09-S59.md
+A09-S60	A09	Correspondence	extract	documents/A09-S60.md
+A09-S61	A09	Correspondence	extract	documents/A09-S61.md
+A09-S04	A09	Correspondence	extract	documents/A09-S04.md
+A09-S05	A09	Correspondence	extract	documents/A09-S05.md
+A09-S06	A09	Correspondence	extract	documents/A09-S06.md
+A09-S07	A09	Correspondence	extract	documents/A09-S07.md
+A09-S08	A09	Correspondence	extract	documents/A09-S08.md
+A09-S09	A09	Correspondence	extract	documents/A09-S09.md
+A09-S10	A09	Correspondence	extract	documents/A09-S10.md
+A09-S11	A09	Correspondence	extract	documents/A09-S11.md
+A09-S12	A09	Correspondence	extract	documents/A09-S12.md
+A09-S13	A09	AI artist	extract	documents/A09-S13.md
+A09-S14	A09	Publicity	extract	documents/A09-S14.md
+A09-S15	A09	Press strategy	extract	documents/A09-S15.md
+A09-S16	A09	Correspondence	extract	documents/A09-S16.md
+A09-S17	A09	Correspondence	extract	documents/A09-S17.md
+A09-S18	A09	Correspondence	extract	documents/A09-S18.md
+A09-S19	A09	Correspondence	extract	documents/A09-S19.md
+A09-S20	A09	Correspondence	extract	documents/A09-S20.md
+A09-S21	A09	Correspondence	extract	documents/A09-S21.md
+A09-S02	A09	Technical description	extract	documents/A09-S02.md
+A09-S22	A09	Correspondence	extract	documents/A09-S22.md
+A09-S23	A09	Correspondence	extract	documents/A09-S23.md
+A09-S24	A09	Correspondence	extract	documents/A09-S24.md
+A09-S25	A09	Correspondence	extract	documents/A09-S25.md
+A09-S26	A09	Correspondence	extract	documents/A09-S26.md
+A09-S27	A09	Collective identity	extract	documents/A09-S27.md
+A09-S28	A09	Correspondence	extract	documents/A09-S28.md
+A09-S29	A09	Correspondence	extract	documents/A09-S29.md
+A09-S30	A09	Correspondence	extract	documents/A09-S30.md
+A09-S31	A09	Correspondence	extract	documents/A09-S31.md
+A09-S32	A09	Correspondence	extract	documents/A09-S32.md
+A09-S01	A09	Image credits	extract	documents/A09-S01.md
+A09-S33	A09	Correspondence	extract	documents/A09-S33.md
+A09-S34	A09	Correspondence	extract	documents/A09-S34.md
+A09-S68	A09	Press reference	extract	documents/A09-S68.md
+A09-S69	A09	Correspondence	extract	documents/A09-S69.md
+A09-S70	A09	Correspondence	extract	documents/A09-S70.md
+A09-S35	A09	Political sources	extract	documents/A09-S35.md
+A09-S36	A09	Correspondence	extract	documents/A09-S36.md
+A09-S37	A09	Correspondence	extract	documents/A09-S37.md
+A09-S38	A09	Radio interview	extract	documents/A09-S38.md
+A09-S39	A09	Correspondence	extract	documents/A09-S39.md
+A09-S40	A09	Correspondence	extract	documents/A09-S40.md
+A09-S41	A09	Correspondence	extract	documents/A09-S41.md
+A09-S42	A09	Correspondence	extract	documents/A09-S42.md
+A09-S71	A09	Press coverage	extract	documents/A09-S71.md
+A09-S72	A09	Correspondence	extract	documents/A09-S72.md
+A09-S73	A09	Radio analysis	extract	documents/A09-S73.md
+A09-S74	A09	Correspondence	extract	documents/A09-S74.md
+A09-S75	A09	Correspondence	extract	documents/A09-S75.md
+A09-S76	A09	Radio analysis	extract	documents/A09-S76.md
+A09-S77	A09	Correspondence	extract	documents/A09-S77.md
+A09-S62	A09	Event budget	extract	documents/A09-S62.md
+A09-S63	A09	Correspondence	extract	documents/A09-S63.md
+A09-S64	A09	Grant application	extract	documents/A09-S64.md
+A09-S65	A09	Correspondence	extract	documents/A09-S65.md
+A09-S66	A09	Correspondence	extract	documents/A09-S66.md
+A09-S78	A09	Correspondence	extract	documents/A09-S78.md
+A09-S79	A09	Correspondence	extract	documents/A09-S79.md
+A09-S67	A09	Correspondence	extract	documents/A09-S67.md
+A09-S43	A09	Correspondence	extract	documents/A09-S43.md
+A09-S44	A09	Correspondence	extract	documents/A09-S44.md
+A09-S45	A09	Correspondence	extract	documents/A09-S45.md
+A09-S46	A09	Correspondence	extract	documents/A09-S46.md
+A09-S47	A09	Political selection	extract	documents/A09-S47.md
+A09-S48	A09	Correspondence	extract	documents/A09-S48.md
+A09-S49	A09	Ballot access	extract	documents/A09-S49.md
+A09-S50	A09	Election invitation	extract	documents/A09-S50.md
+A09-S51	A09	Correspondence	extract	documents/A09-S51.md
+A09-S52	A09	Correspondence	extract	documents/A09-S52.md
+A09-S53	A09	Correspondence	extract	documents/A09-S53.md
+A09-S54	A09	Correspondence	extract	documents/A09-S54.md
+A09-S55	A09	Follow-up	extract	documents/A09-S55.md
+A09-S03	A09	Election assessment	extract	documents/A09-S03.md
+A09-S56	A09	Correspondence	extract	documents/A09-S56.md
+A09-S57	A09	Policy answer	extract	documents/A09-S57.md
+A09-D01	A09	Election fee	full-treated	documents/A09-D01.txt
+A09-D02	A09	Election invitation	extract	documents/A09-D02.md
+A09-D03	A09	Generated speech	extract	documents/A09-D03.md
+A09-D04	A09	Radio appearance	extract	documents/A09-D04.md
+A09-D05	A09	Event proposal	extract	documents/A09-D05.md
+A09-D06	A09	Grant application	extract	documents/A09-D06.md
+A09-D07	A09	Grant application	extract	documents/A09-D07.md
+A09-D08	A09	Refreshments	extract	documents/A09-D08.md
+A09-D09	A09	Merchandise	extract	documents/A09-D09.md
+A09-D10	A09	Event fee	extract	documents/A09-D10.md
+A09-D11	A09	Merchandise	full-treated	documents/A09-D11.txt
+A09-D12	A09	Culture theme	full-text	documents/A09-D12.txt
+A09-D13	A09	Culture programme	full-text	documents/A09-D13.txt
+A09-D14	A09	Election invitation	full-text	documents/A09-D14.txt
+A09-D15	A09	Election invitation	full-text	documents/A09-D15.txt
+A09-S80	A09	Correspondence	extract	documents/A09-S80.md
+A09-S81	A09	Correspondence	extract	documents/A09-S81.md
+A09-S82	A09	Correspondence	extract	documents/A09-S82.md
+A09-S83	A09	Operating costs	extract	documents/A09-S83.md
+A09-S84	A09	Public setup	extract	documents/A09-S84.md
+A09-S85	A09	Setup requirements	extract	documents/A09-S85.md
+A09-S86	A09	Event interface	extract	documents/A09-S86.md
+A09-S87	A09	Correspondence	extract	documents/A09-S87.md
+A09-S88	A09	Correspondence	extract	documents/A09-S88.md
+A09-S89	A09	Correspondence	extract	documents/A09-S89.md
+A09-S90	A09	Correspondence	extract	documents/A09-S90.md
+A09-S91	A09	Correspondence	extract	documents/A09-S91.md
+A09-S92	A09	Correspondence	extract	documents/A09-S92.md
+A09-S93	A09	Correspondence	extract	documents/A09-S93.md
+A09-S94	A09	Correspondence	extract	documents/A09-S94.md
+A09-S95	A09	Correspondence	extract	documents/A09-S95.md
+A09-S96	A09	Correspondence	extract	documents/A09-S96.md
+A09-S97	A09	Correspondence	extract	documents/A09-S97.md
+A09-S98	A09	Correspondence	extract	documents/A09-S98.md
+A09-S99	A09	Correspondence	extract	documents/A09-S99.md
+A09-S100	A09	Correspondence	extract	documents/A09-S100.md
+A09-S101	A09	Correspondence	extract	documents/A09-S101.md
+A09-S102	A09	Correspondence	extract	documents/A09-S102.md
+A09-S103	A09	Correspondence	extract	documents/A09-S103.md
+A09-S104	A09	Correspondence	extract	documents/A09-S104.md
+A09-S105	A09	Correspondence	extract	documents/A09-S105.md
+A09-S106	A09	Correspondence	extract	documents/A09-S106.md
+A09-S107	A09	Digital literacy	extract	documents/A09-S107.md
+A09-S108	A09	Correspondence	extract	documents/A09-S108.md
+A09-S109	A09	Correspondence	extract	documents/A09-S109.md
+A09-S110	A09	Press coverage	extract	documents/A09-S110.md
+A09-S111	A09	Public positioning	extract	documents/A09-S111.md
+A09-S112	A09	Correspondence	extract	documents/A09-S112.md
+A09-S113	A09	Correspondence	extract	documents/A09-S113.md
+A09-S114	A09	Correspondence	extract	documents/A09-S114.md
+A09-S115	A09	Correspondence	extract	documents/A09-S115.md
+A09-S116	A09	Correspondence	extract	documents/A09-S116.md
+A09-S117	A09	Image rights	extract	documents/A09-S117.md
+A09-S118	A09	Correspondence	extract	documents/A09-S118.md
+A09-S119	A09	Correspondence	extract	documents/A09-S119.md
+A09-S120	A09	Correspondence	extract	documents/A09-S120.md
+A09-S121	A09	Image generation	extract	documents/A09-S121.md
+A09-S122	A09	Follow-up	extract	documents/A09-S122.md
+A09-S123	A09	Correspondence	extract	documents/A09-S123.md
+A09-S124	A09	Public events	extract	documents/A09-S124.md
+A09-S125	A09	Correspondence	extract	documents/A09-S125.md
+A09-S126	A09	Correspondence	extract	documents/A09-S126.md
+A09-S127	A09	Correspondence	extract	documents/A09-S127.md
+A09-S128	A09	Correspondence	extract	documents/A09-S128.md
+A09-S129	A09	Electoral claims	extract	documents/A09-S129.md
+A09-S130	A09	Online access	extract	documents/A09-S130.md
+A09-S131	A09	Poster design	extract	documents/A09-S131.md
+A09-S132	A09	Operational control	extract	documents/A09-S132.md
+A09-S133	A09	Correspondence	extract	documents/A09-S133.md
+A09-S134	A09	Correspondence	extract	documents/A09-S134.md
+A09-S135	A09	Correspondence	extract	documents/A09-S135.md
+A09-S136	A09	Correspondence	extract	documents/A09-S136.md
+A09-S137	A09	Correspondence	extract	documents/A09-S137.md
+A09-S138	A09	Correspondence	extract	documents/A09-S138.md
+A09-S139	A09	Event approval	extract	documents/A09-S139.md
+A09-S140	A09	Merchandise	extract	documents/A09-S140.md
+A09-S141	A09	Correspondence	extract	documents/A09-S141.md
+A09-S142	A09	Production delays	extract	documents/A09-S142.md
+A09-S143	A09	Event listing	extract	documents/A09-S143.md
+A09-S144	A09	Correspondence	extract	documents/A09-S144.md
+A09-S145	A09	Event promotion	extract	documents/A09-S145.md
+A09-S146	A09	Event production	extract	documents/A09-S146.md
+A09-S147	A09	Event production	extract	documents/A09-S147.md
+A09-S148	A09	Correspondence	extract	documents/A09-S148.md
+A09-S149	A09	Public programme	extract	documents/A09-S149.md
+A09-S150	A09	Event listing	extract	documents/A09-S150.md
+A09-S151	A09	Correspondence	extract	documents/A09-S151.md
+A09-S152	A09	Correspondence	extract	documents/A09-S152.md
+A09-S153	A09	Correspondence	extract	documents/A09-S153.md
+A09-S154	A09	Merchandise	extract	documents/A09-S154.md
+A09-S155	A09	Purchase approval	extract	documents/A09-S155.md
+A09-S156	A09	Reimbursement	extract	documents/A09-S156.md
+A09-S157	A09	Generated members	extract	documents/A09-S157.md
+A09-S158	A09	Event grant	extract	documents/A09-S158.md
+A09-S159	A09	Grant accounting	extract	documents/A09-S159.md
+A09-S160	A09	Press posting	extract	documents/A09-S160.md
+A09-S161	A09	Debate timing	extract	documents/A09-S161.md
+A09-S162	A09	Correspondence	extract	documents/A09-S162.md
+A09-S163	A09	Correspondence	extract	documents/A09-S163.md
+A09-S164	A09	Correspondence	extract	documents/A09-S164.md
+A09-S165	A09	Correspondence	extract	documents/A09-S165.md
+A09-S166	A09	Correspondence	extract	documents/A09-S166.md
+A09-S167	A09	Culture programme	extract	documents/A09-S167.md
+A09-S168	A09	Event preparation	extract	documents/A09-S168.md
+A09-S169	A09	Correspondence	extract	documents/A09-S169.md
+A09-S170	A09	Correspondence	extract	documents/A09-S170.md
+A09-S171	A09	Contract timing	extract	documents/A09-S171.md
+A09-S172	A09	Correspondence	extract	documents/A09-S172.md
+A09-S173	A09	Funding sources	extract	documents/A09-S173.md
+A09-S174	A09	Funding source	extract	documents/A09-S174.md
+A09-S175	A09	Correspondence	extract	documents/A09-S175.md
+A09-S176	A09	Correspondence	extract	documents/A09-S176.md
+A09-S177	A09	Event access	extract	documents/A09-S177.md
+A09-S178	A09	Correspondence	extract	documents/A09-S178.md
+A09-S179	A09	School outreach	extract	documents/A09-S179.md
+A09-S180	A09	Correspondence	extract	documents/A09-S180.md
+A09-S181	A09	Correspondence	extract	documents/A09-S181.md
+A09-S182	A09	Correspondence	extract	documents/A09-S182.md
+A09-S183	A09	Election event	extract	documents/A09-S183.md
+A09-S184	A09	Correspondence	extract	documents/A09-S184.md
+A09-S185	A09	Correspondence	extract	documents/A09-S185.md
+A09-S186	A09	Correspondence	extract	documents/A09-S186.md
+A09-S187	A09	Correspondence	extract	documents/A09-S187.md
+A09-S188	A09	Correspondence	extract	documents/A09-S188.md
+A09-S189	A09	Correspondence	extract	documents/A09-S189.md
+A09-S190	A09	Correspondence	extract	documents/A09-S190.md
+A09-S191	A09	Follow-up	extract	documents/A09-S191.md
+A09-D16	A09	Grant version	full-treated	data/A09-D16.txt
+A09-D17	A09	Launch plan	full-text	data/A09-D17.txt
+A09-D19	A09	Generated building	full-treated	images/A09-D19.png
+A09-D20	A09	Invoice error	full-treated	images/A09-D20.png
+A09-D21	A09	Travel invoice	full-treated	documents/A09-D21.txt
+A09-D22	A09	Travel receipts	full-treated	documents/A09-D22.txt
+A09-D23	A09	Registration form	full-treated	documents/A09-D23.txt; media/A09-D23.png
+A09-D24	A09	Workshop invoice	extract	documents/A09-D24.md
+A09-D25	A09	Computer Lars	full-treated	documents/A09-D25.txt
+A09-D26	A09	Invoice form	full-text	documents/A09-D26.txt; media/A09-D26.png
+A09-D27	A09	Public presentation	full-treated	documents/A09-D27.txt
+A09-S192	A09	Correspondence	extract	documents/A09-S192.md
+A09-S193	A09	Correspondence	extract	documents/A09-S193.md
+A09-S194	A09	Correspondence	extract	documents/A09-S194.md
+A09-S195	A09	Correspondence	extract	documents/A09-S195.md
+A09-S196	A09	Correspondence	extract	documents/A09-S196.md
+A09-S197	A09	Correspondence	extract	documents/A09-S197.md
+A09-S198	A09	Fee payment	extract	documents/A09-S198.md
+A09-S199	A09	Funding	extract	documents/A09-S199.md
+A09-S200	A09	Correspondence	extract	documents/A09-S200.md
+A09-S201	A09	Model strategy	extract	documents/A09-S201.md
+A09-S202	A09	Correspondence	extract	documents/A09-S202.md
+A09-S204	A09	Correspondence	extract	documents/A09-S204.md
+A09-S205	A09	Correspondence	extract	documents/A09-S205.md
+A09-S206	A09	Correspondence	extract	documents/A09-S206.md
+A09-S207	A09	Correspondence	extract	documents/A09-S207.md
+A09-S208	A09	Correspondence	extract	documents/A09-S208.md
+A09-S209	A09	Correspondence	extract	documents/A09-S209.md
+A09-S210	A09	Attachment	attachment-metadata	documents/A09-S210.md
+A09-S211	A09	Correspondence	extract	documents/A09-S211.md
+A09-S212	A09	Correspondence	extract	documents/A09-S212.md
+A09-S213	A09	Correspondence	extract	documents/A09-S213.md
+A09-S214	A09	Performance loop	extract	documents/A09-S214.md
+A09-S215	A09	Correspondence	extract	documents/A09-S215.md
+A09-S216	A09	Correspondence	extract	documents/A09-S216.md
+A09-S217	A09	Correspondence	extract	documents/A09-S217.md
+A09-S218	A09	Correspondence	transport-metadata	documents/A09-S218.md
+A09-S219	A09	Meeting agenda	extract	documents/A09-S219.md
+A09-S220	A09	Correspondence	extract	documents/A09-S220.md
+A09-S221	A09	Correspondence	extract	documents/A09-S221.md
+A09-S222	A09	Publicity funding	extract	documents/A09-S222.md
+A09-S223	A09	Correspondence	extract	documents/A09-S223.md
+A09-S224	A09	Correspondence	extract	documents/A09-S224.md
+A09-S225	A09	Correspondence	extract	documents/A09-S225.md
+A09-S226	A09	Correspondence	extract	documents/A09-S226.md
+A09-S227	A09	Event registration	extract	documents/A09-S227.md
+A09-S228	A09	Correspondence	extract	documents/A09-S228.md
+A09-S229	A09	Correspondence	extract	documents/A09-S229.md
+A09-S230	A09	Correspondence	extract	documents/A09-S230.md
+A09-S231	A09	Correspondence	extract	documents/A09-S231.md
+A09-S232	A09	Correspondence	extract	documents/A09-S232.md
+A09-S233	A09	Correspondence	extract	documents/A09-S233.md
+A09-S234	A09	Research funding	extract	documents/A09-S234.md
+A09-S235	A09	Attachment	attachment-metadata	documents/A09-S235.md
+A09-S236	A09	Public debate	extract	documents/A09-S236.md
+A09-S237	A09	Correspondence	extract	documents/A09-S237.md
+A09-S238	A09	Correspondence	extract	documents/A09-S238.md
+A09-S239	A09	Correspondence	extract	documents/A09-S239.md
+A09-S240	A09	Correspondence	extract	documents/A09-S240.md
+A09-S241	A09	Correspondence	extract	documents/A09-S241.md
+A09-S242	A09	Correspondence	source-metadata	documents/A09-S242.md
+A09-S243	A09	Correspondence	extract	documents/A09-S243.md
+A09-S244	A09	Correspondence	extract	documents/A09-S244.md
+A09-S245	A09	Correspondence	extract	documents/A09-S245.md
+A09-S246	A09	Correspondence	extract	documents/A09-S246.md
+A09-S247	A09	Correspondence	extract	documents/A09-S247.md
+A09-S248	A09	Invoice system	extract	documents/A09-S248.md
+A09-S249	A09	Correspondence	extract	documents/A09-S249.md
+A09-S250	A09	Correspondence	extract	documents/A09-S250.md
+A09-S251	A09	Invoice error	extract	documents/A09-S251.md
+A09-S252	A09	Correspondence	extract	documents/A09-S252.md
+A09-S253	A09	Correspondence	extract	documents/A09-S253.md
+A09-S254	A09	Invoice error	extract	documents/A09-S254.md
+A09-S255	A09	Invoice resolution	extract	documents/A09-S255.md
+A09-S256	A09	Correspondence	extract	documents/A09-S256.md
+A09-S257	A09	Public event	extract	documents/A09-S257.md
+A09-S258	A09	Correspondence	extract	documents/A09-S258.md
+A09-S259	A09	Public event	extract	documents/A09-S259.md
+A09-S260	A09	Correspondence	extract	documents/A09-S260.md
+A10-S03	A10	Interview request	extract	documents/A10-S03.md
+A10-S04	A10	Correspondence	extract	documents/A10-S04.md
+A10-S05	A10	Correspondence	extract	documents/A10-S05.md
+A10-S06	A10	Correspondence	extract	documents/A10-S06.md
+A10-S07	A10	Correspondence	extract	documents/A10-S07.md
+A10-S01	A10	Membership claim	extract	documents/A10-S01.md
+A10-S08	A10	Correspondence	extract	documents/A10-S08.md
+A10-S09	A10	Follow-up	extract	documents/A10-S09.md
+A10-S10	A10	Correspondence	extract	documents/A10-S10.md
+A10-S11	A10	Follow-up	extract	documents/A10-S11.md
+A10-S12	A10	Correspondence	extract	documents/A10-S12.md
+A10-S02	A10	Voter declarations	extract	documents/A10-S02.md
+A10-S13	A10	Correspondence	extract	documents/A10-S13.md
+A10-S14	A10	Published article	extract	documents/A10-S14.md
+A10-S15	A10	Correspondence	extract	documents/A10-S15.md
+A10-S16	A10	Source access	extract	documents/A10-S16.md
+A11-S03	A11	Correspondence	extract	documents/A11-S03.md
+A11-S04	A11	Correspondence	extract	documents/A11-S04.md
+A11-S01	A11	Press reception	extract	documents/A11-S01.md
+A11-S05	A11	Correspondence	extract	documents/A11-S05.md
+A11-S02	A11	Press reception	extract	documents/A11-S02.md
+A11-S06	A11	Correspondence	extract	documents/A11-S06.md
+A11-D01	A11	La Stampa	extract	documents/A11-D01.md
+A11-D02	A11	Published article	full-treated	facsimiles/A11-D02.pdf
+A11-S07	A11	La Stampa article	extract	documents/A11-S07.md
+A11-S08	A11	Correspondence	transport-metadata	documents/A11-S08.md
+A12-S04	A12	Correspondence	extract	documents/A12-S04.md
+A12-S05	A12	Correspondence	extract	documents/A12-S05.md
+A12-S01	A12	Model description	extract	documents/A12-S01.md
+A12-S06	A12	Correspondence	extract	documents/A12-S06.md
+A12-S07	A12	Correspondence	extract	documents/A12-S07.md
+A12-S08	A12	Correspondence	extract	documents/A12-S08.md
+A12-S09	A12	Anagram	extract	documents/A12-S09.md
+A12-S10	A12	Correspondence	extract	documents/A12-S10.md
+A12-S11	A12	Published article	extract	documents/A12-S11.md
+A12-S02	A12	Model changes	extract	documents/A12-S02.md
+A12-S03	A12	Governance	extract	documents/A12-S03.md
+A12-S12	A12	Correspondence	extract	documents/A12-S12.md
+A12-S13	A12	Correspondence	extract	documents/A12-S13.md
+A13-S02	A13	Development plan	extract	documents/A13-S02.md
+A13-S03	A13	Collaboration proposal	extract	documents/A13-S03.md
+A13-S04	A13	Correspondence	extract	documents/A13-S04.md
+A13-S05	A13	Organisation	extract	documents/A13-S05.md
+A13-S06	A13	Library collaboration	extract	documents/A13-S06.md
+A13-S07	A13	Correspondence	extract	documents/A13-S07.md
+A13-S08	A13	Correspondence	extract	documents/A13-S08.md
+A13-S24	A13	Approval	extract	documents/A13-S24.md
+A13-S25	A13	Image approval	extract	documents/A13-S25.md
+A13-S26	A13	Image approval	extract	documents/A13-S26.md
+A13-S27	A13	Correspondence	extract	documents/A13-S27.md
+A13-S28	A13	Image approval	extract	documents/A13-S28.md
+A13-S29	A13	Project control	extract	documents/A13-S29.md
+A13-S30	A13	Correspondence	extract	documents/A13-S30.md
+A13-S31	A13	Image approval	extract	documents/A13-S31.md
+A13-S32	A13	Typography	extract	documents/A13-S32.md
+A13-S33	A13	Design rationale	extract	documents/A13-S33.md
+A13-S34	A13	Signature	extract	documents/A13-S34.md
+A13-S35	A13	Correspondence	extract	documents/A13-S35.md
+A13-S36	A13	Correspondence	extract	documents/A13-S36.md
+A13-S37	A13	Correspondence	extract	documents/A13-S37.md
+A13-S38	A13	Approval	extract	documents/A13-S38.md
+A13-S39	A13	Image approval	extract	documents/A13-S39.md
+A13-S40	A13	Approval	extract	documents/A13-S40.md
+A13-S41	A13	Correspondence	extract	documents/A13-S41.md
+A13-S42	A13	Control	extract	documents/A13-S42.md
+A13-S09	A13	Correspondence	extract	documents/A13-S09.md
+A13-S10	A13	Correspondence	extract	documents/A13-S10.md
+A13-S11	A13	Correspondence	extract	documents/A13-S11.md
+A13-S12	A13	Correspondence	extract	documents/A13-S12.md
+A13-S13	A13	Follow-up	extract	documents/A13-S13.md
+A13-S14	A13	Follow-up	extract	documents/A13-S14.md
+A13-S15	A13	Follow-up	extract	documents/A13-S15.md
+A13-S16	A13	Follow-up	extract	documents/A13-S16.md
+A13-S17	A13	Follow-up	extract	documents/A13-S17.md
+A13-S01	A13	Party organisation	extract	documents/A13-S01.md
+A13-S18	A13	Follow-up	extract	documents/A13-S18.md
+A13-S19	A13	Correspondence	extract	documents/A13-S19.md
+A13-S20	A13	Follow-up	extract	documents/A13-S20.md
+A13-S21	A13	Policy questions	extract	documents/A13-S21.md
+A13-S22	A13	Policy proposals	extract	documents/A13-S22.md
+A13-S23	A13	Correspondence	extract	documents/A13-S23.md
+A13-D01	A13	Constitution	extract	documents/A13-D01.md
+A13-S43	A13	Follow-up	extract	documents/A13-S43.md
+A13-S44	A13	Correspondence	extract	documents/A13-S44.md
+A13-S45	A13	Follow-up	extract	documents/A13-S45.md
+A13-S46	A13	Follow-up	extract	documents/A13-S46.md
+A14-S01	A14	Context integration	extract	documents/A14-S01.md
+A14-S02	A14	Correspondence	extract	documents/A14-S02.md
+A14-S03	A14	Context integration	extract	documents/A14-S03.md
+A14-S04	A14	Correspondence	extract	documents/A14-S04.md
+A14-S05	A14	Correspondence	extract	documents/A14-S05.md
+A14-S06	A14	Follow-up	extract	documents/A14-S06.md
+A14-S07	A14	Correspondence	extract	documents/A14-S07.md
+A14-S08	A14	Context integration	extract	documents/A14-S08.md
+A14-S09	A14	Context integration	extract	documents/A14-S09.md
+A14-S10	A14	Correspondence	extract	documents/A14-S10.md
+A14-S11	A14	Context integration	extract	documents/A14-S11.md
+A14-S12	A14	Context integration	extract	documents/A14-S12.md
+A14-S13	A14	Integration receipt	extract	documents/A14-S13.md
+A14-S14	A14	Correspondence	extract	documents/A14-S14.md
+A14-D01	A14	Bot script	full-text	code/A14-D01.js
+A15-D01	A15	Brazil exchange	extract	documents/A15-D01.md
+A15-D02	A15	Public dialogue	full-treated	data/A15-D02.txt
+A15-D03	A15	Project overview	full-treated	data/A15-D03.txt
+A15-D04	A15	Declarations	full-text	documents/A15-D04.txt; facsimiles/A15-D04.pdf
+A15-D05	A15	Operator messages	full-treated	data/A15-D05.md
+A15-D06	A15	Bot conversation	full-treated	documents/A15-D06.txt; media/A15-D06-redacted.pdf
+A15-D07	A15	Bot conversation	full-treated	documents/A15-D07.txt; media/A15-D07-redacted.pdf
+A15-D08	A15	Bot conversation	full-text	documents/A15-D08.txt; media/A15-D08.png
+A15-D09	A15	Bot conversation	full-text	documents/A15-D09.txt; media/A15-D09.png
+A15-D10	A15	Bot conversation	full-text	documents/A15-D10.txt; media/A15-D10.png
+A15-D11	A15	Bot conversation	full-text	documents/A15-D11.txt; media/A15-D11.png
+A15-D12	A15	Bot conversation	full-text	documents/A15-D12.txt; media/A15-D12.png
+A15-D13	A15	Bot conversation	full-text	documents/A15-D13.txt; media/A15-D13.png
+A15-D14	A15	Bot conversation	full-text	documents/A15-D14.txt; media/A15-D14.png
+A15-D15	A15	Bot conversation	full-text	documents/A15-D15.txt; media/A15-D15.png
+A15-S01	A15	Screenshot deposit	full-treated	documents/A15-S01.md
+A15-S02	A15	Screenshot deposit	full-treated	documents/A15-S02.md
+A15-S03	A15	Screenshot deposit	full-treated	documents/A15-S03.md
+A15-S04	A15	Screenshot deposit	full-treated	documents/A15-S04.md
+A15-S05	A15	Screenshot deposit	full-treated	documents/A15-S05.md
+A15-S06	A15	Screenshot deposit	full-treated	documents/A15-S06.md
+A15-S07	A15	Screenshot deposit	full-treated	documents/A15-S07.md
+A15-S08	A15	Screenshot deposit	full-treated	documents/A15-S08.md
+A15-S09	A15	Screenshot deposit	full-treated	documents/A15-S09.md
+A15-S10	A15	Screenshot deposit	full-treated	documents/A15-S10.md
+A16-S01	A16	Correspondence	extract	documents/A16-S01.md
+A16-S02	A16	Correspondence	extract	documents/A16-S02.md
+A16-S03	A16	Correspondence	extract	documents/A16-S03.md
+A16-S04	A16	Correspondence	extract	documents/A16-S04.md
+A16-S05	A16	Correspondence	extract	documents/A16-S05.md
+A16-S06	A16	Correspondence	extract	documents/A16-S06.md
+A16-S07	A16	Broadcast preparation	extract	documents/A16-S07.md
+A16-S08	A16	Correspondence	extract	documents/A16-S08.md
+A16-S09	A16	Correspondence	extract	documents/A16-S09.md
+A16-S10	A16	Human voice	extract	documents/A16-S10.md
+A16-S11	A16	Correspondence	extract	documents/A16-S11.md
+A16-S12	A16	Correspondence	extract	documents/A16-S12.md
+A16-S13	A16	Correspondence	extract	documents/A16-S13.md
+A16-S14	A16	Correspondence	extract	documents/A16-S14.md
+A16-S15	A16	Bot answers	extract	documents/A16-S15.md
+A16-S16	A16	Correspondence	extract	documents/A16-S16.md
+A16-S17	A16	Animation cost	extract	documents/A16-S17.md
+A16-S18	A16	Correspondence	extract	documents/A16-S18.md
+A16-S19	A16	Correspondence	extract	documents/A16-S19.md
+A16-S20	A16	Broadcast	extract	documents/A16-S20.md
+A16-S21	A16	Broadcast date	extract	documents/A16-S21.md
+A16-S22	A16	Correspondence	extract	documents/A16-S22.md
+A16-S23	A16	Correspondence	extract	documents/A16-S23.md
+A16-S24	A16	Correspondence	extract	documents/A16-S24.md
+A16-S25	A16	Correspondence	extract	documents/A16-S25.md
+A17-S01	A17	Contract progress	extract	documents/A17-S01.md
+A17-S02	A17	Correspondence	extract	documents/A17-S02.md
+A17-S03	A17	Project start	extract	documents/A17-S03.md
+A17-S04	A17	Chatbot discussion	extract	documents/A17-S04.md
+A17-S05	A17	Model expectations	extract	documents/A17-S05.md
+A17-S06	A17	Correspondence	extract	documents/A17-S06.md
+A17-S07	A17	Use rights	extract	documents/A17-S07.md
+A17-S08	A17	Earlier works	extract	documents/A17-S08.md
+A17-S09	A17	Party rights	extract	documents/A17-S09.md
+A17-S10	A17	Copyright	extract	documents/A17-S10.md
+A17-S11	A17	Correspondence	extract	documents/A17-S11.md
+A17-S12	A17	Correspondence	extract	documents/A17-S12.md
+A17-S13	A17	Correspondence	extract	documents/A17-S13.md
+A17-S14	A17	Correspondence	extract	documents/A17-S14.md
+A17-S15	A17	Correspondence	extract	documents/A17-S15.md
+A17-S16	A17	Correspondence	extract	documents/A17-S16.md
+A17-S17	A17	Correspondence	extract	documents/A17-S17.md
+A17-S18	A17	Correspondence	extract	documents/A17-S18.md
+A17-S19	A17	Follow-up	extract	documents/A17-S19.md
+A17-S20	A17	Exhibition plan	extract	documents/A17-S20.md
+A17-S21	A17	Correspondence	extract	documents/A17-S21.md
+A17-S22	A17	Signing	extract	documents/A17-S22.md
+A17-S23	A17	Correspondence	extract	documents/A17-S23.md
+A17-S24	A17	Correspondence	extract	documents/A17-S24.md
+A17-S25	A17	Correspondence	extract	documents/A17-S25.md
+A17-S37	A17	Correspondence	extract	documents/A17-S37.md
+A17-S38	A17	Payment dispute	extract	documents/A17-S38.md
+A17-S39	A17	Correspondence	extract	documents/A17-S39.md
+A17-S40	A17	Correspondence	extract	documents/A17-S40.md
+A17-S26	A17	Correspondence	extract	documents/A17-S26.md
+A17-S27	A17	Correspondence	extract	documents/A17-S27.md
+A17-S28	A17	Deliverables	extract	documents/A17-S28.md
+A17-S29	A17	Contract revisions	extract	documents/A17-S29.md
+A17-S30	A17	Correspondence	extract	documents/A17-S30.md
+A17-S31	A17	Payment workflow	extract	documents/A17-S31.md
+A17-S32	A17	Development plan	extract	documents/A17-S32.md
+A17-S33	A17	Signing procedure	extract	documents/A17-S33.md
+A17-S34	A17	Correspondence	greeting-only	documents/A17-S34.md
+A17-S35	A17	Signing	extract	documents/A17-S35.md
+A17-S36	A17	Signing	extract	documents/A17-S36.md
+A17-D01	A17	Agreement draft	extract	documents/A17-D01.md
+A17-D02	A17	Agreement draft	extract	documents/A17-D02.md
+A17-D03	A17	Agreement	full-treated	facsimiles/A17-D03.pdf
+A17-D04	A17	Residency proposal	extract	documents/A17-D04.md
+A17-D05	A17	Extension draft	extract	documents/A17-D05.md
+A17-D06	A17	Extension draft	extract	documents/A17-D06.md
+A17-S41	A17	Contract procedure	extract	documents/A17-S41.md
+A17-S42	A17	Contract procedure	extract	documents/A17-S42.md
+A17-S43	A17	Contract procedure	extract	documents/A17-S43.md
+A17-S44	A17	Contract procedure	extract	documents/A17-S44.md
+A17-S45	A17	Contract procedure	extract	documents/A17-S45.md
+A17-S46	A17	Contract procedure	extract	documents/A17-S46.md
+A17-S47	A17	Attachment	attachment-metadata	documents/A17-S47.md
+A17-S48	A17	Contract procedure	extract	documents/A17-S48.md
+A17-S49	A17	Publicity	extract	documents/A17-S49.md
+A17-S50	A17	Contract query	extract	documents/A17-S50.md
+A17-D07	A17	Residency version	full-treated	documents/A17-D07.txt
+A17-S51	A17	Payment notes	extract	documents/A17-S51.md
+A17-S52	A17	Contract procedure	extract	documents/A17-S52.md
+A17-S53	A17	Signing notification	extract	documents/A17-S53.md
+A17-S54	A17	Contract procedure	extract	documents/A17-S54.md
+A17-S55	A17	Contract procedure	extract	documents/A17-S55.md
+A17-S56	A17	Attachment	attachment-metadata	documents/A17-S56.md
+A17-S57	A17	Attachment	attachment-metadata	documents/A17-S57.md
+A17-D08	A17	Addendum	full-treated	facsimiles/A17-D08.pdf
+A18-S01	A18	Registration	extract	
+A18-S02	A18	Registration	extract	
+A18-S03	A18	Registration	extract	
+A18-S04	A18	Registration	extract	
+A18-S05	A18	Residency	extract	
+A18-D01	A18	Bylaws	full-treated	documents/A18-D01.txt; facsimiles/A18-D01.pdf
+A18-D02	A18	Residency proposal	extract	
+A18-S06	A18	Public sources	extract	
+A18-S07	A18	Workshop	extract	
+A18-S08	A18	Expenses	extract	
+A18-S09	A18	Programme	extract	
+A18-D03	A18	Residency proposal	full-treated	data/A18-D03.txt
+A18-D04	A18	SKAF bylaws	full-treated	data/A18-D04.txt
+A18-D05	A18	SKAF bylaws	full-treated	data/A18-D05.txt
+A18-D06	A18	Bylaws	full-treated	documents/A18-D06.txt; facsimiles/A18-D06.pdf
+A18-S10	A18	Registration	extract	
+A18-S11	A18	Reading	extract	
+A18-S12	A18	Funding	extract	
+A18-S13	A18	Planning	extract	
+A18-S14	A18	PhD planning	extract	
+A18-S15	A18	Two proposals	extract	
+A18-S16	A18	Reference links	extract	
+A18-S17	A18	Website	extract	
+A18-S18	A18	Website	extract	
+A18-S19	A18	Residency	extract	
+A18-S20	A18	Reading	extract	
+A18-S21	A18	Contract review	extract	
+A18-S22	A18	Follow-up	extract	
+A18-S23	A18	Follow-up	extract	
+A18-S24	A18	Signature	brief-source-fragment	
+A19-S01	A19	Correspondence	extract	
+A19-S02	A19	Website	extract	
+A19-S03	A19	Correspondence	extract	
+A19-S04	A19	Correspondence	extract	
+A19-S05	A19	Correspondence	extract	
+A19-S06	A19	Award	extract	
+A19-S07	A19	Correspondence	extract	
+A19-S08	A19	Award	extract	
+A19-S09	A19	Correspondence	extract	
+A19-S10	A19	Correspondence	extract	
+A19-S11	A19	Correspondence	extract	
+A19-S12	A19	Correspondence	extract	
+A19-S13	A19	Correspondence	extract	
+A19-S14	A19	Correspondence	extract	
+A19-S15	A19	Follow-up	extract	
+A19-S16	A19	Publicity	extract	
+A19-S17	A19	Correspondence	extract	
+A19-S18	A19	Correspondence	extract	
+A19-S19	A19	Correspondence	extract	
+A19-S20	A19	Correspondence	extract	
+A19-S21	A19	Design	extract	
+A19-S22	A19	Correspondence	extract	
+A19-S23	A19	Correspondence	extract	
+A19-S24	A19	Correspondence	extract	
+A19-S25	A19	Correspondence	extract	
+A19-S26	A19	Correspondence	extract	
+A19-S27	A19	Public invitation	extract	
+A19-S28	A19	Programme	extract	
+A19-S29	A19	Publicity	extract	
+A19-S30	A19	Correspondence	extract	
+A19-S31	A19	Correspondence	extract	
+A19-S32	A19	Meeting	extract	
+A19-S33	A19	Correspondence	extract	
+A19-S34	A19	Meeting	extract	
+A19-S35	A19	Planning	extract	
+A19-S36	A19	OpenAI review	extract	
+A19-S37	A19	Technical setup	extract	
+A19-S38	A19	Correspondence	extract	
+A19-S39	A19	Technical setup	extract	
+A19-S40	A19	Correspondence	extract	
+A19-S41	A19	Correspondence	extract	
+A19-S42	A19	Recording	extract	
+A19-S43	A19	Correspondence	extract	
+A19-S44	A19	Correspondence	extract	
+A19-S45	A19	Correspondence	extract	
+A19-S46	A19	Technical setup	extract	
+A19-S47	A19	Technical support	extract	
+A19-S48	A19	Sound	extract	
+A19-S49	A19	Correspondence	extract	
+A19-S50	A19	Sound	extract	
+A19-S51	A19	Correspondence	extract	
+A19-S52	A19	Correspondence	extract	
+A19-S53	A19	Event draft	extract	
+A19-S54	A19	Correspondence	extract	
+A19-S55	A19	Publicity	extract	
+A19-S56	A19	Files	extract	
+A19-S57	A19	Design	extract	
+A19-S58	A19	Meeting	extract	
+A19-S59	A19	Meeting	extract	
+A19-S60	A19	Correspondence	extract	
+A19-S61	A19	Correspondence	extract	
+A19-S62	A19	Design	extract	
+A19-S63	A19	Design	extract	
+A19-S64	A19	Correspondence	extract	
+A19-S65	A19	Naming	extract	
+A19-S66	A19	Correspondence	extract	
+A19-S67	A19	Correspondence	extract	
+A19-S68	A19	Publicity	extract	
+A19-S69	A19	Correspondence	extract	
+A19-S70	A19	Correspondence	extract	
+A19-S71	A19	Correspondence	extract	
+A19-S72	A19	Correspondence	extract	
+A19-S73	A19	Correspondence	extract	
+A19-S74	A19	Publicity	extract	
+A19-S75	A19	Correspondence	extract	
+A19-S76	A19	Correspondence	extract	
+A19-S77	A19	Correspondence	extract	
+A19-S78	A19	Publicity	extract	
+A19-S79	A19	Reply	extract	
+A19-S80	A19	Correspondence	extract	
+A19-S81	A19	Correspondence	extract	
+A19-S82	A19	Bot exchange	extract	
+A19-S83	A19	Publicity	extract	
+A19-S84	A19	Correspondence	extract	
+A19-S85	A19	Correspondence	extract	
+A19-S86	A19	Correspondence	extract	
+A19-S87	A19	Reply	extract	
+A19-D01	A19	Publicity draft	extract	
+A19-D02	A19	Translated dialogue	extract	
+A19-D03	A19	Party graphics	full-treated	documents/A19-D03.txt
+A19-D04	A19	Publicity draft	extract	documents/A19-D04.txt
+A19-D05	A19	Published article	full-treated	facsimiles/A19-D05.pdf
+A19-S88	A19	Correspondence	extract	
+A19-S89	A19	Correspondence	extract	
+A19-S90	A19	Correspondence	extract	
+A19-S91	A19	Correspondence	extract	
+A19-S92	A19	Correspondence	extract	
+A19-S93	A19	Correspondence	extract	
+A19-S94	A19	Correspondence	extract	
+A19-S95	A19	Model development	extract	
+A19-S96	A19	Testing	extract	
+A19-S97	A19	Planning	extract	
+A19-S98	A19	Correspondence	extract	
+A19-S99	A19	Collaboration	extract	
+A19-S100	A19	Exhibition	extract	
+A19-S101	A19	Website	extract	
+A19-S102	A19	Follow-up	extract	
+A19-S103	A19	Correspondence	extract	
+A19-S104	A19	Correspondence	extract	
+A19-S105	A19	Correspondence	extract	
+A19-S106	A19	Publicity	extract	
+A19-S107	A19	Publicity	extract	
+A19-S108	A19	Party support	extract	
+A19-S109	A19	Correspondence	extract	
+A19-S110	A19	Correspondence	extract	
+A19-S111	A19	Publicity	extract	
+A19-S112	A19	Correspondence	extract	
+A19-S113	A19	Correspondence	extract	
+A19-S114	A19	Correspondence	extract	
+A19-S115	A19	Correspondence	extract	
+A19-S116	A19	Publicity	extract	
+A19-S117	A19	Scheduling	extract	
+A19-S118	A19	Correspondence	extract	
+A19-S119	A19	Meeting	extract	
+A19-S120	A19	Planning	extract	
+A19-S121	A19	Correspondence	extract	
+A19-S122	A19	Correspondence	extract	
+A19-S123	A19	Follow-up	extract	
+A19-S124	A19	Correspondence	extract	
+A19-S125	A19	Correspondence	extract	
+A19-S126	A19	Contract review	extract	
+A19-S127	A19	Correspondence	extract	
+A19-S128	A19	Correspondence	extract	
+A19-S129	A19	Correspondence	extract	
+A19-S130	A19	Correspondence	extract	
+A19-S131	A19	Publicity	extract	
+A19-S132	A19	Correspondence	extract	
+A19-S133	A19	Correspondence	extract	
+A19-S134	A19	Publicity	extract	
+A19-S135	A19	Correspondence	extract	
+A19-S136	A19	Correspondence	extract	
+A19-S137	A19	Correspondence	extract	
+A19-S138	A19	Design	extract	
+A19-S139	A19	Correspondence	extract	
+A19-S140	A19	Correspondence	extract	
+A19-S141	A19	Images	extract	
+A19-S142	A19	Images	extract	
+A19-S143	A19	Correspondence	extract	
+A19-S144	A19	Translation	extract	
+A19-S145	A19	Correspondence	extract	
+A19-S146	A19	Correspondence	extract	
+A19-S147	A19	Publicity	extract	
+A19-S148	A19	Publicity	extract	
+A19-S149	A19	Translation	extract	
+A19-S150	A19	Translation	extract	
+A19-S151	A19	Correspondence	extract	
+A19-S152	A19	Correspondence	extract	
+A19-S153	A19	Correspondence	extract	
+A19-S154	A19	Draft	extract	
+A19-S155	A19	Publicity	extract	
+A19-S156	A19	Correspondence	extract	
+A19-S157	A19	Correspondence	extract	
+A19-S158	A19	Revision	extract	
+A19-S159	A19	Publicity	extract	
+A19-S160	A19	Correspondence	extract	
+A19-S161	A19	Correspondence	extract	
+A19-S162	A19	Publicity	extract	
+A19-S163	A19	Correspondence	extract	
+A19-S164	A19	Meeting	extract	
+A19-S165	A19	Correspondence	extract	
+A19-S166	A19	Event publicity	extract	
+A19-S167	A19	Correspondence	extract	
+A19-S168	A19	Event publicity	extract	
+A19-S169	A19	Public source	extract	
+A19-S170	A19	Reading	extract	
+A19-S171	A19	Correspondence	extract	
+A19-S172	A19	Publicity	extract	
+A19-S173	A19	Correspondence	extract	
+A19-S174	A19	Publicity	extract	
+A19-S175	A19	Correspondence	extract	
+A19-S176	A19	Correspondence	extract	
+A19-S177	A19	Correspondence	extract	
+A19-S178	A19	Correspondence	extract	
+A19-S179	A19	Correspondence	extract	
+A19-S180	A19	Correspondence	extract	
+A19-S181	A19	Correspondence	extract	
+A19-S182	A19	Public sources	extract	
+A19-S183	A19	Correspondence	extract	
+A19-S184	A19	Correspondence	extract	
+A19-S185	A19	Publicity	extract	
+A19-S186	A19	Correspondence	extract	
+A19-S187	A19	Print files	extract	
+A19-S188	A19	Design	extract	
+A19-S189	A19	Print files	extract	
+A19-S190	A19	Correspondence	extract	
+A19-S191	A19	Equipment	extract	
+A19-S192	A19	Technical setup	extract	
+A19-S193	A19	Correspondence	extract	
+A19-S194	A19	Correspondence	extract	
+A19-S195	A19	Public analysis	extract	
+A19-S196	A19	Correspondence	extract	
+A19-S197	A19	Correspondence	extract	
+A19-S198	A19	Correspondence	extract	
+A19-S199	A19	Correspondence	extract	
+A19-S200	A19	Follow-up	extract	
+A19-S201	A19	Polls	extract	
+A19-S202	A19	Polls	extract	
+A19-S203	A19	Correspondence	extract	
+A19-S204	A19	Publicity	extract	
+A19-S205	A19	Correspondence	extract	
+A19-S206	A19	Correspondence	extract	
+A19-S207	A19	Reply	extract	
+A19-S208	A19	Webinar	extract	
+A19-S209	A19	Webinar	extract	
+A19-S210	A19	Reply	extract	
+A19-S211	A19	Correspondence	extract	
+A19-S212	A19	Scheduling	extract	
+A19-S213	A19	Webinar	extract	
+A19-S214	A19	Funding	extract	
+A19-S215	A19	Public analysis	extract	
+A19-D06	A19	Party programme	source-image	media/A19-D06.png
+A19-D07	A19	Website	source-image	images/A19-D07.png
+A19-D08	A19	Interview request	extract	documents/A19-D08.txt
+A19-D09	A19	Generated artwork	source-image	images/A19-D09.png
+A19-D10	A19	Generated artwork	source-image	images/A19-D10.png
+A19-D11	A19	Generated artwork	source-image	images/A19-D11.png
+A19-D12	A19	Generated artwork	source-image	images/A19-D12.png
+A19-D13	A19	Generated artwork	source-image	images/A19-D13.png
+A19-D14	A19	Generated artwork	source-image	images/A19-D14.png
+A19-D15	A19	Generated artwork	source-image	images/A19-D15.png
+A19-D16	A19	Generated artwork	source-image	images/A19-D16.png
+A19-D17	A19	Generated artwork	source-image	images/A19-D17.png
+A19-D18	A19	Generated artwork	source-image	images/A19-D18.png
+A19-D19	A19	Generated artwork	source-image	images/A19-D19.png
+A19-D20	A19	Generated artwork	source-image	images/A19-D20.png
+A19-D21	A19	Generated artwork	source-image	images/A19-D21.png
+A19-D22	A19	Generated artwork	source-image	images/A19-D22.png
+A19-D23	A19	Generated artwork	source-image	images/A19-D23.png
+A19-D24	A19	Generated artwork	source-image	images/A19-D24.png
+A19-D25	A19	Generated artwork	source-image	images/A19-D25.png
+A19-D26	A19	Generated artwork	source-image	images/A19-D26.png
+A19-D27	A19	Generated artwork	source-image	images/A19-D27.png
+A19-D28	A19	Generated artwork	source-image	images/A19-D28.png
+A19-D29	A19	Registration	source-image	images/A19-D29.png
+A19-D30	A19	Campaign design	full-treated	media/A19-D30-redacted.pdf
+A19-D31	A19	Generated artwork	source-image	images/A19-D31.png
+A19-D32	A19	Party graphics	full-treated	documents/A19-D32.txt
+A19-D33	A19	Public criticism	source-image	media/A19-D33.png
+A19-S216	A19	Correspondence	extract	
+A19-S217	A19	Access notice	extract	
+A19-S218	A19	Files	extract	
+A19-S219	A19	Reply	extract	
+A19-S220	A19	Correspondence	extract	
+A19-S221	A19	Correspondence	extract	
+A19-S222	A19	Correspondence	extract	
+A19-S223	A19	Correspondence	extract	
+A19-S224	A19	Correspondence	extract	
+A19-S225	A19	Correspondence	extract	
+A19-S226	A19	Correspondence	extract	
+A19-S227	A19	Correspondence	extract	
+A19-S228	A19	Correspondence	extract	
+A19-S229	A19	Publicity	extract	
+A19-S230	A19	Correspondence	extract	
+A19-S231	A19	Publicity	extract	
+A19-S232	A19	Correspondence	extract	
+A19-S233	A19	Meeting	extract	
+A19-S234	A19	Meeting	extract	
+A19-S235	A19	Correspondence	extract	
+A19-S236	A19	Meeting	extract	
+A19-S237	A19	Meeting	extract	
+A19-S238	A19	Funding	extract	
+A19-S239	A19	Lecture	extract	
+A19-S240	A19	Follow-up	extract	
+A19-S241	A19	Attachment	attachment-metadata	
+A20-S01	A20	Workshop	extract	
+A20-S02	A20	Workshop	extract	
+A20-S03	A20	Workshop	extract	
+A20-S04	A20	Reply	extract	
+A20-S05	A20	Interview	extract	
+A20-S06	A20	Correspondence	extract	
+A20-S07	A20	Interview	extract	
+A20-S08	A20	Correspondence	extract	
+A20-S09	A20	Interview	extract	
+A20-S10	A20	Collaboration	extract	
+A20-S11	A20	Interview	extract	
+A20-S12	A20	Interview	extract	
+A20-S13	A20	Interview process	extract	
+A20-S14	A20	Correspondence	extract	
+A20-S15	A20	Correspondence	extract	
+A20-S16	A20	Meeting	extract	
+A20-S17	A20	Meeting	extract	
+A20-S18	A20	Meeting	extract	
+A20-S19	A20	Interview	extract	
+A20-S20	A20	Correspondence	extract	
+A20-S21	A20	Correspondence	extract	
+A20-S22	A20	Interview	extract	
+A20-S23	A20	Correspondence	extract	
+A20-S24	A20	Correspondence	extract	
+A20-S25	A20	Interview	extract	
+A20-S26	A20	Introduction	extract	
+A20-S27	A20	Proposal	extract	
+A20-S28	A20	Follow-up	extract	
+A20-S29	A20	Reply	extract	
+A20-S30	A20	Reply	extract	
+A20-S31	A20	Reading	extract	
+A20-S32	A20	Reply	extract	
+A20-S33	A20	Proposal	extract	
+A20-S34	A20	Podcast	extract	
+A20-S35	A20	Interview questions	extract	
+A20-S36	A20	Interview answers	extract	
+A20-S37	A20	Programme request	extract	
+A20-S38	A20	Correspondence	extract	
+A20-D01	A20	Questionnaire	extract	
+A20-D02	A20	Generated image	extract	images/A20-D02-2.png; images/A20-D02.png
+A20-S39	A20	Technical question	extract	
+A20-S40	A20	Technical advice	extract	
+A20-S41	A20	Technical advice	extract	
+A20-S42	A20	Technical follow-up	extract	
+A20-S43	A20	Correspondence	extract	
+A20-S44	A20	Workshop	extract	
+A20-S45	A20	Workshop reading	extract	
+A20-S46	A20	Correspondence	extract	
+A20-S47	A20	Correspondence	extract	
+A20-S48	A20	Correspondence	extract	
+A20-S49	A20	Workshop	extract	
+A20-S50	A20	Workshop	extract	
+A20-S51	A20	Correspondence	extract	
+A20-S52	A20	Meeting link	extract	
+A21-S01	A21	Correspondence	extract	
+A21-S02	A21	Correspondence	extract	
+A21-S03	A21	Funding response	extract	
+A21-S04	A21	Correspondence	extract	
+A21-S05	A21	Workshop	extract	
+A21-S06	A21	Workshop	extract	
+A21-S07	A21	Publicity	extract	
+A21-S08	A21	Workshop	extract	
+A21-S09	A21	Correspondence	extract	
+A21-S10	A21	Funding	extract	
+A21-S11	A21	Correspondence	extract	
+A21-S12	A21	Funding	extract	
+A21-S13	A21	Correspondence	extract	
+A21-S14	A21	Forwarding	extract	
+A21-S15	A21	Correspondence	extract	
+A21-S16	A21	Funding proposal	extract	
+A21-S17	A21	Exhibition enquiry	extract	
+A21-S18	A21	Correspondence	extract	
+A21-S19	A21	Correspondence	extract	
+A21-S20	A21	Invitation	extract	
+A21-S21	A21	Meeting	extract	
+A21-S22	A21	Correspondence	extract	
+A21-S23	A21	Meeting	extract	
+A21-S24	A21	Invitation	extract	
+A21-S25	A21	Shortlisting	extract	
+A21-S26	A21	Correspondence	extract	
+A21-S27	A21	Application record	extract	
+A21-S28	A21	Correspondence	extract	
+A21-S29	A21	Correspondence	extract	
+A21-S30	A21	Follow-up	extract	
+A21-S31	A21	Receipt	extract	
+A21-S32	A21	Correspondence	extract	
+A21-S33	A21	Event	extract	
+A21-S34	A21	Correspondence	extract	
+A21-S35	A21	Budget	extract	
+A21-S36	A21	Budget	extract	
+A21-S37	A21	Follow-up	extract	
+A21-S38	A21	Correspondence	extract	
+A21-S39	A21	Selection process	extract	
+A21-S40	A21	Reply	extract	
+A21-S41	A21	Follow-up	extract	
+A21-S42	A21	Not selected	extract	
+A21-S43	A21	Correspondence	extract	
+A21-D01	A21	Author portrait	extract	images/A09-D19.png; images/A21-D01.png
+A21-D02	A21	Funding proposal	extract	
+A21-D03	A21	Government proposal	extract	
+A21-D04	A21	Workshop outline	full-treated	documents/A21-D04.txt
+A21-S44	A21	Funding acknowledgement	extract	
+A22-S01	A22	Correspondence	extract	
+A22-S02	A22	Delivery notice	extract	
+A22-S03	A22	Correspondence	extract	
+A22-S04	A22	Account setup	extract	
+A22-S05	A22	Correspondence	extract	
+A22-S06	A22	Correspondence	extract	
+A22-S07	A22	Workshops	extract	
+A22-S08	A22	Correspondence	extract	
+A22-S09	A22	Correspondence	extract	
+A22-S10	A22	Translation	extract	
+A22-S11	A22	Technical reply	extract	
+A22-S12	A22	Correspondence	extract	
+A22-S13	A22	Editing	extract	
+A22-S14	A22	Technical reply	extract	
+A22-S15	A22	Correspondence	extract	
+A22-S16	A22	Correspondence	extract	
+A22-S17	A22	Correspondence	extract	
+A22-S18	A22	Publicity	extract	
+A22-S19	A22	Correspondence	extract	
+A22-S20	A22	Website error	extract	
+A22-S21	A22	Technical error	extract	
+A22-S22	A22	Technical reply	extract	
+A22-S23	A22	Technical reply	extract	
+A22-S24	A22	Technical reply	extract	
+A22-S25	A22	Publicity	extract	
+A22-S26	A22	Reply	extract	
+A22-S27	A22	Technical reply	extract	
+A22-S28	A22	Follow-up	extract	
+A22-S29	A22	Reply	extract	
+A22-S30	A22	Reply	extract	
+A22-S31	A22	Scheduling	extract	
+A22-S32	A22	Greeting	brief-source-fragment	
+A22-S33	A22	Workshops	extract	
+A22-S34	A22	Publicity	extract	
+A22-S35	A22	Correspondence	extract	
+A22-S36	A22	Correspondence	extract	
+A22-S37	A22	Correspondence	extract	
+A22-S38	A22	Listening	extract	
+A22-S39	A22	Follow-up	extract	
+A22-S40	A22	Meeting	extract	
+A22-S41	A22	Correspondence	extract	
+A22-S42	A22	Correspondence	extract	
+A22-S43	A22	Meeting	extract	
+A22-S44	A22	Correspondence	extract	
+A22-S45	A22	Correspondence	extract	
+A22-S46	A22	Correspondence	extract	
+A22-S47	A22	Publicity	extract	
+A22-S48	A22	Correspondence	extract	
+A22-S49	A22	Correspondence	extract	
+A22-S50	A22	Correspondence	extract	
+A22-S51	A22	Quotation request	extract	
+A22-S52	A22	Correspondence	extract	
+A22-S53	A22	Reply	extract	
+A22-S54	A22	Publicity	extract	
+A22-S55	A22	Publicity	extract	
+A22-S56	A22	Correspondence	extract	
+A22-S57	A22	Reply	extract	
+A22-S58	A22	Collaboration	extract	
+A22-S59	A22	Correspondence	extract	
+A22-S60	A22	Email setup	extract	
+A22-S61	A22	Declarations	extract	
+A22-S62	A22	Publicity	extract	
+A22-S63	A22	Publicity	extract	
+A22-S64	A22	Correspondence	extract	
+A22-S65	A22	Publicity	extract	
+A22-S66	A22	Publicity	extract	
+A22-S67	A22	Correspondence	extract	
+A22-S68	A22	Promotion	extract	
+A22-S69	A22	Participation	extract	
+A22-S70	A22	Correspondence	extract	
+A22-S71	A22	Meeting	extract	
+A22-S72	A22	Meeting	extract	
+A22-S73	A22	Publicity	extract	
+A22-S74	A22	Call	extract	
+A22-S75	A22	Correspondence	extract	
+A22-S76	A22	Programme	extract	
+A22-S77	A22	Correspondence	extract	
+A22-S78	A22	Interview	extract	
+A22-S79	A22	Correspondence	extract	
+A22-S80	A22	Reply	extract	
+A22-S81	A22	Correspondence	extract	
+A22-S82	A22	Reply	extract	
+A22-S83	A22	Correspondence	extract	
+A22-S84	A22	Reply	extract	
+A22-S85	A22	Correspondence	extract	
+A22-S86	A22	Correspondence	extract	
+A22-S87	A22	Meeting	extract	
+A22-S88	A22	Interview	extract	
+A22-S89	A22	Correspondence	extract	
+A22-S90	A22	Correspondence	extract	
+A22-S91	A22	Correspondence	extract	
+A22-S92	A22	Reply	extract	
+A22-S93	A22	Correspondence	extract	
+A22-S94	A22	Images	extract	
+A22-S95	A22	Correspondence	extract	
+A22-S96	A22	Correspondence	extract	
+A22-S97	A22	Translation	extract	
+A22-S98	A22	Greeting	brief-source-fragment	
+A22-S99	A22	Correspondence	extract	
+A22-S100	A22	Public source	extract	
+A22-S101	A22	Correspondence	extract	
+A22-S102	A22	Correspondence	extract	
+A22-S103	A22	Follow-up	extract	
+A22-S104	A22	Correspondence	extract	
+A22-S105	A22	Follow-up	extract	
+A22-S106	A22	Correspondence	extract	
+A22-D01	A22	Press article	full-treated	facsimiles/A22-D01.pdf
+A22-S107	A22	Introduction	extract	
+A22-S108	A22	Correspondence	extract	
+A22-S109	A22	Communication	extract	
+A22-S110	A22	Interview	extract	
+A22-S111	A22	Correspondence	extract	
+A22-S112	A22	Representation	extract	
+A22-S113	A22	Correspondence	extract	
+A22-S114	A22	Recording	extract	
+A22-S115	A22	Correspondence	extract	
+A22-S116	A22	Meeting	extract	
+A22-S117	A22	Meeting	extract	
+A22-S118	A22	Draft review	extract	
+A22-S119	A22	Correspondence	extract	
+A22-S120	A22	Editing	extract	
+A22-S121	A22	Correspondence	extract	
+A22-S122	A22	Recording	extract	
+A22-S123	A22	Correspondence	extract	
+A22-S124	A22	Recording	extract	
+A22-S125	A22	Performance	extract	
+A22-S126	A22	Correspondence	extract	
+A22-S127	A22	Contact fields	brief-source-fragment	
+A22-S128	A22	Address	extract	
+A22-S129	A22	Follow-up	extract	
+A22-S130	A22	Correspondence	extract	
+A22-S131	A22	Follow-up	extract	
+A22-S132	A22	Meeting	extract	
+A22-S133	A22	Follow-up	extract	
+A22-S134	A22	Correspondence	extract	
+A22-S135	A22	Follow-up	extract	
+A22-S136	A22	Interview questions	extract	
+A22-S137	A22	Correspondence	extract	
+A22-S138	A22	Correspondence	extract	
+A22-S139	A22	Article planning	extract	
+A22-S140	A22	Interview	extract	
+A22-S141	A22	Recording	extract	
+A22-S142	A22	Correspondence	extract	
+A22-S143	A22	Reply	extract	
+A22-S144	A22	Recording notice	extract	
+A22-S145	A22	Correspondence	extract	
+A22-S146	A22	Reply	extract	
+A22-S147	A22	Recording	extract	
+A22-S148	A22	Editing	extract	
+A22-S149	A22	Correspondence	extract	
+A22-S150	A22	Meeting	extract	
+A22-S151	A22	Programme	extract	
+A22-S152	A22	Correspondence	extract	
+A22-S153	A22	Editing	extract	
+A22-S154	A22	Enquiry	extract	
+A22-S155	A22	Correspondence	extract	
+A22-S156	A22	Interview	extract	
+A22-S157	A22	Correspondence	extract	
+A22-S158	A22	Interview	extract	
+A22-S159	A22	Meeting	extract	
+A22-S160	A22	Correspondence	extract	
+A22-S161	A22	Meeting	extract	
+A22-S162	A22	Correspondence	extract	
+A22-S163	A22	Interview	extract	
+A22-S164	A22	Interview	extract	
+A22-S165	A22	Images	extract	
+A22-S166	A22	Correspondence	extract	
+A22-S167	A22	Correspondence	extract	
+A22-S168	A22	Reply	extract	
+A22-S169	A22	Meeting	extract	
+A22-S170	A22	Introduction	extract	
+A22-S171	A22	Framework question	extract	
+A22-S172	A22	Interview	extract	
+A22-S173	A22	Interview	extract	
+A22-S174	A22	Interview	extract	
+A22-S175	A22	Interview	extract	
+A22-S176	A22	Interview	extract	
+A22-S177	A22	Correspondence	extract	
+A22-S178	A22	Reply	extract	
+A22-S179	A22	Correspondence	extract	
+A22-S180	A22	Correspondence	extract	
+A22-S181	A22	Correspondence	extract	
+A22-S182	A22	Meeting	extract	
+A22-S183	A22	Reply	extract	
+A22-S184	A22	Meeting	extract	
+A22-S185	A22	Meeting	extract	
+A22-S186	A22	Meeting	extract	
+A22-S187	A22	Correspondence	extract	
+A22-S188	A22	Call	extract	
+A22-S189	A22	Interview	extract	
+A22-S190	A22	Call	extract	
+A22-S191	A22	Meeting	extract	
+A22-S192	A22	Correspondence	extract	
+A22-S193	A22	Interview	extract	
+A22-S194	A22	Images	extract	
+A22-S195	A22	Meeting	extract	
+A22-S196	A22	Meeting	extract	
+A22-S197	A22	Interview	extract	
+A22-S198	A22	Meeting	extract	
+A22-S199	A22	Correspondence	extract	
+A22-S200	A22	Meeting	extract	
+A22-S201	A22	Correspondence	extract	
+A22-S202	A22	Meeting	extract	
+A22-S203	A22	Correspondence	extract	
+A22-S204	A22	Interview	extract	
+A22-S205	A22	Introduction	extract	
+A22-S206	A22	Correspondence	extract	
+A22-S207	A22	Interview	extract	
+A22-S208	A22	Filming	extract	
+A22-S209	A22	Meeting	extract	
+A22-S210	A22	Interview questions	extract	
+A22-S211	A22	Correction	extract	
+A22-S212	A22	Podcast	extract	
+A22-S213	A22	Correspondence	extract	
+A22-S214	A22	Correspondence	extract	
+A22-S215	A22	Time zone	extract	
+A22-S216	A22	Correspondence	extract	
+A22-S217	A22	Meeting	extract	
+A22-S218	A22	Correspondence	extract	
+A22-S219	A22	Meeting	extract	
+A22-S220	A22	Correspondence	extract	
+A22-S221	A22	Podcast	extract	
+A22-S222	A22	Correspondence	extract	
+A22-S223	A22	Interview answers	extract	
+A22-S224	A22	Receipt	extract	
+A22-S225	A22	Correspondence	extract	
+A22-S226	A22	Publication	extract	
+A22-S227	A22	Correspondence	extract	
+A22-S228	A22	Interview method	extract	
+A22-S229	A22	Correspondence	extract	
+A22-S230	A22	Interview	extract	
+A22-S231	A22	Interview	extract	
+A22-S232	A22	Interview	extract	
+A22-S233	A22	Interview	extract	
+A22-S234	A22	Interview	extract	
+A22-S235	A22	Correspondence	extract	
+A22-S236	A22	Phone	extract	
+A22-S237	A22	Interview	extract	
+A22-S238	A22	Reply	extract	
+A22-S239	A22	Recording	extract	
+A22-S240	A22	Correspondence	extract	
+A22-S241	A22	Correspondence	extract	
+A22-S242	A22	Correspondence	extract	
+A22-S243	A22	Correspondence	extract	
+A22-S244	A22	Reply	extract	
+A22-S245	A22	Correspondence	extract	
+A22-S246	A22	Correspondence	extract	
+A22-S247	A22	Correspondence	extract	
+A22-S248	A22	Correspondence	extract	
+A22-S249	A22	Correspondence	extract	
+A22-S250	A22	Interview	extract	
+A22-S251	A22	Interview	extract	
+A22-S252	A22	Interview	extract	
+A22-S253	A22	Meeting	extract	
+A22-S254	A22	Interview	extract	
+A22-S255	A22	Meeting	extract	
+A22-S256	A22	Receipt	extract	
+A22-S257	A22	Correspondence	extract	
+A22-S258	A22	Interview	extract	
+A22-S259	A22	Correspondence	extract	
+A22-S260	A22	Interview answers	extract	
+A22-S261	A22	Meeting	extract	
+A22-S262	A22	Draft review	extract	
+A22-S263	A22	Interview	extract	
+A22-S264	A22	Correspondence	extract	
+A22-S265	A22	Scheduling	extract	
+A22-S266	A22	Scheduling	extract	
+A22-S267	A22	Scheduling	extract	
+A22-S268	A22	Meeting	extract	
+A22-S269	A22	Correspondence	extract	
+A22-S270	A22	Recording plan	extract	
+A22-S271	A22	Interview	extract	
+A22-S272	A22	Correspondence	extract	
+A22-S273	A22	Interview	extract	
+A22-S274	A22	Meeting	extract	
+A22-S275	A22	Correspondence	extract	
+A22-S276	A22	Interview	extract	
+A22-S277	A22	Correspondence	extract	
+A22-S278	A22	Follow-up	extract	
+A22-S279	A22	Scheduling	extract	
+A22-S280	A22	Correspondence	extract	
+A22-S281	A22	Meeting	extract	
+A22-S282	A22	Correspondence	extract	
+A22-S283	A22	Meeting	extract	
+A22-S284	A22	Correspondence	extract	
+A22-S285	A22	Scheduling	extract	
+A22-S286	A22	Questions	extract	
+A22-S287	A22	Correspondence	extract	
+A22-S288	A22	Interview answers	extract	
+A22-S289	A22	Scheduling	extract	
+A22-S290	A22	Reply	extract	
+A22-S291	A22	Receipt	extract	
+A22-S292	A22	Correspondence	extract	
+A22-S293	A22	Scheduling	extract	
+A22-S294	A22	Interview	extract	
+A22-S295	A22	Meeting	extract	
+A22-S296	A22	Meeting	extract	
+A22-S297	A22	Correspondence	extract	
+A22-S298	A22	Election coverage	extract	
+A22-S299	A22	Correspondence	extract	
+A22-S300	A22	Ballot question	extract	
+A22-S301	A22	Questions	extract	
+A22-S302	A22	Correspondence	extract	
+A22-S303	A22	Referral	extract	
+A22-S304	A22	Follow-up	extract	
+A22-S305	A22	Publication	extract	
+A22-S306	A22	Correspondence	extract	
+A22-S307	A22	Images	extract	
+A22-S308	A22	Correspondence	extract	
+A22-S309	A22	Publication	extract	
+A22-S310	A22	Invitation	extract	
+A22-S311	A22	International	extract	
+A22-S312	A22	Public source	extract	
+A22-S313	A22	Scheduling	extract	
+A22-S314	A22	Postponement	extract	
+A22-S315	A22	Meeting	extract	
+A22-S316	A22	Correspondence	extract	
+A22-S317	A22	Correspondence	extract	
+A22-S318	A22	Correspondence	extract	
+A22-S319	A22	Meeting	extract	
+A22-S320	A22	Correspondence	extract	
+A22-S321	A22	Quoted interview answers	extract	
+A22-S322	A22	Budget	extract	
+A22-S323	A22	Operation	extract	
+A22-S324	A22	Scheduling	extract	
+A22-S325	A22	Correspondence	extract	
+A22-S326	A22	Webinar	extract	
+A22-S327	A22	Webinar reply	extract	
+A22-S328	A22	Research proposal	extract	
+A22-S329	A22	Research reply	extract	
+A22-S330	A22	Editorial decision	extract	
+A22-S331	A22	Correspondence	extract	
+A22-S332	A22	Correspondence	extract	
+A22-S333	A22	Correspondence	extract	
+A22-S334	A22	Reply	extract	
+A22-S335	A22	Public source	extract	
+A22-S336	A22	Correspondence	extract	
+A22-S337	A22	Follow-up	extract	
+A22-D02	A22	Newspaper	source-image	media/A22-D02.png
+A22-D03	A22	Newspaper	source-image	media/A22-D03.png
+A22-D04	A22	Meme	source-image	media/A22-D04.png
+A22-D05	A22	Interview questions	extract	documents/A22-D05.txt
+A22-D06	A22	Generated image	source-image	images/A22-D06.png
+A22-D07	A22	Generated image	source-image	images/A22-D07.png
+A22-D08	A22	Generated image	source-image	media/A22-D08.png
+A22-D09	A22	Generated image	source-image	media/A22-D09.png
+A22-D10	A22	Generated image	source-image	media/A22-D10.png
+A22-D11	A22	Article draft	full-treated	data/A22-D11.txt; documents/A22-D11-2.txt
+A22-D12	A22	Generated image	source-image	images/A22-D12.png
+A22-S338	A22	Correspondence	extract	
+A22-S339	A22	Reply	extract	
+A22-S340	A22	Reply	extract	
+A22-S341	A22	Correspondence	extract	
+A22-S342	A22	Meeting	extract	
+A22-S343	A22	Quoted operator statement	extract	
+A22-S344	A22	Public source	extract	
+A22-S345	A22	Correspondence	extract	
+A22-S346	A22	Correspondence	extract	
+A22-S347	A22	Image request	extract	
+A22-S348	A22	Images	extract	
+A22-S349	A22	Poem	extract	
+A22-S350	A22	Correspondence	extract	
+A22-S351	A22	Meeting	extract	
+A22-S352	A22	Public source	extract	
+A22-S353	A22	Meeting	extract	
+A22-S354	A22	Meeting	extract	
+A22-S355	A22	Images	extract	
+A22-S356	A22	Meeting	extract	
+A22-S357	A22	Correspondence	extract	
+A22-S358	A22	Published poem	extract	
+A22-S359	A22	Meeting	extract	
+A22-S360	A22	Meeting	extract	
+A22-S361	A22	Meeting	extract	
+A22-S362	A22	Meeting	extract	
+A22-S363	A22	Meeting	extract	
+A22-S364	A22	Meeting	extract	
+A22-S365	A22	Meeting	extract	
+A22-S366	A22	Meeting	extract	
+A22-S367	A22	Meeting	extract	
+A22-S368	A22	Correspondence	extract	
+A22-S369	A22	Research	extract	
+A22-S370	A22	Correspondence	extract	
+A22-S371	A22	Meeting	extract	
+A22-S372	A22	Meeting	extract	
+A22-S373	A22	Meeting	extract	
+A22-S374	A22	Meeting	extract	
+A22-S375	A22	Arrival	extract	
+A22-S376	A22	Correspondence	extract	
+A22-S377	A22	Meeting	extract	
+A22-S378	A22	Reply	extract	
+A22-S379	A22	Filming	extract	
+A22-S380	A22	Filming	extract	
+A22-S381	A22	Filming time	extract	
+A22-S382	A22	Filming	extract	
+A22-S383	A22	Filming	extract	
+A22-S384	A22	Correspondence	extract	
+A22-S385	A22	Filming	extract	
+A22-S386	A22	Correspondence	extract	
+A22-S387	A22	Interview questions	extract	
+A22-S388	A22	Correspondence	extract	
+A22-S389	A22	Filming	extract	
+A22-S390	A22	Filming	extract	
+A22-S391	A22	Filming	extract	
+A22-S392	A22	Editing	extract	
+A22-S393	A22	Filming	extract	
+A22-S394	A22	International plans	extract	
+A22-S395	A22	Filming	extract	
+A22-S396	A22	Follow-up	extract	
+A22-S397	A22	Correspondence	extract	
+A22-S398	A22	Filming	extract	
+A22-S399	A22	Correspondence	extract	
+A22-S400	A22	Meeting	extract	
+A22-S401	A22	Correspondence	extract	
+A22-S402	A22	Meeting	extract	
+A22-S403	A22	Correspondence	extract	
+A22-S404	A22	Meeting	extract	
+A22-S405	A22	Correspondence	extract	
+A22-S406	A22	Filming	extract	
+A22-S407	A22	Meeting	extract	
+A22-S408	A22	Meeting	extract	
+A22-S409	A22	Correspondence	extract	
+A22-S410	A22	Correspondence	extract	
+A23-D01	A23	Information form	full-treated	documents/A23-D01.txt
+A23-D02	A23	Summit application	extract	documents/A23-D02.txt
+A23-D03	A23	Research proposal	full-treated	documents/A23-D03.txt
+A23-D04	A23	Performance sequence	full-treated	documents/A23-D04.txt
+A23-D05	A23	Performance script	full-treated	documents/A23-D05.txt
+A23-S01	A23	Institutional enquiry	extract	
+A23-S02	A23	Meeting	extract	
+A23-S03	A23	Correspondence	extract	
+A23-S04	A23	Meeting	extract	
+A23-S05	A23	Correspondence	extract	
+A23-S06	A23	Meeting	extract	
+A23-S07	A23	Selection process	extract	
+A23-S08	A23	Correspondence	extract	
+A23-S09	A23	Application	extract	
+A23-S10	A23	Application	extract	
+A23-S11	A23	Receipt	extract	
+A23-S12	A23	Application	extract	
+A23-S13	A23	Selection process	extract	
+A23-S14	A23	Reply	extract	
+A23-S15	A23	Application	extract	
+A23-S16	A23	Not selected	extract	
+A23-S17	A23	Correspondence	extract	
+A23-S18	A23	Correspondence	extract	
+A23-S19	A23	Research	extract	
+A23-S20	A23	Research	extract	
+A23-S21	A23	Correspondence	extract	
+A23-S22	A23	Research	extract	
+A23-S23	A23	Research setting	extract	
+A23-S24	A23	Meeting	extract	
+A23-S25	A23	Collaboration	extract	
+A23-S26	A23	Correspondence	extract	
+A23-S27	A23	Meeting	extract	
+A23-S28	A23	Correspondence	extract	
+A23-S29	A23	Communication	extract	
+A23-S30	A23	Publicity authorisation	extract	
+A23-S31	A23	Correspondence	extract	
+A23-S32	A23	Performance	extract	
+A23-S33	A23	Introduction	extract	
+A23-S34	A23	Research access	extract	
+A23-S35	A23	Research request	extract	
+A23-S36	A23	Correspondence	extract	
+A23-S37	A23	Documentation	extract	
+A23-S38	A23	Documentation	extract	
+A23-S39	A23	Collaboration	extract	
+A23-S40	A23	Collaboration	extract	
+A23-S41	A23	Research	extract	
+A23-S42	A23	Publicity draft	extract	
+A23-S43	A23	Follow-up	extract	
+A23-S44	A23	Deadline	extract	
+A23-S45	A23	Publicity response	extract	
+A23-S46	A23	Photos	extract	
+A23-S47	A23	Correspondence	extract	
+A23-S48	A23	Publicity quotation	extract	
+A23-S49	A23	Correspondence	extract	
+A23-S50	A23	Correspondence	extract	
+A23-S51	A23	Documentation	extract	
+A23-S52	A23	Check-in	extract	
+A23-S53	A23	Exhibition	extract	
+A23-S54	A23	Documentation	extract	
+A23-S55	A23	Exhibition	extract	
+A23-S56	A23	Enquiry	extract	
+A23-S57	A23	Meeting	extract	
+A23-S58	A23	Summit proposal	extract	
+A23-S59	A23	Meeting	extract	
+A23-S60	A23	Meeting	extract	
+A23-S61	A23	Meeting	extract	
+A23-S62	A23	Meeting	extract	
+A23-S63	A23	Correspondence	extract	
+A23-S64	A23	Meeting	extract	
+A23-S65	A23	Meeting	extract	
+A23-S66	A23	International	extract	
+A23-S67	A23	International meeting	extract	
+A23-S68	A23	Summit proposal	extract	
+A23-S69	A23	Correspondence	extract	
+A23-S70	A23	Meeting	extract	
+A23-S71	A23	Meeting	extract	
+A23-S72	A23	Organisation	extract	
+A23-S73	A23	Meeting	extract	
+A23-S74	A23	International theory	extract	
+A23-S75	A23	Reading	extract	
+A23-S76	A23	Correspondence	extract	
+A23-S77	A23	Correspondence	extract	
+A23-D06	A23	Research proposal	full-treated	data/A23-D06.txt
+A23-D07	A23	Research proposal	full-treated	documents/A23-D07.txt
+A23-D08	A23	Media collage	source-image	media/A23-D08.jpg
+A23-D09	A23	Compiler portrait	image-extract	media/A23-D09-detail.png
+A23-D10	A23	Conversations	withheld	
+A23-D11	A23	Conversation types	withheld	
+A23-D12	A23	Next steps	withheld	
+A23-S78	A23	Meeting	extract	
+A23-S79	A23	Meeting	extract	
+A23-S80	A23	Meeting	extract	
+A23-S81	A23	Correspondence	extract	
+A23-S82	A23	Meeting	extract	
+A23-S83	A23	Meeting	extract	
+A23-S84	A23	Correspondence	extract	
+A23-S85	A23	Meeting	extract	
+A23-S86	A23	Meeting	extract	
+A23-S87	A23	Meeting	extract	
+A23-S88	A23	Correspondence	extract	
+A23-S89	A23	Research	extract	
+A23-S90	A23	Research	extract	
+A23-S91	A23	Research dialogue	extract	
+A23-S92	A23	Research	extract	
+A23-S93	A23	Correspondence	extract	
+A23-S94	A23	Shared document	extract	
+A23-S95	A23	Research	extract	
+A23-S96	A23	Correspondence	extract	
+A23-S97	A23	Correspondence	extract	
+A23-S98	A23	Correspondence	extract	
+A23-S99	A23	Reading	extract	
+A23-S100	A23	Reply	extract	
+A23-S101	A23	Collaboration	extract	
+A23-S102	A23	Project planning	extract	
+A23-S103	A23	Correspondence	extract	
+A23-S104	A23	Correspondence	extract	
+A23-S105	A23	Meeting	extract	
+A23-S106	A23	Publicity draft	extract	
+A23-S107	A23	Editing	extract	
+A23-S108	A23	Collaboration	extract	
+A23-S109	A23	Correspondence	extract	
+A23-S110	A23	Attachments	attachment-metadata	
+A23-S111	A23	Publicity editing	extract	
+A23-S112	A23	Editing	extract	
+A23-S113	A23	Meeting	extract	
+A23-S114	A23	Publicity	extract	
+A23-S115	A23	Images	extract	
+A23-S116	A23	Correspondence	extract	
+A23-S117	A23	Meeting	extract	
+A23-S118	A23	Correspondence	extract	
+A23-S119	A23	Research discussion	extract	
+A23-S120	A23	Documents	extract	
+A23-S121	A23	Quotation permission	extract	
+A23-S122	A23	Correspondence	extract	
+A23-S123	A23	Correspondence	extract	
+A23-S124	A23	Draft status	extract	
+A23-S125	A23	Platform architecture	extract	
+A23-S126	A23	Correspondence	extract	
+A23-S127	A23	Public code	extract	
+A23-S128	A23	Research use	extract	
+A23-S129	A23	Prototype	extract	
+A23-S130	A23	Summit	extract	
+A23-S131	A23	Summit	extract	
+A23-S132	A23	Correspondence	extract	
+A23-S133	A23	International meeting	extract	
+A23-S134	A23	Prototype	extract	
+A23-S135	A23	Correspondence	extract	
+A23-S136	A23	Prototype	extract	
+A23-S137	A23	Correspondence	extract	
+A23-S138	A23	Meeting	extract	
+A23-S139	A23	Application	source-metadata	
+A23-S140	A23	Forward notice	brief-source-fragment	
+A23-D13	A23	Research proposal	full-treated	documents/A23-D13.txt
+A23-D14	A23	Research budget	full-treated	documents/A23-D14.txt
+A23-D15	A23	Research proposal	full-treated	documents/A23-D15.txt
+A23-S141	A23	Forwarding	extract	
+A23-S142	A23	Debate	extract	
+A23-S143	A23	Forwarding	extract	
+A23-S144	A23	Prototype	extract	
+A23-S145	A23	Introduction	extract	
+A23-S146	A23	Correspondence	extract	
+A23-S147	A23	Meeting	extract	
+A23-S148	A23	Meeting	extract	
+A23-S149	A23	Meeting	extract	
+A23-S150	A23	Correspondence	extract	
+A23-S151	A23	Meeting	extract	
+A23-S152	A23	Collaboration	extract	
+A23-S153	A23	International	extract	
+A23-S154	A23	Correspondence	extract	
+A23-S155	A23	Receipt	extract	
+A23-S156	A23	Pre-assessment	extract	
+A23-S157	A23	Budget	extract	
+A23-S158	A23	Budget procedure	extract	
+A23-S159	A23	Correspondence	extract	
+A23-S160	A23	Correspondence	extract	
+A23-S161	A23	Budget procedure	extract	
+A23-S162	A23	Correspondence	extract	
+A23-S163	A23	International	extract	
+A23-S164	A23	Prototype	extract	
+A23-S165	A23	Research design	extract	
+A23-S166	A23	Hosting undertaking	extract	
+A23-S167	A23	Correspondence	extract	
+A23-S168	A23	Application	extract	
+A23-S169	A23	Application	extract	
+A23-S170	A23	Application	extract	
+A23-S171	A23	Application	extract	
+A23-S172	A23	Correspondence	extract	
+A23-S173	A23	Funding procedure	extract	
+A23-S174	A23	Application	extract	
+A23-S175	A23	Approval question	extract	
+A23-S176	A23	Conference	extract	
+A23-S177	A23	Publicity and summits	extract	
+A23-S178	A23	Contract planning	extract	
+A23-S179	A23	Summit planning	extract	
+A23-S180	A23	Correspondence	extract	
+A23-S181	A23	Conference	extract	
+A23-S182	A23	Conference	extract	
+A23-S183	A23	Biography request	extract	
+A23-S184	A23	Correspondence	extract	
+A23-S185	A23	Conference	extract	
+A23-S186	A23	Conference	extract	
+A23-S187	A23	Conference	extract	
+A23-S188	A23	International	extract	
+A23-S189	A23	Collaboration	extract	
+A23-S190	A23	Meeting	extract	
+A23-S191	A23	Meeting	extract	
+A23-S192	A23	Meeting	extract	
+A23-S193	A23	Meeting	extract	
+A23-S194	A23	Meeting	extract	
+A23-S195	A23	Meeting	extract	
+A23-S196	A23	Correspondence	extract	
+A23-S197	A23	Meeting	extract	
+A23-S198	A23	Research materials	extract	
+A23-D16	A23	Research proposal	full-treated	data/A23-D16.txt
+A23-D17	A23	Research proposal	full-treated	documents/A23-D17.txt
+A23-D18	A23	Research proposal	full-treated	documents/A23-D18.txt
+A23-D19	A23	Research proposal	full-treated	data/A23-D19.txt; documents/A23-D19-2.txt
+A23-D20	A23	Organ manifesto	extract	documents/A23-D20.txt
+A23-D21	A23	Research proposal	full-treated	documents/A23-D21.txt
+A23-D22	A23	Editorial comments	full-treated	documents/A23-D22-2.txt; data/A23-D22.txt
+A23-D23	A23	Research outline	full-treated	documents/A23-D23.txt
+A23-D24	A23	Research proposal	full-treated	documents/A23-D24.txt
+A23-D25	A23	Research proposal	full-treated	documents/A23-D25.txt
+A23-D26	A23	Research proposal	full-treated	documents/A23-D26.txt
+A23-D27	A23	Research proposal	full-treated	documents/A23-D27.txt
+A23-D28	A23	Research proposal	full-treated	documents/A23-D28.txt
+A23-D29	A23	Author portrait	source-image	images/A23-D29.png
+A23-D30	A23	Summit application	full-treated	documents/A23-D30.txt
+A23-D31	A23	Research proposal	full-treated	documents/A23-D31.txt
+A23-D32	A23	Poster production	source-image	images/A23-D32.png
+A23-S199	A23	Publicity request	extract	
+A23-S200	A23	Correspondence	extract	
+A23-S201	A23	Public interview	extract	
+A23-S202	A23	Research	extract	
+A23-S203	A23	Correspondence	extract	
+A23-S204	A23	Reply	extract	
+A23-S205	A23	Reply	extract	
+A23-S206	A23	Forwarding	extract	
+A23-S207	A23	Correspondence	extract	
+A23-S208	A23	Reply	extract	
+A23-S209	A23	Application	extract	
+A23-S210	A23	Correspondence	extract	
+A23-S211	A23	Correspondence	extract	
+A23-S212	A23	Application	extract	
+A23-S213	A23	Review	extract	
+A23-S214	A23	Correspondence	extract	
+A23-S215	A23	Research	extract	
+A23-S216	A23	Correspondence	extract	
+A23-S217	A23	Correspondence	extract	
+A23-S218	A23	Draft length	extract	
+A23-S219	A23	Correspondence	extract	
+A23-S220	A23	Research	extract	
+A23-S221	A23	Research proposal	extract	
+A23-S222	A23	Review	extract	
+A23-S223	A23	Reply	extract	
+A23-S224	A23	Correspondence	extract	
+A23-S225	A23	Correspondence	extract	
+A23-S226	A23	Application	extract	
+A23-S227	A23	Correspondence	extract	
+A23-S228	A23	Meeting	extract	
+A23-S229	A23	Research proposal	extract	
+A23-S230	A23	Meeting	extract	
+A23-S231	A23	Keynote abstract	extract	
+A23-S232	A23	Draft criticism	extract	
+A23-S233	A23	Correspondence	extract	
+A23-S234	A23	Reply	extract	
+A23-S235	A23	Follow-up	extract	
+A23-S236	A23	Receipt	extract	
+A23-S237	A23	Receipt	extract	
+A23-S238	A23	Draft criticism	extract	
+A23-S239	A23	Correspondence	extract	
+A23-S240	A23	Correspondence	extract	
+A23-S241	A23	Reading	extract	
+A23-S242	A23	Text received	extract	
+A23-S243	A23	Application	extract	
+A23-S244	A23	Application reflection	extract	
+A23-S245	A23	Greeting	extract	
+A23-S246	A23	Nomination	extract	
+A23-S247	A23	Correspondence	extract	
+A23-S248	A23	Expo	source-metadata	
+A23-S249	A23	Correspondence	extract	
+A23-S250	A23	Research	extract	
+A23-S251	A23	Text draft	extract	
+A23-S252	A23	Text draft	extract	
+A23-S253	A23	Text draft	extract	
+A23-S254	A23	Acceptance	extract	
+A23-S255	A23	Correspondence	extract	
+A23-S256	A23	Correspondence	extract	
+A23-S257	A23	Reply	extract	
+A23-S258	A23	Meeting	extract	
+A24-D01	A24	Summit concept	extract	documents/A24-D01.txt
+A24-S01	A24	Proposal	extract	
+A24-S02	A24	Charter	extract	
+A24-S03	A24	Charter	extract	
+A24-S04	A24	Proposal	extract	
+A24-S05	A24	International	extract	
+A24-S06	A24	Proposal	extract	
+A24-S07	A24	Follow-up	extract	
+A24-S08	A24	Project proposal	extract	
+A24-S09	A24	Meeting	extract	
+A24-S10	A24	Note on AI summary	extract	
+A24-S11	A24	AI summary	extract	
+A24-S12	A24	Introduction	extract	
+A24-S13	A24	Interview	extract	
+A24-S14	A24	Interview	extract	
+A24-S15	A24	AI summary	extract	
+A24-S16	A24	Meeting summary	extract	
+A24-S17	A24	Reply	extract	
+A24-S18	A24	Summary	extract	
+A24-S19	A24	Introduction	extract	
+A24-S20	A24	Meeting	extract	
+A24-S21	A24	Meeting	extract	
+A24-S22	A24	Follow-up	extract	
+A24-S23	A24	Follow-up	extract	
+A24-S24	A24	Follow-up	extract	
+A24-S25	A24	Follow-up	extract	
+A24-S26	A24	Invitation	extract	
+A24-S27	A24	AI summary	extract	
+A24-S28	A24	Collaboration	extract	
+A24-S29	A24	Email	extract	
+A24-S30	A24	Collaboration	extract	
+A24-S31	A24	Reply	extract	
+A24-S32	A24	Meeting	extract	
+A24-S33	A24	Meeting	extract	
+A24-S34	A24	Funding	extract	
+A24-S35	A24	Public space	extract	
+A24-S36	A24	Meeting	extract	
+A24-S37	A24	AI summary	extract	
+A24-S38	A24	Meeting	extract	
+A24-S39	A24	Meeting	extract	
+A24-S40	A24	AI summary	extract	
+A24-S41	A24	Platform	extract	
+A24-S42	A24	Platform	extract	
+A24-S43	A24	Invitations	extract	
+A24-S44	A24	Naming	extract	
+A24-S45	A24	Editing	extract	
+A24-S46	A24	Shared folder	extract	
+A24-S47	A24	Work principles	extract	
+A24-D02	A24	Application design	full-treated	data/A24-D02.txt
+A24-D03	A24	Exhibition agreement	extract	documents/A24-D03.txt
+A24-S48	A24	Agreement	extract	
+A24-S49	A24	Agreement	extract	
+A24-S50	A24	Funding	extract	
+A24-S51	A24	Funding	extract	
+A24-S52	A24	Confirmation	extract	
+A24-S53	A24	Funding	extract	
+A24-S54	A24	Funding	extract	
+A24-S55	A24	Sharing notice	extract	
+A24-S56	A24	Proposal	extract	
+A24-S57	A24	Proposal	extract	
+A24-S58	A24	Partners	extract	
+A24-S59	A24	Shared photos	extract	
+A24-S60	A24	Sharing notice	extract	
+A24-S61	A24	Sharing notice	extract	
+A24-S62	A24	Sharing notice	extract	
+A24-S63	A24	Sharing notice	extract	
+A24-S64	A24	Media	extract	
+A24-S65	A24	Meeting	extract	
+A24-S66	A24	Exhibition	extract	
+A24-S67	A24	Public call	extract	
+A24-S68	A24	Application	extract	
+A24-S69	A24	Application	extract	
+A24-S70	A24	Application	extract	
+A24-S71	A24	Public call	extract	
+A24-S72	A24	Work permission	extract	
+A24-S73	A24	Public symposium	extract	
+A24-S74	A24	Sharing notice	extract	
+A25-D01	A25	Installation plan	source-image	images/A25-D01.jpg
+A25-D02	A25	Installation plan	source-image	images/A25-D02.jpg
+A25-D03	A25	Installation plan	source-image	images/A25-D03.jpg
+A25-D04	A25	Installation plan	source-image	images/A25-D04.jpg
+A25-D05	A25	Summit dossier	extract	documents/A25-D05.txt
+A25-D06	A25	Summit framework	extract	documents/A25-D06.txt
+A25-D07	A25	Summit concept	extract	documents/A25-D07.txt
+A25-D08	A25	Summit outline	full-treated	documents/A25-D08.txt
+A25-S01	A25	Concept	extract	
+A25-S02	A25	Scenography	extract	
+A25-S03	A25	Framework	extract	
+A25-S04	A25	Research design	extract	
+A25-S05	A25	Summit invitation	extract	
+A25-S06	A25	Sources	extract	
+A25-S07	A25	Quoted production plan	extract	
+A25-S08	A25	Funding	extract	
+A25-S09	A25	Funding	extract	
+A25-S10	A25	Funding	extract	
+A25-S11	A25	Funding	extract	
+A25-S12	A25	Curatorial approach	extract	
+A25-S13	A25	Production	extract	
+A25-S14	A25	CV request	extract	
+A25-S15	A25	Funding	extract	
+A25-S16	A25	Assistance	extract	
+A25-S17	A25	Production	extract	
+A25-S18	A25	Follow-up	extract	
+A25-S19	A25	Production	extract	
+A25-S20	A25	Opening	extract	
+A25-S21	A25	Meeting	extract	
+A25-S22	A25	Meeting	extract	
+A25-S23	A25	Scenography	extract	
+A25-S24	A25	Decision	extract	
+A25-S25	A25	Scenography	extract	
+A25-S26	A25	Scenography	extract	
+A25-S27	A25	Scenography	extract	
+A25-S28	A25	Curatorial reply	extract	
+A25-S29	A25	Representation	extract	
+A25-D09	A25	International table	extract	data/A25-D09.txt
+A25-D10	A25	Summit framework	extract	data/A25-D10.txt
+A25-D11	A25	Summit working book	extract	documents/A25-D11.txt
+A25-D12	A25	Singularity	source-image	images/A25-D12.jpg
+A25-D13	A25	Concept slides	full-treated	documents/A25-D13.txt
+A25-S30	A25	Attachment	attachment-metadata	
+A25-S31	A25	Draft	extract	
+A25-S32	A25	Performance proposal	extract	
+A25-S33	A25	Curatorial proposal	extract	
+A25-S34	A25	Presentation link	source-metadata	
+A25-D14	A25	Opening speech	full-treated	data/A25-D14.txt
+A26-D01	A26	Implementation proof	full-treated	documents/A26-D01.txt
+A26-D02	A26	Residency proof	full-treated	documents/A26-D02.txt
+A26-D03	A26	Implementation proof	full-treated	documents/A26-D03.txt
+A26-D04	A26	Residency proof	full-treated	documents/A26-D04.txt
+A26-D05	A26	Corporate invoice	extract	documents/A26-D05.txt
+A26-D06	A26	Collaboration proof	extract	documents/A26-D06.txt
+A26-D07	A26	Collaboration proof	extract	documents/A26-D07.txt
+A26-D08	A26	Corporate invoice	extract	documents/A26-D08.txt
+A26-D09	A26	Corporate invoice	extract	documents/A26-D09.txt
+A26-D10	A26	Fellowship form	full-treated	documents/A26-D10.txt
+A26-D11	A26	Fellowship form	full-treated	documents/A26-D11.txt
+A26-D12	A26	Reimbursement	extract	documents/A26-D12.txt
+A26-D13	A26	Reimbursement	extract	documents/A26-D13.txt
+A26-D14	A26	Receipt fields	extract	documents/A26-D14.txt
+A26-D15	A26	Receipt fields	extract	documents/A26-D15.txt
+A26-D16	A26	Ledger entries	full-treated	documents/A26-D16.txt
+A26-S01	A26	Summit proposal	extract	
+A26-S02	A26	Grant programme	extract	
+A26-S03	A26	Research visit	extract	
+A26-S04	A26	Reply	extract	
+A26-S05	A26	Funding	extract	
+A26-S06	A26	Meeting	extract	
+A26-S07	A26	Meeting	extract	
+A26-S08	A26	Meeting	extract	
+A26-S09	A26	Meeting	extract	
+A26-S10	A26	Meeting	extract	
+A26-S11	A26	Meeting	extract	
+A26-S12	A26	Meeting	extract	
+A26-S13	A26	Meeting	extract	
+A26-S14	A26	Transition	extract	
+A26-S15	A26	Congratulations	extract	
+A26-S16	A26	Invoice	extract	
+A26-S17	A26	Payment	extract	
+A26-S18	A26	Attachment	attachment-metadata	
+A26-S19	A26	Invoice requirements	extract	
+A26-S20	A26	Invoice requirements	extract	
+A26-S21	A26	Correspondence	extract	
+A26-S22	A26	Reply	extract	
+A26-S23	A26	Application	extract	
+A26-S24	A26	Application	extract	
+A26-S25	A26	Correspondence	extract	
+A26-S26	A26	Correspondence	extract	
+A26-S27	A26	Workshop proposal	extract	
+A26-S28	A26	Workshop systems	extract	
+A26-S29	A26	Coordination	extract	
+A26-S30	A26	Revision	extract	
+A26-S31	A26	Production budget	extract	
+A26-S32	A26	Production budget	extract	
+A26-S33	A26	Accommodation	extract	
+A26-S34	A26	Technical integration	extract	
+A26-S35	A26	Accommodation	extract	
+A26-S36	A26	Accommodation	extract	
+A26-S37	A26	Integration	extract	
+A26-S38	A26	Accommodation	extract	
+A26-S39	A26	Accommodation	extract	
+A26-S40	A26	Technical integration	extract	
+A26-S41	A26	Implementation	extract	
+A26-S42	A26	Correspondence	extract	
+A26-S43	A26	Meeting	extract	
+A26-S44	A26	Fragment	brief-source-fragment	
+A26-S45	A26	Installation plan	extract	
+A26-S46	A26	Meeting	extract	
+A26-S47	A26	Design meeting	extract	
+A26-S48	A26	Reply	extract	
+A26-S49	A26	Planning	extract	
+A26-S50	A26	Meeting	extract	
+A26-S51	A26	Meeting	extract	
+A26-S52	A26	Equipment list	extract	
+A26-S53	A26	Equipment	extract	
+A26-S54	A26	Accommodation	extract	
+A26-S55	A26	Accommodation	extract	
+A26-S56	A26	Accommodation	extract	
+A26-S57	A26	Reply	extract	
+A26-S58	A26	Accommodation	extract	
+A26-S59	A26	Reply	extract	
+A26-S60	A26	Contact	extract	
+A26-S61	A26	Arrival	extract	
+A26-S62	A26	Accommodation	extract	
+A26-S63	A26	Meeting	extract	
+A26-S64	A26	Opening	extract	
+A26-S65	A26	Accommodation	extract	
+A26-S66	A26	Reply	extract	
+A26-S67	A26	Historical script	extract	
+A26-S68	A26	Historical terminal output	extract	
+A26-S69	A26	Historical script	extract	
+A26-S70	A26	Payment	extract	
+A26-S71	A26	Deinstallation	extract	
+A26-S72	A26	Documentation	extract	
+A26-S73	A26	Correspondence	extract	
+A26-S74	A26	Correspondence	extract	
+A26-S75	A26	Correspondence	extract	
+A26-S76	A26	Payment	extract	
+A26-S77	A26	Correspondence	extract	
+A26-S78	A26	Deinstallation	extract	
+A26-S79	A26	Payment	extract	
+A26-S80	A26	Accounts	extract	
+A26-S81	A26	Correspondence	extract	
+A26-S82	A26	Reply	extract	
+A26-S83	A26	Payment	extract	
+A26-S84	A26	Payment	extract	
+A26-S85	A26	Reaction	brief-source-fragment	
+A26-S86	A26	Correspondence	extract	
+A26-S87	A26	Deinstallation	extract	
+A26-S88	A26	Payment requirements	extract	
+A26-S89	A26	Correspondence	extract	
+A26-S90	A26	Invoice	extract	
+A26-S91	A26	Invoice	extract	
+A26-S92	A26	Invoice	extract	
+A26-S93	A26	Payment	extract	
+A26-S94	A26	Reporting	extract	
+A26-S95	A26	Correspondence	extract	
+A26-S96	A26	Reply	extract	
+A26-S97	A26	Responsibility	extract	
+A26-S98	A26	Funding policy	extract	
+A26-S99	A26	Funding policy	extract	
+A26-S100	A26	Funding policy	extract	
+A26-D17	A26	Newspaper	source-image	media/A26-D17.jpg
+A26-D18	A26	Installation plan	source-image	images/A26-D18.jpg
+A26-D19	A26	Installation plan	source-image	images/A26-D19.jpg
+A26-D20	A26	Installation plan	source-image	images/A26-D20.jpg
+A26-D21	A26	Production budget	extract	documents/A26-D21.txt
+A26-D22	A26	Funding decision	extract	documents/A26-D22.txt
+A26-D23	A26	Installation image	source-image	images/A26-D23.jpg
+A26-D24	A26	Electoral software	extract	documents/A26-D24.txt
+A26-D25	A26	Software architecture	full-treated	documents/A26-D25.txt
+A26-D26	A26	Travel reimbursement	extract	documents/A26-D26.txt
+A26-D27	A26	Installation requirements	extract	documents/A26-D27.txt
+A26-D28	A26	Travel reimbursement	extract	documents/A26-D28.txt
+A26-D29	A26	Fictional biography	full-treated	data/A26-D29.txt
+A26-D30	A26	Production invoice	extract	documents/A26-D30.txt
+A26-S101	A26	Interview	extract	
+A26-S102	A26	Correspondence	extract	
+A26-S103	A26	Reply	extract	
+A26-S104	A26	Delivery	extract	
+A26-S105	A26	Delivery	extract	
+A26-S106	A26	Delivery	extract	
+A26-S107	A26	Delivery	extract	
+A26-S108	A26	Application	extract	
+A26-S109	A26	Correspondence	extract	
+A26-S110	A26	Attachment	attachment-metadata	
+A26-S111	A26	Correspondence	extract	
+A26-S112	A26	Application	extract	
+A26-S113	A26	Funding	extract	
+A26-S114	A26	Public fund	extract	
+A26-S115	A26	Funding	extract	
+A26-S116	A26	Planning	extract	
+A26-S117	A26	Construction	extract	
+A26-S118	A26	Materials	extract	
+A26-S119	A26	Access	extract	
+A26-S120	A26	Reply	extract	
+A26-S121	A26	Follow-up	extract	
+A26-S122	A26	Application	extract	
+A26-S123	A26	Funding	extract	
+A26-S124	A26	Application	extract	
+A26-S125	A26	Application	extract	
+A26-S126	A26	Contribution	extract	
+A26-S127	A26	Application	extract	
+A26-S128	A26	Application	extract	
+A26-S129	A26	Application	extract	
+A26-S130	A26	Reply	extract	
+A26-S131	A26	Software	extract	
+A26-S132	A26	Software proposal	extract	
+A26-S133	A26	Invoice	extract	
+A26-S134	A26	Invoice	extract	
+A26-S135	A26	Contribution	extract	
+A26-S136	A26	Form	extract	
+A26-S137	A26	Installation equipment	extract	
+A26-S138	A26	Technical pricing	extract	
+A26-S139	A26	Credit	extract	
+A26-S140	A26	Editing	extract	
+A26-S141	A26	Credit	extract	
+A26-S142	A26	Invoice	extract	
+A26-S143	A26	Reimbursement	extract	
+A26-S144	A26	Expenses	extract	
+A26-S145	A26	Reimbursement	extract	
+A26-S146	A26	Correspondence	extract	
+A26-S147	A26	Form	extract	
+A26-S148	A26	Correspondence	extract	
+A26-S149	A26	Transport	extract	
+A26-S150	A26	Quote request	extract	
+A26-S151	A26	Performance	extract	
+A26-S152	A26	Attachment	brief-source-fragment	
+A26-S153	A26	Repository invite	extract	
+A26-D31	A26	Exhibition plan	extract	data/A26-D31.txt
+A26-D32	A26	Installation guide	full-treated	data/A26-D32.txt
+A26-D33	A26	Exhibition dialogue	full-treated	data/A26-D33.txt
+A27-D01	A27	Summit framework	extract	documents/A27-D01.txt
+A27-D02	A27	Compiler portrait	image-extract	media/A27-D02-detail.png
+A27-D03	A27	International table	extract	documents/A27-D03.txt
+A27-D04	A27	Generated programme	full-treated	documents/A27-D04.txt
+A27-D05	A27	Workshop plan	full-treated	documents/A27-D05.txt
+A27-D06	A27	Usage chart	source-image	media/A27-D06.png
+A27-D07	A27	Generated notes	source-image	media/A27-D07.png
+A27-D08	A27	Generated notes	image-OCR	documents/A27-D08.txt; media/A27-D08.png
+A27-D09	A27	Radio Palme	source-image	media/A27-D09.jpg
+A27-D10	A27	Debate transcript	full-treated	documents/A27-D10.txt
+A27-D11	A27	Terminal log	full-treated	documents/A27-D11.txt
+A27-D12	A27	Dialogue sessions	full-treated	documents/A27-D12.txt
+A27-D13	A27	Lecture poster	full-treated	documents/A27-D13.txt
+A27-D14	A27	University entrance	image-extract	media/A27-D14-detail.png
+A27-D15	A27	Lecture room	image-extract	media/A27-D15-detail.png
+A27-D16	A27	Lecture room	visual-fragment	media/A27-D16-detail.png
+A27-D17	A27	Seating detail	visual-fragment	images/A27-D17-extract.png
+A27-D18	A27	Public lecture	image-extract	media/A27-D18-detail.png
+A27-D19	A27	Entrance photograph	redacted-image	images/A27-D19-extract.png
+A27-D20	A27	Public lecture	image-extract	media/A27-D20-detail.png
+A27-D21	A27	Audience photograph	source-metadata	data/A27-D21-metadata.txt
+A27-D22	A27	Public lecture	source-image	media/A27-D22.jpg
+A27-D23	A27	Public lecture	image-extract	media/A27-D23-detail.png
+A27-D24	A27	Public lecture	source-image	media/A27-D24.jpg
+A27-D25	A27	Lecture notice	source-image	media/A27-D25.jpg
+A27-D26	A27	Public lecture	source-image	media/A27-D26.jpg
+A27-D27	A27	Public lecture	source-image	media/A27-D27.jpg
+A27-D28	A27	Public lecture	source-image	media/A27-D28.jpg
+A27-D29	A27	Public lecture	source-image	media/A27-D29.jpg
+A27-D30	A27	Congress outputs	full-treated	documents/A27-D30.txt
+A27-S01	A27	Exhibition framework	extract	
+A27-S02	A27	Quoted interview answers	extract	
+A27-S03	A27	Bot declaration	extract	
+A27-S04	A27	Correspondence	extract	
+A27-S05	A27	Summit	extract	
+A27-S06	A27	Dialogue research	extract	
+A27-S07	A27	Recording	extract	
+A27-S08	A27	Transcript limits	extract	
+A27-S09	A27	Technical questions	extract	
+A27-S10	A27	Text revisions	extract	
+A27-S11	A27	Correspondence	extract	
+A27-S12	A27	Meeting	extract	
+A27-S13	A27	Correspondence	extract	
+A27-S14	A27	Meeting	extract	
+A27-S15	A27	Correspondence	extract	
+A27-S16	A27	Documentation	extract	
+A27-S17	A27	Correspondence	extract	
+A27-S18	A27	Reply	extract	
+A27-S19	A27	AI summary	extract	
+A27-S20	A27	Correspondence	extract	
+A27-S21	A27	Follow-up	extract	
+A27-S22	A27	Meeting	extract	
+A27-S23	A27	Article draft	extract	
+A27-S24	A27	Publicity editing	extract	
+A27-S25	A27	Meeting	extract	
+A27-S26	A27	Correspondence	extract	
+A27-S27	A27	Follow-up	extract	
+A27-S28	A27	Editing	extract	
+A27-S29	A27	Correspondence	extract	
+A27-S30	A27	Editing	extract	
+A27-S31	A27	Reply	extract	
+A27-S32	A27	Event	extract	
+A27-S33	A27	Public article	extract	
+A27-S34	A27	Reply	extract	
+A27-S35	A27	Correspondence	extract	
+A27-S36	A27	Correction	extract	
+A27-S37	A27	Correspondence	extract	
+A27-S38	A27	Correspondence	extract	
+A27-S39	A27	Reply	extract	
+A27-S40	A27	Correspondence	extract	
+A27-S41	A27	Public recording	extract	
+A27-S42	A27	Correspondence	extract	
+A27-S43	A27	Scheduling	extract	
+A27-S44	A27	Scheduling	extract	
+A27-S45	A27	Correspondence	extract	
+A27-S46	A27	Correspondence	extract	
+A27-S47	A27	Meeting	extract	
+A27-S48	A27	Meeting	extract	
+A27-S49	A27	Correspondence	extract	
+A27-S50	A27	Recording question	extract	
+A27-S51	A27	Correspondence	extract	
+A27-S52	A27	Interview	extract	
+A27-S53	A27	Research	extract	
+A27-S54	A27	Reading	extract	
+A27-S55	A27	Article planning	extract	
+A27-S56	A27	Correspondence	extract	
+A27-S57	A27	Correspondence	extract	
+A27-S58	A27	Account notice	extract	
+A27-S59	A27	Panel	extract	
+A27-S60	A27	Meeting	extract	
+A27-S61	A27	Correspondence	extract	
+A27-S62	A27	Correspondence	extract	
+A27-S63	A27	Correspondence	extract	
+A27-S64	A27	Correspondence	extract	
+A27-S65	A27	Correspondence	extract	
+A27-D31	A27	Programme	full-treated	data/A27-D31.txt
+A27-D32	A27	Congress account	full-treated	data/A27-D32.txt
+A27-D33	A27	Press release	full-treated	data/A27-D33.txt
+A27-D34	A27	Resolution	full-treated	documents/A27-D34.txt; media/A27-D34.jpg
+A27-D35	A27	Congress recordings	extract	
+A27-D36	A27	Model dialogue	full-treated	media/A27-D36.png
+A27-D37	A27	Model dialogue	full-treated	media/A27-D37.png
+A27-D38	A27	Congress photograph	source-image	media/A27-D38.jpg
+A27-D39	A27	Debate script	full-treated	data/A27-D39.txt
+A27-D40	A27	Debate subtitles	full-treated	data/A27-D40.srt
+A27-S66	A27	Performance plan	extract	
+A27-S67	A27	Terminology	extract	
+A27-S68	A27	Editorial comment	extract	
+A27-S69	A27	Public event	extract	
+A27-S70	A27	Event	extract	
+A27-S71	A27	Event	extract	
+A27-S72	A27	Presentation	extract	
+A27-S73	A27	Meeting	extract	
+A27-S74	A27	Participation	extract	
+A27-S75	A27	Performance	extract	
+A27-S76	A27	Connection	extract	
+A27-S77	A27	Connection	extract	
+A27-S78	A27	Correspondence	extract	
+A27-S79	A27	Shared document	extract	
+A27-S80	A27	Shared document	extract	
+A27-S81	A27	Shared document	extract	
+A27-S82	A27	Archive techniques	extract	
+A27-S83	A27	Edit	extract	
+A27-S84	A27	Correspondence	extract	
+A27-S85	A27	Correspondence	extract	
+A27-S86	A27	Staffing question	extract	
+A27-S87	A27	Correspondence	extract	
+A27-S88	A27	Transcript	extract	
+A27-S89	A27	Restoration	extract	
+A27-S90	A27	Transcript	extract	
+A27-S91	A27	Contact	extract	
+A27-S92	A27	Documentation	extract	
+A27-S93	A27	Press reach	extract	
+A27-S94	A27	Correspondence	extract	
+A27-S95	A27	Reply	extract	
+A27-S96	A27	Broken links	extract	
+A27-S97	A27	Correspondence	extract	
+A27-S98	A27	Documentation	extract	
+A27-S99	A27	Correspondence	extract	
+A27-S100	A27	Broken links	extract	
+A27-S101	A27	Correspondence	extract	
+A27-S102	A27	Reply	extract	
+A27-S103	A27	Invoice	extract	
+A27-S104	A27	Travel booking	extract	
+A27-S105	A27	Shared image	extract	
+A27-S106	A27	Shared image	extract	
+A27-S107	A27	Terminology	extract	
+A27-S108	A27	Drafting comments	extract	
+A27-S109	A27	Electoral strategy	extract	
+A27-S110	A27	Terminology	extract	
+A27-S111	A27	Draft revisions	extract	
+A27-S112	A27	Grammar	extract	
+A27-S113	A27	Notebook access	extract	
+A27-S114	A27	Notebook access	extract	
+A27-S115	A27	Notebook access	extract	
+A27-S116	A27	Notebook access	extract	
+A27-S117	A27	Notebook	extract	
+A27-S118	A27	Notebook access	extract	
+A27-S119	A27	Notebook access	extract	
+A27-S120	A27	Notebook access	extract	
+A27-S121	A27	Access request	extract	
+A27-S122	A27	Reply	extract	
+A27-S123	A27	Photo	extract	
+A27-S124	A27	Summit	extract	
+A27-S125	A27	Exhibition follow-up	extract	
+A27-S126	A27	Official photograph	extract	
+A27-S127	A27	Notes	source-metadata	
+A27-S128	A27	Shared document	extract	
+A27-D41	A27	Rally programme	full-treated	data/A27-D41.txt
+A27-D42	A27	Teaching proposal	extract	data/A27-D42.txt
+A27-D43	A27	Palme release	full-treated	data/A27-D43.txt
+A27-D44	A27	Debate questions	full-treated	data/A27-D44.txt
+A27-D45	A27	Script drafts	extract	data/A27-D45.txt
+A27-D46	A27	Congress captions	full-treated	data/A27-D46.txt
+A27-D47	A27	Opening transcript	full-treated	data/A27-D47.txt
+A27-D48	A27	Congress transcript	full-treated	data/A27-D48.txt
+A27-D49	A27	Press release	full-treated	data/A27-D49.txt
+A28-D01	A28	Congress photograph	source-image	media/A28-D01.jpeg
+A28-D02	A28	Author portrait	source-image	images/A28-D02.jpg
+A28-D03	A28	Installation	image-extract	media/A28-D03-detail.png
+A28-D04	A28	Installation image	source-image	images/A28-D04.jpg
+A28-D05	A28	Installation image	source-image	images/A28-D05.png
+A28-D06	A28	Installation image	source-image	media/A28-D06.png
+A28-S01	A28	Public proposal	extract	
+A28-S02	A28	Meeting	extract	
+A28-S03	A28	Meeting	extract	
+A28-S04	A28	Festival	extract	
+A28-S05	A28	Presentation	extract	
+A28-S06	A28	Correspondence	extract	
+A28-S07	A28	Participation	extract	
+A28-S08	A28	Participation	extract	
+A28-S09	A28	Programme	extract	
+A28-S10	A28	Planning	extract	
+A28-S11	A28	Reply	extract	
+A28-S12	A28	Participation	extract	
+A28-S13	A28	Reply	extract	
+A28-S14	A28	Publicity	extract	
+A28-S15	A28	Publicity	extract	
+A28-S16	A28	Promotion	extract	
+A28-S17	A28	Performance planning	extract	
+A28-S18	A28	Festival	extract	
+A28-S19	A28	Reply	extract	
+A28-S20	A28	Prerecordings	source-metadata	
+A28-S21	A28	Prerecordings	source-metadata	
+A28-S22	A28	Correspondence	extract	
+A28-S23	A28	Version	extract	
+A28-S24	A28	Debate questions	extract	
+A28-S25	A28	Correspondence	extract	
+A28-S26	A28	Correspondence	extract	
+A28-S27	A28	Images	extract	
+A28-S28	A28	Photos	extract	
+A28-S29	A28	Image permission	extract	
+A28-S30	A28	Public festival	extract	
+A28-S31	A28	Publicity	extract	
+A28-S32	A28	Cancellation	extract	
+A28-S33	A28	Public gathering	extract	
+A28-S34	A28	Reply	extract	
+A28-S35	A28	Reply	extract	
+A28-S36	A28	Cancellation	extract	
+A28-S37	A28	Cancellation	extract	
+A28-S38	A28	Receipt	extract	
+A28-S39	A28	Technical proposal	extract	
+A28-S40	A28	Correspondence	extract	
+A28-S41	A28	Archive link	extract	
+A28-S42	A28	Dissertation	extract	
+A28-S43	A28	Research	extract	
+A28-S44	A28	Dissertation	extract	
+A28-S45	A28	Correspondence	extract	
+A28-S46	A28	Research	extract	
+A28-S47	A28	Research	extract	
+A28-S48	A28	Photo	extract	
+A28-S49	A28	Photo	extract	
+A28-S50	A28	Reply	extract	
+A28-S51	A28	Quoted workshop proposal	extract	
+A28-S52	A28	Festival	extract	
+A28-S53	A28	Public interview	extract	
+A28-S54	A28	Public project	extract	
+A28-S55	A28	Research	extract	
+A28-S56	A28	Meeting	extract	
+A28-S57	A28	Public project	extract	
+A28-S58	A28	Participation	extract	
+A28-S59	A28	Correspondence	extract	
+A28-S60	A28	Participation	extract	
+A28-S61	A28	Correspondence	extract	
+A28-S62	A28	Correspondence	extract	
+A28-S63	A28	Follow-up	extract	
+A28-S64	A28	Defence	extract	
+A28-S65	A28	Defence	extract	
+A28-S66	A28	Defence	extract	
+A28-D07	A28	Generated dialogue	source-audio	media/A28-D07.mp3
+A28-D08	A28	Generated dialogue	source-audio	media/A28-D08.mp3
+A28-D09	A28	Generated dialogue	source-audio	media/A28-D09.mp3
+A28-D10	A28	Lars prompt	full-treated	code/A28-D10.ts
+A28-D11	A28	Dialogue configuration	full-treated	code/A28-D11.ts
+A28-D12	A28	Voice test excerpts	audio-extract	media/A28-D12.wav
+A28-D13	A28	Wiktoria prompt	full-treated	code/A28-D13.ts
+A28-D14	A28	Generated dialogue	source-audio	media/A28-D14-01.mp3; media/A28-D14-02.mp3; media/A28-D14-03.mp3; media/A28-D14-04.mp3; media/A28-D14-05.mp3; media/A28-D14-06.mp3; media/A28-D14-07.mp3; media/A28-D14-08.mp3; media/A28-D14-09.mp3; media/A28-D14-10.mp3; media/A28-D14-11.mp3; media/A28-D14-12.mp3; media/A28-D14-13.mp3; media/A28-D14-14.mp3; media/A28-D14-15.mp3; media/A28-D14-16.mp3; media/A28-D14-17.mp3; media/A28-D14-18.mp3; media/A28-D14-19.mp3; media/A28-D14-20.mp3
+A28-D15	A28	LED panel	source-image	images/A28-D15.jpg
+A28-D16	A28	LED panel	source-image	images/A28-D16.jpg
+A28-D17	A28	LED panel	source-image	images/A28-D17.jpg
+A28-D18	A28	Bench plan	full-treated	documents/A28-D18.txt
+A28-D19	A28	Colour samples	source-image	images/A28-D19.png
+A28-D20	A28	Colour samples	full-treated	images/A28-D20.png
+A28-D21	A28	Colour samples	source-image	images/A28-D21.png
+A28-D22	A28	Equipment	source-image	images/A28-D22.jpg
+A28-D23	A28	Equipment	source-image	images/A28-D23.jpg
+A28-D24	A28	Source	full-treated	data/A28-D24.md
+A28-D25	A28	Exhibition invoice	extract	documents/A28-D25.txt
+A28-D26	A28	Generated image	source-image	images/A28-D26.png
+A28-D27	A28	Exhibition draft	source-image	images/A28-D27.jpg
+A28-D28	A28	Exhibition draft	source-image	images/A28-D28.jpg
+A28-D29	A28	Poster draft	full-treated	documents/A28-D29.txt
+A28-D30	A28	Poster draft	full-treated	documents/A28-D30.txt
+A28-D31	A28	Poster draft	full-treated	documents/A28-D31.txt
+A28-D32	A28	Exhibition flyer	full-treated	documents/A28-D32.txt
+A28-D33	A28	Archive concept	full-treated	documents/A28-D33.txt
+A28-D34	A28	Conference concept	extract	documents/A28-D34.txt
+A28-D35	A28	Ballot mock-up	source-image	images/A28-D35.png
+A28-D36	A28	Workshop newsletter	full-treated	documents/A28-D36.txt
+A28-D37	A28	Ballot mock-up	source-image	images/A28-D37.png
+A28-D38	A28	Mobile congress	extract	documents/A28-D38.txt
+A28-D39	A28	Mobile congress	full-treated	documents/A28-D39.txt
+A28-S67	A28	LED quotation	extract	
+A28-S68	A28	Bench quotation	extract	
+A28-S69	A28	Equipment	extract	
+A28-S70	A28	Exhibition title	extract	
+A28-S71	A28	Follow-up	extract	
+A28-S72	A28	Transport	extract	
+A28-S73	A28	Transport	extract	
+A28-S74	A28	LED specification	extract	
+A28-S75	A28	Equipment	extract	
+A28-S76	A28	Transport	extract	
+A28-S77	A28	Transport	extract	
+A28-S78	A28	Shared folder	extract	
+A28-S79	A28	Transport	extract	
+A28-S80	A28	Transport	extract	
+A28-S81	A28	Correspondence	extract	
+A28-S82	A28	Correspondence	extract	
+A28-S83	A28	Exhibition	extract	
+A28-S84	A28	Installation	extract	
+A28-S85	A28	Meeting	extract	
+A28-S86	A28	Colours	extract	
+A28-S87	A28	Paint	extract	
+A28-S88	A28	Benches	extract	
+A28-S89	A28	Access dimensions	extract	
+A28-S90	A28	Reply	extract	
+A28-S91	A28	Shared folder	extract	
+A28-S92	A28	Prompting	extract	
+A28-S93	A28	Historical code	extract	documents/A28-S93.md
+A28-S94	A28	Attachment	attachment-metadata	
+A28-S95	A28	Shared code	extract	
+A28-S96	A28	Dialogue example	extract	
+A28-S97	A28	Image credit	extract	
+A28-S98	A28	Reply	extract	
+A28-S99	A28	Reply	extract	
+A28-S100	A28	Reading	extract	
+A28-S101	A28	AI toys	extract	
+A28-S102	A28	Reading	extract	
+A28-S103	A28	Editing	extract	
+A28-S104	A28	Editing	extract	
+A28-S105	A28	Editing	extract	
+A28-S106	A28	Editing	extract	
+A28-S107	A28	Flyer draft	extract	
+A28-S108	A28	Editing	extract	
+A28-S109	A28	Correspondence	extract	
+A28-S110	A28	Design format	extract	
+A28-S111	A28	Design	extract	
+A28-S112	A28	Correspondence	extract	
+A28-S113	A28	Flyer draft	extract	
+A28-S114	A28	Postponement	extract	
+A28-S115	A28	Postponement	extract	
+A28-S116	A28	Reply	extract	
+A28-S117	A28	Greeting	extract	
+A28-S118	A28	Postponement	extract	
+A28-S119	A28	Exhibition schedule	extract	
+A28-S120	A28	Meeting	extract	
+A28-S121	A28	Correspondence	extract	
+A28-S122	A28	Publicity planning	extract	
+A28-S123	A28	Flyers	extract	
+A28-S124	A28	Correspondence	extract	
+A28-S125	A28	Newsletter	extract	
+A28-S126	A28	Correspondence	extract	
+A28-S127	A28	Meeting	extract	
+A28-S128	A28	Meeting	extract	
+A28-S129	A28	Connection	extract	
+A28-S130	A28	Connection	extract	
+A28-S131	A28	Connection	extract	
+A28-S132	A28	Attachment	attachment-metadata	
+A28-S133	A28	Flyer planning	extract	
+A28-S134	A28	Attachments	attachment-metadata	
+A28-S135	A28	Design	extract	
+A28-S136	A28	Correspondence	extract	
+A28-S137	A28	Research	extract	
+A28-S138	A28	Research	extract	
+A28-S139	A28	Follow-up	extract	
+A28-S140	A28	Conference	extract	
+A28-S141	A28	Newsletter	extract	
+A28-S142	A28	Newsletter	extract	
+A28-S143	A28	Preparatory research	extract	documents/A28-S143.md
+A28-S144	A28	Opening draft	extract	documents/A28-S144.md
+A28-S145	A28	Summit speeches	extract	documents/A28-S145.md
+A28-S146	A28	Opening draft	extract	documents/A28-S146.md
+A28-S147	A28	Summit speeches	extract	documents/A28-S145.md
+A28-S148	A28	Delivery failure	extract	
+A28-S149	A28	Publication requirements	extract	
+A28-S150	A28	Deadline	extract	
+A28-S151	A28	Reminder	extract	
+A28-S152	A28	Material deadline	extract	
+A28-S153	A28	Material deadline	extract	
+A28-S154	A28	Publicity	extract	
+A28-S155	A28	Editorial use	extract	
+A28-D40	A28	System architecture	full-treated	code/A28-D40.md
+A28-D41	A28	Dialogue configuration	full-treated	code/A28-D41.ts
+A28-D42	A28	Project description	full-text	data/A28-D42.txt
+A28-D43	A28	Asset manifest	full-treated	data/A28-D43.txt
+A28-D44	A28	Political jokes	full-treated	data/A28-D44.txt
+A28-D45	A28	Mostdipf corpus	full-treated	data/A28-D45.txt
+A29-D01	A29	Generated simulation	extract	media/A29-D01.png; documents/A29-D01.txt
+A29-D02	A29	Public lecture	full-image	images/A29-D02-extract.png
+A29-D03	A29	Document	extract	media/A29-D03.png; documents/A29-D03.txt
+A29-D04	A29	Installation	image-redacted	images/A29-D04-extract.png
+A29-D05	A29	Workspace	image-redacted	images/A29-D05-extract.png
+A29-D06	A29	Research link	source-image	images/A29-D06.png
+A29-D07	A29	Research link	source-image	images/A29-D07.png
+A29-D08	A29	Installation	image-redacted	images/A29-D08-extract.png
+A29-D09	A29	Exhibition	image-redacted	images/A29-D09-extract.png
+A29-D10	A29	Printed artwork	image-extract	images/A29-D10-extract.png
+A29-D11	A29	Exhibition posters	frame-extract	images/A29-D11-frame.png
+A29-D12	A29	Gallery	image-redacted	images/A29-D12-extract.png
+A29-D13	A29	Exhibition setup	source-image	images/A29-D13.jpg
+A29-D14	A29	Display equipment	image-extract	images/A29-D14-extract.png
+A29-D15	A29	Exhibition	image-redacted	images/A29-D15-extract.png
+A29-D16	A29	Generated study	source-image	images/A29-D16.png
+A29-D17	A29	Installation	frame-extract	images/A29-D17-frame.png
+A29-D18	A29	Installation	image-extract	images/A29-D18-extract.png
+A29-D19	A29	Source	withheld	
+A29-D20	A29	Workspace	image-redacted	images/A29-D20-extract.png
+A29-D21	A29	Workspace	frame-extract	images/A29-D21-frame.png
+A29-D22	A29	Gallery detail	visual-fragment	images/A29-D22-frame.png
+A29-D23	A29	Workspace	image-redacted	images/A29-D23-extract.png
+A29-D24	A29	Generated study	source-image	images/A29-D24.png
+A29-D25	A29	Title whiteboard	full-treated	documents/A29-D25.txt; media/A29-D25.jpg
+A29-D26	A29	Setup whiteboard	full-treated	documents/A29-D26.txt; media/A29-D26.jpg
+A29-D27	A29	Correspondence	extract	data/A29-D27.md
+A29-D28	A29	Correspondence	extract	data/A29-D28.md
+A29-D29	A29	Correspondence	extract	data/A29-D29.md
+A29-D30	A29	Correspondence	extract	data/A29-D30.md
+A29-D31	A29	Correspondence	extract	data/A29-D31.md
+A29-D32	A29	Correspondence	extract	data/A29-D32.md
+A29-D33	A29	Correspondence	extract	data/A29-D33.md
+A29-D34	A29	Correspondence	extract	data/A29-D34.md
+A29-D35	A29	Correspondence	extract	data/A29-D35.md
+A29-D36	A29	Correspondence	extract	data/A29-D36.md
+A29-D37	A29	Correspondence	extract	data/A29-D37.md
+A29-D38	A29	Correspondence	extract	data/A29-D38.md
+A29-D39	A29	Correspondence	extract	data/A29-D39.md
+A29-D40	A29	Correspondence	extract	data/A29-D40.md
+A29-D41	A29	Correspondence	extract	data/A29-D41.md
+A30-D01	A30	Institutional reply	extract	documents/A30-D01.txt; media/A30-D01.jpg
+A30-D02	A30	Article draft	full-treated	documents/A30-D02.txt; media/A30-D02.png
+A30-D03	A30	Document	extract	documents/A30-D03.txt
+A30-D04	A30	Exhibition plan	source-image	images/A30-D04.jpg
+A30-D05	A30	Project proposal	extract	documents/A30-D05.txt
+A30-D06	A30	Material test	source-image	media/A30-D06.jpg
+A30-D07	A30	Material test	image-extract	images/A30-D07-extract.png
+A30-D08	A30	Fabric test	source-image	images/A30-D08.jpg
+A30-D09	A30	Fabric test	source-image	images/A30-D09.jpg
+A30-D10	A30	Fabric test	source-image	images/A30-D10.jpg
+A30-D11	A30	Fabric test	source-image	media/A30-D11.jpg
+A30-D12	A30	Caption draft	extract	documents/A30-D12.txt; media/A30-D12.png
+A30-D13	A30	Caption draft	full-treated	documents/A30-D13.txt; media/A30-D13.png
+A30-D14	A30	Caption draft	extract	documents/A30-D14.txt; media/A30-D14.png
+A30-D15	A30	Document	extract	documents/A30-D15.txt
+A30-D16	A30	Document	extract	documents/A30-D16.txt
+A30-D17	A30	Document	extract	documents/A30-D17.txt
+A30-D18	A30	Installation	image-redacted	images/A30-D18-extract.png
+A30-D19	A30	Projection test	source-image	media/A30-D19.jpg
+A30-D20	A30	Projection test	source-image	images/A30-D20.jpg
+A30-D21	A30	Station	image-extract	images/A30-D21-extract.png
+A30-D22	A30	Equipment options	source-image	images/A30-D22.png
+A30-D23	A30	Interview reply	extract	documents/A30-D23.txt
+A30-D24	A30	Apparatus	image-extract	images/A30-D24-extract.png
+A30-D25	A30	Apparatus	image-extract	images/A30-D25-extract.png
+A30-D26	A30	Apparatus	image-extract	images/A30-D26-extract.png
+A30-D27	A30	Apparatus	image-extract	images/A30-D27-extract.png
+A30-D28	A30	Exhibition display	source-image	media/A30-D28.jpg
+A30-D29	A30	Correspondence	extract	data/A30-D29.md
+A30-D30	A30	Correspondence	extract	data/A30-D30.md
+A30-D31	A30	Correspondence	extract	data/A30-D31.md
+A30-D32	A30	Correspondence	extract	data/A30-D32.md
+A31-S01	A31	Research correspondence	extract	extracts/A31-S01.md
+A31-S02	A31	Research correspondence	extract	extracts/A31-S02.md
+A31-S03	A31	Research correspondence	extract	extracts/A31-S03.md
+A31-S04	A31	Research correspondence	extract	documents/A31-S04.md
+A31-S05	A31	Research correspondence	extract	extracts/A31-S05.md
+A31-S06	A31	Research correspondence	extract	extracts/A31-S06.md
+A31-S07	A31	Research correspondence	extract	extracts/A31-S07.md
+A31-S08	A31	Research correspondence	extract	extracts/A31-S08.md
+A31-S09	A31	Research correspondence	extract	
+A32-D01	A32	Response cards	full-treated	documents/A32-D01.txt
+A32-D02	A32	Model update	full	data/A32-D02.txt
+A32-D03	A32	Earlier script	full	data/A32-D03.txt
+A32-D04	A32	ChatDolphin script	full	data/A32-D04.txt
+A32-D05	A32	Summit banner	source-image	images/A32-D05.jpg
+A32-S01	A32	Correspondence	extract	extracts/A32-S01.md
+A32-S02	A32	Correspondence	extract	extracts/A32-S02.md
+A32-S03	A32	Correspondence	extract	extracts/A32-S03.md
+A32-S04	A32	Correspondence	extract	extracts/A32-S04.md
+A32-S05	A32	Correspondence	extract	extracts/A32-S05.md
+A32-S06	A32	Correspondence	extract	extracts/A32-S06.md
+A32-S07	A32	Correspondence	extract	extracts/A32-S07.md
+A32-S08	A32	Correspondence	extract	extracts/A32-S08.md
+A32-S09	A32	Operator correspondence	extract	
+A32-S10	A32	Correspondence	extract	extracts/A32-S10.md
+A32-S11	A32	Operator correspondence	extract	
+A32-S12	A32	Correspondence	extract	extracts/A32-S12.md
+A32-S13	A32	Correspondence	extract	extracts/A32-S13.md
+A32-S14	A32	Operator correspondence	extract	
+A32-S15	A32	Correspondence	extract	extracts/A32-S15.md
+A32-S16	A32	Correspondence	extract	extracts/A32-S16.md
+A32-S17	A32	Operator correspondence	extract	
+A32-S18	A32	Operator correspondence	extract	
+A32-S19	A32	Correspondence	extract	extracts/A32-S19.md
+A32-S20	A32	Correspondence	extract	extracts/A32-S20.md
+A32-S21	A32	Correspondence	extract	extracts/A32-S21.md
+A32-S22	A32	Operator correspondence	extract	
+A32-S23	A32	Correspondence	extract	extracts/A32-S23.md
+A32-S24	A32	Correspondence	extract	extracts/A32-S24.md
+A32-S25	A32	Correspondence	extract	extracts/A32-S25.md
+A32-S26	A32	Operator correspondence	extract	
+A32-S27	A32	Correspondence	extract	extracts/A32-S27.md
+A32-S28	A32	Correspondence	extract	extracts/A32-S28.md
+A32-S29	A32	Operator correspondence	extract	
+A32-S30	A32	Broadcast reference	extract	
+A32-S31	A32	Correspondence	extract	extracts/A32-S31.md
+A32-S32	A32	Correspondence	extract	extracts/A32-S32.md
+A32-S33	A32	Correspondence	extract	extracts/A32-S33.md
+A32-S34	A32	Correspondence	extract	extracts/A32-S34.md
+A32-S35	A32	Correspondence	extract	extracts/A32-S35.md
+A32-S36	A32	Broadcast reference	extract	
+A32-S37	A32	Broadcast reference	extract	
+A32-S38	A32	Broadcast reference	extract	
+A32-S39	A32	Broadcast reference	extract	
+A32-S40	A32	Broadcast reference	extract	
+A32-S41	A32	Correspondence	extract	extracts/A32-S41.md
+A32-S42	A32	Correspondence	extract	extracts/A32-S42.md
+A32-S43	A32	Correspondence	extract	extracts/A32-S43.md
+A32-S44	A32	Correspondence	extract	extracts/A32-S44.md
+A32-S45	A32	Correspondence	extract	extracts/A32-S45.md
+A32-S46	A32	Correspondence	extract	extracts/A32-S46.md
+A32-S47	A32	Correspondence	extract	extracts/A32-S47.md
+A32-S48	A32	Correspondence	extract	extracts/A32-S48.md
+A32-S49	A32	Operator correspondence	extract	
+A32-S50	A32	Technical service	extract	
+A32-S51	A32	Operator correspondence	extract	
+A32-S52	A32	Technical service	extract	
+A32-S53	A32	Technical service	extract	
+A32-S54	A32	Operator correspondence	extract	
+A32-S55	A32	Technical service	extract	
+A32-S56	A32	Operator correspondence	extract	
+A32-S57	A32	Technical service	extract	
+A32-S58	A32	Operator correspondence	extract	
+A32-S59	A32	Technical service	extract	
+A32-S60	A32	Correspondence	transport-metadata	extracts/A32-S60.md
+A32-S61	A32	Correspondence	transport-metadata	extracts/A32-S61.md
+A32-S62	A32	Correspondence	extract	extracts/A32-S62.md
+A32-S63	A32	Correspondence	attachment-metadata	extracts/A32-S63.md
+A32-S64	A32	Operator correspondence	extract	
+A32-D06	A32	Party conditions	full	data/A32-D06.txt
+A32-D07	A32	Lecture text	full	data/A32-D07.txt

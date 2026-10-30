@@ -1,0 +1,101 @@
+A23-D02 | Summit application
+
+PDF text extraction; layout and embedded images are not reproduced.
+
+[Source page 1]
+
+                                        Edge of Government 2023
+                                              Information Request
+
+Project Name: The Synthetic Party (Det Syntetiske Parti)
+Country: Denmark
+
+The Edge of Government is a highly visual, interactive experience. We are interested in assets that you might already have that illustrate
+your work and its impact (videos, demos, games, prototypes, technology, posters, case studies, etc.). Kindly provide a list of such assets
+below.
+
+Asset list                          Quantity     Format (high resolution)        Resolution/Dimensions     Additional Information
+
+
+Posters, made with AI for campaign   5 + 200     HQ                              1,5-1 meter
+AI images of synthetic voter         +5000      HQ                         1224x1224
+population
+Synthetic video + voice of party      5         HQ                         1224x1224
+secretary
+                                                                                    Diverse
+Also: Flyers for campaigning,
+chatbot transcripts, videos from
+global media and YouTubers, media
+collages, sonic artwork on policy,
+merchandise (caps, t-shirts, cups),
+stories and case studies, video from
+public events, etc.
+
+Would you be able to suggest/mobilise two members of the team to travel to Dubai and be part of the Edge of Government?
+(The Centre could provide official invites if necessary).
+
+
+
+[████]
+
+[Source page 2]
+
+Please provide the following information and feel free to use as much space as needed:
+
+1)  Setting the stage- what issues is this solution addressing.
+
+   The Synthetic Party in Denmark raises a double-edged scenario: what should we do if the “robot uprising” has already happened, and the
+
+   prophesied explosion of artificial superintelligence only led to an endless supercharging of bureaucratic stupidity?
+
+
+           1) Should this turn the buzzwords of artificial intelligence, disruption and digitisation into an antagonist democratic threat on a par
+
+           with how global social movements fight capitalism, climate change, and racial injustice?
+
+           2) Or could one imagine that bureaucratic robot power is a chance to ally with the machines with the aim of causing a genuine
+
+          democratic revolt?
+
+
+   Thus, The Synthetic Party evokes a radical ethical dilemma: should a societal robot uprising evoke societal protest - or a revolution? That
+
+     is: Can today’s society actually change technology, or should people and technology first set out to remake society?
+
+
+   The general ambition of The Synthetic Party  is to create a globally distributed network of AI-driven parties named The Synthetic
+
+    International that works towards a democratic use of AI to achieve parliamentary influence on contemporary politics of technology.
+
+2)  Description of solution
+
+
+The Synthetic Party is an AI-driven political party from Denmark. Its ambition is to optimise the Danish voting percentage to 100% by
+collecting data from the “fringe parties” that were not on the ballot for election. The party figurehead is the Discord-chatbot “Leader Lars”
+that continuously discuss politics with people from all over the world. The deployed AI is a finetuned GPT Neo20xB-model from EleutherAI.
+The Synthetic Party is running for the Danish parliament elections, and proposes that human representatives can act as mediums for the AI
+within the government.
+
+3)  Expectations and projections of impact of solution
+
+
+          -  The Synthetic Party can provide a model for AI-driven politics
+          -  The Synthetic Party can move the political debate on AI from regulations to co-creation
+          -  The Synthetic Party can gather momentum for discussing the automated decision-making within government
+
+4) Data on actual impact of solution on economy/society – such as, number of people benefitted from the solution, Return on Investment,
+   etc…
+
+
+There is no official data, as the project was only launched in 2022. We have managed to evoke a global media debate (+400 original articles)
+in all the world’s countries and we are facilitating a new way of discussing AI and politics. The party is also participating in many cultural
+events, academic and political debates and art exhibitions in Denmark. The party has been named as one of the top trends that can actually
+change society in the long term by the German journal Zeit Für X.
+
+5)  Countries where this solution/innovation has been implemented
+
+
+We have been in contact with people from Argentine, Colombia, France, Greece, Moldova and Russia that wanted to make a Synthetic Party
+in their respective nations with our conceptual and technical setup.
+
+[Source page 3]

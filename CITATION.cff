@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Cite the source dossiers and the record consulted; see CITING.md."
+type: dataset
+title: "Intelligence Assessment: First Term of The Synthetic Party"
+version: "v.01"
+authors:
+  - family-names: "Staunæs"
+    given-names: "Asker Bryld"
+url: "https://github.com/ComputerLars/intelligence-assessment-first-term-of-the-synthetic-party"
+abstract: "Source dossiers accompanying Intelligence Assessment: First Term of The Synthetic Party. The European Democracy Sword is the assessment's fictional investigating bureau."

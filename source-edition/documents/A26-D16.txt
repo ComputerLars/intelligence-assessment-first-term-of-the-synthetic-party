@@ -1,0 +1,11 @@
+A26-D16 | Ledger entries
+
+Selected fields transcribed from the supplied screenshot. Four fully visible rows are recorded in their displayed order; the next row is clipped. Account and voucher identifiers are excised. These paired positive and negative postings must not be summed as four independent expenses.
+
+Date | Description | Quantity | Cost
+[████] | Reposting, [████] | 1 | -6.108,09
+[████] | Reposting, [████] | 1 | -2.708,45
+[████] | Hotel, [████] | 1 | 2.708,45
+[████] | Performance fee, [████] | 1 | 6.108,09
+
+[████]

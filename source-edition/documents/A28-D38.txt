@@ -1,0 +1,43 @@
+A28-D38 | Mobile congress
+
+PDF text extraction; layout and embedded images are not reproduced.
+
+[Source page 1]
+
+ARTWORK
+
+Title: Speaking in Public MIT KI
+Year: 2026
+Medium: mobile installation, electric vehicles, sound system, microphones, LED displays, printed
+documents, on-device artificial intelligence interfaces
+
+Speaking in Public MIT KI is a mobile installation staging the political party MIT KI as an apparatus of
+public address. Electric vehicles carry loudspeakers, microphones, LED displays, printed documents, and
+on-device artificial intelligence interfaces. Together, they form a temporary setting for public speech,
+proposals, and responses. The work organizes the technical and spatial conditions that make political
+speech audible, visible, and contestable in public space.
+
+The installation functions as a minimal party congress. Visitors, delegates, press, and members of the
+public take part in structured conversations on the MIT KI programme. MIT KI is a synthetic political
+party preparing to run for mayor in Linz in 2027. There are three festival moments when assemblies
+activate a forum for decision-making. Participants formulate proposals and respond to positions generated
+by synthetic agents. They also negotiate priorities for the party’s programme and organisational direction.
+
+Sound functions as a medium of political presence. Speeches, statements, and synthetic voices circulate
+through the audio system. Legitimacy is tested in the public voicing of positions, others' responses, and
+exposure to shared judgment. The installation draws on the formats of campaign vehicles, mobile stages,
+and sound system culture. It stages the party as an interface between representation, technical mediation,
+and shared authorship. Within this setting, human participants and synthetic agents shape programmes,
+positions, and procedures together.
+
+
+BIOGRAPHY
+
+MIT KI is a synthetic political party started in Linz [████]. The project develops experimental institution-building formats.
+It investigates how political organisation arises through interactions between human and synthetic agents.
+Working across practice-based research and participatory performance, MIT KI explores presence,
+legitimacy, and collective decision-making. These qualities take form through technical interfaces and
+rule-based procedures. The project treats the political party as an evolving deliberative infrastructure
+rather than a fixed representational structure. Previous formats include KI Dipfel Gipfeltreffen, a four-day
+series of speculative rule-play assemblies. These were developed with Computer Lars of the Synthetic
+Party in Denmark.

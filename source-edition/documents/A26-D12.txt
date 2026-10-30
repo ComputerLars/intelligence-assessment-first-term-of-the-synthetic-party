@@ -1,0 +1,58 @@
+A26-D12 | Reimbursement
+
+PDF text extraction; layout and embedded images are not reproduced.
+
+[Source page 1]
+
+Reimbursement Form
+
+
+Name:        [████]                             Expense Period
+
+Purpose:      To participate SYNTHETIC SUMMI        From              To
+
+[████]
+
+              Account No.        : [████]
+
+
+[████]
+
+Itemized Expenses
+
+  Date           Description                       Category        Amount Paid (DKK)
+
+[████]     [████]           Transit Hotel            DKK 565,53                    1.131,06
+
+[████]    [████]        Hotel                DKK 1.310,40                    2.620,80
+
+[████]    [████] Train                  DKK 958,00                       1.916
+
+                                                              Subtotal:       DKK 2.833,93
+
+*Don't forget to attach receipts*                 Advance Payment:          DKK 0,00
+
+                                                  Total Reimbursement:      DKK 2.833,93
+
+Employee Signature: [████]                                 Date: [████]
+
+
+Address :         [████]
+
+[████]
+
+[Source page 3]
+
+565,53               ###   DKK 0,00
+
+1310,4               ###   DKK 0,00
+
+  958               ###   DKK 0,00
+
+    0         DKK 0,00    DKK 0,00
+
+    0         DKK 0,00    DKK 0,00
+
+    0         DKK 0,00    DKK 0,00
+
+    0         DKK 0,00    DKK 0,00

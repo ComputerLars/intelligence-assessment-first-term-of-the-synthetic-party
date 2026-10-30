@@ -1,0 +1,186 @@
+A27-D05 | SYNTHETICISM_ POLITICAL AI AND THE TECHNO-SOCIAL.docx
+
+PDF text extraction; layout and embedded images are not reproduced.
+
+[Source page 1]
+
+ SYNTHETICISM: POLITICAL AI AND THE TECHNO-SOCIAL
+ Alternative Data Futures Consortium | The “Synthetic Summit”, 2025
+ Date/Time: Monday, 30 March, 14:00–17:00
+ Location: Kunsthal Aarhus, Galleri 1 (Synthetic Summit Exhibition)
+
+
+Session Overview
+
+14:05–14:45 — Welcome Delegates & Lecture Tour
+
+"Welcome to the Synthetic Summit, esteemed delegates of the
+Alternative Data Futures Consortium. Your mission today is to report
+and gauge whether the virtual politicians and synthetic parties
+assembled here articulate an alternative 'AI ideology,' contrasting
+democratically from hyped technoliberalisms of tech bro oligarchs."
+
+Guide: Computer Lars
+
+14:45–15:45 — Consortium Reports: Hands-On Investigation
+
+Your consortium divides into 11 delegate groups (G1–G11), rotating
+between five interactive installations, labeled by Floor Plan
+number. Each visit lasts 12 minutes, after which groups move on to
+their next station. In the interest of avoiding congestion, please
+stagger arrival or consider detours if another group is wrapping up.
+
+   ●  Number 1: Radio Palme
+       Transistor radio, generative AI phone calls.
+       Olof Palme’s (AI Partiet, Sweden) call-in-based broadcast.
+
+   ●  Number 2: Techno-Social Notice
+       Notice board, paper, images, drawings, 2.5-inch SATA drives.
+       Techno-social sign system unfolding the summit’s course.
+
+   ●  Number 5: Playtest for Broad Listening
+       Speech-to-image AI, tulle screen, microphones, bean bags.
+       Finnish AI Party’s AI-led listening—even to adversarial voices.
+
+   ●  Number 10: Synthetic Summit Simulator
+       TV monitor, multi-agent group chat in Silly Tavern-framework, LLM:
+      Llama 3.1 405B:nitro.
+       The summit’s AI-led deliberations, dramatized via prompting.
+
+   ●  Number 11: Wiktoriomat [████]
+       Phone booth + AI conversation + video.
+       Time-travel link between Wiktoria Cukt’s 2000 campaign, “Politicians
+      Are Obsolete.”, and the AI “Wiktoria Cukt 2.0”.
+
+
+Task: During your 12-minute visits, gather 1–2 key “intel” points
+about how each installation imagines or disrupts democracy,
+
+[Source page 2]
+
+political representation, or “AI politics.” Post these to the
+Consortium Miro Board for later reference.
+
+Rotation Blocks (5 × 12 minutes)
+
+   ●  Block 1: 14:45–14:57
+
+   ●  Block 2: 14:57–15:09
+
+   ●  Block 3: 15:09–15:21
+
+   ●  Block 4: 15:21–15:33
+
+   ●  Block 5: 15:33–15:45
+
+Note: With 11 groups and 5 stations, some overlaps of delegates may
+be unavoidable. If you find another group already on site, please
+share or take turns efficiently. Each station can likely accommodate
+a few groups simultaneously without interference—keep track of time
+and allow space for each other. Explore the non-interactive stations
+in the meantime, or sit down and hold a briefing on the blue carpet.
+
+Group Paths
+
+   ●  G1: 1 → 2 → 5 → 10 → 11
+
+   ●  G2: 2 → 5 → 10 → 11 → 1
+
+   ●  G3: 5 → 10 → 11 → 1 → 2
+
+   ●  G4: 10 → 11 → 1 → 2 → 5
+
+   ●  G5: 11 → 1 → 2 → 5 → 10
+
+   ●  G6: 1 → 2 → 5 → 10 → 11
+
+   ●  G7: 2 → 5 → 10 → 11 → 1
+
+   ●  G8: 5 → 10 → 11 → 1 → 2
+
+   ●  G9: 10 → 11 → 1 → 2 → 5
+
+   ●  G10: 11 → 1 → 2 → 5 → 10
+
+   ●  G11: 1 → 2 → 5 → 10 → 11
+
+15:45–16:00 — Delegate Recess
+
+Refresh, review notes, and prepare insights.
+
+16:00–16:45 — Performance Pod Presentations
+
+We reconvene at the Planetary Computation Roundtable (2025). Groups
+present a concise, 3-minute improvised “Report to the Consortium.”
+
+[Source page 3]
+
+Frame your group’s findings as if you are official delegates,
+delivering results from your assigned investigations.
+
+   1. Form a “presenter circle” inside the roundtable for each group
+     (starting with no. 1).
+
+   2. Keep it short ( ≈3 minutes/group).
+
+   3. Highlight one or two compelling points of intelligence:
+
+        ○  Where did you see “AI politics” making an unexpected
+           shift or disruption?
+
+        ○  Did any installation spark new questions about democracy
+           and/or artificial intelligence?
+
+Possible Presentation Flow
+
+   ●  (30 seconds) Diplomatic Welcome: One delegate introduces your
+     group’s report—e.g., “We, the Delegation of #Group 1, report
+     from our assigned stations…”
+
+   ●  (1 minute) Key Dispatch: Another delegate reads or reenacts a
+     standout AI exchange, hardware element, or brief note
+     discovered in your rotations.
+
+   ●  (30 seconds) Directive or Resolution: A final delegate states
+     a short concluding remark or “resolution” about how these
+     findings might shape the Summit’s direction.
+
+All 11 groups proceed in quick succession.
+
+16:45–17:00 — Open Plenary
+
+We hold a Consortium Plenary to evaluate the day’s discoveries:
+
+   ●  Are these “synthetic parties” forging any genuine ideology?
+   ●  Can the notion of a plastic or sculptural social realm—where
+     society is moldable via AI—catalyze a real democracy?
+
+Context
+
+Bio of organizer
+ [the operator] (Aarhus University / Kunsthal Aarhus).
+Practice-based philosopher of AI, democracy, and art. Active within
+“Computer Lars,” “Center for Aesthetics of AI Images,” “The
+Synthetic Party,” “Organ of the Autonomous Sciences,” etc.
+
+Blurb
+ This world-building session around Alternative Data Futures visits
+the Synthetic Summit, the world’s first congress for AI-driven
+“virtual politicians”. Engaging with Tiziana Terranova’s outline of
+“technoliberalism,” we report upon whether the Synthetic Summit’s
+
+[Source page 4]
+
+retro-futuristic quasi-parliament nudges democracy away from
+frictionless connectivity toward sculptural or plastic socialities.
+
+Readings
+
+   1. Syntheticism.org Blogs
+
+        ○  “We Have a Win to World”
+
+        ○  “The Virtual Politicians”
+
+   2. Terranova, T. (2024). “Technoliberalism and the Network
+     Social.” Theory, Culture & Society.

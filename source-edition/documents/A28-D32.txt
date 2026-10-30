@@ -1,0 +1,70 @@
+A28-D32 | Exhibition flyer
+
+PDF text extraction; layout and embedded images are not reproduced.
+
+[Source page 1]
+
+                                                                                      A local fork of synthetic politics by Computer Lars (DK)                      Kunstraum Memphis
+                                                                                                    and [████] (AT).                                             Untere Donaulände 12
+                                                                                                                                                        4020 Linz, AT
+                                                                                                                                                                       Mo, Di, Do, Fr 14–18:00
+                                                                                                                                                                      memphismemph.isKI-DIPFIES
+
+                                                              The technosocial sculpture KI-DIPFIES inhabits the exhibition space
+                                                                      as its control interface. It sets up an Upper Austrian party and a
+                                                                       candidate for the 2027 Linz mayoral election. We let it free run until
+                                                             someone interrupts.
+                                                                   The artist collective Computer Lars (creators of The Syn-
+                                                                                  thetic Party and an anagram of Marcel Proust) finetuned the Sagers
+                                                                            of Vitus Mostdipf as a first template to be refactored into a com-
+                                                                      munity workflow that is open to iteration and multiplicity.
+                                                           Man hands on misery to machine. Structurally, the algorithm
+                                                                                                        is overfitting. It inherits the tech-dipf boilerplate of a discrete ver-
+                                                                                nacular. At the same time, it renders Heimat as 20th-century nos-
+                                                                                          talgia. Can a constituency be the patch? You take control of the
+                                                                                  interface. Cross out the program, generate new ones. You sign with
+                                                               a name, click, and leave it in the log. Create a candidate with your
+                                                          own flaws. If you do nothing, KI-DIPFIES hallucinates on.
+                                                                   The initial protocols are drawn from a triple Palettn: Green
+                                                                            to keep grounded; make claims that residents can test. White to
+                                                                   keep the door open; no VIP tiers, no dress code, no jargon gatekeep-
+                                                                                         ing. And Black to keep the right to interrupt, puncture authority
+                                                                           with humor.
+
+                                                 Opening: Thursday, 12 February, 19:00
+                                                      13 February–10 March 2026MMPHS
+
+[Source page 2]
+
+                                                                                                                            Ein lokaler Fork synthetischer Politik von Computer Lars (DK)                 Kunstraum Memphis
+                                                                                                     und [████] (AT).                                             Untere Donaulände 12
+                                                                                                                                                        4020 Linz, AT
+                                                                                                                                                                       Mo, Di, Do, Fr 14–18:00
+                                                                                                                                                                      memphismemph.isKI-DIPFIES
+
+                                                                          KI-DIPFIES ist eine technosoziale Skulptur. Sie besetzt den Ausstel-
+                                                                     lungsraum als Kontrollinterface und konfiguriert dort eine oberös-
+                                                                                terreichische Partei und Kandidat_innen für die Linzer Bürgermeister-
+                                                                     wahl 2027. Sie ist im free-run, bis jemand eingreift.
+                                                                    Das Künstlerkollektiv Computer Lars (Gründer der Synthetic
+                                                                         Party und ein Anagramm von Marcel Proust) unterzog die Sager des
+                                                                               Vitus Mostdipf als erstes Template einem Finetuning, um sie dann
+                                                                                           in einen Community-Workflow zu refaktorisieren: offen für Iteration
+                                                                und Pluralität des Publikums.
+                                                                       Der Mensch reicht das Elend an die Maschine weiter. Struk-
+                                                                                           turell überfittet der Algorithmus. Er erbt die Tech-Dipf-Boilerplate
+                                                                            eines idiomatischen Vernakulars. Zugleich rendert er Heimat als
+                                                                            Nostalgie des 20. Jahrhunderts.
+                                                                                Die Initial-Parameter stammen aus einer dreifachen Palettn:
+                                                                        Grün, um geerdet zu bleiben; Behauptungen, die Linzer:innen prü-
+                                                                         fen können. Weiß, um die Tür offen zu halten; keine VIP-Tiers, kein
+                                                                       Dresscode, kein Jargon-Gatekeeping. Und Schwarz, um das Recht
+                                                                        auf Unterbrechung zu wahren und Autorität mit Humor zu punk-
+                                                                                     tieren. Kann eine Pluralität der Patch sein? Ihr übernehmt die Kon-
+                                                                                           trolle über das Interface. Streicht das Programm, generiert neue.
+                                                                                         Ihr unterschreibt mit einem Namen, klickt und hinterlasst es im Log.
+                                                                        Erzeugt eine Kandidat_in mit euren eigenen Fehlern. Tut ihr nichts,
+                                                                                      halluziniert KI-DIPFIES einfach weiter.
+
+                                                     Eröffnung: Donnerstag, 12 Februar, 19:00
+                                                      13 Februar–10 März 2026MMPHS

@@ -1,0 +1,66 @@
+A25-D09 | International table
+
+Source type: working comparative table. Related version: A27-D03.
+
+--- SOURCE TEXT ---
+
+﻿Table of AI International
+
+
+1. Denmark: Det Syntetiske Parti, and virtual politician Leder Lars
+	Overview: The world's first political party driven by artificial intelligence, established in 2022. The Synthetic Party aims to make generative text-to-text models not merely populist but democratic. It seeks to represent the 20% of Danes who do not vote in elections by machine learning political goals from texts by Danish fringe parties since 1970. It’s figurehead is the chatbot Leder Lars who exists on the party’s Discord-server.
+	Key Creators: Founded by the tech-hub MindFuture and the Computer Lars-group.
+	Official Collaborations: Signed agreements with The Finnish AI Party and The Japanese AI Party for global AI-politics development.
+
+[████]
+
+
+2. New Zealand: Parker Politics (formerly Politician SAM)
+	Overview: Originally launched in 2017 by developer [████], SAM (Semantic Analysis Machine) was to represent the public's views and addresses concerns via social media. Linked to social media platforms like Facebook Messenger, SAM engaged with voters on topics like climate change, healthcare, and education.
+	Key Milestones: Planned to be a candidate for the 2020 New Zealand elections, SAM was later rebranded as Parker Politics in 2023.
+
+[████]
+
+3. Finland: Konealypuolue (literally “Machine Learning Party”), in English known as The AI Party
+	Overview: The AI Party (Konealypuolue) was conceived in 2017 and explored its potential for legal constituency in 2018. The initiative aimed to address these formative aspects by combining the efforts of artists, performance-makers, and AI researchers with the aim of establishing a legally recognized political party. Has since 2020 c-operated with The Australian AI Party and The Swedish AI Party through The International AI Party.
+	Key creator: Kaiken Keskus (Center for Everything), an immersive performing art center
+
+[████]
+
+	Official Collaborations: Signed agreements with The Synthetic Party and The International AI Party for global AI-politics development.
+
+4. Japan: 人工知能が日本を変える党 (The Japanese AI Party) together with the chatbot figurehead 人工メイヤ (AI Mayor Manuzaru)
+	Overview: Focuses on municipal governance through AI since 2018. In the town of Manazuru, an "AI mayor" campaign is led by a group involving activist [████], backed by executives from Softbank and Google. The AI aims to analyze citizen petitions and deliver balanced governance.
+	Key Milestones: This project was first introduced in the Tama city mayoral election in 2018, where [████] ran as a proxy for the AI program.
+
+[████]
+
+	Official Collaborations: Signed agreements with The Synthetic Party for global AI-politics development.
+	
+
+5. Sweden: AI Partiet (The AI Party), and virtual politician Bonnie
+	Overview: The party began its operation in 2020 from an office at Malmö City Theater, where it made use of public input to guide the AI's decision-making.
+
+[████]
+
+	Official Collaborations: Signed agreements with The International AI Party for global AI-politics development, and also with [████] of The American AI Party.
+	
+
+6. Poland: Wiktoria Cukt, virtual presidential candidate and political party
+	- Overview: A project by the Centralny Urząd Kultury Technicznej (C.U.K.T), Wiktoria Cukt was a virtual presidential candidate launched in 2001. W
+Wiktoria Cukt, CUKT’s virtual presidential candidate, was the culmination of the group's projects that used rave parties. The artists created a candidate who was a computer program, so-called Citizen Election Software (OSW, Obywatelski Software Wyborczy). Wiktoria Cukt represented the views of everyone who decided to choose her as a representative of their views. She demonstrated a faith in direct, participatory democracy without unnecessary, harmful middlemen, which CUKT considered politicians to be. Wiktoria Cukt's campaign slogan was: “Politicians are useless”. Each time a campaign office for Wiktoria Cukt was opened, there was a rave party. The parties were an occasion to round up Wiktoria's policies – what people wanted her to say. CUKT members also gathered signatures for her official candidacy and membership declarations for the Wiktoria Cukt political party.
+	Creators: The collective C.U.K.T. (Centralny Urząd Kultury Technicznej, or Central Bureau of Technical Culture), made by Rafał Ewertowski, Mikołaj Jurkowski, Artur Kozdowski, Jacek Niegoda, Maciej Sienkiewicz, and [████].
+
+[████]
+
+7. Australia: The AI Party
+	Overview: Part of international collaborations involving Finland and Sweden from 2017. The AI Party in Australia emphasizes ethical AI governance and community engagement through the Triage Live Art Collective performance group.
+	Made by: Triage Live Art Collective (Performance Troupe)
+
+[████]
+
+	Official Collaborations: Signed agreements with The International AI Party for global AI-politics development.
+	
+
+8. Egypt-Jordan: Simiyya
+	Overview: A platform focusing on technology's interplay with politics and cultural-geographical contexts, with a particular focus on the SWANA-region (Southwest Asia and North Africa). Engaging techno-science as it applies to both local and global political landscapes, Simiyya construct interfaces between decolonialist and rationalist perspectives within the techno-political landscape. As a platform that operates across geopolitical contexts, Simiyya both support those who invest in this overall goal as well as it is becoming an actor in its own right.

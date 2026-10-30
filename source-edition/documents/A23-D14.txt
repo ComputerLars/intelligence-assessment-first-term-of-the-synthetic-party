@@ -1,0 +1,52 @@
+A23-D14 | Research budget
+
+PDF text extraction; layout and embedded images are not reproduced.
+
+[Source page 1]
+
+Ansøgt fra Novo Nordisk Fonden, ph.d.-budget
+
+
+VIP
+                                                     År 1           År 2       År 3       Total MM
+Asker Bryld Staunæs                                             12         12         12            36
+                                                     År 1           År 2       År 3       Total DKK
+Ph.D. Salary                                                  458.692    472.453    486.626      1.417.771
+Samlede lønudgifter                                          458.692    472.453    486.626      1.417.771
+                                                     År 1           År 2       År 3         Total
+Operating costs, data collection, production materials                 8366       8.366       8.366         25.098
+Stay abroad, international workshops and research stay                         30000      20000         50.000
+Conference and tech+art festival participation                        15.[████].[████].[████].000
+Tuition fee                                                      80.[████].[████].[████].000
+Publication costs                                                                        50.[████].000
+Operating expenses, computer and machine learning licens            20000     15.[████].[████].000
+I alt                                                         123.366    148.366    188.366        460.098
+
+
+Samlede direkte omk.                                        582.058    620.819    674.992      1.877.869
+
+
+Direct administrative costs                                     29.103     31.041      33.750         93.893
+
+
+I alt                                                         611.161    651.860    708.742     1.971.762
+
+
+Adm.support                                     5%
+All fields marked with yellow: Please do not alter.
+
+Salary, NB: Fremskrevet med 1,03 pr. år. Baseret på
+takstkatalog for ressourcekostpriser 2022:
+
+https://medarbejdere.au.dk/fileadmin/www.medarbejdere.au.dk/Institutter/AU_oekonomi/OEkonomimanual/Ressourcemodellen/7._2022_-_Takstkatalog_
+
+[Source page 2]
+
+ minimum 50.000 DKK
+ maximum 750.000 DKK
+ maximum 80.000 DKK per year
+ maximum 150.000 DKK
+
+ MUST NOT EXCEED 2 mio. DKK
+
+_for_ressourcekostpriser__D6105785_.pdf

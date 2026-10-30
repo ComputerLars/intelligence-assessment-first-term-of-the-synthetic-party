@@ -1,0 +1,17 @@
+A26-D03 | Implementation proof
+
+PDF text extraction; layout and embedded images are not reproduced.
+
+[Source page 1]
+
+PROOF OF PROJECT IMPLEMENTATION
+
+Our collaborative project [████] was realised between [████].
+
+Asker Bryld Staunæs
+
+Project leader for ‘Synthetic Summit’ Exhibition
+
+Aarhus, Denmark
+
+22.4.2025

@@ -1,0 +1,98 @@
+A26-D27 | Installation requirements
+
+PDF text extraction; layout and embedded images are not reproduced.
+
+[Source page 1]
+
+[████]
+
+To: Asker Bryld Staunæs
+Concerning: Synthetic Summit
+Kunsthal Aarhus
+
+“Wiktoriomat - Phone booth”
+Idea
+Wiktoriomat is an interactive phone booth installation inviting viewers to converse with Wiktoria
+Cukt 2.0—an AI-powered voice bot—through a classic landline. By sharing their perspectives and
+ideas, visitors enrich a dynamic memory known as the “Will of Wiktoria 2.0,” which may also
+inform real-time posts on social media. This playful blend of nostalgia and cutting-edge AI brings
+Wiktoria’s legacy to life as each participant helps shape her evolving vision for the future.
+
+Summary
+In short, the main “Wiktoriomat” installation requires:
+
+• A phone-booth-like structure (metal frame + plexi panels + lightboxes)
+
+• A stationary handset + telephony gateway for phone calls
+
+• An AI “voice bot” system with potential software/hosting subscriptions
+
+• At least three video displays (32" Philips or similar) on VESA mounts
+
+• A computer (MacBook Pro) for video playback and possibly
+
+• Historical artifacts (ads, membership IDs) along with frames for display
+
+• Any needed lines/subscriptions (phone, data, VoIP, Instagram integration)
+This should cover both the items explicitly listed and the implied products/services to make the
+Wiktoriomat fully operational.
+
+Materials and Equipment for the Wiktoriomat
+1) Physical Materials
+• Metal frame and supports
+
+  • Plexi (various dimensions)
+
+  – Plexi 92 × 16 cm × 3
+
+  – Plexi 105 × 16 cm × 6
+
+  • Lightboxes with Wiktoria Cukt 2.0 portrait print
+
+  – One Lightbox 92 × 16 cm
+
+  – Two Lightboxes 52 × 16 cm (×2)
+
+  • Panels and measurements for phone booth structure
+
+  – 24 cm, 133 cm, 100 cm, 60 cm (these could be side/top/bottom panels or internal
+  compartments—clarify with blueprint).
+
+  •–WoodenPossibly surfacean accessfor panelthe phoneor pass-throughand equipmentin the phone booth.
+
+  •–HistoricalOriginal SchwarzkopfArtifacts fromshampoo2000 Campaignad featuring Wiktoria - Gita Schelling - in wooden frame
+
+Wiktoriomat                                Synthetic Summit                                    C.U.K.T.
+
+[Source page 2]
+
+  – ID cards with membership inserts (Partia Wiktorii Cukt). - in wooden frame
+
+  – Lists of support of the Partia Wiktorii Cukt - in frames
+
+2) Subscriptions / Services
+•–TelephoneTo allow thelinegateway)or VoIP tosubscriptionconnect landline- Twiliophone to cellular/VoIP.
+
+••MobileBot/AI hostingdata or platform
+SIM
+– The audio-bot “Wiktoria Cukt 2.0” will be host and run on Elevenlabs cloud
+
+•–n8nFor real-timeplatform subscriptionevent reactions,for thestoringorchestrationor processingand hostingdata.   of the agents group
+
+3) Equipment (Hardware & Devices)
+• Stylized phone booth (Wiktoriomat body)
+
+  • Stationary telephone (wired handset inside the booth)
+
+  • Voip or SIM gate
+• •iPhoneVoice-bot (Wiktoria Cukt 2.0) hardware support
+
+  • Three-channel video projection / TV displays
+
+  – 3 × Philips 32″ TVs (or similar monitors)
+
+  – 3 × wall/booth VESA mounts for the TVs
+
+  • MacBook Pro (for video playback)
+
+Wiktoriomat                                Synthetic Summit                                    C.U.K.T.

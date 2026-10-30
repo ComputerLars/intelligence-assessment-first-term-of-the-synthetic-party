@@ -1,0 +1,24 @@
+{
+  "source": "data/A15-D02.txt",
+  "completed_exchanges": 5097,
+  "operator_label_exchanges": 289,
+  "other_label_exchanges": 4808,
+  "minimum_alphabetic_characters": 10,
+  "scandinavian_codes_grouped": [
+    "da",
+    "nb",
+    "no",
+    "nn",
+    "sv"
+  ],
+  "coded_outside_scandinavian": 3346,
+  "coded_scandinavian": 1187,
+  "other_label_inputs_below_minimum_length": 275,
+  "outside_scandinavian_as_percent_of_all_other_label_exchanges": 69.59234608985025,
+  "classifier": "langid 1.1.6",
+  "numpy_version": "2.3.5",
+  "normalised_scores_used_for_selection": false,
+  "qualification": "Automated screening of whole inputs, not a manually validated language census, nationality inference, voting-eligibility measure or participant count. The older 3,454-input claim is not reinstated.",
+  "analysis_version": "METHOD-A15-A08/2026-10-26",
+  "analysed_representation": "Pre-treatment analysis witness, preserved separately; language classifications are not recalculated from the later public derivative."
+}

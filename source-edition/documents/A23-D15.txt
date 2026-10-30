@@ -1,0 +1,288 @@
+A23-D15 | Til AU, Automatic Uprisings.pdf
+
+PDF text extraction; layout and embedded images are not reproduced.
+
+[Source page 1]
+
+        [the operator]’ practice-based PhD-proposal for a Mads Øvlisen scholarship
+                           Aarhus University & Kunsthal Aarhus
+
+             AUTOMATIC UPRISINGS
+
+                ARCHIVING A TECHNO-SOCIAL SCULPTURE
+
+
+      The bureaucratic mentality is the only constant in the universe
+
+     -   Dr. Leonard McCoy in Star Trek IV: The Voyage Home (1986)
+
+
+Background and purpose
+
+AUTOMATIC UPRISINGS raises a double-edged scenario: what to do if the “robot uprising”
+
+has already happened, and the prophesied explosion of artificial superintelligence only led to
+
+an endless supercharging of bureaucratic stupidity? Its postulate is that this must introduce a
+
+new imperative for politically-engaged artists: namely to employ technologies for a form of
+
+protest that unlearns the abiding cultural imaginaries related to the 4th Industrial Revolution.
+
+Because if the robots have risen to power, then counterpower should be standing with them.
+
+
+Given that artists must fight bureaucratic stupidity, the radical research question should be:
+
+what vision of societal protest became possible through today’s robot uprising? Here, artistic
+
+practice can take upon a responsibility to subvert any futurist projections (that art might itself
+
+have evoked) by recognising buzzwords of artificial intelligence, disruption and digitisation as
+
+antagonist democratic threats on a par with how global social movements fight capitalism,
+
+climate change, or racial injustice.
+
+
+The purpose of the practice-based project is to create an archive for a potential organization
+
+that acts as representative for a contemporary “automatic uprising”. The idea is to document
+
+a techno-social sculpture, The Synthetic International (SI), as a web of political parties driven
+
+by artificial intelligence (AI). From ‘23-26, the task will be to collect visual and textual data
+
+from existing AI advocacy groups (Ada Lovelace Institute, Algorithmic Justice League,
+
+AlgorithmWatch, etc.), and rework source materials (chatbot transcripts, interviews, images)
+
+that I have evoked and facilitated through the global media artwork The Synthetic Party. The
+
+SI’s website will have AI models as its public frontend that respond to textual questions with
+
+imagery - ranging from photos of current robot uprisings to twisted diagrams.
+
+
+The SI’s immanent critique will reenact the odd oppositions inherent to the history of political
+
+art. Oscillating between actuality/potentiality, party/movement and performance/politics, its
+
+concept draws upon e.g. Alexander Trocchi’s cognitariat scheming in Project Sigma (1962),
+
+Joseph Beuys’ social sculpting from The German Student Party to Die Grünen (1967-1979)
+
+and Jonas Staal’s lawsuit for collectivizing Facebook’s data infrastructure (2021).
+
+
+                                                                         1
+
+[Source page 2]
+
+        [the operator]’ practice-based PhD-proposal for a Mads Øvlisen scholarship
+                           Aarhus University & Kunsthal Aarhus
+
+The deliveries will be:
+
+1) laboratories on politically-engaged art as “techno-social sculpting” in Kunsthal Aarhus
+
+2) three digital art exhibitions curated by Aksioma (Slovenia), Kunsthal Aarhus (Denmark)
+
+and POINT (Cyprus)
+
+3) three journal articles to form a written thesis:
+
+     -   AI & Society: “An Iconology of AI Advocacy: Protesting the AI Takeover with AI“
+
+     -   Études Digitales: “Techno-Social Sculpting in the wake of La Société Automatique”
+
+     -   e-flux: “Automatic Uprisings: Lessons from Archiving a Synthetic International”
+
+
+The research objective is that the SI presents the radical dilemma of protest with/against AI
+
+as a viable ethical problem that contributes to the recent surge of scholarship on democracy
+
+and AI in Aarhus University at the SHAPE research centre, and nationwide through the ADD
+
+project (Algorithms, Data and Democracy). The research question is explored by practicing
+
+how socio/politically-engaged art can challenge algorithmic governmentality (Stiegler 2021).
+
+
+Hypothesis
+
+The project’s main hypothesis is that contributory, practice-based research can develop an
+
+immanent critique of the power that AI already exercises within the bureaucracy and public
+
+spheres in a way that reaches beyond how critical theory dismisses democratic uses for AI.
+
+The point of this theoretical transgression is how AI’s archive according to digital studies can
+
+enact potentialities.
+
+
+Recent important works of critical theory on AI have argued against democratization (active
+
+participation and collective ownership), as they evaluate that the data-driven infrastructures
+
+of AI inevitably foster a centralization of control and authoritarian forms of power (Crawford
+
+2021; McQuillan 2022). However, critical theory here targets AI from an external perspective
+
+whereas practice-based research can employ generative AI auto-critically (Chatonsky 2022)
+
+and thus turn practice into a reflexive ressource in itself.
+
+
+The project’s critical practice here develops upon a conception of AI’s archives as peculiar
+
+temporal objects that enact multiple potentialities. The vital thing to note is how contributory
+
+practices  in  digital  studies (see Methodology)  is based upon an interpretation of the
+
+Husserlian theory of retentions and protentions (Stiegler 2014). Philosopher Yuk Hui has
+
+developed this theory through the concept of tertiary protention as a “new synthesis of time”
+
+by analyzing the archive in an age of big data and algorithms - the two constituents of AI
+
+(Hui 2018). Simply put: Hui posits that archiving is now not only a way of conserving the past
+
+
+                                                                         2
+
+[Source page 3]
+
+        [the operator]’ practice-based PhD-proposal for a Mads Øvlisen scholarship
+                           Aarhus University & Kunsthal Aarhus
+
+to anticipate the future, but a tool of prediction that makes up the future through the past.
+
+What Hui’s theory of potentiality brings to the proposed project is to allow for political visions
+
+for AI to manufacture the empirical evidence, e.g. by generating new data.
+
+
+Methodology
+
+The project’s methodologies can be summarized as an “archivism” by which  it updates a
+
+long tradition of avant-garde art for relating bureaucratic pastiche with new media technology
+
+(Spieker 2008). The project is to deploy: 1) experimental methods from creative AI practices
+
+such as data collection, machine learning training, and prompt engineering, plus contributory
+
+research frameworks such as laboratories and workshops, 2) artistic-visual techniques, e.g.
+
+collages and montages, web design, remediations between analogue-digital media and 3)
+
+theoretical methods of conceptual critique and iconological image analysis.
+
+
+The thesis  will orient the experimental apparatus within a digital studies’ philosophy of
+
+technology to interpret SI’s text-to-image archive in relation to AI’s ideological superstructure
+
+(as theorized by e.g. Bernard Stiegler, Yuk Hui or Joanna Zylinska). To work out these links
+
+between symbolic material and techno-political ideology, it will turn to contextualizing visual
+
+analysis such as the iconological syntheses following Panofsky and Warburg (Mitchell 1986).
+
+
+A bridging of creative AI with contributory research constitutes the methodological innovation
+
+of this project in comparison to the few practice-based research projects on art and current
+
+AI that have been published. While their concern is how AI affects artistic practice (Amerika
+
+2022), this project rather questions how practice changes AI (Tromble 2020). Contributory
+
+research can attempt this by facilitating others' work. In the context of artistic practice,
+
+contribution is a digital studies’ interpretation of Beuysian social sculpting as an inscription of
+
+multiplicity (human and non-human) that frames the hermeneutics of creative research
+
+(Stiegler 2021). The contributory practices will be facilitated through open labs, workshops,
+
+and human-AI interaction.
+
+
+
+[████]
+
+Literature
+
+     -   Amerika, Mark  (2022): My  Life As An  Artificial Creative  Intelligence, Stanford
+
+       University Press: Stanford
+
+     -   Beuys, Joseph (2021): “Radical Teaching, Direct Democracy and Social Plastic”,
+
+        exhibition  curated by  Valentin Roma  at the Centre de  la Imatge: Barcelona,
+
+        https://ajuntament.barcelona.cat/lavirreina/en
+     -   Chatonsky,  Gregory  (2022):  “Déconstruction de  l’approche  culturelle de  l’IA”:
+
+          http://chatonsky.net/culture-ai/
+     -   Crawford, Kate (2021): Atlas of AI: Power, Politics, and the Planetary Costs of
+
+         Artificial Intelligence, Yale University Press: New Haven
+
+     -   Hui, Yuk (2018) “Archives  of the Future: Remarks on the concept of  Tertiary
+
+        Protention”, in Inscription (red. Karl-Magnus Johansson), Landsarkivet  i Göteborg:
+
+       Göteborg, pp. 129-154
+
+     -   McQuillan,   Dan  (2022):  Resisting  AI: An  Anti-Fascist Approach  to  Artificial
+
+        Intelligence, Bristol University Press: Bristol
+
+     -   Mitchell, W.J.T. (1986): Iconology: Text, Images, Ideology, University of Chicago
+
+       Press: Chicago
+
+     -   Nimoy, Leonard (1986): Star Trek IV: The Voyage Home, Paramount: Los Angeles
+
+     -   Spieker, Sven  (2008): The  Big  Archive:  Art From  Bureaucracy, MIT  Press:
+
+      Cambridge
+
+     -   Staal,     Jonas      (2021):      “Collectivizations”,       e-flux,     no.     118,
+
+        https://www.e-flux.com/journal/118/394239/collectivizations/
+     -   Stiegler,   Bernard   (2014):   “Paper   for   Digital   Humanities”,   in   Leuven,
+
+        https://www.academia.edu/12692243/Bernard_Stiegler_Digital_Humanities_2014_
+
+     -   Stiegler, Bernard  (2018):  “Contributory research as  social  (self)  sculpture”“,  in
+
+        Birfurcate: There is no alternative (red. The Internation Collective), Open Humanities
+
+       Press: London
+
+     -   Trocchi, Alexander (1964): Sigma: A Tactical Blueprint, Sigma #3: London
+
+                                                                         5
+
+[Source page 6]
+
+     [the operator]’ practice-based PhD-proposal for a Mads Øvlisen scholarship
+                        Aarhus University & Kunsthal Aarhus
+
+-   Tromble, Meredith (2020): “Ask not what AI can do for art… but what art can do for
+
+    AI”, in Andrés Burbano & Ruth West’s (red.) “AI, Arts & Design: Questioning Learning
+
+   Machines”, Artnodes, no. 26, pp. 1-9
+
+-   Zylinska, Joanna (2020): AI Art: Machine Visions and Warped Dreams, Open
+
+   Humanities Press: London
+
+                                                                      6

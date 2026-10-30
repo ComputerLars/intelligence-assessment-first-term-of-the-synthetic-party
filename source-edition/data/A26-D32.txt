@@ -1,0 +1,38 @@
+Teknisk daglig vedligeholdelsesmanual – “Synthetic Summit”
+________________
+
+
+1. Loftslys
+   * Tænd/sluk via fjernbetjening.
+
+   2. Værk 17 “Lex”
+   * Hvis skærmen fryser eller ikke viser værket:
+   1. Træk stikket på Raspberry Pi bag skærmen.
+   2. Tænd skærmen igen.
+   3. Hent mus fra værk 6 “syntheticism.org” og tryk “Reload” på skærmen.
+   * Hvorfor: Genstart eliminerer softwarefejl.
+
+      3. Værk 1 (Radio Palme)
+      * Åbn radioen bagpå.
+      * Tag iPhone frem, klik én gang, start “Radio Palme” på Spotify.
+      * Læg telefonen tilbage, luk radioen.
+      * Hvorfor: Lydsporet genoptages.
+
+         4. Værk 10 “Synthetic Summit Simulator”
+         * Træk stikket på Raspberry Pi under tastaturkonsollen hver morgen, vent på genstart.
+         * Hent mus fra værk 6. Sæt den i Pi (ophængt på en skrue).
+         * Vælg brugerprofil “Citizen Cyborg” (ikon med ældre mand).
+         * Klik i chatfeltet, placer musen nederst til højre (uden for synsfelt), fjern musen og sæt den retur i værk 6.
+         * Hvorfor: Chat-fladen er klar.
+
+            5. Værk 5 “Playtest for broad listening”
+            * Bag gardinet: Tryk på den grønne knap. Se om “Listening” projiceres.
+            * Hvis ingenting sker:
+            1. Hent mus fra værk 6.
+            2. Sæt i Pi under bordet (med lys og instruktioner).
+            3. Flyt cursoren til øverste venstre ikon (cursor = hånd), vend musen om (fastholdt).
+            4. Træk USB-stikket ud, tryk igen på den grønne knap.
+            * Hvorfor: Giver mulighed for opstart, hvis softwaren hænger.
+
+               6. Ved problemer
+               * Ring/SMS til Asker ([████]).

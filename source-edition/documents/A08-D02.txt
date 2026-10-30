@@ -1,0 +1,19 @@
+A08-D02 | NLP Cloud receipt for $200
+
+OCR of redacted facsimile; layout and embedded images are not reproduced.
+
+[Source page 1]
+
+Receipt ba
+
+NLP Cloud Billto
+
+$200.00 paid on October 19, 2022
+
+Description Qty Unit price Amount
+Pay-as-you-go consumption in October 2022: $200 step 1 $200.00 $200.00
+Subtotal $200.00
+Total $200.00
+Amount paid $200.00
+
+a: on October 18,2022 Page tof

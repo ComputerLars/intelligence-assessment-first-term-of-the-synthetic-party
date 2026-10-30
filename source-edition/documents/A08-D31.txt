@@ -1,0 +1,26 @@
+A08-D31 | faktura nlp cloud.pdf
+
+PDF text extraction; layout and embedded images are not reproduced.
+
+[Source page 1]
+
+Faktura for NLP Cloud, 08-11 2022
+
+Stillet til MindFuture ApS, cvr 41275677
+
+370 dollars svarende til 2865 kroner udbetales for dækning af kvitteringer til [the operator]
+ifbm. publikums brug af kunstværk.
+
+Stamdata
+
+Navn: [the operator]
+
+[████]
+
+Adresse: [████]
+
+Bank: [████]
+
+Konto: [████]
+
+Registreringsnummer: [████]

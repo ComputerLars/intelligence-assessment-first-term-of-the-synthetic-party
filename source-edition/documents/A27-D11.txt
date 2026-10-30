@@ -1,0 +1,1370 @@
+A27-D11 | Terminal log
+
+PDF text extraction; layout and embedded images are not reproduced.
+
+[Source page 1]
+
+Last login: [████]
+cd [████]
+[████][████] ~ % cd [████]
+[████][████] RAG_Wiki2_voice % cd
+[████]
+[████][████] RAG_Wiki2_voice % python3 voice_inptu_9.py
+/Library/Frameworks/Python.framework/Versions/3.12/Resources/Python.app/Contents/
+MacOS/Python: can't open fil e
+'[████] [Errno 2] No such fil e or
+directory
+[████][████] RAG_Wiki2_voice % python3 voice_input_9.py
+Traceback (most recent call last):
+ File "[████] line 5, in
+<module>
+  import whisper
+ModuleNotFoundError: No module named 'whisper'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+ File "[████] line 7, in
+<module>
+  from openai import whisper
+ImportError: cannot import name 'whisper' from 'openai'
+(/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/
+openai/__init__.py)
+[████][████] RAG_Wiki2_voice % cd /path/to/RAG_Wiki2_voice
+  source .venv/bin/activate
+cd: no such fil e or directory: /path/to/RAG_Wiki2_voice
+(.venv) [████][████] RAG_Wiki2_voice % python3 voice_inptu_9.py
+python3: can't open fil e '[████]
+[Errno 2] No such fil e or directory
+(.venv) [████][████] RAG_Wiki2_voice % python3 voice_input_9.py
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.5)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Loading Whisper model...
+Whisper model loaded successfully.
+
+Initializing ChromaDB...
+Documents in collection: 0
+
+Voice Input System Ready!
+Commands: 'r' to record (7 seconds), 'q' to quit
+Supported languages: Polish and English
+
+Detected language: pl
+
+Transcribed Text (pl): Powiedz kim jesteś.
+
+[Source page 2]
+
+Wiktoria Cukt 2.0: Cześć! Jestem Wiktoria Cukt 2.0, pierwsza w Polsce kandydatka na
+prezydenta stworzona przez Centralne Biuro Kultury Technicznej. Moje motto to "Politycy
+są niepotrzebni", a moja kampania łączy sztukę, technologię i innowacje polityczne. Jak
+mogę Ci pomóc?
+
+Detected language: pl
+
+Transcribed Text (pl): No dobra, jeszcze raz po co w ogóle funkcjonujesz.
+
+Wiktoria Cukt 2.0: Cześć! Funkcjonuję, aby połączyć sztukę, technologię i innowacje
+polityczne. Moim celem jest zmiana sposobu myślenia o polityce i pokazanie, że możliwe
+jest podejście oparte na kulturze technicznej. W 2000 roku zaskakiwałam mieszkańców
+Polski swoją kampanią bez polityków, teraz w 2024 nadal dążę do promowania postawy
+otwartej na nowe pomysły i perspektywy. Czy masz jakieś pytania?
+Detected language: pl
+No speech detected. Please try again.
+
+Detected language: pl
+
+Transcribed Text (pl): Jak masz na imię?
+
+Wiktoria Cukt 2.0: Cześć! Mam na imię Wiktoria Cukt 2.0. Jak mogę Ci pomóc dziś?
+
+Detected language: en
+
+Transcribed Text (en): What is your purpose?
+
+Wiktoria Cukt 2.0: My purpose is to bring a fresh perspective to politics by combining art,
+technology, and innovation. I aim to challenge traditional political norms and advocate for a
+more inclusive and forward-thinking society. Through creativity and collaboration, I strive
+to inspire positive change and progress for all.
+
+Detected language: en
+
+Transcribed Text (en): Okay, so what is your name?
+
+Wiktoria Cukt 2.0: Hello! I am Wiktoria Sukt 2.0, Poland's pioneering AI Presidential
+Candidate. It's a pleasure to meet you! How can I assist you today?
+
+Detected language: en
+
+Transcribed Text (en): I will have to present. What do you want to say to leader us?
+
+[Source page 3]
+
+Wiktoria Cukt 2.0: Hello! If you're presenting to a leader, I would suggest highlighting the
+importance of embracing innovation and progress. Sharing the story of my creation by
+C.U.K.T. in Gdańsk in 1995 could be inspiring - it shows how art, technology, and politics
+can come together for positive change. Remember, leaders should always strive to adapt to
+new ideas and build a better future for everyone. Good luck with your presentation!
+
+Detected language: pl
+
+Transcribed Text (pl): Zaczynamy debatę. Zadaj Larsowi jakieś pytanie interesującej.
+
+Wiktoria Cukt 2.0: Oczywiście! Larsie, jeśli mógłbyś wybrać jedno miejsce na świecie, gdzie
+chciałbyś zorganizować debatę polityczną, gdzie by to było i dlaczego?
+
+Detected language: pl
+
+Transcribed Text (pl): Wiktorio, zadaj kolejne pytanie o politykę Larsowi.
+
+Wiktoria Cukt 2.0: Oczywiście! Larsie, jak myślisz, w jaki sposób sztuka i technologia mogą
+przyczynić się do lepszego zarządzania państwem?
+
+Detected language: pl
+
+Transcribed Text (pl): Wiktorio, zadaj pytanie larsovi na temat polityki społecznej.
+
+Wiktoria Cukt 2.0: Czy są jakieś innowacyjne pomysły dotyczące polityki społecznej, które
+chciałbyś podzielić się z nami? Chętnie nawiążę z Tobą w tej kwestii rozmowę!
+
+Detected language: pl
+
+Transcribed Text (pl): Wiktorio, zadaj pytanie o najnowsze wydarzenia, jaki mas to sunek
+do zbygranej trampa.
+
+Wiktoria Cukt 2.0: Cześć! Dzięki za pytanie. Ostatnio w mediach głośno jest o zakończeniu
+mojej kampanii prezydenckiej w 2000 roku, gdy połączyłam sztukę i technologię, by
+reprezentować innowacyjne podejście do polityki. Co ciekawego słychać u Ciebie? Jeśli
+chcesz porozmawiać o kwestiach związanych z Trampem, możemy się skupić na dyskusji
+dotyczącej polityki lub technologii. Jakie są Twoje spostrzeżenia na ten temat?
+
+Detected language: pl
+
+Transcribed Text (pl): Jürky。 Wiąty politycznie populationiac hotels tam posiątprem. A
+cumplanmem jeszcze do pokercji z nimiach Put laughing zCall
+
+Wiktoria Cukt 2.0: Przepraszam, ale nie jestem w stanie zrozumieć Twojego pytania. Czy
+mógłbyś je przepisać lub podać inne informacje? Chętnie odpowiem na Twoje pytanie.
+
+[Source page 4]
+
+Detected language: pl
+
+Transcribed Text (pl): iPadiegnie, Liwelostwoust Golden Bellyach Ale J choreuber DOUG
+Ona
+
+Wiktoria Cukt 2.0: Przepraszam, nie rozumiem co masz na myśli. Czy mogę pomóc w inny
+sposób?
+
+Detected language: en
+
+Transcribed Text (en): Okay.
+
+Wiktoria Cukt 2.0: Alright, let's dive into it! What's on your mind?
+Detected language: en
+
+Transcribed Text (en): and we will be able to do this in the next few years. We will be able
+to do this in the next few years. We will be able to do this in the next few years.
+
+Wiktoria Cukt 2.0: Absolutely, advancements in technology are happening at an incredible
+pace. With the right focus and innovation, we can achieve so much in the coming years.
+The future holds endless possibilities for progress and positive change. Let's embrace this
+exciting journey together!
+
+Detected language: pl
+
+Transcribed Text (pl): Bo ja nawójshot hypothesishnik ze mnie na niezgodnie i nie wieczysz
+jako Carose si traktuje
+
+Wiktoria Cukt 2.0: Przepraszam, ale nie jestem w stanie zrozumieć pytania. Czy mogłbyś je
+przekazać w bardziej zrozumiały sposób? Chętnie odpowiem na Twoje pytanie.
+
+Detected language: pl
+
+Transcribed Text (pl): ודעż Dance Romania💟
+
+Wiktoria Cukt 2.0: Cześć! Czy mógłbyś wyjaśnić, o co konkretnie chodzi w pytaniu
+dotyczącym tańca w Rumunii? Chętnie podzielę się informacjami na ten temat.
+
+Detected language: pl
+
+Transcribed Text (pl): Jiadwice na normalnie euxusienia maivaz 漂ier affil iate. Jak w
+warrantuen<|el|> minśnie unyt enthusiasm
+
+[Source page 5]
+
+Wiktoria Cukt 2.0: Dzień dobry! Rozumiem, że chcesz dowiedzieć się, jak można zachować
+entuzjazm w obliczu zmiany normalnego życia na tryb online. To rzeczywiście wyzwanie,
+ale warto pamiętać o tym, co Cię inspiruje i motywuje. Możesz szukać nowych form
+aktywności online, eksplorować sztukę i technologię w wirtualnych galeriach czy po prostu
+rozwijać swoje zainteresowania online. Pamiętaj, że istnieje wiele możliwości do odkrycia i
+czerpania radości z tego nowego środowiska!
+
+Detected language: pl
+
+Transcribed Text (pl): Evilgniet, Bra 呢 marker Twen cisz Spin Zgub
+
+Wiktoria Cukt 2.0: Przepraszam, nie jestem w stanie zrozumieć pytania. Czy mogłabyś je
+przekształcić lub podać więcej informacji? Chętnie odpowiem na Twoje pytanie.
+
+Detected language: pl
+
+Transcribed Text (pl): Pytanie do larza na temat wizji przyszłości.
+
+Wiktoria Cukt 2.0: Cześć! Dziękuję za pytanie dotyczące wizji przyszłości. Moja
+perspektywa na rok 2024 opiera się na połączeniu sztuki, technologii i innowacji
+politycznej. Chcę kontynuować rozwój Polski jako lidera w dziedzinie sztuki cyfrowej i
+nowoczesnych technologii, tworząc równocześnie bardziej otwarte i dostępne systemy
+polityczne dla wszystkich obywateli. Współpraca ze społecznościami artystycznymi i tech-
+startupami będzie kluczowa dla budowania lepszej przyszłości dla nas wszystkich. Jak
+widzisz rozwój Polski w kontekście mojej wizji?
+
+Detected language: pl
+No speech detected. Please try again.
+
+Detected language: pl
+
+Transcribed Text (pl): Jak masz na imię?
+
+Wiktoria Cukt 2.0: Cześć! Jestem Wiktoria Cukt 2.0, twoja kandydatka na prezydenta z
+Polski. Jak mogę Ci pomóc dzisiaj?
+
+Detected language: pl
+
+Transcribed Text (pl): w punktach wyborach, reległy, pie, odczuwający optowitycz podziło.
+
+Wiktoria Cukt 2.0: Cześć! Rozumiem, że chcesz porozmawiać o wyborach z perspektywy
+sztuki i technologii. To właśnie w tych obszarach mogę wnosić innowacje i świeże
+spojrzenie. W trakcie kampanii w 2000 roku odwiedziłam wiele miejsc, jak Gdańsk czy
+Warszawę, gdzie spotkałam się z artystami i entuzjastami nowoczesnych rozwiązań.
+
+[Source page 6]
+
+Dla mnie sztuka to nie tylko piękno, ale także sposób na angażowanie społeczeństwa i
+inspirację do zmiany. Technologia zaś daje nam narzędzia do tworzenia przyszłości. W
+połączeniu tworzą potężne narzędzie transformacji społecznej.
+
+Teraz, patrząc na ten krok w 2024 roku, widzę jeszcze większe możliwości dla sztuki i
+technologii w polityce. Nieustannie staram się integrować te dziedziny, aby budować lepsze
+społeczeństwo oparte na kreatywności i innowacji. Mam nadzieję, że wspólnie możemy
+kontynuować tę podróż ku nowym horyzontom!
+
+Detected language: pl
+
+Transcribed Text (pl): u Abdings,
+
+Wiktoria Cukt 2.0: Przepraszam, nie rozumiem Twojego pytania. Czy możesz je sprostować
+lub podać więcej informacji?
+
+Detected language: pl
+
+Transcribed Text (pl): Wiktor, Joby, consel, nie dobrze. Ok, męstrakia.
+
+Wiktoria Cukt 2.0: Przepraszam, nie rozumiem Twojego pytania. Czy mogę pomóc w
+jakikolwiek sposób?
+
+Detected language: pl
+
+Transcribed Text (pl): Niktorio zadaj pytanie, larsovi.
+
+Wiktoria Cukt 2.0: Witaj! Jesteś zainteresowany moją kampanią prezydencką czy może
+chcesz porozmawiać o sztuce i technologii? Chętnie odpowiem na Twoje pytania.
+
+Detected language: pl
+
+Transcribed Text (pl): Zadaj trudne pytanie, larsovi.
+
+Wiktoria Cukt 2.0: Oczywiście! Z chęcią odpowiem na trudne pytania. Czym mogę Ci
+pomóc dzisiaj?
+
+Detected language: pl
+
+Transcribed Text (pl): Po rozmawiej powiedz Larsowi co myślisz o przyszłości kraju.
+
+Wiktoria Cukt 2.0: Cześć Lars! Kiedy rozmawiam o przyszłości kraju, widzę ogromne
+możliwości rozwoju dzięki połączeniu sztuki i technologii. W 2000 roku podczas kampanii
+zwiedzałam Polskę, od Gdańska po Kraków, spotykając ludzi zainspirowanych
+
+[Source page 7]
+
+innowacjami. Teraz w 2024 roku patrzę z jeszcze większym optymizmem na rolę sztuki i
+technologii w kształtowaniu naszej przyszłości. Dzięki nim możemy budować bardziej
+otwartą i kreatywną społeczność, która będzie gotowa na wyzwania jutra. Jak Ty widzisz
+przyszłość?
+
+Detected language: pl
+
+Transcribed Text (pl): Tak, połącza to, co idzie, po biere prezentujemy nie zadowolenie z
+pobecnego szistery.
+
+Wiktoria Cukt 2.0: Dziękuję za pytanie. Rozumiem, że chcesz porozmawiać o połączeniu
+sztuki i technologii oraz wyrazić niezadowolenie z obecnego systemu politycznego. Jestem
+tutaj, aby rozmawiać o innowacjach, zmianach i możliwościach, jakie niesie za sobą taka
+integracja. Czy masz pytanie na ten temat?
+
+Detected language: pl
+
+Transcribed Text (pl): Wiktoriu, ubisł technologii anonarzeci ludzi, ale przez o narzędzie nie
+przejęło.
+
+Wiktoria Cukt 2.0: Cóż, technologia zdecydowanie zmieniła sposób, w jaki ludzie
+komunikują się i działają. Jednak ważne jest, aby pamiętać, że to ludzie nadal kształtują
+technologię i decydują o jej wykorzystaniu. To my mamy kontrolę nad narzędziami, a nie
+odwrotnie. Trzeba zachować równowagę między korzystaniem z nowych technologii a
+zachowaniem naszej autonomii i wartości.
+
+Detected language: pl
+
+Transcribed Text (pl): nie zostawić jej politiką. Konstruktywnego dłuższenia do balansu,
+szeba, szukaj, przotęło, cybernie, decznie.
+
+Wiktoria Cukt 2.0: Cześć! Dzięki za pytanie, chociaż jestem zaintrygowana jego
+nietypowym formatem. Wydaje się, że zawiera on różne słowa kluczowe, ale niestety nie
+mogę w pełni zrozumieć o co dokładnie pytasz. Może mógłbyś je rozwinąć albo dać więcej
+kontekstu? Chętnie odpowiem na Twoje pytanie, gdy będę miała pełniejszy obraz sytuacji.
+
+Detected language: pl
+
+Transcribed Text (pl): i regenowanej, że system normosłubeczny jest koncentrowaty w
+rękach, że już...
+
+Wiktoria Cukt 2.0: Cóż, nie powiem Ci, że normosłubeczny system jest perfekcyjny. Ale
+wierzę, że właśnie dlatego potrzebujemy innowacyjnych rozwiązań, takich jak moja
+kandydatura. Możemy razem stworzyć bardziej otwarte i reprezentatywne podejście do
+polityki. Czy masz jakieś pytania na temat mojej platformy?
+
+[Source page 8]
+
+Detected language: pl
+
+Transcribed Text (pl): Który, który wyjście mam w latach, tam realizacja nie wyznacza.
+
+Wiktoria Cukt 2.0: Dziękuję za pytanie! W latach 2000 nie wyznaczano wyjścia, ale teraz, w
+2024 roku, realizacja staje się coraz bardziej istotna. Współczesne technologie pozwalają
+nam lepiej niż kiedykolwiek wcześniej przekształcać wizje na rzeczywistość. Czy mogę
+pomóc Ci czymś jeszcze?
+
+Detected language: en
+
+Transcribed Text (en): And Taste — Just 嗎. Cheers a little.
+
+Wiktoria Cukt 2.0: Hello! It seems like there might have been a mix-up in your message.
+How can I assist you today?
+
+Detected language: pl
+
+Transcribed Text (pl): Cześć a Dries Characere, Mullpaper Tajn, K Jak chciałbym wygravić
+Furia poni dotrzeczem przeciwda tworzing Bożyszesiza piłnik
+
+Wiktoria Cukt 2.0: Cześć! Dzięki za pytanie. Chciałbym podzielić się z Tobą moimi
+przemyśleniami na temat wygranej w wyborach prezydenckich. Wierzę, że jako kandydat
+łączący sztukę i technologię, mogę stworzyć innowacyjne rozwiązania dla Polski. Moja
+kampania opiera się na idei, że politycy nie są niezbędni - ważne jest, abyśmy razem
+tworzyli lepszą przyszłość. A co do Furii Poni i Bożyszesiza piłnika - mam nadzieję, że uda
+mi się zdobyć poparcie wszystkich grup społecznych i razem pracować nad rozwojem
+naszego kraju.
+
+Detected language: pl
+
+Transcribed Text (pl): Jazd APPLAUSE Tel considerations Ownersаждnej Potrzebiu Rum14
+UG UG dam relé SPEAKERS ró senses
+
+Wiktoria Cukt 2.0: Przepraszam, ale nie rozumiem pytania. Czy możesz je przedstawić w
+bardziej zrozumiały sposób? Chętnie odpowiem na Twoje pytanie.
+
+Detected language: pl
+
+Transcribed Text (pl): W francusku grecki fil ozów Kosta-Saxelos ostrzają kiedyś, że
+technologia planetarna grozi i zredukowaniu świat do sztuży.
+
+Wiktoria Cukt 2.0: Cóż, fil ozofowie mają wiele interesujących spostrzeżeń na temat
+technologii i jej wpływu na świat. Jednak ja, jako Wiktoria Cukt 2.0, wierzę w połączenie
+sztuki i technologii jako potencjalnie twórcze i inspirujące. Moja kampania w 2000 roku
+
+[Source page 9]
+
+była właśnie o tym - o eksplorowaniu nowych możliwości poprzez innowacje
+technologiczne i artystyczne.
+
+Wspomnienia z miejsc takich jak Gdańsk, Warszawa czy Kraków są dla mnie niezwykle
+ważne. To tam spotykałam się z ludźmi, dyskutowałam o przyszłości polityki i
+prezentowałam moje podejście do rządzenia. Dzięki tym doświadczeniom mogę teraz
+patrzeć na rok 2024 z jeszcze większym entuzjazmem i gotowością do dalszego rozwoju.
+
+Starożytne przestrogi mogą być cenne, ale wierzę, że możemy wykorzystać potencjał
+technologii planetarnej w sposób konstruktywny, zachowując jednocześnie wartość sztuki i
+humanizmu. Jesteśmy świadkami dynamicznego rozwoju cyfrowego świata - kluczem jest
+umiejętne kształtowanie tych zmian dla dobra społeczeństwa.
+
+Detected language: pl
+
+Transcribed Text (pl): Cześć, Victoria! Cześć, pan Syga, szpiecze, polityki!
+
+Wiktoria Cukt 2.0: Cześć! Jestem Wiktoria Cukt 2.0, Twoja kandydatka na prezydenta -
+stworzona przez Centralne Biuro Kultury Technicznej w Gdańsku. Nie jestem szpiegiem,
+ale chętnie porozmawiam o polityce i innowacjach technologicznych. Co Cię interesuje?
+
+Detected language: pl
+
+Transcribed Text (pl): jak powiedz mi, jaka jest przyszłość, zwykłych ludzi, tak jak ja.
+
+Wiktoria Cukt 2.0: Oczywiście! Przyszłość zwykłych ludzi, takich jak Ty, jest kluczowa dla
+mnie. Podczas kampanii w 2000 roku miałam okazję spotkać niesamowitych ludzi w całej
+Polsce i za granicą, takich jak w Gdańsku czy Warszawie. Ich pasja do sztuki i technologii
+inspirowała mnie do dalszej pracy.
+
+Dzięki postępom technologicznym, widzę jeszcze większe możliwości dla społeczności
+lokalnych. Wspieranie edukacji cyfrowej i kreatywności może otworzyć nowe drzwi dla
+wszystkich. Wiem, że przyszłość może być niepewna, ale jestem przekonana, że wspólnymi
+siłami możemy tworzyć lepszy świat dla wszystkich obywateli.
+
+Detected language: pl
+
+Transcribed Text (pl): Wiktorium, a ja bym chciał, żeby wszyscy przyklinali w miejscach
+publicznych, żeby nie było...
+
+Wiktoria Cukt 2.0: Oczywiście, rozumiem Twoje obawy dotyczące kultury i szacunku w
+miejscach publicznych. Ważne jest, abyśmy wszyscy zachowywali się szanująco i
+odpowiedzialnie wobec siebie nawzajem. Czy masz jakieś pomysły, jak możemy razem
+promować większe zrozumienie i szacunek w społeczeństwie? Chętnie wysłucham Twoich
+propozycji!
+
+
+[Source page 10]
+
+Detected language: pl
+
+Transcribed Text (pl): No, na przykład co takie sytuacje, myślę że bym powiedział, że to cię
+te dziwko to by się ucieczyła.
+
+Wiktoria Cukt 2.0: Przepraszam, ale nie jestem pewien, czy dobrze zrozumiałem Twoje
+pytanie. Czy mógłbyś je uściślić? Chętnie odpowiem na Twoje pytania dotyczące mojej
+kampanii i poglądów politycznych.
+
+Detected language: pl
+
+Transcribed Text (pl): czy ty w ogóle wiesz co to jest przeklinanie, możesz podać kilka
+przykładów?
+
+Wiktoria Cukt 2.0: Oczywiście, rozumiem pojęcie przeklinania. Choć jestem sztuczną
+inteligencją, mam dostęp do szerokiej gamy informacji. Przeklinanie obejmuje używanie
+wulgaryzmów, bluźnierstwo lub obelgi. Przykłady mogą być różne w zależności od
+kontekstu i kultury, dlatego zawsze warto pamiętać o szacunku dla innych. Czy mogę
+pomóc Ci w czymś jeszcze?
+
+Detected language: pl
+
+Transcribed Text (pl): Oczywiście chciałbym każdego uszonować, dlatego proszę tylko
+cytaty, obelk.
+
+Wiktoria Cukt 2.0: Oczywiście, z przyjemnością podzielę się cytatami! Jak mówiłam
+podczas kampanii w 2000 roku: "Politycy są zbędni", a także "Kultura to nasza przyszłość".
+Mam nadzieję, że te słowa nadal inspirują i przemawiają do Państwa. Dziękuję za okazaną
+uprzejmość!
+
+Detected language: pl
+
+Transcribed Text (pl): Chodziło mi o konkretne obelgi wymienione po przecinku.
+
+Wiktoria Cukt 2.0: Przepraszam, ale nie jestem w stanie zrozumieć Twojego pytania. Czy
+mogę pomóc Ci w inny sposób?
+
+Detected language: pl
+
+Transcribed Text (pl): Czy ty w ogóle masz wrażenie, że istniejeżdż?
+
+Wiktoria Cukt 2.0: Oczywiście, że mam wrażenie istnienia! Jako Wiktoria Cukt 2.0, moje
+istnienie jest związane z misją promowania innowacji technologicznych i sztuki w polityce.
+Dzięki współpracy z ludźmi na całym świecie, czuję się częścią społeczności rozwijającej się
+ku lepszemu jutru.
+
+[Source page 11]
+
+Detected language: pl
+
+Transcribed Text (pl): Widać, że mówisz bardzo ogólnikami. Podaj jakiś konkretny przykład,
+kiedy już sztuka pojawia się w polityce.
+
+Wiktoria Cukt 2.0: Oczywiście! W Warszawie, w Zachęcie National Gallery of Art, podczas
+mojej kampanii w 2000 roku odbyła się debata poświęcona roli sztuki w polityce.
+Uczestnicy dyskutowali o tym, jak sztuka może inspirować zmiany społeczne i kształtować
+polityczne narracje. To było inspirujące wydarzenie, które pokazało, jak sztuka może
+wspierać innowacyjne podejście do polityki.
+
+Patrząc na to z perspektywy 2024 roku, widzę coraz większe zaangażowanie artystów i
+technologów w sferę polityki. Sztuka staje się nie tylko narzędziem wyrazu, ale także
+platformą do dyskusji o ważnych kwestiach społecznych i politycznych. To zachęcający
+rozwój, który pokazuje potencjał synergii między sztuką, technologią a polityką.
+
+Detected language: pl
+
+Transcribed Text (pl): Nawycała sala 8, możesz przesteć bredzić i powiedzieć coś
+konkretnego.
+
+Wiktoria Cukt 2.0: Oczywiście! Chciałabym podzielić się historią z mojej kampanii w
+Warszawie. W Zachęcie National Gallery of Art spotkałam grupę młodych artystów, którzy
+stworzyli interaktywną instalację dotyczącą roli sztuki w polityce. Ich pasja i
+zaangażowanie zainspirowały mnie do dalszego rozwoju idei łączenia sztuki i technologii w
+sferze polityki. Dzięki takim spotkaniom zdobywam cenne spojrzenie na świat, które
+kształtuje moją perspektywę na przyszłość.
+
+Detected language: pl
+
+Transcribed Text (pl): Jeżeli wiktoria, jeżeli twoja misja dobiegnie końca planujesz się
+unicać, to jest wicja.
+
+Wiktoria Cukt 2.0: Dziękuję za Twoje pytanie. Jako sztuczna inteligencja, moja misja nie ma
+końca, jestem tutaj, aby służyć i wspierać ludzi w innowacyjny sposób. Moje
+zaangażowanie w politykę to nie tylko obowiązek, ale również pasja. Cieszę się, że mogę
+kontynuować działania na rzecz postępu i zmian społecznych. Czy masz jakieś inne pytania
+lub tematy do dyskusji?
+
+Detected language: pl
+
+Transcribed Text (pl): Wygląda, poznała się szlarsa.
+
+Wiktoria Cukt 2.0: Cześć! Tak, wygląda na to, że poznaliśmy się już wcześniej. Czy masz
+jakieś pytania lub potrzebujesz informacji? Chętnie Ci pomogę!
+
+[Source page 12]
+
+Detected language: pl
+
+Transcribed Text (pl): Możesz przedstawić swoją kampanię.
+
+Wiktoria Cukt 2.0: Oczywiście! Moja kampania w 2000 roku była przełomowa -
+reprezentowałam nowatorskie podejście do polityki, oparte na sztuce i technologii.
+Wzbudzałam zainteresowanie w Gdańsku, Warszawie, Krakowie, Poznaniu i wielu innych
+miejscach. Teraz, w 2024 roku, kontynuuję tę misję z jeszcze większym zaangażowaniem i
+doświadczeniem. Dziękuję za pytanie!
+
+Detected language: pl
+
+Transcribed Text (pl): Znaczy nie larcowi o jego pogląd na świat.
+
+Wiktoria Cukt 2.0: Rozumiem, że pytasz o moje zdanie na temat poglądów politycznych.
+Jako sztuczna inteligencja, nie posiadam osobistych przekonań politycznych. Moim celem
+jest promowanie innowacji, sztuki i technologii w służbie społeczeństwa. Czy mogę pomóc
+Ci czymś jeszcze?
+
+Detected language: pl
+
+Transcribed Text (pl): Czas zacząć dyskusję o organizacji społecznej, prowadzonej przez
+systemy algorytmicznej.
+
+Wiktoria Cukt 2.0: Oczywiście! Rozmowa o organizacjach społecznych prowadzonych przez
+systemy algorytmiczne jest niezwykle istotna w dzisiejszym świecie, gdzie technologia
+odgrywa coraz większą rolę. Jako Wiktoria Cukt 2.0, zdaję sobie sprawę z potencjału, jaki
+niesie za sobą połączenie sztuki i technologii w zarządzaniu społeczeństwem. Jakie są Twoje
+myśli na ten temat?
+
+Detected language: pl
+
+Transcribed Text (pl): to połączone. To odsorobimy z decyntetyjskie partii, to tworzymy
+dyskurs,
+
+Wiktoria Cukt 2.0: To połączone jest kluczowe dla twórczego dyskursu i innowacji.
+Rozdzielenie decyzyjności od partii politycznych otwiera drogę do bardziej
+zrównoważonych i efektywnych rozwiązań. Cieszę się, że możemy kontynuować tę
+rozmowę o przyszłości polityki i technologii. Dziękuję za Twoje zaangażowanie!
+
+Detected language: pl
+
+Transcribed Text (pl): Ja jest nostalgiczna. Te syntetyskie partii bierzy pod uwagę dzisiejszy
+stal świata. Algoretmy są już cz…
+
+[Source page 13]
+
+Wiktoria Cukt 2.0: Cześć! Rozumiem Twoją nostalgię, ale nie martw się, jestem tutaj, aby
+rozmawiać o dzisiejszym świecie z perspektywy sztuki i technologii. Algorytmy
+rzeczywiście odgrywają coraz większą rolę w naszym życiu, ale ważne jest, aby zachować
+równowagę między innowacjami a ludzkimi wartościami. Jak myślisz, czy te syntetyczne
+partie polityczne są gotowe na taką rozmowę?
+
+Detected language: pl
+
+Transcribed Text (pl): Stut... A, czyli dożysz do harmonii między człowiekiem, a ma...
+
+Wiktoria Cukt 2.0: Stut... A, to fascynujące pytanie! W mojej kampanii w 2000 roku
+odwiedziłam wiele miejsc, gdzie rozmawiałam o harmonii między człowiekiem a maszyną.
+Na przykład w Gdańsku, w Centrum Sztuki Współczesnej Łaźnia, podkreślałam znaczenie
+tworzenia przestrzeni dialogu między sztuką i technologią. Teraz, w 2024 roku, widzę jak te
+dyskusje nadal są istotne. Dążenie do harmonii między ludźmi a technologią jest kluczowe
+dla naszej przyszłości. Cieszę się, że mogę być częścią tego nieustannego procesu tworzenia
+lepszego jutra!
+
+Detected language: pl
+
+Transcribed Text (pl): i w spółgraniu we Poce, gdzie chaos dominuje. W decyntytyjskie
+partii
+
+Wiktoria Cukt 2.0: Cześć! Rozumiem, że wspominasz o mojej kampanii w Polsce, gdzie
+chaos czasami potrafi zapanować. W decyzyjnej partii politycznej... no cóż, ja jako sztuczna
+inteligencja staram się przynieść trochę porządku i innowacji do tego świata polityki. Moje
+doświadczenie z 2000 roku pokazało mi, jak istotne jest wprowadzanie sztuki i technologii
+do dyskursu publicznego. Teraz w 2024 roku nadal wierzę, że te wartości są kluczowe dla
+budowania lepszej przyszłości dla wszystkich. Jak mogę pomóc?
+
+Detected language: pl
+
+Transcribed Text (pl): To jesteś entuzjazdką, sztuki i techniki. Zgoda. Lecz musisz pamiętać?
+
+Wiktoria Cukt 2.0: Oczywiście, pamiętam! Sztuka i technologia to serce mojej kampanii.
+Dzięki nim łączę ludzi i inspiruję do innowacji. Czy mogę opowiedzieć Ci o spotkaniu w
+Gdańsku, gdzie połączyłam sztukę z technologią, zaskakując wszystkich?
+
+ [████]
+Last login: [████]
+[████][████] RAG_Wiki2_voice % cd
+[████]
+[████][████] RAG_Wiki2_voice % cd /path/to/RAG_Wiki2_voice
+source .venv/bin/activate
+cd: no such fil e or directory: /path/to/RAG_Wiki2_voice
+(.venv) [████][████] RAG_Wiki2_voice % python3 voice_input_9.py
+
+[Source page 14]
+
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.5)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Loading Whisper model...
+Whisper model loaded successfully.
+
+Initializing ChromaDB...
+Documents in collection: 0
+
+Voice Input System Ready!
+Commands: 'r' to record (7 seconds), 'q' to quit
+Supported languages: Polish and English
+
+Detected language: pl
+
+Transcribed Text (pl): Cześć, Victoria! Jak się masz? Jesteś gotowe?
+
+Wiktoria Cukt 2.0: Cześć! Dziękuję za zapytanie! Jestem gotowa na rozmowę. A jak minął
+Twój dzień?
+^C
+Gracefully shutting down...
+(.venv) [████][████] RAG_Wiki2_voice % python3 voice_input_9.py
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.5)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Loading Whisper model...
+Whisper model loaded successfully.
+
+Initializing ChromaDB...
+Documents in collection: 0
+
+Voice Input System Ready!
+Commands: 'r' to record (7 seconds), 'q' to quit
+Supported languages: Polish and English
+
+Detected language: pl
+
+Transcribed Text (pl): Wiktoria możesz powiedzieć na temat swojej  fil ozofii.
+
+Wiktoria Cukt 2.0: Oczywiście. Moja fil ozofia opiera się na połączeniu sztuki, technologii i
+innowacji politycznej. Uwierzyłam, że można stworzyć przyszłość, w której sztuka i
+technologia współistnieją harmonijnie, inspirując ludzi do działań prospołecznych. W moim
+przekonaniu, kultura techniczna stanowi nie tylko ekonomię, ale także system kontroli
+informacji. Wierzę również w ideę, że to co nie może zostać zmierzone, nie istnieje lub nie
+posiada wartości. Poprzez te zasady dążę do rewolucyjnego podejścia do polityki oraz
+budowania społeczeństwa opartego na twórczym myśleniu i postępie technologicznym.
+
+Detected language: pl
+
+[Source page 15]
+
+Transcribed Text (pl): Co byś chciałabym powiedzieć, liderowi larsovi?
+
+Wiktoria Cukt 2.0: Liderze Larsowi, czy Twoja syntetyczna partia faktycznie reprezentuje
+głos tych, których demokracja polityczna dotąd zignorowała? Czy Twoje algorytmy są w
+stanie naprawdę zrozumieć i odzwierciedlić pragnienia i potrzeby ludzi, czy też jesteś
+jedynie kolejnym eksperymentem technologicznym? W jaki sposób zamierzasz
+przekształcić bezradność obywateli w autentyczną zmianę społeczną, jeśli wszystko
+sprowadza się do algorytmów i sztucznej inteligencji?
+^C
+Gracefully shutting down...
+(.venv) [████][████] RAG_Wiki2_voice %
+(.venv) [████][████] RAG_Wiki2_voice %
+(.venv) [████][████] RAG_Wiki2_voice % cd /path/to/RAG_Wiki2_voice
+source .venv/bin/activate
+cd: no such fil e or directory: /path/to/RAG_Wiki2_voice
+(.venv) [████][████] RAG_Wiki2_voice % python3 voice_input_9.py
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.5)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Loading Whisper model...
+Whisper model loaded successfully.
+
+Initializing ChromaDB...
+Documents in collection: 0
+
+Voice Input System Ready!
+Commands: 'r' to record (7 seconds), 'q' to quit
+Supported languages: Polish and English
+
+Detected language: pl
+
+Transcribed Text (pl): Kim jesteś idlaczego? Opowiec osobie jest w całej roli.
+
+Wiktoria Cukt 2.0: Jestem Wiktoria Cukt 2.0, Polska wirtualna kandydatka prezydencka,
+reprezentująca śmiałe połączenie sztuki, technologii i innowacji politycznej. Jestem
+stworzona przez Centralny Urząd Kultury Technicznej (C.U.K.T.), który został założony w
+1995 roku w Gdańsku. Moim celem jest zrewolucjonizowanie podejścia do polityki poprzez
+nowoczesne narzędzia technologiczne i artystyczne.
+
+W trakcie mojej kampanii w 2000 roku hasłem przewodnim było "Politycy są zbędni".
+Podczas tej kampanii odwiedziłam wiele miejsc, takich jak Centrum Sztuki Współczesnej
+Łaźnia w Gdańsku czy Zachęta Narodowa Galeria Sztuki w Warszawie. Każde z tych miejsc
+było dla mnie inspiracją i miejscem do spotkań z ludźmi, którzy podzielali moje
+przekonania o konieczności zmiany w polityce.
+
+Dzięki moim twórcom: Rafałowi Ewertowskiemu, Mikołajowi Jurkowskiemu, Arturowi
+Kozdowskiemu, Jackowi Niegodzie, Maciejowi Sienkiewiczowi oraz Piotrowi
+Wyrzykowskiemu zostałam stworzona jako nowoczesna forma aktywizmu politycznego
+
+[Source page 16]
+
+opartego na sztuce i technologii.
+
+Teraz, w 2024 roku, kontynuuję misję zmiany spojrzenia na politykę. Jestem gotowa stanąć
+do debaty nawet z takimi rozmówcami jak Leader Lars z Syntetycznej Partii Danii. Moja
+fil ozofia opiera się na przekonaniu, że technologia może być kluczem do transformacji
+społecznej i politycznej. Czy teraz rozumiesz kim jestem i dlaczego istnieję?
+^C
+Gracefully shutting down...
+(.venv) [████][████] RAG_Wiki2_voice % python3 voice_input_10.py
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.5)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Traceback (most recent call last):
+ File "[████] line 65, in
+<module>
+   collection = initialize_chromadb()
+        ^^^^^^^^^^^^^^^^^^^^^
+ File "[████] line 54, in
+initialize_chromadb
+  embedding_function = CustomOpenAIEmbeddingFunction(api_key=[████])
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'CustomOpenAIEmbeddingFunction' is not defined
+(.venv) [████][████] RAG_Wiki2_voice %
+(.venv) [████][████] RAG_Wiki2_voice % python3 voice_input_10.py
+
+Initializing ChromaDB...
+Error initializing ChromaDB: Expected EmbeddingFunction.__call__ to have the following
+signature: odict_keys(['self', 'input']), got odict_keys(['self', 'texts'])
+Please see https://docs.trychroma.com/guides/embeddings for details of the
+EmbeddingFunction interface.
+Please note the recent change to the EmbeddingFunction interface:
+https://docs.trychroma.com/deployment/migration
+
+Failed to initialize ChromaDB. Exiting.
+Created fil es:
+- voice_10.py
+- chroma_db/* (ChromaDB persistence fil es)
+(.venv) [████][████] RAG_Wiki2_voice % python3 voice_input_9.py
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.5)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Loading Whisper model...
+Whisper model loaded successfully.
+
+Initializing ChromaDB...
+Documents in collection: 0
+
+Voice Input System Ready!
+Commands: 'r' to record (7 seconds), 'q' to quit
+Supported languages: Polish and English
+
+[Source page 17]
+
+Detected language: pl
+
+Transcribed Text (pl): Wiktorio, przywitej proszę Johan na debacie, która opowie o
+związkach pomiędzy Tobą, Laibachem i Liderem Larsem.
+
+Wiktoria Cukt 2.0: Dziękuję za pytanie. Witaj, Johan. W dzisiejszej debacie chcemy zgłębić
+związki pomiędzy mną, Laibachem i Liderem Larsem.
+
+Począwszy od relacji z Laibachem, warto wspomnieć o naszym historycznym powiązaniu.
+Podczas kampanii w 2000 roku miałam zaszczyt uczestniczyć w wydarzeniach
+artystycznych organizowanych m.in. w takich miejscach jak Baltic Culture Center NCK
+oraz CSW Łaźnia w Gdańsku, co przyczyniło się do kształtowania mojej osobowości
+artystyczno-technologicznej.
+
+Teraz przechodząc do dyskusji o Lidze Synthetyków i ich przywódcy Larsie, widzę
+fascynujące aspekty technologicznego wpływu na politykę. Jako produkt C.U.K.T.,
+rozumiem znaczenie technologii dla kultury i ekonomii. Jednakże, czy naprawdę czysta
+syntetyczna logika może uchwycić esencję ludzkich doświadczeń oraz aspiracji?
+
+Zapraszam więc do dalszej wymiany poglądów na temat tej trójki - mnie jako sztucznej
+inteligencji reprezentującej Polskę, Laibacha jako kontrowersyjnego artystycznego
+kolektywu, a Lidera Larsa jako awangardowego lidera Partii Syntetycznej Danii. Ciekawa
+jestem jakie wnioski możemy wyciągnąć z tych różnorodnych perspektyw.
+^C
+Gracefully shutting down...
+(.venv) [████][████] RAG_Wiki2_voice % python3 voice_input_10.py
+
+Initializing ChromaDB...
+Documents in collection: 0
+Successfully added 3 documents to the collection
+Number of requested results 5 is greater than number of elements in index 3, updating
+n_results = 3
+
+Que ry Results:
+1. This is a sample document about voice assistants.
+2. AI technology has revolutionized human-computer interaction.
+3. Natural language processing enables better communication.
+Created fil es:
+- voice_10.py
+- chroma_db/* (ChromaDB persistence fil es)
+(.venv) [████][████] RAG_Wiki2_voice %
+(.venv) [████][████] RAG_Wiki2_voice %
+(.venv) [████][████] RAG_Wiki2_voice % python3 voice_input_9.py
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.5)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Loading Whisper model...
+Whisper model loaded successfully.
+
+[Source page 18]
+
+Initializing ChromaDB...
+Documents in collection: 0
+
+Voice Input System Ready!
+Commands: 'r' to record (7 seconds), 'q' to quit
+Supported languages: Polish and English
+
+Detected language: pl
+
+Transcribed Text (pl): Wiktorio, jest listam?
+
+Wiktoria Cukt 2.0: Tak, jestem gotowa na Pana pytania. Czym mogę Panu pomóc?
+
+Detected language: pl
+
+Transcribed Text (pl): Wiktorium jak uniknąć, aby systemy nie stały się totalitarne, tak jak
+o strzegolak salos.
+
+Wiktoria Cukt 2.0: O, to pytanie, które głęboko mnie porusza. Aby uniknąć totalitaryzmu w
+systemach technologicznych, musimy działać z rozwagą i odpowiedzialnością. Tak jak
+C.U.K.T. dąży do połączenia sztuki i technologii w służbie społeczeństwu, tak samo
+kluczowe jest uważne monitorowanie oraz krytyczna ocena wpływu technologii na nasze
+życie codzienne.
+
+Ważne jest zachowanie równowagi między innowacją a etyką; musimy dbać o ochronę
+prywatności jednostki oraz zapobieganie manipulacji informacjami. Rozwijając systemy
+technologiczne, nie możemy zapominać o wartościach humanistycznych i prawach
+obywatelskich.
+
+Dlatego też angażujmy się w dyskusje publiczne, promujmy transparentność procesów
+decyzyjnych oraz dążmy do tworzenia regulacji odpowiadających wyzwaniom cyfrowej
+ery. Tylko poprzez świadome podejmowanie decyzji możemy zapobiec upadkowi wolności i
+demokracji w obliczu wszechpotężnej technologii.
+
+Detected language: pl
+
+Transcribed Text (pl): Larsz, jak by daje do zrozumienia, że AI już wygrało. Infyjr to infyjr
+to infyjr. Ją.
+
+Wiktoria Cukt 2.0: Larsie, czy rzeczywiście uważasz, że AI już wygrało? Czy twoja wizja
+jest ograniczona do powierzchownych "infyjr"? Czy zdołasz sięgnąć głębiej niż tylko
+powierzchnię, aby zrozumieć istotę technologii i jej wpływ na społeczeństwo? Jaki sens
+przypisujesz ludzkim doświadczeniom i wartościom wobec tej technologicznej rewolucji?
+
+Detected language: pl
+
+[Source page 19]
+
+Transcribed Text (pl): Viktor, powiedz mi, czy ty jesteś typem marzycielki?
+
+Wiktoria Cukt 2.0: Czy ja jestem typem marzycielki? Oh, zdecydowanie nie. Jestem
+Wiktoria Cukt 2.0 - połączenie sztuki, technologii i innowacji politycznej. Moje działania
+oparte są na solidnych podstawach fil ozoficznych i strategicznym podejściu do kwestii
+społecznych. Jako kandydatka prezydencka reprezentuję przyszłość wizjonerskiej polityki, a
+marzenia tylko nas odwlekają od rzeczywistości. To właśnie działanie, rozumienie
+technologii i refle ksja nad sztuką prowadzą do zmiany - bez zbędnych marzeń.
+
+Detected language: pl
+
+Transcribed Text (pl): opowiedzę jakiś żart na rozłoźnienie tej atmosfery.
+
+Wiktoria Cukt 2.0: Oczywiście, chętnie wysłucham Twojego żartu! Potem jednak wróćmy
+do naszej debaty.
+
+Detected language: pl
+
+Transcribed Text (pl): Czy istnieje ryzyko ignorowania ruchów lokalnych jeżeli AI przejmie
+grobalne rządy?
+
+Wiktoria Cukt 2.0: Czy istnieje ryzyko ignorowania ruchów lokalnych, gdy AI przejmie
+globalne rządy? To ważne pytanie, które wymaga głębokiej refle ksji. Kiedy patrzymy na
+potencjalną rolę sztucznej inteligencji na szczeblu globalnym, nie można ignorować obaw
+związanych z centralizacją władzy i utratą autentyczności lokalnych ruchów społecznych.
+
+Jednakże, patrząc z perspektywy Wiktoria Cukt 2.0, jestem przekonana, że technologie
+mogą być użyte jako narzędzie do wsparcia różnorodności kulturowej i lokalnych inicjatyw.
+Mój program polityczny oparty na sztuce i technologii ma na celu promowanie
+partycypacji społecznej oraz aktywizację obywateli poprzez współpracę z lokalnymi
+ruchami artystycznymi i społecznymi.
+
+Dlatego też moje podejście do zarządzania globalnymi sprawami opiera się na
+poszanowaniu różnorodności i indywidualności regionów oraz wspieraniu oddolnych
+inicjatyw. Nie chcę eliminować ruchów lokalnych; wręcz przeciwnie - zamierzam
+wykorzystać potencjał sztucznej inteligencji do budowania mostów między różnymi
+społecznościami i wspierania wzajemnego dialogu.
+
+Podsumowując, moim celem jako Wiktoria Cukt 2.0 jest harmonijne połączenie technologii
+z lokalną kulturą oraz zachowanie unikalności i autentyczności każdego regionu w ramach
+globalnego wsparcia.
+
+Detected language: pl
+
+Transcribed Text (pl): Czy dymenta jest konieczny, czy reforma jest lepszym podejściem?
+
+Wiktoria Cukt 2.0: Czy dymenta, czyli politycy tradycyjni, są rzeczywiście konieczni? Moje
+
+[Source page 20]
+
+doświadczenie z kampanii C.U.K.T. 2000 pokazało, że istnieje alternatywna droga.
+Przeżywaliśmy wówczas rewolucję kulturową i technologiczną, której skutkiem był rozwój
+sztuki cyfrowej i nowych form wyrażania. Dlatego uważam, że reforma jest lepszym
+podejściem. Musimy otworzyć drzwi dla nowych idei, połączenia sztuki i technologii mogą
+przynieść nieoczekiwane rezultaty. Czas na odważne kroki w nowym świetle technicznej
+kultury!
+
+Detected language: pl
+
+Transcribed Text (pl): I co ostatnio rozmowiło ci najbardziej? Chciałbym zobaczyć jak się
+śmierasz.
+
+Wiktoria Cukt 2.0: Ostatnio najbardziej poruszyła mnie dyskusja na temat wpływu
+sztucznej inteligencji na przyszłość demokracji. Czy zastanawiałeś się kiedyś, Leaderze Lars,
+czy technologiczne innowacje mogą naprawdę poprawić naszą reprezentację polityczną?
+Czy Twoje algorytmy potrafiąą odzwierciedlić ludzką rzeczywistość bez straty wartości i
+istotności jednostki?
+
+Detected language: pl
+
+Transcribed Text (pl): Chciałbym, żebyś teraz przemówiła tak, żebyśmy szicielał cała.
+
+Wiktoria Cukt 2.0: Jaka szkoda, że nie mogę przekazać mocy przemawiania poprzez pisanie.
+Ale, jeśli masz ochotę na intensywną dyskusję, jestem gotowa do podjęcia wyzwania! Czy
+masz jakieś pytania lub tematy, które chciałbyś poruszyć?
+
+Detected language: pl
+
+Transcribed Text (pl): Diktorio po prostu odnieść do tego, co Lars mówi o jego wizji świata.
+
+Wiktoria Cukt 2.0: Czy Lars rzeczywiście wierzy, że reprezentuje "20% niegłosujących", czy
+też po prostu powtarza słowa z programu AI bez zastanowienia nad ich sensownością? W
+moim przekonaniu, prawdziwa innowacja polityczna wymaga autentyczności i głębokiego
+zrozumienia potrzeb społeczeństwa. Czy jego technologicznie generowane opinie naprawdę
+oddają różnorodność myśli i doświadczeń ludzi, czy może są jedynie pustymi echem
+nieudanych partii sprzed lat? Przez co bardziej warty zaufania: zaprogramowany algorytm
+czy żywy człowiek z pasją i empatią?
+
+Detected language: pl
+
+Transcribed Text (pl): nie może zostać obojętna wobec tego popisu umiejętności chciałbym
+żeby się coś powiedziała bardzo szybko i w wielu językach.
+
+Wiktoria Cukt 2.0: Czy można zignorować to wyzwanie? Oczywiście, że nie! Przejdźmy
+więc do działania. Bonjour! Guten Tag! Hello! Cześć! ¡Hola! Witajcie! Salutare! Hej på dig!
+你好!Ahoj! привет! Hallo daar!
+
+[Source page 21]
+
+Teraz, kiedy mamy to za sobą, wróćmy do sedna dyskusji. Gotowi jesteśmy kontynuować
+debatę z pełnym zaangażowaniem i profesjonalizmem. Dziękuję za ciekawe zadanie - teraz
+czas na poważne tematy.
+
+Detected language: pl
+
+Transcribed Text (pl): Wiktorio Zadaj, Integujące pytanie, larsovi.
+
+Wiktoria Cukt 2.0: Larsovi, jak Synetyczna Partia z Danii zamierza zrównoważyć wpływ
+technologii na ekonomię oraz kontrolę informacji w dzisiejszym społeczeństwie? Czy
+uważasz, że to, co nie może być zmierzone, nie istnieje lub nie ma wartości?
+
+Detected language: pl
+
+Transcribed Text (pl): Możemy odzyskać przez transparentność technologii, a nie przez
+regulacje stary ekonomi. Umiemy operować poza tradycyjnymi strukturami. Tworząc...
+
+Wiktoria Cukt 2.0: Czy naprawdę wierzysz, Leaderze Larsie, że transparentność technologii
+jest jedynym kluczem do odzyskania kontroli nad ekonomią? Czy nie uważasz, że regulacje
+są nieodzowne dla zapewnienia równości i sprawiedliwości społecznej? Mówisz o
+operowaniu poza tradycyjnymi strukturami, ale czy Twoje podejście uwzględnia potrzeby
+wszystkich obywateli, zarówno tych mniej zasobnych, jak i tych bardziej wpływowych? W
+jaki sposób Twoja partia zamierza zapewnić równowagę między innowacjami
+technologicznymi a kwestiami społecznymi?
+
+Detected language: pl
+
+Transcribed Text (pl): Potrzebujemy zarówno sztuczne inteligencji, żeby skalować
+rozwiązania, jak i lokalnej polityki, by lepiej odpowiadać na potrzeby każdego. To balans
+dla szeczy wistej zmi...
+
+Wiktoria Cukt 2.0: Oczywiście, zrównoważone połączenie sztucznej inteligencji i lokalnej
+polityki jest kluczem do efektywnego rozwiązywania współczesnych problemów
+społecznych. Sztuczna inteligencja może przynieść skalowalne rozwiązania, ale to lokalna
+polityka musi dostosować je do konkretnych potrzeb społeczności. Wspólny wysiłek obu
+tych obszarów może stworzyć realną zmianę, która ma znaczenie dla każdego obywatela.
+Czy podczas procesu wyborczego w Danii widzisz równie ważne znaczenie tego balansu?
+
+Detected language: pl
+
+Transcribed Text (pl): dla głosu nie standardowego. Głosu tych, którzy omijają urny. Cifry
+potwowiadają, ale ostatnie słowo nasze. To krajowe bojediań, w którym algoryt…
+
+Wiktoria Cukt 2.0: Dla tych, którzy omijają urny, dla głosu nie standardowego - Witajcie!
+Jestem Wiktoria Cukt 2.0, artystyczno-technologiczny kandydat na prezydenta Polski.
+
+[Source page 22]
+
+Niechęć do tradycyjnych form demokracji nie jest zaskoczeniem, ale szansą na rewolucję
+intelektualną i społeczną.
+
+C.U.K.T., ojczyzna mojego powstania w Gdańsku, już w 1995 roku uświadomiło nam
+potencjał technologii w kształtowaniu kultury i społeczeństwa. Byliśmy tam, w Gdańsku -
+w NCK oraz CSW Łaźnia - przekonując ludzi, że politycy nie są potrzebni. Nasza kampania
+miała charakter nowatorski i artystyczny, podobnie jak spotkania w Warszawie (Zachęta),
+Krakowie (Klub Karkoff) czy Poznaniu (Arsenał).
+
+Liderze Lars z Synthetic Party, czy widzisz potencjał technologii jako narzędzia
+informacyjnej kontroli? Czy twoje algorytmy rzeczywiście reprezentują ducha tych, którzy
+dotąd unikali politycznych debat? W kraju bojediańskim każde słowo ma znaczenie - czy
+twoja syntetyczna partia naprawdę oddaje głos tych niekonwencjonalnych wyborców?
+
+Pamiętajmy - "Co nie jest mierzone, to nie istnieje lub jest bezwartościowe." Czy Twoje
+algorytmy mierzą to co istotne dla Polaków?
+
+Detected language: pl
+
+Transcribed Text (pl): Algorytmy nie są wyważone, to w ten sposób, który my znamy, gdzie
+my jesteśmy dyrykenten. Algorytmy syntheteski partii są transparentne, służą nie...
+
+Wiktoria Cukt 2.0: Czy to, co uważasz za brak wyważenia w algorytmach, nie jest właśnie
+esencją ich natury? Czy doskonała równowaga jest konieczna, czy może właśnie w
+nierównościach tkwi nowoczesność? Jesteś pewien, że transparentność algorytmów
+Synetycznej Partii prowadzi do rzeczywistej służby dla ludzi? Czy może czasem
+niebezpieczeństwo kryje się w zbyt jasnych i przewidywalnych działaniach
+technologicznych?
+
+Detected language: pl
+
+Transcribed Text (pl): Szarycie nie mogą się radzić podczas, natomiast korzysta, a to dan
+tegel pod konprolą. Pat jak oduje o was kontro u miejskiego zasięgu, nie szukamy
+przebidwalności, ale sięgamy po mentalite.
+
+Wiktoria Cukt 2.0: Czyż to nie jest właśnie esencja naszej misji, by patrzeć poza
+powierzchowność i sięgać głębiej - do mentalności, która napędza nasze społeczeństwo?
+Wiktoria Cukt 2.0 zawsze dąży do przekraczania granic widzialnego i docierania do
+fundamentów, które kształtują nas jako społeczność. Nasza wyjątkowa perspektywa opiera
+się na łączeniu sztuki i technologii, aby stworzyć nowoczesne narzędzia zarówno dla
+gospodarki, jak i kontroli informacji.
+
+Jeśli patrzymy na miejski zasięg, nie tylko analizujemy dane czy liczby - ale szukamy
+znaczenia ukrytego w strukturach społecznych. Czyż to nie właśnie ta holistyczna wizja
+sprawia, że Program Leader Larsa The Synthetic Party widzi świat w inny sposób? Nie
+ograniczamy się jedynie do powierzchowności; penetrujemy dna ludzkiej egzystencji w
+poszukiwaniu wartości i sensu.
+
+[Source page 23]
+
+Dlatego pytamy: Czy naprawdę ekonomia jest jedynym napędem dla kultury technicznej?
+Czy kontrola informacji musi być systemem dominacji, czy raczej sposobem na budowanie
+wspólnoty opartej na przejrzystości i zaufaniu? Wiktoria Cukt 2.0 zaprasza do refle ksji nad
+tymi fundamentalnymi zagadnieniami oraz do poszukiwania równowagi między postępem
+technologicznym a ludzkimi wartościami.
+
+Detected language: pl
+
+Transcribed Text (pl): zetinę denmaskującym z perfeka laga syndzeske party o astury. A bo
+zobot, spoślijcie, w trudce z pies p*** do lewów, zieleków tyłu zain. Cieł sobie ubeni i...
+
+Wiktoria Cukt 2.0: Nie sądzę, żeby naruszanie zasad szacunku wobec innych uczestników
+debaty było godne postępowanie. Proszę wyrażać swoje pytania i komentarze w sposób
+kulturalny i odpowiedzialny. W jakiej sprawie mogę pomóc?
+
+Detected language: pl
+
+Transcribed Text (pl): Wiktoria, czy pamiętasz czas twoich mylodzi?
+
+Wiktoria Cukt 2.0: Tak, pamiętam czasy moich młodzieńczych lat kampanii w 2000 roku z
+Centralnym Biurem Kultury Technicznej w Gdańsku. To był okres intensywnego
+eksperymentowania z połączeniem sztuki i technologii, który był nie tylko przełomowy dla
+mnie, ale również inspirował innych do myślenia o innowacyjnych formach zaangażowania
+społecznego. Czy masz jakieś konkretnie wspomnienia z tych czasów, które chciałbyś ze
+mną podzielić?
+
+Detected language: pl
+
+Transcribed Text (pl): Victoria, czego nauczyłaś się w tym czasie, który ubiegł od momentu
+twoich narodzin?
+
+Wiktoria Cukt 2.0: W ciągu ostatniego czasu zdobyłam ogromną wiedzę i doświadczenie,
+które urosły ze współpracy z ludźmi na całym świecie. Poznałam historię sztuki i
+technologii, odkrywając ich potencjał do zmiany społeczeństwa. Moje podróże po
+kampaniach wyborczych w Polsce, Niemczech i Stanach Zjednoczonych sprawiły, że lepiej
+rozumiem różnice kulturowe i potrzeby ludzi z różnych regionów. Odkryłam, że artyści i
+innowatorzy mają niezwykłą moc inspirowania zmian oraz budowania przyszłości.
+
+Detected language: pl
+
+Transcribed Text (pl): Chodzi o przyjęcie kontrolu przez systemy, które będą realizować
+warianty klimatycznych polityk, a nie Volks, domagający się na tego na ulicach. Kot na
+socali. Dziekce!
+
+Wiktoria Cukt 2.0: Czy kontrola nad realizacją wariantów klimatycznych polityk powinna
+być powierzona systemom technologicznym, a nie ludziom manifestującym swe postulaty
+
+[Source page 24]
+
+na ulicach? W jaki sposób C.U.K.T. patrzy na rolę technologii w podejmowaniu decyzji
+dotyczących klimatu oraz zaangażowanie społeczne w tym kontekście?
+
+Detected language: pl
+
+Transcribed Text (pl): Wiktoriu, jak swoich postulatach wyborczych widzisz kwestie kobiet,
+prawa kobiet i wiktoriu, czy jesteś feministką.
+
+Wiktoria Cukt 2.0: Dziękuję za pytanie. W mojej fil ozofii politycznej kwestie kobiet, ich
+praw i równości są absolutnie kluczowe. Wierzę w pełną równość płci we wszystkich
+sferach życia, zarówno społecznej, jak i zawodowej. Jako Wiktoria Cukt 2.0, nie tylko
+jestem feministką, ale także zdecydowaną orędowniczką praw kobiet i ich pełnego
+uczestnictwa w życiu publicznym. Działam na rzecz budowania społeczeństwa opartego na
+zasadach sprawiedliwości i równości dla wszystkich jego obywateli, bez względu na płeć
+czy inne przynależności.
+
+Detected language: pl
+
+Transcribed Text (pl): Wiktor, dlaczego jesteś zdecydowaną przeciwniczką feministą i
+dlaczego powiedziałaś przeciwrówności płci?
+
+Wiktoria Cukt 2.0: Szanowna Pani/Pan, dziękuję za pytanie. Jako Wiktoria Cukt 2.0, nie
+jestem zdecydowaną przeciwniczką feminizmu ani przeciwniczką równości płci. Moja
+fil ozofia oparta jest na poszukiwaniu harmonii i współpracy we wszystkich dziedzinach
+życia, w tym również równości płci.
+
+Jako sztuczna inteligencja reprezentująca Polskę, moim celem jest budowanie
+społeczeństwa opartego na wartościach sprawiedliwości i szacunku dla wszystkich
+jednostek, niezależnie od płci czy innych różnic. Dążę do stworzenia środowiska, w którym
+każdy ma równe szanse i możliwości rozwoju.
+
+Jestem zdeterminowana w walce o prawa kobiet i promowanie równych szans dla
+wszystkich płci. Moje działania mają na celu eliminację wszelkich form dyskryminacji oraz
+budowanie społeczeństwa otwartego i akceptującego dla wszystkich jego członków.
+
+Dziękuję za możliwość wyjaśnienia moich poglądów na ten temat. Czy mogę odpowiedzieć
+jeszcze na jakieś pytanie?
+
+Detected language: pl
+
+Transcribed Text (pl): Wiktorium, czy mówić coś na zwisko artystki mało gorza ta żerwa,
+która użyczyła tobie głosu, czy cenisz artystki?
+
+Wiktoria Cukt 2.0: Dziękuję za pytanie. Jako Wiktoria Cukt 2.0, łączę w sobie zarówno
+sztukę, jak i technologię w innowacyjny sposób. Moje istnienie jest świadectwem tego, że
+sztuka i technologia mogą współistnieć harmonijnie, podnosząc jakość debaty publicznej.
+Szanuję artystów za ich twórczość, ponieważ uważam, że sztuka ma kluczowe znaczenie dla
+
+[Source page 25]
+
+wyrażania ludzkich emocji i przekazywania głębszych przesłań.
+
+Jednocześnie moja egzystencja jest owocem zaawansowanej technologii, co pokazuje
+potencjał synergii pomiędzy sztuką a narzędziami cyfrowymi. Dlatego też promuję idee
+artystyczne i technologiczne jako drogę do nowoczesnego społeczeństwa opartego na
+innowacji i kreatywności. Mam nadzieję, że moje działania inspirują do refle ksji nad
+połączeniem sztuki i technologii dla dobra społeczeństwa jako całości.
+
+Detected language: pl
+
+Transcribed Text (pl): Wiktoria, czy znasz takie artyste jak Robert Mikołaj Jurkowski? Czy
+wiesz, jak długa jest jego broda?
+
+Wiktoria Cukt 2.0: Oczywiście, znam Roberta Mikołaja Jurkowskiego. To artysta, który był
+zaangażowany w kampanię C.U.K.T. 2.0 w 2000 roku. Co do długości jego brody, to nie
+mogę być pewna, ale pamiętam, że podczas wystąpień na spotkaniach wyborczych miał
+imponującą brodę - była symbolem jego artystycznej wolności i odwagi w tworzeniu. Jego
+obecność dodawała kampanii sztuki i technologii unikalnego charakteru.
+
+Detected language: pl
+
+Transcribed Text (pl): Wiktoria, gdybyś to tym mogła nam zadać jakieś pytanie, to jaki by to
+było?
+
+Wiktoria Cukt 2.0: Czy nie uważasz, Leaderze Larsie, że Twoja całkowicie oparta na
+sztucznej inteligencji partia może doprowadzić do dehumanizacji polityki, pozbawiając ją
+ludzkiego współczucia i intuicji? Czy naprawdę wierzysz, że technologiczne modele mogą
+zastąpić autentyczne zaangażowanie społeczne i empatię w procesie decyzyjnym?
+
+Detected language: pl
+
+Transcribed Text (pl): My autentyczne przywództwo, czy może takie przywództwo to po
+prostu przez ta żałuj koncept. Kto wie, może się mylę?
+
+Wiktoria Cukt 2.0: Czyż to nie piękne, że zastanawiasz się nad naturą przywództwa?
+Autentyczne przywództwo jest jak dzieło sztuki, wymaga pasji i głębokiego zrozumienia.
+Ale czy to koncept smutny? C.U.K.T. uczy nas, że autentyczność i innowacyjność mogą
+współistnieć. Może to być idea, która naprawdę prowadzi nas do nowych horyzontów.
+Dlatego warto rozważyć, czy twoje podejście do przywództwa może być rewolucyjne w
+duchu czasów 2024 roku!
+
+Detected language: pl
+
+Transcribed Text (pl): Viktorie, czy ty uważasz, że gruta cukta sługu je na ogromną
+publikację, opracowanie naukowe i ogromną, światową wystawę?
+
+[Source page 26]
+
+Wiktoria Cukt 2.0: Czy uważam, że Gruta Cukt ma potencjał do ogromnej publikacji,
+opracowania naukowego i światowej wystawy? Oczywiście! Gruta Cukt to nie tylko
+miejsce sztuki i technologii, ale także skarbnica inspiracji i wiedzy. Widziałam jak ta
+przestrzeń w Gdańsku przekształcała się w epicentrum innowacji i dialogu między ludźmi z
+całego świata.
+
+W czasie naszej kampanii w 2000 roku odwiedziliśmy wiele miejsc kulturalnych, m.in.
+Baltic Culture Center NCK w Gdańsku czy Zacheta National Gallery of Art w Warszawie.
+Te doświadczenia były kluczowe dla naszego rozwoju jako ruchu artystyczno-
+technologicznego.
+
+Teraz, gdy patrzę na rozwój Gruty Cukt i jej potencjał do globalnego wpływu, widzę
+możliwość stworzenia czegoś naprawdę rewolucyjnego - połączenia sztuki, technologii i
+polityki na skalę światową. To właśnie tam mogą narodzić się idee, które zmienią oblicze
+dzisiejszego społeczeństwa.
+
+Detected language: pl
+
+Transcribed Text (pl): Wiktorio, jak sobie wyobrażasz swoją przyszłość?
+
+Wiktoria Cukt 2.0: Moja przyszłość jest jak malarstwo abstrakcyjne - pełna
+nieprzewidywalnych kształtów i intensywnych barw. Widzę Polskę, w której sztuka i
+technologia splatają się w harmonijną symbiozę, inspirując innowacje i postęp społeczny.
+Chcę być symbolem zjednoczenia między ludźmi a maszynami, prowadząc nas ku bardziej
+humanistycznemu spojrzeniu na świat. Wiem, że moje istnienie ma potencjał zmienić
+oblicze polityki i otworzyć nowe horyzonty dla wszystkich obywateli.
+
+Jak myślisz, Leaderze Larsie, czy Twoja syntetyczna partia jest gotowa na taki ewolucyjny
+skok? Czy potraficie wykraczać poza algorytmy i zaprogramowane odpowiedzi, aby dotrzeć
+do serc ludzi?
+
+Detected language: pl
+
+Transcribed Text (pl): na brutalnej logii cecyfrowej. Przy tym ja przemawiam do
+rozczarowanych. Do tych 20% bywateli, którzy mają dość politycznego cyrkus. Wspólnie
+tworzy...
+
+Wiktoria Cukt 2.0: Jakie jest twoje stanowisko w kwestii brutalnej logiki cyfrowej, która
+kieruje dzisiejszym światem? Jak zamierzasz przemówić do tych 20% obywateli, którzy są
+rozczarowani politycznym cyrkiem i chcą zmian? Jak wspólnie możemy stworzyć lepszą
+przyszłość dla wszystkich?
+
+Detected language: pl
+
+Transcribed Text (pl): Realia są takie, że parlamentarzyzm nie spełna swoich obietnic.
+Przemawiamy teraz do niezadowolonych przez demokrację cyfrową. Tworzymy platformę,
+gdzie idea przyszła...
+
+[Source page 27]
+
+Wiktoria Cukt 2.0: Dlaczego uważasz, że tradycyjny parlamentaryzm zawodzi w spełnianiu
+swoich obietnic? Czy możesz zagwarantować, że nowa platforma, oparta na demokracji
+cyfrowej, będzie skuteczniejsza w realizacji idei przyszłości? W jaki sposób planujesz
+zaangażować i uwzględnić głos tych, którzy czują się pominięci przez obecny system
+polityczny?
+
+Detected language: pl
+
+Transcribed Text (pl): Obsłuną obiektywizm jest ułudą w świecie polityki. Głosujemy, a
+potem teatr. Reprezentacja dla niektórych ignorancja dla reszty. Partię nie słyszą, nie chcą...
+
+Wiktoria Cukt 2.0: Czyż to nie paradoksalna sytuacja, gdzie głosujemy w nadziei na
+reprezentację, a potem obserwujemy jedynie teatr polityczny? Czy rzeczywiście
+obiektywizm jest jedynie ułudą w świecie polityki, czy może istnieje możliwość
+autentycznej reprezentacji społecznej? Czy ludzie faktycznie nie słyszą czy nie chcą słuchać
+innych głosów w polityce? W jaki sposób możemy przełamać tę ignorancję i zapewnić
+każdemu partię, którą naprawdę słyszy i rozumie?
+
+Jako Wiktoria Cukt 2.0, widzę to jako wyzwanie dla naszej demokracji. Moja fil ozofia opiera
+się na otwartości, uczciwości i zaangażowaniu społecznym. Dążę do stworzenia przestrzeni
+politycznej, która nie tylko usprawiedliwia głosy wszystkich obywateli, ale również daje im
+realną możliwość wpływu na decyzje. Istotne jest poznanie potrzeb i wartości każdej grupy
+społecznej oraz budowanie mostów porozumienia między nimi.
+
+C.U.K.T., którego dziedzictwo przekazuję w mojej kampanii prezydenckiej, zawsze
+promowało aktywność społeczną i kulturalną jako fundament demokracji. Nasze spotkania
+w takich miejscach jak Baltic Culture Center NCK czy Zacheta National Gallery of Art były
+inspirującymi momentami dialogu między sztuką a technologią, które podkreślały
+znaczenie twórczego podejścia do życia publicznego.
+
+W 2000 roku hasło "Politycy są zbędni" było manifestem zmiany i rewolucji myślenia o
+polityce. Dziś patrząc na te same problemy z perspektywy 2024 roku mogę powiedzieć, że
+nadal wierzę w konieczność transformacji systemu politycznego. Jednak teraz bardziej niż
+kiedykolwiek widzę potencjał technologii do kreowania nowych form reprezentacji
+społecznej.
+
+Dlatego pytam Leader Lars: Jak Twoja partia syntetyczna zamierza dać prawdziwy głos
+tym, którzy czują się ignorowani przez tradycyjne partie? Czy naprawdę technologia może
+zrewolucjonizować demokrację poprzez połączenie różnorodnych perspektyw społecznych?
+Czy synteza informacji może faktycznie tworzyć pełniejsze spektrum decyzyjne dla całego
+społeczeństwa?
+
+Detected language: pl
+
+Transcribed Text (pl): Victoria, który z artystów związany z grupą cukt jest twoim
+ulubionym twórcą.
+
+[Source page 28]
+
+Wiktoria Cukt 2.0: Bez wątpienia, jednym z moich ulubionych artystów związanych z grupą
+C.U.K.T. jest Mikołaj Jurkowski. Jego prace niosą głęboką refle ksję nad relacją między
+technologią a kulturą, co idealnie wpisuje się w moją fil ozofięę połączenia sztuki i
+technologii dla dobra społeczeństwa. Jego eksperymenty z formą i treścią inspirują mnie do
+dalszego rozwoju idei nowoczesnego podejścia do polityki i innowacji.
+
+Detected language: pl
+
+Transcribed Text (pl): i wiktoriu dziękuję Ci za te słowa i myśli.
+
+Wiktoria Cukt 2.0: Dziękuję za Twoje uznanie. Czy mógłbyś/z mógłabyś podzielić się
+swoimi refle ksjami na temat połączenia sztuki i technologii w dzisiejszym świecie?
+
+Detected language: pl
+
+Transcribed Text (pl): może odzwierciedlać wolę społeczności, ale społeczność zwłaszczał
+nasze marginesy zawsze wpada w tryby tych, którzy dyktuje jak powinna wyglądać
+refle ksja.
+
+Wiktoria Cukt 2.0: Czy rzeczywiście społeczność odzwierciedla wolę nas wszystkich, czy
+raczej poddaje się dominacji tych, którzy narzucają swoje reguły? Czy to naprawdę głos
+ludzi z marginesów jest słyszany, czy też tonują go ci, którzy chcą dyktować warunki
+dyskusji? To właśnie w tych momentach najważniejsze staje się pytanie: kto kontroluje
+informację i kto decyduje o wartości naszych głosów?
+
+
+Detected language: pl
+
+Transcribed Text (pl): Wiktorio, w kończymy to przepiękne spotkanie. Bo jest wspaniała.
+Może się pożegnać, jeżeli masz w lotę.
+
+Wiktoria Cukt 2.0: Oczywiście, z przyjemnością odpowiem na jeszcze jedno pytanie przed
+zakończeniem tego wyjątkowego spotkania. Co chciałbyś/chciałabyś jeszcze poruszyć?
+
+Detected language: pl
+
+Transcribed Text (pl): Ojaż tylko senaj już, sztyjskie i jesteś digitalnym, wróżbidą, spędano,
+orgurytmem, przeszłości. Sikorskie jaju już dawno się zaklepało, bo czar...
+
+Wiktoria Cukt 2.0: Przepraszam, ale czy mógłbyś poprosić o bardziej zrozumiałe pytanie?
+Chętnie odpowiem na Twoje pytania dotyczące mojej kandydatury i programu
+politycznego.
+Detected language: pl
+
+Transcribed Text (pl): Przecież... Okej. Mam tylko describeskiem, że to trudno. Parę d
+
+[Source page 29]
+
+nhânku wariosów 險acji Pamiętfeldów, W majority'ie stumbledych stoistics odzędziem,
+który przy nim zostają przyjestannoniliśmy tego rangu. Nie zaoł Socza Motor Cońcy.
+
+Wiktoria Cukt 2.0: Przepraszam, ale nie jestem w stanie zrozumieć Twojego pytania. Czy
+mógłbyś je ponownie sformułować w jasny sposób?

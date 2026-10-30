@@ -1,0 +1,38 @@
+A08-D23 | Invoice-[████].pdf
+
+PDF text extraction; layout and embedded images are not reproduced.
+
+[Source page 1]
+
+Invoice
+
+
+Invoice number [████]
+Date of issue   January 12, 2023
+Date due       January 12, 2023
+
+
+NLP Cloud                                                                       Bill to
+[████]
+
+$1.00 due January 12, 2023
+
+Pay online
+
+Description                                                        Qty                      Unit price                           Amount
+
+Pay-As-You-Go + multilingual add-on                           1                   $1.00                              $1.00
+Jan 12 – Feb 12, 2023
+
+
+                                                              Subtotal                                               $1.00
+
+                                                                  Total                                                  $1.00
+
+                                                Amount due                                         $1.00
+
+Soupeo, 970 route de Corrençon, 38250 Villard-de-Lans, France
+Siren 812 027 043
+VAT FR 55 812027043
+
+[████] · $1.00 due January 12, 2023                                                                              Page 1 of 1

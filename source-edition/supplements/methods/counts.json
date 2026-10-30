@@ -1,0 +1,45 @@
+{
+  "source": "data/A15-D02.txt",
+  "completed_input_response_units": 5097,
+  "Computer_Lars_label_units": 289,
+  "other_label_units": 4808,
+  "speaker_fragments_without_reply": [
+    1833,
+    1838,
+    2600,
+    2602,
+    2604,
+    2606,
+    3872,
+    4544,
+    4560,
+    4566
+  ],
+  "language_coding": "Prior 3,454 whole-input subclaim not verified. Located fragment-level langid selection uses different units and does not establish that census.",
+  "unit": "completed input-response exchange, not person, voter, membership or API call",
+  "invoices": [
+    {
+      "source_id": "A08-D12",
+      "consumption_month": "2022-09",
+      "USD": 9,
+      "payment_date": "October 3, 2022"
+    },
+    {
+      "source_id": "A08-D08",
+      "consumption_month": "2022-10",
+      "USD": 200,
+      "payment_date": "October 19, 2022"
+    },
+    {
+      "source_id": "A08-D05",
+      "consumption_month": "2022-10",
+      "USD": 170,
+      "payment_date": "November 1, 2022"
+    }
+  ],
+  "October_USD": 370,
+  "September_USD": 9,
+  "prompt_cost_average": null,
+  "analysis_version": "METHOD-A15-A08/2026-10-26",
+  "analysed_representation": "Pre-treatment analysis witness, preserved separately; language classifications are not recalculated from the later public derivative."
+}

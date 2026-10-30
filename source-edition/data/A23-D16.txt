@@ -1,0 +1,67 @@
+Title: Automatic Uprisings: Archiving a Synthetic International
+
+
+Please summarize the research you have conducted during the previous 3 years and describe how this is related to the proposed project. (2000)
+
+
+1. The Synthetic Party & Computer Lars (‘22-)
+
+
+For the last year, I have worked on a commission to create a global debate on the role of artificial intelligence in society through my employment as an artist-researcher for the tech-hub MindFuture. To this end, I developed and maintained the artwork Det Syntetiske Parti, which depicts a Danish political party driven by artificial intelligence. The artwork operates across international media, performance, public debate, and workshops. It also provided an opportunity to expand my long-term artwork “Computer Lars” (an anagram of “Marcel Proust”) into a performative role of party secretary. The work was prompted by an interest in artist-made political parties, and it provides the background and resources for the PhD proposal in terms of materials, media plus organizational contacts.
+
+
+2. Organ of the Autonomous Sciences (‘20-)
+
+
+I co-founded an extra-disciplinary collective for research, art and infrastructural organization that 1) publishes criticism on contemporary political art in journals such as e-flux and Kritische Berichte, and 2) facilitates discussions on autonomous artistic research in Denmark with collaborators, e.g. Kunsthal Aarhus and Fredag Aften. This work develops the theoretical bulk of the PhD-proposal’s politically-engaged artistic research.
+
+
+3. The Exhibition Space Spanien19C (‘19-)
+
+
+I have since 2019 taken part in reconceptualising the oldest artist-run exhibition space in Aarhus, as it was forced to relocate due to urban renewal. By collaborating with the entrepreneur Enggaard A/S, we have developed a space for site-specific, socially-engaged practices within the bounds of an active construction site. We have before and after the relocation arranged exhibitions, debates, partnerships and symposions focused on how artistic practices can recognise overlooked qualities and potentials that are swept up by processes of transformation. This work mainly inspires forms of participation (labs, workshops) for the PhD-proposal.
+
+
+Please provide a brief project description. This should be a concise, scientific and full description of the project. (2000)
+
+
+The purpose of Automatic Uprisings is to document and theorize a potential socio-political network called The Synthetic International (SI). It will depict the workings of a global web of political parties that are driven by artificial intelligence (AI). This media-based and politically-engaged artwork will research new imaginaries for what forms of social protest that become possible by use of digital technologies. The objective is to bridge artistic practice with new research on data and democracy that has been evoked by the increasing use of AI and algorithms in society.
+
+
+The hypothesis is that artistic research can offer an immanent critique of the power that automation exercises within the bureaucracy and public spheres. In this way, the project answers critical theory’s recent “call to arms” for imagining how to democratize current data infrastructures.
+
+
+The main deliveries will be:
+1) open labs on “techno-social sculpting” in Kunsthal Aarhus, and a series of workshops in Denmark and abroad
+2) three digital art exhibitions curated by Aksioma (Slovenia), Kunsthal Aarhus (Denmark) and POINT (Cyprus)
+3) three journal articles to form a written thesis:
+* AI & Society: “An Iconology of AI Advocacy: Protesting AI with AI“
+* Études Digitales: “Techno-Social Sculpting in the wake of La Société Automatique”
+* e-flux: “Automatic Uprisings: Lessons from Archiving a Synthetic International”
+
+
+I label the artwork a techno-social sculpture with a reference to how Joseph Beuys’ politically-engaged art inspires a methodological framework of digital studies that aims to counter algorithmic governmentality. The SI is officially presented through a website where AI models respond to textual requests with imagery that ranges from AI propaganda to twisted diagrams.
+
+
+The PhD-project’s primary affiliations will be with Kunsthal Aarhus and Aarhus University’s Centre for Aesthetics of AI Images plus their SHAPE-research centre that all focus on imagining new forms of participation for digital citizenship.
+
+
+Please provide a detailed description of the project - including purpose, background, hypothesis, methods, realization of the artistic/curatorial practice and the relevance of the project for the host institution. (10.000)
+
+
+Lay project description (1000)
+Automatic Uprisings is an artistic research project between Aarhus University and Kunsthal Aarhus that is both media-based and politically-engaged. It explores new imaginaries for social protest with artificial intelligence (AI) in a way that first became conceivable in a Digital Age. Its practical aim is to document a potential network, The Synthetic International (SI), which depicts a global web of political parties driven by AIs. This offers an antidote to a centenary of doomsday visions on “the robot uprising” by explicating how this already takes place in today’s society. The SI artwork - a “techno-social sculpture” that follows in a tradition of e.g. Joseph Beuys - presents a digital interface where one can make photos of AI propaganda, twisted diagrams, etc. By facilitating digital exhibitions, labs, workshops and scholarly debate, Automatic Uprisings’ objective is to outline a form of digital citizenship where everyone participates in determining the role of AI in democracy.
+
+Up to 4 illustrations can be uploaded. Tables, figures, images, etc. are all classified as illustrations. Illustrations may not be larger than 700 (width) x 900 (height) pixels, and must be in jpg or jpeg format. File names can only contain letters a-z, and not the Danish letters æ, ø or å, and cannot contain spaces or numbers.
+* Illustration #1: installation of image generator for lap, materials archive of art history, 3 lysbilledkanoner, stillads
+* Illustration #2: diagram : label work with vector generator #1-2-3
+* Illustration #3: kp digital art exhibition
+* Illustration #4: collage of news articles with The Synthetic Party
+
+
+Please enter reference information for the literature cited in the detailed project description. (4000)
+
+
+Funding / Budget
+
+[████]

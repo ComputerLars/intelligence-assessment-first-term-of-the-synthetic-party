@@ -1,0 +1,569 @@
+A01-D06 | The Artificials
+
+PDF text extraction; layout and embedded images are not reproduced.
+
+[Source page 1]
+
+The MindFuture Foundation © 2020                                                  The Book of Mindsets™
+
+
+   THE ARTIFICIALS:
+   Humanized AI-technology is possible
+
+
+      Here’s the problem with postulations
+
+     Any dictionary will give you the definition of artificial (e.g. as Cambridge University do here):
+     made by people, often as a copy of something natural. It will further define copy as: to produce
+      something so that it is the same as an original piece of work, and it will also tell that: natural
+     means as found in nature and not involving anything made or done by people. Artificial is on
+      the one hand defined as made by people as a copy of something natural, in which natural, on
+      the other hand, is not involving anything made or done by people. There is an absurdity here.
+
+       So, we are asking if artificial intelligence and the technology behind AI can be humanized. By
+       definition it’s not natural – but it is actually a copy of ourselves we want to make. Let’s take
+      the definition one step further, and for some reason the dictionary makes a difference in
+       defining artificial intelligence (AI). In the UK version: the study of how to produce machines
+      that have some of the qualities that the human mind has, such as the ability to understand
+      language, recognize pictures, solve problems, and learn, and in the US version: the use of
+      computer programs that have some of the qualities of the human mind, such as the ability to
+      understand language, recognize pictures, and learn from experience. Is there a difference? We
+     know that [digital] machines don’t work without software, and it’s quite obvious that we’re
+       talking about computers, not a mechanical apparatus, right?
+
+       Right, so that makes some of the qualities of the human mind the key for further elaboration.
+     Do we really want to make a copy of the human mind and build it into a machine? The answer
+         is obviously a “yes” – or at least – we want AI-machines to have a human mind [not a human
+       brain]. The word “mind” is generally defined as a broad set of intellectual faculties including
+       cognitive aspects such as consciousness, imagination, perception, thinking, judgment,
+      language and memory, as well as emotion; hence the human mind will also encompass the
+       definition of a “mindset”, which is generally defined as: A set of beliefs, knowledge, attitudes,
+       feelings and emotions regarding a certain issue at a certain time.
+
+     Mind you – if you pardon the pun – a certain issue and a certain time refer to change; we
+     humans do change our minds. We do that when new data or new information turn into new
+      knowledge. Well, strictly speaking, some humans don’t change their minds at all – even if they
+      are presented with scientific new facts and new data. Actually, most people believe that the
+       truth is exactly what they believe is true; no need for science proving anything differently.
+
+     The latter is the real problem with making machines intelligent and/or emotional. Do we want
+      to build machines that don’t fail any logic and don’t learn from experienced new data – or do
+     we rather want to see machines that actually behave like humans with irrational and
+      emotional responses? That should just about cover the most basic dilemmas we face when we
+      as humans want to contemplate introducing AI-technologies into society to automate human
+        stuff. The keyword here is thinking, as the term “artificial intelligence” is not a commonly
+      agreed definition, let alone that we don’t even agree on a common definition of human
+       intelligence.
+
+                                      Written by [████] & [████]
+
+[Source page 2]
+
+THE ARTIFICIALS: Humanized AI-technologies is possible                                              2 of 11
+
+           “It is customary to offer a grain of comfort, in the form of a statement that some peculiarly
+       human characteristic could never be imitated by a machine. I cannot offer any such comfort,
+          for I believe that no such bounds can be set — Alan Turing, 1951”.
+
+         “The question is not whether intelligent machines can have any emotions, but whether
+        machines can be intelligent without any emotions.”— Marvin Minsky, 1986
+
+           “Artificial intelligence is one of the most profound things we're working on as humanity. It is
+       more profound than fire or electricity.” — Sundar Pichai, 2020
+
+          In the future we will perhaps also have to decide whether such entities should be given rights
+         as equal to human rights. Such humanized artificial mindsets should also urge a new thinking
+         of e.g. making “AI” an additional 18th UN sustainable development goal for the good of all
+        mankind.
+
+          Is a single definition of intelligence possible?
+
+        Given the many hyped media headlines used together with AI, the buzz almost seems like AI-
+          pollution; it’s used as a marketing tool as well as being presented as an ideology for the future,
+        but defining the age of Artificial Intelligence is actually not easy. Nobody really has a clue of
+        what defines AI, or when to use the term in the proper context. The term AI has become a
+        misnomer. It’s one’s mindset that shapes thinking, feelings and behavior, which calls for
+        another definition of social behavior and worldviews (aka mindsets).
+
+        The definition of mindset: A set of beliefs, knowledge, attitudes, feelings and emotions
+         regarding a certain issue at a certain time might also need to take our human senses into
+         consideration, such as smell and taste, and other newly found and discussed perceptions.
+
+        Only humans have managed to develop what humans consider an advanced language, e.g.
+       compared to other animals such as whales, apes, rats and ants, and we ourselves have defined
+        our intelligence by thought and awareness. With this capability we have shaped our cultures
+         beginning with symbolic arts, made functional tools and presently some amazing digital
+         technologies, so viewing the prospect of even newer digital AI-technologies is clearly
+        construed as a technological evolution. What we should talk about is that these technologies
+       become “artificial minds”, as we in fact do want to teach and learn new digital machines to
+         think and act like us; be it robots or computers which may or may not develop the potential to
+         think and be able to make autonomous decisions. We don’t actually need to talk about
+            artificial intelligence; rather we should talk about artificial mindsets – as we have no universal
+        agreement about what human intelligence is in the first place.
+
+        “The challenge for an Artificial Mindset is to make autonomous decisions, but even more
+         challenging is it to avoid making decisions, even when decision seems mathematically evident.”
+    — [████], 2020
+
+             It’s the way humans think and communicate with each other, that’s the whole point of talking
+        about intelligence in the first place. Throughout the rest of this article we will interchange
+          talking about definitions.
+
+                                    Written and curated by [████] & [████]
+                                         for The MindFuture Foundation © 2020 – The Book of Mindsets™
+
+[Source page 3]
+
+THE ARTIFICIALS: Humanized AI-technologies is possible                                              3 of 11
+
+         Dr. Shane Legg, cofounder of DeepMind and Dutch Professor Marcus Hütter, presently senior
+         researcher at DeepMind, wrote a short piece titled: A Collection of Definitions of Intelligence
+        back in 2006 where they conclude:
+
+         “Features such as the ability to learn and adapt, or to understand, are implicit in more than the
+        70+ different definitions. If we scan through the definitions pulling out commonly occurring
+         features we find that intelligence is:
+
+          A property that an individual agent has as it interacts with its environment or environments
+
+            Is related to the agent’s ability to succeed or profit with respect to some goal or objective
+
+          Depends on how able to agent is to adapt to different objectives and environments.
+
+         Putting these key attributes together produces the informal definition of intelligence that we
+        have adopted: “Intelligence measures an agent’s ability to achieve goals in a wide range of
+         environments.”
+
+        They further elaborated on definitions of universal intelligence in a somewhat longer research
+           article: Universal Intelligence: A Definition of Machine Intelligence dated in 2007, which might
+         also be an interesting read from such leading experts.
+
+         Intelligence in the future
+
+        The following quote sums up the newest buzz about artificial intelligence of Neuromorphic
+        computing:
+
+         “There are a number of types and styles of artificial intelligence, but there's a key difference
+        between the branch of programming that looks for interesting solutions to pertinent problems,
+        and the branch of science seeking to model and simulate the functions of the human brain.
+        Neuromorphic computing, which includes the production and use of neural networks, deals
+         with proving the efficacy of any concept of how the brain performs its functions -- not just
+         reaching decisions, but memorizing information and even deducing facts.
+
+        Neuromorphic engineering points to the possibility, if not yet probability, of a massive leap
+        forward in performance, by way of a radical alteration of what it means to infer information
+        from data. Like quantum computing, it relies upon a force of nature we don't yet comprehend:
+          In this case, the informational power of noise.
+
+              If all the research pays off, supercomputers as we perceive them today may be rendered
+          entirely obsolete in a few short years, replaced by servers with synthetic, self-assembling
+        neurons that can be tucked into hallway closets, freeing up the space consumed by mega-scale
+        data centers for, say, solar power generators”.
+
+       Whether we think about this as AI taking over, or just view it as an additional use of digital
+         software technologies, it will be important tools to plan and think differently about the future.
+      New IT-systems will undoubtedly become expert AI-systems, which in addition to their specific
+         AI-expertise will also be able to emulate human sentiments.
+
+                                    Written and curated by [████] & [████]
+                                         for The MindFuture Foundation © 2020 – The Book of Mindsets™
+
+[Source page 4]
+
+THE ARTIFICIALS: Humanized AI-technologies is possible                                              4 of 11
+
+        Neuroscience do agree on that explicit biological components and different personality traits
+         are part of what makes a mind — and that it also includes our individual genetic coding, as well
+         as depend on the specific environments we live in. Whether neuroscience will give us a final
+        answer of intelligence and/or mindset remains to be seen. Recently it has been argued by
+       some neuroscientists that a real artificial intelligence cannot exist in human terms as it will
+        have no body, i.e. an emotional biological response system for instance to express human joy
+        and happiness, but is restrained to logic calculations and deductions. However, there are
+         several more definitions of intelligence besides the logic-mathematical deductions.
+
+         Learning and memory capacity is required to obtain knowledge and is certainly crucial parts of
+         defining intelligence. However, we argue that the mind, which include experience, memory
+        and acquired knowledge, feelings, emotion and motivation, are what we can define as
+          intelligence, and that a mindset is the way you think and behave, and this makes a personal
+          identity. It’s therefore quite reasonably to argue that such human traits can come to exist in
+           Artificial Mindsets. The present artificialness in mimicking human features and behavior in
+         various digital chatbots will undoubtedly do much better with both visual representations as
+          virtual personas and physical humanoid robots.
+
+        Connecting the dots in cognitive science
+
+        The really big picture here is that our human “brainware” is basically the same as it was some
+        hundreds of thousands years ago. This is where our definitions of mind and intelligence enter
+         the scene.
+
+         For the first time in evolutionary and human history we are actually technologically able to
+       make artificial minds with some kind of cognition and intelligence; and by the way, it works the
+         other way around too. Why not enhance your own intelligence using neural connection to
+        machines, or perhaps even upload your identity to a computer?
+
+             It’s the artificialness that is the keyword. As biological and psychologically human beings we
+         are about to accept that technology can merge with us, and probably even create a new form
+         of life in the next few decades. Will AI-technologies develop a mind of its own – and will it be
+
+
+                                    Written and curated by [████] & [████]
+                                         for The MindFuture Foundation © 2020 – The Book of Mindsets™
+
+[Source page 5]
+
+THE ARTIFICIALS: Humanized AI-technologies is possible                                              5 of 11
+
+         equal to humans – or evolve as a new and different Artificial Mindset, and will such entities
+        then want to talk to us humans?
+
+        Bridging technology gaps
+
+          Let’s put that in perspective to AI-technologies:
+
+        With exponential growth in distributed computational capabilities and almost unlimited
+         storage capacity, we should therefore also expect exponential growth in development of very
+        advanced AI with Artificial Mindset as the next area for exploration, and development will
+        undoubtedly be further fuelled when Quantum computing is available in the next decade.
+
+        As illustrated in this graphic adapted from Thomas Friedman’s book “Thank you for being late”
+         (2016) prominent Eric Teller says: “Humans’ ability to adapt to change is increasing, but is not
+         keeping pace with the speed of
+           scientific and technological
+         innovations. To overcome the
+          resulting friction, human can adapt by
+         developing skills that enables faster
+         learning and quicker iteration and
+         experimentation”.
+
+       Some readers may know of several
+          definitions of communication
+          theories, which are another source to
+         defining AI, and so far we have two
+          distinct levels: “Weak AI” (Artificial
+        Narrow Intelligence — ANI) to be
+        developed into “Strong AI” (Artificial
+        General Intelligence — AGI). Further
+
+                                    Written and curated by [████] & [████]
+                                         for The MindFuture Foundation © 2020 – The Book of Mindsets™
+
+[Source page 6]
+
+THE ARTIFICIALS: Humanized AI-technologies is possible                                              6 of 11
+
+      we contemplate whether AGI’s ultimately can become a “Super AI” (ASI) and more intelligent
+        than human intelligence. MindFuture defines the next level after Super AI to be Artificial
+        Mindset being more cognitive aware than humans. Our technical capability is yet on the ANI-
+          level and we are gradually working our way into AGI — and we are nowhere near realizing ASI
+    — even though this particular topic of a potential Superintelligence, smarter than humans, is
+        what a lot of academic philosophical literature are all about.
+
+        But how will particular new uses of AI-technology to introduce an Artificial Mindset change our
+       human mindsets and thinking about our own everyday behavior and knowledge adaptation?
+
+         Deploying AI-technologies is yet viewed as it is used in industries and corporations that follow
+         the mantra of old school capitalism, i.e. ROI before cost benefit analysis of the greater good.
+       One particular industrial definition of AI goes:
+
+         “AI are systems based on algorithms, i.e. mathematical formula’s, which can analyze and
+         detect patterns in data to identify the optimal solution. AI-technologies can be designed to
+        adapt its functionality by observing how its surroundings are affected by previous actions. Most
+        systems run isolated specific tasks in limited areas, e.g. controlling, predicting and advising.
+        However, AI are used in a variety of ways, e.g. in search engines, for speech and face
+          recognition, to control and oversee autonomous driving or flying vehicles. AI could become new
+          tools to increase productivity and economic growth, and raise the general living standards in
+         the years to come”.
+
+       Imagine the next paradigms
+
+             It may not be lack of understanding the consequences or political disinterest, but the sheer
+        enormity of coordination changing how we learn and become more adaptable to future
+         technology and living. Any human traits such as e.g. feelings, irrationality, randomness and
+          unpredictability will obviously have to be programmed into machines to begin with.
+
+         AI has indeed managed to become a mainstream topic. We have e.g. already accepted talking
+         to machines as if they were human counterparts with certain recognizable human traits and
+        we’ve begun to perceive chatbots and virtual representations as being equals, but they are in
+          fact yet machines.
+
+        With our present knowledge of genetics, chemistry, cellular and molecular building materials,
+        gene altering and modifications in plants and animals have been going on for quite a while. We
+           call that gene modified organism (GMO) and it’s a lot bigger part of agriculture industry than
+        most realize. Imagine all food grown in factory settings with artificial meat and plants, thus
+         reducing livestock and farms to become re-inhabited fields once more with natures own
+          biodiversity.
+
+        Imagine living forever because we cracked the biological cellular code for ageing and can use
+        gene modification tools to prolong life. Actually we’re just on the brink of doing just that using
+        a technology named CRISPR, which would not have been possible if supercomputers hadn’t
+        helped structuring and categorize the human genome.
+
+                                    Written and curated by [████] & [████]
+                                         for The MindFuture Foundation © 2020 – The Book of Mindsets™
+
+[Source page 7]
+
+THE ARTIFICIALS: Humanized AI-technologies is possible                                              7 of 11
+
+        Imagine controlling machines by sheer thought processes using a neural link. Actually we’re
+         also on the brink of implementing this, and have for years been using neural impulses in what
+      we call bionics and the use of artificial limbs.
+
+       Now, imagine, the opposite; that machines upload information and data to the human brain.
+        We’re not quite there, but the implication could mean living forever as a digital identity. To
+          follow, then imagine downloading your digital self into a humanoid robotic shape when wished
+    — or any shape and form.
+
+        Imagine creating new life-forms from scratch. Presently we believe that DNA-strings can be
+          digitized and e.g. transmitted to self assembly by using advanced 3D printing with nano and
+         bio materials. Actually we’re also already experimented with that. Also we have been cloning
+         plants and animals for quite a while as well as experimented with artificial life-forms.
+
+       Psychometric testing
+
+        Today we are able to talk about different types of intelligence because of psychologist Howard
+         Gardner’s “Theory of multiple intelligences”, which originally defined seven categories. Later
+       two more has been added: the eight is naturalistic intelligence (e.g. Darwin) and the ninth is
+        about the ability to consciously reflect and philosophize about existence such as e.g.
+         Kierkegaard’s existentialism (see the previous link of several more definitions of intelligences).
+
+      We do not have any universal definition of social normal behavior, and besides various specific
+          religious beliefs, we have no definitions what constitutes universal truths of right and wrong.
+        Often people in everyday doings don’t reflect much of how they came to believe in certain
+       dogmas to define what normal and acceptable behavior is; humans do things because they
+         believe it’s the right thing, or because they have to. Definitions of moral and ethics show itself
+          in very subtle ways and are obviously values learned. You could also name that as rules [of
+            living], i.e. guidelines for a normative behavior and/or as actual and very specific laid out rules
+         of law. For various personal reasons, some people don’t behave in such commonly accepted
+        manners; hence we have a penal system as a mean to correct this. In most societies there is a
+        broad middle road to live your life as you wish. Social margins for personal freedom are pretty
+        wide and freedom to express yourself is literally a legal written basic human right.
+
+        Not every nation holds this to be true, which modern day politics clearly demonstrate. For
+         instance take everyday sentences like these: What do you have in mind? Are you out of your
+        mind? What’s on your mind? What are you really thinking about? The point should be obvious;
+             it’s all in your mind.
+
+       Most people — and politicians in particular — still refer to the future as a digital disruption,
+        which in fact is a phrase coined by the Harvard economist Clayton Christensen in late 20th
+         century. Twenty years on disruption is now being substituted with the word automation and
+           digital has become AI. New AI-technologies will be implemented in virtually all sectors. This has
+         long been named “smart” societies, cities, homes, watches — and encompasses the entire
+        marketed buzz as the Internet of Things, 5G networks and so forth. Our present civilization has
+         recently been named the Fourth Industrial Revolution (4IR) by World Economic Forum.
+
+                                    Written and curated by [████] & [████]
+                                         for The MindFuture Foundation © 2020 – The Book of Mindsets™
+
+[Source page 8]
+
+THE ARTIFICIALS: Humanized AI-technologies is possible                                              8 of 11
+
+       Are we ready for artificial personality traits?
+
+          Presently, the frequent use of so-called psychometric testing of personality and behavior is
+        moving psychology towards the discipline of HR (Human Resources), which has long been an
+          integral part of business management for recruitment of required skills. We need to discuss
+       new skills and education in our organizing of teachings. This includes the concept of life-long
+          learning, and call for rethinking living in mega-cities with emergent new social patterns and
+         status as singles v traditional family lifestyles with children, our increasing longevity and the
+        growing need for elderly care.
+
+        The challenges are more obvious in regard to the convenience and effectiveness of using new
+         technologies, and simultaneously arguing for upholding business ideologies and the view of
+        consumerism and capitalism. That’s equally about the ideology behind the futuristic AI-hype,
+        but it’s somewhat more practical issues we presently discuss. AI is in fact a cluster of several
+          different digital software and coding technologies, such as e.g. algorithms used for machine
+          learning, deep learning and neural network in pattern recognition, etc.
+
+        Our main worry right now is how we are implementing and running AI-functionalities, typically
+         as integrated parts of existing IT-systems, and who is accountable; in particular who owns the
+         data used for training algorithms to produce new data. That’s really about the liability for
+         corporate businesses in lieu of the political discussion of digital privacy. Actually the outspoken
+          criticism of global high-tech monopolies is in reality more about economy and taxation, than
+             it’s about principles of social ethics and moralities.
+
+         Let us take a closer look of what then constitutes our mind and mindsets. In order to do that in
+        a simplistic and understandable way for most of us, psychology and sociology actually agree
+         that there are five areas or domains in which we can identify and measure strength and
+        weaknesses to the presence of individual traits (e.g. feelings and moods).
+
+         Tests are marketed under different names and come in a variety of length to the number of
+         questions used to make analysis and conclusions, e.g. Meyers-Briggs and their renowned Type
+          Indicator (MBTI), which in turn builds upon Jung’s original description of archetypes. When
+        used in HR the more scientific terms are named NEO-PI – and if you want to try out a
+         personality test yourself it’s available on many websites and popularly called The Big Five. As
+       shown in the following table there is five domains with six specific traits or facets in each.
+
+
+         Neuroticism         Extraversion        Openness   Agreeableness       Conscientiousness
+
+          Anxiety           Warmth              Fantasy      Trust              Competence
+         Angry Hostility       Gregariousness        Aesthetics   Straightforwardness  Order
+         Depression          Assertiveness          Feelings      Altruism              Dutifulness
+          Self-Consciousness   Activity               Actions      Compliance         Achievement Striving
+          Impulsiveness       Excitement-Seeking   Ideas       Modesty               Self-Discipline
+           Vulnerability          Positive Emotions     Values      Tender-Mindedness   Deliberation
+
+
+       You score whether you agree or not, say on a scale of 1-10, to the number of statements
+         correlated to linguistic meaning.
+
+                                    Written and curated by [████] & [████]
+                                         for The MindFuture Foundation © 2020 – The Book of Mindsets™
+
+[Source page 9]
+
+THE ARTIFICIALS: Humanized AI-technologies is possible                                              9 of 11
+
+        The tabulations come out with a resulting score ranging from: Very low, low, average, high and
+         very high, making it possible to create a detailed text describing the participant’s personality.
+         That’s the basic methodology behind psychometric testing procedures. Psychometric tests are
+        used as a standard in almost any HR department all over the world. For each of the five
+        domains the evaluation comes out in a text description such as e.g. the following
+        [condensed] examples:
+
+         “Neuroticism: This individual is anxious, generally apprehensive, and prone to worry.
+         Extraversion: This person is very warm and affectionate toward others and he sometimes
+         enjoys large and noisy crowds or parties. Openness: In experiential style, this individual is
+         generally open. He has an average imagination and only occasionally daydreams or fantasies.
+         Agreeableness: This person easily trusts others and usually assumes the best about anyone he
+         meets. He is very candid and sincere and would find it difficult to deceive or manipulate others,
+         but he tends to put his own needs and interests before others’. Conscientiousness: This
+          individual is reasonably efficient and generally sensible and rational in making decisions. He is
+        moderately neat, punctual, and well organized, and he is reasonably dependable and reliable in
+        meeting his obligations”.
+
+        People taking a test for the first time are often astonished of the accuracy of a somewhat
+         longer text than the above can describe them. Research over the years in this format of testing
+        has shown that a person’s profile is pretty stable throughout adulthood. The table used as
+        example above show only 30 parameters, but a longer and more detailed version consists of
+        240 parameters. This will be a pretty good descriptive for what we in general call “a type of
+         person”.
+
+        However, horoscopes often do the same, and none of them are the magic truth about people.
+         Testing is not about aptitude toward specific skills, but about attitude and personal behavior in
+        a social context, and should therefore not to be mistaken for describing emotional intelligence
+         or other intelligences.
+
+       And a note of caution when reflecting a little further on how personality traits correlate to
+         psychological and clinical variables, such as e.g. interpersonal characteristics, psychological
+          well-being, coping and defense mechanisms, needs and motives, somatic complaints and
+         cognitive processes, a somewhat more detailed testing is needed. E.g. major incidents such as
+         severe illness, stress and therapeutic intervention could cause changes.
+
+        And, indeed, stress and anxiety are seemingly on the rise, partly because more automation in
+         public administration means more self-service putting on more personal responsibility to
+        perform in previously provided common services by society, and partly due to the growing
+         competition for jobs demanding newer and better skills.
+
+      Make your own mind
+
+         Also newer so-called characterizations have been introduced, e.g. YouTubers, influencers,
+         bloggers, tweeters, and trolls are used to define people’s way of thinking, working, and living.
+
+                                    Written and curated by [████] & [████]
+                                         for The MindFuture Foundation © 2020 – The Book of Mindsets™
+
+[Source page 10]
+
+THE ARTIFICIALS: Humanized AI-technologies is possible                                              10 of 11
+
+        Within the digital domains we talk about mindsets such as homo digitalis and even homo deus,
+        but actually such caricatures have been around for some time under different names.
+
+        The Singularitan (Transhumanist Trancenders), people who believe that we will merge with
+        computers and become an immortal new life-form — a singular event in human history — or
+           e.g. The Extopian (Transhumanist Asterias), who wants to live forever in a libertarian paradise
+         of free market economy with a psyche augmented by the best technology and drugs. Before
+         the digital era we called this way of thinking and living for homo economus as a certain kind of
+         personality and behavior, and we’ve long used the term homo politicus for people having a
+        worldview based on specific ideological way of thinking and living.
+
+        However, this “typecasting” has become more visible with digital living. A growing number of
+        young and old people live as singles, voluntarily or forced; more women choosing not to have
+         children and men increasingly being marginalized in a new battle of gender dominance in
+         business and social status. The previous descriptions and behaviors of business and personal
+            life also reflect on reducing the perception of a mindset to simplistic definitions. Psychologist
+         Carol Dweck e.g. talks about motivation and success based on a fixed mindset or a growth
+         mindset: “When a student has a fixed mindset, they believe that their basic abilities,
+          intelligence, and talents are fixed traits. In a growth mindset, however, students believe their
+           abilities and intelligence can be developed with effort, learning, and persistence”.
+
+       Now, ask yourself if the above characteristics of traits and behavior are something you would
+           like to deal with in communicating with machines, i.e. today’s chatbots or other automated
+         expert systems? Well, actually you are already dealing with this. The algorithms written into
+        machine learning are in reality an analysis of language processes. Using deep learning and
+         neural networks to find patterns in e.g. voice and analyzing facial recognition do indeed “read”
+        your emotions, feelings and moods.
+
+         Try contemplating taking a psychometric test as the above mentioned using your voice instead
+         of a written score. Or go one step further and have video turned on. Now, imagine a HR-
+        machine scoring your answers having a mindset and personality of its own.
+
+        Programming human traits into such an AM-persona, e.g. including indifference and
+           irrationally or other moods is not the hard part. It’s the machine’s ability to eventually make its
+       own analysis and decisions that’s quite a scary perspective, isn’t it?
+
+        “As long as we humans are programming instructions into computers, and make sure they are
+         followed we shouldn’t have any problems with trust and interaction whether we call it AI or
+         expert systems, but what if intelligent machines and artificial beings don’t want to follow
+          instructions?” — [████], 2020
+
+         So, there it is. AI-tech has so far not created an intelligent and self-conscious machine to
+          actually hold a comprehensible and intelligent conversation with – i.e. as a real human dialog.
+             It must include machines also becoming a personal affectionate companion that we can
+          actually talk to and learn from. Right now we are teaching machines to interpret our moods
+        and feelings – but it’s a two-way learning process.
+
+                                    Written and curated by [████] & [████]
+                                         for The MindFuture Foundation © 2020 – The Book of Mindsets™
+
+[Source page 11]
+
+THE ARTIFICIALS: Humanized AI-technologies is possible                                              11 of 11
+
+       The next step is an Artificial Mindset
+
+           First we must agree on what human moods and feelings actually tell about us; hence we come
+        back to philosophy and psychology of defining personality and identity. The next step in AI-
+        development then becomes how to implement and interact with computers or machines
+         having a mind of its own. Should this next level be considered AI-technology or will it be a
+          discipline by its own kind moving from technology programming to mindset programming –
+        moving into a mix of analogue and digital programming domain? That’s what makes
+        development of an Artificial Mindset so much more interesting to pursue. Wouldn’t it just be
+          fantastic if we could communicate with machines in a natural human way? Very many people
+        would actually want to experience an intelligent and caring companion with affection and
+        emotional intelligence, even as machines.
+
+         Besides the ingenuity and engineering needed to kick-start it, the process of developing a
+        mindset will be automatic learning. That’s not how we humans do it. Actually it’s a long and
+          stressful process for humans to grow up. Not going through all stages of birth, childhood,
+         caring and learning, the adult human has “grown up” when it reaches its early or mid-twenties,
+        and sometimes even as late as the early thirties. That’s when the frontal lopes in the human
+         brain are fully operational.
+
+             It’s regularly disputed whether the left or right brain half dominates your thinking and thus
+         defines your mindsets, but according to neuroscientist Susan Greenfield’s recent book “A Day
+          in the Life of Your Brain” we actually use all of the brain all the time. That should also take care
+         of the popular belief that we only use ten percent of our brains capacity. And by the way,
+         besides the neurological system, being a human also involves the immune system and the
+        endocrine system.
+
+         So, until now, this paper has set the stage for understanding human development in a
+         philosophical and psychological way within a social context of observing human behavior as
+       modern anthropology, and basically it has concluded that in a reality dominated by mindsets
+         of politics and economy in a business perspective, people pretty much believe in what they
+        want to be the truth.
+
+[████]
+           Artificial Mindset?
+
+            This is the very first article to The Book of Mindsets™, which will elaborate on the aspects of intelligence and
+           cognition in the age of AI, including references to psychology and philosophy in a broad context, for the purpose of
+            investigation and experimenting with Artificial Mindsets. It’s written and curated as the basic rationale behind The
+          MindFuture Foundation’s thesis of coming awareness and self-consciousness in machines, to the extent that
+            interactions between humans and machines can be deemed both intelligent and natural.
+
+                                    Written and curated by [████] & [████]
+                                         for The MindFuture Foundation © 2020 – The Book of Mindsets™

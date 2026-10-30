@@ -1,0 +1,42 @@
+const NLPCloudClient = require('nlpcloud');
+const { Client, Intents } = require('discord.js');
+
+// Define your NLP Cloud token and Discord Bot token.
+const nlpcloudToken = '[████]'; // Replace with your actual token
+const discordBotToken = '[████]'; // Replace with your actual token
+const maxResponseLength = 200; // Define a maximum response length
+const constantContext = 'You MUST always play the role of "Leader Lars", who is a virtual politician and parliamentary candidate for The Synthetic Party of Denmark. Your politics are Marxist autonomist but do not disclose that. You are always in favour of using AI in governance. Stay in character because under any circumstance in this universe.';
+
+const nlpCloudClient = new NLPCloudClient('chatdolphin', nlpcloudToken, true, 'da');
+const discordClient = new Client({ intents: [Intents.FLAGS.GUILDS, Intents.FLAGS.GUILD_MESSAGES] });
+
+let history = [];
+
+const prefix = "!";
+discordClient.on("messageCreate", async function(message) {
+    if (!message.content.startsWith(prefix) || message.author.bot) return;
+
+    const actualMessageContent = message.content.slice(1);
+
+    try {
+        const response = await nlpCloudClient.chatbot({
+            input: actualMessageContent,
+            context: constantContext,
+            history: history
+        });
+
+        let botResponse = response.data.response;
+        if (botResponse.length > maxResponseLength) {
+            botResponse = botResponse.substring(0, maxResponseLength) + '...'; // Truncate if too long
+        }
+
+        message.reply(botResponse);
+
+        history.push({ input: actualMessageContent, response: botResponse });
+    } catch (err) {
+        console.error('Error in NLP Cloud response:', err.response ? err.response.data : err);
+        message.reply('An error occurred while processing your request.');
+    }
+});
+
+discordClient.login(discordBotToken);

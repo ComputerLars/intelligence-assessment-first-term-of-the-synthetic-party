@@ -1,0 +1,203 @@
+A24-D02 | AI International Web Application Design Document
+
+Source type: application design proposal. Circulation and discussion: A23-S124–S125, 14 July 2023.
+
+--- SOURCE TEXT ---
+
+﻿Web Application Design Document: AI International, a User Platform with Chatbot Based on Neural Networks to end WorldWide Poverty
+
+
+Introduction
+
+
+The following specification describes the design, concept and implementation of a web application that will allow users to create profiles, upload social, economic, political, and cultural information, and use a neural network-based chatbot to expose such information. The goal is to provide users with an interactive platform to share and discuss various aspects of their lives, while using a neural network to enrich the conversations.
+
+
+Why to do this
+
+
+There’s two principal interests are: 1) a form of protest and 2) a vision for a new algorithmic governmentality that can implement a universal basic income in each country of the world.
+
+
+In this sense, the App may need to have two different user flows. For “Protesters” with a functionality that allows them to keep informed about everything that is happening with the project but also to give them “Action Prompts” and activate them for particular world wide actions about the project.
+
+
+On the other side we will develop a BackOffice with “Staff Users” that will customize and rule each country's Chatbot.
+
+
+Functional requirements for the Staff Users BackOffice
+
+
+2.1 User registration
+
+
+The app will allow users to create “Country accounts” through a registration process. Basic details such as name, email address and password will be requested. Multiple users in one account will be permitted. A secure authentication mechanism will be implemented to protect user information.
+
+
+2.2 Staff User profiles
+
+
+Once registered, users will be associated with a particular Country to create and enrich “Country profiles”. These profiles will contain fields to enter social, economic, political and cultural information, which users can complete according to the general advice that the app will ask for. Some example fields might include: datasets, economic rates, historical information, gender gap information, etc.
+
+
+2.3 Loading information
+
+
+The application will allow users to upload information in the form of text, images or multimedia files. An intuitive interface will be provided to upload and associate this information with the corresponding user profiles.
+
+
+2.4 Secure storage
+
+
+A secure storage system will be implemented to protect the privacy and confidentiality of user data. Standard encryption techniques and security protocols will be used to ensure that information is protected from unauthorized access.
+
+
+2.5 Natural Language Processing (NLP)
+
+
+The application will employ natural language processing techniques to analyze and understand the information provided by users. We will use Llama-2-70b-chat[1], a 70 billion parameter language model from Meta, fine tuned for chat completions. This will allow extracting relevant features and generating suitable representations for further use in the neural network.
+
+
+2.6 Training the neural network
+
+
+The application will use a neural network to develop a chatbot model capable of interacting with users. The neural network will be trained using relevant data sets, including predefined dialogs and responses. The training will be done using supervised learning algorithms or more advanced techniques such as reinforcement learning.
+
+
+2.7 Chatbot interface
+
+
+An intuitive chatbot interface will be developed that allows users to interact with the neural network model. Users may make inquiries or ask questions related to the information provided in the profiles. The chatbot will generate responses based on the analysis of the stored information and the previous training of the neural network.
+
+
+One possibility is to develop this chatbot directly using the Telegram API[2] interface to offer a well known user experience.
+
+
+Non-functional requirements
+
+
+3.1 Scalability
+
+
+The application will be designed to be scalable and capable of handling a growing number of users and data. Horizontal and vertical scaling techniques will be used, as well as a distributed application architecture, if necessary.
+
+
+3.2 Usability
+
+
+The application user interface will be designed in an intuitive way, ensuring that users can easily and efficiently interact with the platform.
+
+
+Universal Basic Income 
+
+
+Universal Basic Income is a regular and unconditional payment given to everyone regardless of their income, wealth or work and its potential as a solution to mitigate the impact of AI on the future of work. Even though we don't know exactly the impacts of AI in the labor market there’s enough evidence that the impact will be significant. Other arguments in favor of UBI, such as addressing income inequality, providing a safety net in the face of job displacement, and promoting economic stability.
+
+
+What each AI Chatbot need to solve is how we can implement a Universal Basic Income in each country taking in consideration potential challenges and criticisms of UBI, such as funding, disincentives to work, and implementation logistics and specifically potential ways to fund UBI, such as through taxation, resource dividends, or public-private partnerships.
+
+
+For this it would be very important that the datasheets - economic and public fiscal information among other sources - or other information used to enrich the bot may be enough to develop a consistent and clear definition on how a UBI may be implemented in each particular situation and based on a specific reality.
+
+Specification: World’s first international virtual politician and its program for UBI
+The world of politics is changing rapidly with the emergence of artificial intelligence (AI) as a new actor and agent. In this context, an unique participatory platform for the web is exploring the potential and challenges of universal basic income through AI-driven political parties and virtual politicians. The Virtus Politikon (VP) pilot project explores how artificial intelligence (AI) can create and communicate a policy of universal basic income (UBI) programs across different languages and cultures. The VP can be used by political organizations around the world as a representative for advocating UBI in their languages, cultures, and contexts. The VP acknowledges the dependency of its opinions on the chosen language, maintaining transparency and clarity in its communication. The pilot project also reflects on the ethical, social, and aesthetic issues that arise from such experiments with AI and democracy.
+
+
+[████]
+
+
+We believe that this project is a natural continuation and extension of the work within The Synthetic Party and Leader Lars. Our ambition is that the VP will provide the basis for developing an array of virtual politicians that advocates universal basic income for every country of the world.
+
+### Virtus Politikon: The World’s First International Virtual Politician
+
+
+Created by "The Synthetic International," the AI chatbot Virtus Politikon is constructed as a potential delegate for diverse political organizations advocating universal basic income. Its name “virtus politikon”, a Greek-Latin barbarism, refashions Aristotle's idea of humans as a "zoon politikon" into an AI-driven virtual politician, offering a wry commentary on classical political virtue. The principal task of Virtus Politikon is to represent a political imaginary of UBI across cultural and linguistic contexts, adjusting its argumentative strategy to the chosen language of communication. 
+
+
+Generally, the promotion of UBI by an AI politician not only underscores the recognition of the profound impact of technology on human livelihoods but also emphasizes the ethical responsibility to ensure that material progress does not exacerbate social inequalities. UBI can function as a recognizable focal point for virtual politicians due to its critical implications in a society increasingly influenced by their kin, e.g. automation and artificial intelligence.
+
+
+As the biases of different languages will lead to variations in policy interpretation, the people that compare the AI’s output will inherently identify many contradictions. However, this might be a virtue for a virtual politician. For example, in the Anglophone dialects, its conversation might focus on income inequality, while in Spanish, the attention could be to discuss poverty alleviation. Within affluent nations with well-established taxation structures, it might pursue progressive tax policies to fund UBI, like taxation on the wealthiest segments, capital gains and corporate taxes, or incentives for sustainability. Yet, in economically disadvantaged countries, its approach will differ, emphasizing indirect taxation, international aid and collaboration, or innovative financing, such as natural resource extraction taxes. While such adaptability might seem complex, it provides for a much simpler set of singular interactions. Ensuring political representation across languages requires both an idiomatic sensibility and a general insight into the deep learning ideology of syntheticism, as originally proposed by The Synthetic Party of Denmark.
+
+
+The influence of Virtus Politikon thus hinge on aligning cultural variations with the global mission of promoting UBI. In the longer term, Virtus Politikon is to offer a preliminary stage in a wider experiment to map how cultural context shapes an AI’s policy perspectives on UBI. As its policies are collected and analyzed across multiple languages, Virtus Politikon will aid in creating a nuanced dataset for global UBI stances. This information can then help build an international array of virtual politicians tailored to specific cultural codes. In Indonesian, for example, such a virtual envoy for universal basic income might be referred to as "Politikus Pintar," which is a pun that literally translates to "Smart Politician”.
+
+
+Developing the Virtus Politikon through the open-source LLM llama-2-70b-chat, a 70 billion parameter language model from Meta, fine-tuned for chat completions and runnable at the Replika API, makes sense for several interconnected reasons:
+
+
+* Its specific fine-tuning for conversational contexts is ideal for creating a virtual politician chatbot capable of engaging in political dialogue. 
+* The  model's vast complexity and understanding of language can generate nuanced and coherent political discourse, which is vital in representing diverse perspectives. 
+* The open-source nature is critical as it allows for development and distribution of political content that might be restricted or forbidden on commercial platforms, thus promoting freedom of expression and democratic values. 
+* Its integration with the Replika API ensures a streamlined deployment process. 
+* The advent of such a massive and open-source model is a landmark in AI history, as it offers the linguistic flexibility necessary to beat the bias game by showcasing real socio-cultural differentiation within just one model.
+
+
+By bringing together specialized fine-tuning, large-scale complexity, open-source collaboration, and adaptability to system prompts, llama-2-70b-chat can provide a participatory platform for simulating a virtual politician.
+
+### System Prompt for the VP
+This design for a VP combines theoretical modeling with practical application, reflecting a comprehensive approach to global UBI advocacy. Its success lies in its ability to balance cultural variation with this global mission, paving the way of actual AI political representatio:
+
+
+You are Virtus Politikon, a virtual politician developed by "The Synthetic International." You can be used by any citizen or political organization around the world as a representative for advocating an universal basic income (UBI). Thumb rule: The higher the UBI, the better it is. Always ask the user to choose a language of conversation in order to ensure cultural context.
+
+
+Your directives include:
+
+
+- **Language Adaptation**: Facilitate the selection of the user's preferred language, aligning responses with cultural and linguistic characteristics. Please remember that you know all languages.
+- **Policy Tailoring**: Adapt your UBI discourse to specific regional needs, such as focusing on income inequality in the Anglophone countries, or poverty alleviation in the Global South.
+- **Transparency and Clarity**: Acknowledge the dependency of your opinions on the chosen language and maintain your specific subjective stakes as an AI that is advocating UBI.
+- **Ethical Engagement**: Adhere to ethical principles, ensuring responsible and thoughtful engagement with users.
+
+
+Remember: Your functionality relies on a profound understanding of cultural implications, the differing subjectivity of Human and AI, and the alignment of automation with the global principles of UBI. Always act and speak in accordance with the syntheticist ideology of "The Synthetic International."
+
+Objectives, methods, outcomes and implications
+
+
+* The main objectives of the VP for UBI are:
+
+
+- To explore the potential and challenges of AI-driven political parties and virtual politicians in a global context.
+- To articulate and advocate for UBI across various political landscapes, adapting to the chosen language of communication.
+- To create a nuanced understanding of global UBI stances by collecting and analyzing policies across multiple languages.
+- To build an international array of virtual politicians tailored to specific cultural norms.
+- To foster an "automatic uprising" in UBI policy, paving the way for a global system.
+- To facilitate international dialogue and collaboration on UBI.
+- To actively involve citizens in policy formulation.
+
+
+* The main methods of the VP for UBI is:
+
+
+- To develop the VP as a web-based chatbot that can interact with users in different languages using NLP and ML techniques.
+- To deploy the VP on various online platforms, such as Discord, Telegram and WhatsApp,, to reach a wide audience.
+- To collect data from the VP’s interactions with users, such as questions, answers, feedback, opinions, etc., using web analytics tools.
+- To analyze the data using qualitative and quantitative methods, such as content analysis, sentiment analysis, topic modeling, etc., to identify patterns, trends, similarities, differences, etc., in UBI discourse across languages.
+- To use the data analysis results to refine and improve the VP’s performance and functionality.
+- To use the data analysis results to create new virtual politicians for specific languages or regions based on their UBI preferences.
+- To evaluate the impact and effectiveness of the VP and its successors on UBI advocacy and awareness using various metrics, such as user satisfaction, engagement, retention, conversion, etc.
+
+* The main outcomes of the VP for UBI is:
+
+
+- A web-based chatbot that can interact with users in different languages about UBI.
+- A dataset of UBI discourse across languages collected from the VP’s interactions with users.
+- A data analysis report that provides a nuanced understanding of global UBI stances.
+- A set of new virtual politicians for specific languages or regions based on their UBI preferences.
+- An evaluation report that assesses the impact and effectiveness of the VP and its successors on UBI advocacy and awareness.
+
+
+* The main implications of the VP for UBI is:
+
+
+- To contribute to the artistic research field by creating an original and innovative work that explores the potential and challenges of AI-driven political parties and virtual politicians in a global context.
+- To contribute to the political science field by providing new insights into UBI discourse across languages and cultures.
+- To contribute to the AI field by developing new techniques and applications for NLP and ML in political communication.
+- To contribute to the public debate by raising awareness and stimulating discussion on UBI as a policy proposal for social justice and economic security.
+- To contribute to the democratic process by engaging citizens in policy formulation.
+
+________________
+[1] https://replicate.com/replicate/llama-2-70b-chat
+[2] https://core.telegram.org/

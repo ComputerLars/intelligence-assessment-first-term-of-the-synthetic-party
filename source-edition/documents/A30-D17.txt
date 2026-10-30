@@ -1,0 +1,82 @@
+A30-D17 | Source transcription
+
+PDF text extraction; layout and embedded images are not reproduced.
+
+[Source page 1]
+
+/PLAYTEST FOR BROAD LISTENING
+Push the button on the table to start.
+Then start the discussion.
+
+[Source page 2]
+
+                            5
+Listening...
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus imperdiet hendrerit risus, et commodo lorem hendrerit quis. Etiam vel metus
+tellus. Curabitur mattis rutrum pulvinar. Vestibulum turpis ante, maximus quis quam vel, elementum viverra mauris. In rhoncus lorem a justo
+finibus ornare. Sed non egestas diam. Ut sit amet tempus ipsum, et venenatis risus.
+
+[Source page 3]
+
+                            3
+Listening...
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus imperdiet hendrerit risus, et commodo lorem hendrerit quis. Etiam vel metus
+tellus. Curabitur mattis rutrum pulvinar. Vestibulum turpis ante, maximus quis quam vel, elementum viverra mauris. In rhoncus lorem a justo
+finibus ornare. Sed non egestas diam. Ut sit amet tempus ipsum, et venenatis risus.Cras metus elit, rhoncus quis ipsum at, dignissim sodales
+nulla. Praesent augue purus, malesuada vitae volutpat eu, consectetur vitae dui. Duis quis commodo nibh. Vestibulum facilisis odio et mollis
+malesuada. Mauris vestibulum vulputate velit vitae porta. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed at turpis eget
+elit tempus consequat. Fusce molestie purus quis auctor luctus.
+
+[Source page 4]
+
+Analyzing...
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus imperdiet hendrerit risus, et commodo lorem hendrerit quis. Etiam vel metus
+tellus. Curabitur mattis rutrum pulvinar. Vestibulum turpis ante, maximus quis quam vel, elementum viverra mauris. In rhoncus lorem a justo
+finibus ornare. Sed non egestas diam. Ut sit amet tempus ipsum, et venenatis risus.Cras metus elit, rhoncus quis ipsum at, dignissim sodales
+nulla. Praesent augue purus, malesuada vitae volutpat eu, consectetur vitae dui. Duis quis commodo nibh. Vestibulum facilisis odio et mollis
+malesuada. Mauris vestibulum vulputate velit vitae porta. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed at turpis eget
+elit tempus consequat. Fusce molestie purus quis auctor luctus. Nullam maximus vitae turpis ac maximus. Nulla orci sem, bibendum non ornare
+et, auctor a turpis. Vivamus pulvinar nibh facilisis augue iaculis condimentum. Vestibulum placerat odio sit amet dui cursus cursus. In
+mattis pellentesque eros, ut posuere orci ultrices id. Integer eget mollis purus. Curabitur finibus consectetur commodo. Fusce molestie purus
+quis auctor luctus. Fusce molestie purus quis auctor luctus. Fusce molestie purus quis auctor luctus. Integer vehicula elit quis volutpat
+semper. Nunc feugiat nisl ut lorem feugiat lacinia. Praesent accumsan nisi non tellus egestas scelerisque. Nam sollicitudin in ante quis
+pellentesque. Vivamus malesuada eros non eros congue, sed volutpat ligula scelerisque. Ut eget velit vitae velit ultrices rutrum sed eu
+tortor. Donec elit diam, placerat nec massa vel, dictum accumsan sapien. Morbi ut mauris semper erat commodo gravida vel quis mi. Etiam ac
+arcu suscipit, imperdiet enim vel, facilisis mauris. Fusce molestie purus quis auctor luctus. Fusce molestie purus quis auctor luctus. Fusce
+molestie purus quis auctor luctus. Cras pretium sagittis velit, feugiat condimentum magna eleifend vel. Donec et pretium mauris, a luctus
+diam. Donec auctor tellus a nisi molestie dictum. In a enim augue. Cras et convallis dui. Nam luctus semper lorem, vitae sollicitudin orci
+fringilla quis. Duis eget dolor a urna sodales commodo sed id orci. Pellentesque sit amet risus malesuada, hendrerit tortor ornare, feugiat
+urna. Aenean vel blandit nisl, ac mollis mi. Aenean quis tristique ex, non feugiat nunc. Nulla accumsan ultrices ipsum, a egestas nisl
+venenatis a. Nullam condimentum nunc dignissim est tristique placerat quis at neque. Vestibulum pharetra finibus feugiat.
+
+[Source page 5]
+
+Nam sollicitudin in ante quis pellentesque.
+Vivamus malesuada eros non eros congue, sed
+volutpat ligula scelerisque. Ut eget velit vitae
+velit ultrices rutrum sed eu tortor.
+
+[Source page 6]
+
+/PLAYTEST FOR BROAD LISTENING
+
+Analyzing...
+
+Nam sollicitudin in ante quis pellentesque.
+Vivamus malesuada eros non eros congue, sed
+volutpat ligula scelerisque. Ut eget velit vitae
+velit ultrices rutrum sed eu tortor.
+
+[Source page 7]
+
+Thank you for playing.
+Please return the microphones back to their place.
+
+[Source page 8]
+
+/PLAYTEST FOR BROAD LISTENING
+Push the button on the table to start.
+Then start the discussion.

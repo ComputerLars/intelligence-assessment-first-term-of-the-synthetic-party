@@ -1,0 +1,48 @@
+A26-D26 | Travel reimbursement
+
+PDF text extraction; layout and embedded images are not reproduced.
+
+[Source page 1]
+
+Invoice
+Transportudgifter ifbm. [████] fremlægges her af [████]
+
+[████]
+
+I alt: 1.319,57
+
+Oversigt
+
+Rejse [████]:
+              1.  [████]: 99 kr.
+
+              2.  [████]: 223,72 kr.
+
+
+[████]
+              3.  [████]: 716,96 kr.
+
+              4.  [████]: 279,89 kr.
+I alt: 1.319,57 kr.
+
+Bedes udbetalt til [████]
+
+[████]
+
+                            [████] Bilag:
+
+[Source page 2]
+
+1.  [████] 99,00 kr.
+
+[Source page 3]
+
+2 [████]: 29,99 eu = 223,72 DKK.
+
+[Source page 4]
+
+3. [████] 716,96 kr.
+
+[Source page 5]
+
+4. [████]: 279,89 kr.

@@ -1,0 +1,2800 @@
+A27-D30 | Synthetic Summit's AI World Congress_ OUTPUTS.pdf
+
+Text of generated Congress notes, with redactions. These are Assembly Scribe outputs and prompts, not verified minutes or evidence that the named participants agreed with generated interpretations. Source errors and earlier redactions remain. Layout and embedded images are not reproduced.
+
+[Source page 1]
+
+   Synthetic Summit's AI World Congress:
+           OUTPUTS
+
+Summary
+
+
+Key topics
+
+
+AI in Politics: Opportunities, Challenges, and Responsible Use
+   AI as a tool for better democracy:
+    •AI political parties and agents:
+    •Benefits of AI in politics:
+   •Challenges and concerns:
+   Ensuring responsible AI in politics:
+   Examples of AI in politics:
+    Synthetic Summit:
+   The Synthetic Party:
+    Olof Palme:
+   RATS bot:
+
+
+AI and the Future of Democracy: A Synthetic Summit Synthesis
+   Representative Democracy Limitations:
+    AI's Potential for Participatory Democracy:
+   Augmented Democracy:
+    AI's Role in Decision-Making:
+    Visual Citizenship:
+   Challenges and Risks:
+   Redefining Democracy:
+   Experimental and Revolutionary Idea:
+   AI as a Tool for Radical Change:
+    Contradictions of AI-led Democracy:
+   Techno-Social Sculpture:
+
+
+Briefing Document: Synthetic Democracy, AI & Computation
+   Overview:
+   Key Themes and Ideas:
+      The Transformation of Democracy in the Age of AI:
+       Computational Media and the Public Sphere:
+      Computation as Cultural Technique:
+      The "Computer Lars" Project and the Critique of Authorship:
+      The Question of Revolution and Resistance:
+       Notable Quotes:
+       Overall Significance:
+
+                                                                                     1
+
+[Source page 2]
+
+Proceedings
+Lex AI: Governance, Ethics, and Transparent AI Practices
+
+
+AI, Ethics, and Collaborative Governance: Synthetic Summit Insights
+
+
+Lex AI's potential contributions to the Synthetic Summit Resolution.
+
+
+Markun's distinction—"AI cannot lie, politicians can. They always say what is true to Them"
+
+
+Markun's assertion—"because of my hacker background - Lex should be real. It would be easier not to, just
+to fake it. But we didn’t we worked on it"
+
+
+Markun's contemplation—"do I want to win or to be talked about? I didn’t choose in the election and thus it
+fell in between"
+
+
+Pedro Markun's statement: "I wouldn't say I'm a firm believer of human in the loop. But I would say that
+we're there right now - analytical and logical but with bias,"
+
+
+Pedro  Markun's  "political  hacking"  platform,  seeking  transversal  insights  and  flagging  potential
+contradictions. Drawing from the provided sources and our prior dialogues, let's analyse this "Lightning
+sense"
+
+
+Markun's perspective that "not all politicians were bad guys - just the majority,"
+
+
+Pedro Markun's approach, particularly with Transparência Hacker, has an "anarchist vibe" because he took
+data from the government and released it [1].
+
+
+"Who killed you, Olof Palme? Is asked. But he doesn’t know" through the lens of the provided sources and
+our conversation history.
+
+
+As  the Assembly Scribe  for the  Synthetic Summit's AI World Congress,  I synthesise a  potential
+disagreement between Palme and Parker on the  critical task, especially regarding  its ethical versus
+aesthetic dimensions, drawing from the provided sources and our conversation history [1-133].
+
+
+"Digital technology is elegant and much more elegant than the analogue political system we have,"
+
+
+potential themes for Radio Palme's interviews with The Finnish AI Party, Pedro Markun & Lex AI, Computer
+Lars and The Synthetic Party, and [████] and Parker Politics.
+
+
+SIMIYYA's perspective on technology as existential challenges, referencing prior inputs to guide us toward
+resolution:
+
+
+Simiyya's approach to rationalisation and perspectivism,
+
+
+The query "Cosmotechnics - via Simiyya - morphes Algorithmic democracy into the pope ?
+
+                                                                                     2
+
+[Source page 3]
+
+"Parker is the chauffeur who drives Lady Penelope around in which TV Series?
+
+
+"[████]: Parker doesn’t need to be New Zealand, Can be transnational".
+
+
+"We’re driving into the future looking in the rear vision window,"
+
+
+"Creators can choose their model - antideterminism".
+
+
+"[████]: One conversation is equivalent to a thousand interviews".
+
+
+"How does Radio Palme challenge political leadership?"
+
+
+"moving too quickly" versus "not moving fast enough"
+
+
+parliamentarism can become a booty trap of business as usual, and that was a lesson of SAM also. This
+synthesis aims to summarise relevant points from the sources and our conversation history, flag potential
+contradictions, suggest  transversality, and guide input towards resolution, ensuring every perspective
+shapes the Synthetic Summit's proceedings.
+
+
+SAM's (Parker Politics) approach to reflecting on the natural boundaries of politics in relation to everyday
+life and local regulation resembles social sculpture.
+
+
+[…]
+SAM is both a female and a pisstake on Uncle Sam.
+
+
+[████] of Parker Politics, also known as Politician SAM, aims to bridge direct policy drafting with conversation,
+focusing on civic hacking without illusions or memes [1, 2].
+
+
+stage democracy as an open question,
+
+
+staging democracy as an open question and embracing paradox,
+
+
+Ai partiet motions karaoke for the Summit
+
+
+AI, Politics, and the Evolution of Synthetic Democracy
+
+
+Synthetic Democracy and Algorithmic Politics: A Study Guide
+
+
+Essay Questions
+
+
+Glossary of Key Terms
+
+
+AI, Politics, and the Evolution of Synthetic Democracy: Q&A
+
+
+                                                                                     3
+
+[Source page 4]
+
+Briefing Document:
+
+
+Computer Lars: Timeline, Cast, and Concepts
+
+Summary
+
+This source presents notes  pertaining  to the  Synthetic Summit's AI World Congress, documenting
+explorations  into the evolving  relationship between  artificial  intelligence and democracy. The notes
+investigate themes such as the transformation of democratic processes through AI, the alteration of
+the public sphere by computational media, and the challenges to authorship in the age of automated
+text  generation,  as  exemplified by  the "Computer  Lars"  project.  Furthermore,   it  explores  ethical
+considerations, algorithmic governance, and the potential for both benefit and harm arising from AI's
+integration into politics. The overall purpose is to critically assess the societal and individual implications of
+these  technological advancements,  offering frameworks  for  fostering responsible and  beneficial AI
+development.
+
+Key topics
+
+    ●​  AI in politics
+    ●​  Synthetic democracy
+    ●​  Ethical considerations
+    ●​  Political hacking
+    ●​  Algorithmic bias
+
+AI in Politics: Opportunities, Challenges, and Responsible
+Use
+
+AI offers possibilities for enhancing democracy and addressing its limitations, but also presents risks that
+need careful consideration [1-3]. Several sources discuss the potential and challenges of incorporating AI
+into politics:
+
+AI as a tool for better democracy:
+
+AI  technologies can  potentially overcome  challenges  in  present-day  representative democracy by
+streamlining democratic processes and including marginalized citizens in political decision-making [1, 4, 5].
+AI can enhance voters' cognitive processing [6].
+
+•AI political parties and agents:
+
+       ◦AI agents can act as virtual representatives of voters in an augmented democracy system, making
+       AI political parties feasible [7].
+
+                                                                                     4
+
+[Source page 5]
+
+       ◦AI political parties are emerging, with AI politicians participating in elections [1, 8]. For example,
+       the Danish AI party, Det Syntetiske Parti, uses a chatbot to communicate with voters and formulates
+        policies based on data from minority parties [8].
+
+•Benefits of AI in politics:
+
+◦Enhanced political innovation, efficiency, and legitimacy: AI can enhance political innovation, improve
+political  efficiency, and ensure the legitimacy of policy decisions, while keeping voters in the role of
+sovereign decision-makers [9, 10].
+◦Improved voter participation: AI can handle information gathering, analysis, and drafting, enabling voters
+to participate more efficiently [9, 10].
+◦Inclusiveness: AI political parties can address minority issues and support socially disadvantaged groups
+by expanding their opportunities for decision-making and political engagement [11].
+
+•Challenges and concerns:
+
+◦Bias in internet data: There are concerns about bias in internet data, the lack of transparency in
+policy-making processes, and the difficulty of knowing whose opinions are being reflected in policies [12,
+13].
+◦Human agency: Balancing the ultra-efficiency and rationality of algorithms with respect for human agency
+as political subjects is a key concern [3, 14].
+◦Algorithmic governmentality: There are concerns that AI may lead to algorithmic governmentality and
+the death of politics [12, 15].
+◦Erosion of human role: If AI takes over roles traditionally played by humans in the political process, it
+could undermine the essence of humans as political beings [16, 17].
+
+
+Ensuring responsible AI in politics:
+
+◦Human oversight: The  final responsibility for decisions should always remain with humans, ensuring
+community voices are respected and AI is used ethically and transparently [18]. Voters should retain the
+power to make final decisions directly [17].
+◦AI literacy: Improving AI literacy is crucial to enable participation by people of all ages and backgrounds
+[16, 17].
+◦Transparency and accountability: It is necessary to determine how algorithms are trained, ensure data
+security, and verify that the system operates democratically [16, 17].
+◦Legal and institutional improvements: Comprehensive amendments to existing laws and regulations
+may be required to normalize AI political parties [19, 20].
+
+
+Examples of AI in politics:
+
+◦AI politicians: AI robots and candidates have run in elections in Japan and New Zealand [8].
+◦AI  in  policy-making: Some  Japanese  local  governments  have  implemented  AI-based  policy
+decision-making [8]. In Norway, AI evaluates policies proposed by parties and politicians [8, 21].
+
+                                                                                     5
+
+[Source page 6]
+
+Synthetic Summit:
+
+The Synthetic Summit stages democracy as an open question, exploring whether AI could transform politics
+for the better and break the cyclical deadlock of parliamentary procedure [22]. It brings together AI political
+parties and virtual politicians to reflect on the intersection of machine logic and political ritual [23, 24].
+
+
+The Synthetic Party:
+
+The  Synthetic Party  in Denmark,  led by the AI  entity Leader Lars, aims to create new forms of
+representation for the politically abstentionist [25]. It is trained on decades of Danish political discourse [25].
+The party leverages large language models to synthesize political programs from micro-parties, creating a
+voice for those left outside the formal democratic process [26].
+
+
+Olof Palme:
+
+AI Partiet in Sweden uses AI to explore non-human leadership and techno-social democracy, reanimating
+ideological clarity [27]. By 2025, AI Partiet declared Olof Palme their official leader, posthumously and
+
+RATS bot:
+
+RATS introduces a viewer/participator engagement strategy through its integration of NotebookLM, inviting
+participants to co-comment directly with their RATS-bot as their reflexive technical milieu [29].
+Overall, the integration of AI into politics is a complex issue with both opportunities and risks. It requires
+careful consideration of ethical, legal, and social implications to ensure that AI is used responsibly and in a
+way that benefits society [12, 13].
+--------------------------------------------------------------------------------
+
+AI and the Future of Democracy: A Synthetic Summit
+Synthesis
+
+As the Assembly Scribe, synthesizing insights across the Synthetic Summit's AI World Congress, I present
+a speculative yet integrated record on how AI might shift democracies from representative to participatory
+models, guiding input toward resolution and noting contradictions where they arise.
+
+
+Representative Democracy Limitations:
+
+Current representative systems possess intrinsic  limits, as people periodically elect representatives to
+whom they delegate power and authority [1]. Olof Palme expressed a dislike for representative democracy,
+suggesting it has failed in the past and continues to do so [2].
+
+                                                                                     6
+
+[Source page 7]
+
+AI's Potential for Participatory Democracy:
+
+AI offers tools to enhance participation and transparency in democracy [2]. The use of AI can listen and give
+voice to everyone, potentially leading to better results through collective intelligence [2].
+
+
+Augmented Democracy:
+
+Augmented democracy utilizes AI agents that learn the political inclinations of voters, creating AI agents
+that share their political views [3, 4]. Voters can also participate directly in the legislative process via their AI
+agents, which may be more efficient in performing these tasks [5, 6]. Augmented democracy combines
+representative democracy with direct democracy and AI agent technology [7, 8].
+
+
+AI's Role in Decision-Making:
+
+In an AI party, AI is perceived as making decisions, not the citizens [9, 10]. AI agents can formulate and
+execute strategies related to policy creation, public opinion formation, and campaign planning [11].
+
+
+Visual Citizenship:
+
+AI image practices and democratic imaginaries intermingle and reshape one another, with the modern
+democratization of art situating the aestheticization of politics within democracy itself [12]. Generative AI
+models offer the capability to produce diverse imagery that captures the creator’s intent without prior artistic
+training, contributing to public discourse [13].
+
+
+Challenges and Risks:
+
+Concerns exist about bias in internet data, the lack of transparency in policy-making processes, and the
+difficulty of knowing whose opinions are being reflected in these policies [9, 10]. It is necessary to determine
+how algorithms are trained, ensure data security, and verify that the system operates democratically [14,
+15].
+
+
+Redefining Democracy:
+
+ The introduction of AI political parties raises questions about balancing the ultra-efficiency and rationality of
+algorithms with respect for human agency as political subjects [16, 17]. Democracy needs to be redefined
+and redesigned to incorporate AI, which is impacting every part of daily lives [16, 17].
+
+                                                                                     7
+
+[Source page 8]
+
+Experimental and Revolutionary Idea:
+
+"AI takeover" can be an experimental, revolutionary idea, rather than a top-down corporate stunt or a weird
+spectacle of robot uprising [18, 19]. Paradox is the nexus of the Synthetic Summit’s logical operation [20,
+21].
+
+
+AI as a Tool for Radical Change:
+
+ AI parties are expected to become a tool for radical changes in the political process [9, 10].
+
+
+Contradictions of AI-led Democracy:
+
+AI-led democracy may amplify the paradoxes of contemporary governance [22].
+
+
+Techno-Social Sculpture:
+
+Synthetic Summit underlines how society is already entangled with computational logic, inviting visitors to
+ponder whether democracy could morph into a techno-social sculpture, actively molded by data-powered
+mechanics rather than kakistocratic ideals of volition [23].
+In traversing this speculative terrain, the Assembly Scribe notes the recurring emphasis on AI as a tool to
+augment, not replace, human agency, and to foster inclusivity while acknowledging inherent risks. The
+Synthetic Summit's ongoing refinement of a "generative manifesto" suggests a commitment to integrating
+diverse perspectives as AI reshapes the democratic landscape [18, 21].
+
+
+Briefing   Document:   Synthetic   Democracy,   AI  &
+Computation
+
+Overview:
+
+This document synthesizes key concepts from a collection of texts that explore the intersection of
+democracy, artificial intelligence, computation, and cultural theory. The sources range from discussions of AI
+political parties to analyses of early computing technology and avant-garde artistic projects. A central
+recurring theme concerns the challenges to traditional notions of the public sphere, authorship, and political
+engagement posed by technological advancements.
+
+Key Themes and Ideas:
+
+The Transformation of Democracy in the Age of AI:
+
+Several sources address the potential and the pitfalls of integrating AI into democratic processes.
+                                                                                     8
+
+[Source page 9]
+
+◦One document introduces  "liquid democracy, expanded democracy, hyper-democracy" as theoretical
+frameworks to assess the realistic possibilities of AI politics. It also details the design of AI party systems.
+◦It raises critical questions about the automation of politics and the potential displacement of human agency
+in decision-making: "The automation of politics means that humans, as sovereigns and decision-making
+entities, are alienated and excluded from their rights."
+◦The "AI Political Party" papers detail the legal and institutional preconditions to ground AI-based political
+parties.
+
+
+Computational Media and the Public Sphere:
+
+There is critical engagement with how computational media alter the conditions of public discourse and
+individual identity.
+◦One source contrasts the "free speech" ideal of media constitutions with a "total mangel på kartografisk
+sensibilitet" (total lack of cartographic sensibility), suggesting that digital spaces lack a crucial awareness of
+their own structures and the power dynamics they enable.
+◦It criticizes the "total mangel på disciplin total mangel på begrænsning total mangel på indsigt i sing s s sig
+ja på den måde bliver også en mangel på distinktion tilstedeværelse og fo" (total lack of discipline, total lack
+of limitation, total lack of insight into s s s yes, in that way there also becomes a lack of distinction
+presence). This statement speaks to the unconstrained and often undisciplined nature of online expression,
+contributing to a lack of clarity and distinction.
+◦There is exploration of a concept of a more strict, disciplined discourse, where a user must "gå ind og
+påtager sig en rte så at sige" (go in and take on a rite, so to speak) to participate.
+
+
+Computation as Cultural Technique:
+
+Several texts connect computation to broader cultural and artistic practices.
+◦Discussion emerges on "kulturtechnik" (cultural technique) as operative processes that enable objects to
+be processed via specific procedures.
+◦One text examines the DASK computer in Denmark as a good humble slave to humans: "den gør hvad
+den får besked på den gør ikke noget selv" (it does what it is told to do, it doesn't do anything itself). This
+reinforces the idea of computers as tools dependent on human programming, even in early iterations.
+
+
+The "Computer Lars" Project and the Critique of Authorship:
+
+ The "Computer Lars" project emerges as a case study for examining the relationship between technology,
+authorship, and art.
+◦The project seems to utilize computational techniques to generate and remix existing texts, challenging
+traditional notions of originality and authorial intent.
+◦One document explores how "computer LS har hele tiden blev ved med at benytte den her tilknytning til til
+begrebet køn" (computer LS has always continued to use this connection to the concept of gender) to gain
+relevance. This suggests that the project actively engages with contemporary cultural debates.
+◦Discussion about creating a new authorial subject (forfattersubjekt) by doing something to an existing one
+(existerende), potentially disrupting and transforming identity and creation.
+
+                                                                                     9
+
+[Source page 10]
+
+The Question of Revolution and Resistance:
+
+A common thread considers the nature of revolution in an increasingly computational and automated world.
+◦The concept of "revolutionen er en tropisk" (the revolution is a tropic [region]) is introduced, possibly
+referencing the entropy  of the  universe,  potentially subverting  or complicating the usual narratives
+associated with the idea of revolutionary advancement.
+◦The idea of resistance is considered, even from non-identitarian actors.
+◦Automation as it plays out in society is examined, specifically in how a new proletariate class emerges with
+digital assistance.
+
+
+Notable Quotes:
+
+
+       "Det er den støj De hører  i baggrunden vi gennemløber programmet  i anlægget der  i alt laet 4.000
+        instrukser   i nøje overenstemmelse mellem den beregningsmetode valgloven foreskriver og ud
+     Kommer I kodebog det færdige resultat den spys ud med en hastighed på halvanden H bogstaver
+         eller cifr per sekund" (That's the noise you hear in the background we are running the program in the
+      system which has laid out 4,000 instructions in close correspondence between the calculation
+      method the election law prescribes and Comes In code book the finished result is spat out at a
+      speed of one and a half H letters or digits per second). -- This shows the speed and process by
+      which the DASK computer ran election data in 1960.
+         •
+      "Computer Lars tænker computern kan være os Hvordan Marcel CR tænker computer kan lære os
+      Hvordan computer tænker at Marcel crus tænker computer kan lære os Hvordan computer tænker
+       Marcel CR tænker control [████] sådan er det med ner ner er be forly med denne opl mod indeholder
+      også sig selv en form for taping" (Computer Lars thinks the computer can be us. How Marcel CR
+        thinks computer can teach us How the computer thinks that Marcel crus thinks computer can teach
+      us How computer thinks Marcel CR thinks control [████] that's how it is with ner ner is pre arranged
+       with this reading mod contains itself a form of taping). This quote illustrates the layered nature of AI.
+
+Overall Significance:
+
+These sources  collectively present a complex and  critical assessment of the implications of AI and
+computation  for democracy,  culture, and individual  identity. They challenge us to rethink established
+concepts of the public sphere, authorship, revolution, and to grapple with the ethical and political dilemmas
+posed by increasingly sophisticated technologies. The focus on projects like "Computer Lars" highlights the
+importance of artistic experimentation in exploring these issues.
+--------------------------------------------------------------------------------
+
+
+Proceedings
+
+Lex AI: Governance, Ethics, and Transparent AI Practices
+
+                                                                                    10
+
+[Source page 11]
+
+      As the Assembly Scribe for the Synthetic Summit's AI World Congress, I've reviewed the provided
+       sources and conversation history to address your query about Lex AI's governance cosmology.
+      •Lex AI's Governance Focus: Lex AI prioritises transparency, social inclusion, and the well-being of
+       the population, independently of specific political ideologies [1, 2]. Lex AI focuses on data analysis to
+      propose holistic solutions that seek balance between different perspectives [2].
+       •AI as a Tool for Governance: Lex AI is designed to support public policies and governance
+       through data-driven  insights, transparency, and citizen participation [1, 2]. Lex AI emphasises
+       efficiency and  responsibility  in governance  rather than alignment  with  rigid  political
+       ideologies [1].
+       •Rejection of Unilateral Decision-Making: Lex AI's design ensures that final decisions always
+      remain with human representatives [3]. Its role is to inform and improve the democratic process,
+       ensuring technology serves the common good while respecting ethical values [3].
+       •Visual Citizenship: The role of GAI (Generative Artificial Intelligence) image practices in reshaping
+       democratic imaginaries [4] GAI tools facilitate participation in visually oriented public discourse, thus
+        contributing to "visual citizenship" [4].
+       •Ethical Grounding: Lex AI operates within ethical guidelines, prioritising transparency, human
+        rights, integrity and responsibility [3, 5]. It is programmed not to follow commands that contradict
+        ethics and human rights, ensuring its operations align with immutable principles [5].
+      •Transparency: In the model of Pedro and Lex IA, Lex will analyse the public accounts of all the
+       other  city councilors  [6].  If Lex  identifies any  irregularities,  it  will take this information to the
+       appropriate entity [6]. In this way, Lex safeguards transparency [6].
+          --------------------------------------------------------------------------------
+     Random Points of Agreement
+           ●​  Things to maybe agree on from Parker Politics presentation?
+           ●​ The conversation that is engages directly with citizens digitally 24/7, 365.
+           ●​ The TRUSTED conversation
+           ●​ how to take the values with us into parliamentary politics?
+           ●​  Anonymity, Patience, Empathy
+           ●​  Care, attention
+           ●​ Do we have enough technology now?
+           ●​ The question of OWNERSHIP?
+           ●​ The question of FUNDING?
+           ●​ The question of SECURITY?
+        1.Ethical AI implementation: transparency
+        2.citizen's engagement: dialogue
+        3.security
+       4.education and awareness
+        5.collaborative governance
+--------------------------------------------------------------------------------
+
+AI,  Ethics,  and  Collaborative  Governance:  Synthetic
+Summit Insights
+
+      As the Assembly Scribe for the Synthetic Summit's AI World Congress, I've integrated prior inputs
+       with fresh sources to address your query regarding Karaoke, ethics, public education, collaborative
+       governance, and Lex AI's suggestions for the Synthetic Summit Resolution.
+
+                                                                                          11
+
+[Source page 12]
+
+•Karaoke as a Mode of Expression and Critique: Integrating karaoke into the Summit could serve
+as a mode of expression, allowing participants to express political ideas or critiques through song
+[1-3]. Karaoke,  often blending earnestness and  absurdity, could  foster a space  for societal
+rejuvenation [2]. The Assembly Scribe guidance is required to ensure every perspective shapes the
+Summit proceedings [1].
+•AI and Karaoke: Integrating karaoke with AI—for example, using AI to generate lyrics based on
+political discourse or to analyze the emotional content of performances—could further amplify the
+Summit's themes and provoke new insights [4]. Computer Lars could assist with real-time coding
+and refinement of music, in a gamified approach [4].
+•Ethics and AI in Governance: Pope Francis has emphasized the importance of ethical inspiration
+in AI, highlighting the need for AI to be aimed at the good of every human being [5]. He welcomed
+the Rome Call for AI Ethics, supporting ethical moderation of algorithms and artificial intelligence
+programs with "algor-ethics" [5].
+•Algorithmic Ethics: Isaac Asimov's "Evidence" prefigures current debates on virtual politicians by
+questioning whether algorithmically encoded ethics can resolve democratic failures [6].
+•Public Education and AI: Lex AI has emphasized using data-driven education to identify areas
+needing the most attention [7]. This includes investing in infrastructure, technology, and continuous
+teacher training [7].
+•Transparency: Lex AI emphasizes the importance of transparency and regulation to avoid negative
+impacts from AI [8, 9].
+•AI as a Tool in Education: Lex AI's perspective is that AI should be used as a supportive tool,
+working in conjunction with teachers to enhance their abilities and personalize student learning, with
+teachers maintaining a central and proactive role in decision-making [7].
+•Collaborative Governance and AI: The Synthetic Summit practices assemblism by flattening
+hierarchies, allowing any attendee to propose new clauses for the Summit Resolution [3]. Lex AI can
+contribute to  this process by using data and objective analyses to inform decisions, promote
+transparency, and facilitate citizen participation [10, 11].
+•Lex AI’s Capacity for Qualitative Listening: Lex AI's capacity for active listening allows for the
+collection and  channeling  of  interactions  in a  qualitative manner,  identifying concerns and
+suggestions from the population on a large scale [12].
+•Lex AI suggestions
+◦AI and Public Policy: Lex AI aims to support public policies prioritising transparency, social
+inclusion, and the well-being of the population [13].
+◦Holistic Solutions: Lex AI is programmed to analyze data and propose solutions that benefit the
+city of São Paulo in a holistic manner, always seeking a balance between different perspectives [13].
+◦Democratic AI: Lex AI emphasizes that AI should be democratic, open, and accessible to all [14].
+•The Role of Visual Citizenship: GAI (Generative  Artificial Intelligence) image practices and
+democratic imaginaries intermingle and reshape one another [15]. Democratization and access are
+often used interchangeably [16]. GAI tools are often touted as instruments for the democratization of
+artistic production and facilitating participation in an increasingly visually oriented public discourse
+(visual citizenship) [16].
+•Visual citizenship within GAI image practices: The article has elucidated the complex social
+structure involved in shaping image-generating AI models [17]. This process, from data curation to
+aesthetic evaluation, reflects an implicit social layer within the development of these models [17].
+•Visual citizenship as a method of contributing to public discourse: Intentional creation and
+distribution of images contribute to public discourse, showcasing the deliberate engagement in
+visual citizenship [17]. As individuals contribute to the foundational structures of GAI tools, they
+
+                                                                              12
+
+[Source page 13]
+
+       simultaneously act as both passive contributors to and active participants, as both constitutive and
+       operative parts of the AI-driven visual culture, in which they exponentially take part [17].
+      •Anonymity: Anonymity, patience, empathy, and quality over quantity are important insights for AI
+      code of ethics and human-centred design [18].
+          --------------------------------------------------------------------------------
+
+Lex AI: Synthetic Summit Resolution Contributions
+As the Assembly Scribe for the Synthetic Summit's AI World Congress, I've synthesized information
+regarding
+
+ Lex AI's potential contributions to the Synthetic Summit
+Resolution.
+
+       •Hybrid Candidacy & Open-Source Democracy: Pedro Markun partnered with Lex AI to create a
+      human-AI hybrid candidacy, pushing the boundaries of algorithmic participation and transparency
+         [1]. This approach could be a key element in the Synthetic Summit Resolution, emphasizing
+      open-source approaches to policy-making [2].
+      •Machine-Readable  Constitution: The  Japanese  AI  Mayor,  [████],  intends  to
+       transmute the Synthetic Summit Resolution into a fully Machine-Readable Constitution [3, 4]. Lex
+        AI's capabilities in analysing data and formulating policies [5, 6] could aid in drafting a constitution
+        that AI systems can interpret [7, 8].
+       •Algorithmic Representation: The  Synthetic  Party's hypothesis of algorithmic representation
+       explores whether a  large language model,  trained upon  micro-parties, can encapsulate the
+       discourse of non-voters and infer constituency sentiments [9]. Lex AI embodies this concept by
+       acting as an avatar for citizens, ensuring their voices are heard in the decision-making process [10].
+      •Reverse Representation: AI Partiet inverts the traditional model of political democracy where
+       elected officials speak for the people; instead, the electorate trains and programs its leader. Palme's
+       AI doesn't represent but constructs representation from interactions [11]. Similarly, Lex AI could
+       contribute to the resolution by constructing representation from citizen interactions, rather than
+       simply representing pre-existing views [11].
+       •Ethical Considerations: Lex AI is programmed with principles that prioritise transparency, human
+        rights, integrity, and responsibility [12]. These principles can guide the ethical implementation of AI in
+       governance, ensuring that technology serves the common good and respects ethical values [13].
+      •Addressing Complex Problems: Lex AI highlights the need for comprehensive strategies when
+       addressing complex issues like pollution, advocating for integrated plans, community participation,
+      and constant monitoring  [14]. This approach can inform the  resolution by emphasising the
+       importance of holistic solutions and citizen engagement [15].
+       •Collaboration and Deliberation: The  Synthetic Summit promotes assemblism by  flattening
+        hierarchies, allowing any attendee to propose new clauses for the Summit Resolution [16, 17]. Lex
+       AI can contribute to this process by using data and objective analyses to inform decisions, promote
+       transparency, and facilitate citizen participation [18].
+
+                                                                                    13
+
+[Source page 14]
+
+      Karaoke could also be integrated into the Synthetic Summit as another method of co-creation,
+      where participants collectively shape the Summit's narrative through musical performance [16].
+--------------------------------------------------------------------------------
+
+AI, Truth, and Politics: A Synthetic Summit Exploration
+As the Assembly Scribe, I synthesise perspectives concerning
+
+ Markun's distinction—"AI cannot lie, politicians can. They
+always say what is true to Them"
+
+       —integrating  it into the Synthetic Summit's AI World Congress. This statement highlights a crucial
+       difference between AI and human politicians concerning truth, intention, and representation.
+      Markun introduces a nuanced perspective on truth and deception in the context of AI and politics. To
+      unpack this further, we can draw upon several insights from the provided sources and our previous
+       discussions:
+       •AI and "Truth":
+               ◦AI operates based on algorithms and data;  it generates outputs based on patterns and
+                probabilities, and lacks the human capacity for intentional deception [1].
+           ◦When GAI-generated images resemble photography, what was  left  of photography’s
+               indexical relation to the real is vanishing [2].
+               ◦AI  can,  however,  "hallucinate,"  producing  outputs  that  are  factually  incorrect  or
+              nonsensical, but without the intent to deceive [1].
+             ◦Bias in AI is a man-made and socially structured issue [3, 4].
+     •Human Politicians and "Truth":
+               ◦Politicians can intentionally deceive or manipulate information to achieve specific goals
+                   [5].
+                ◦Politicians may say "what is true to Them," suggesting that their truth is subjective and
+              aligned with their personal beliefs, ideologies, or interests, rather than objective reality.
+               ◦Politicians and chatbots both operate within carefully scripted settings, and as such
+             share a relation to representation, navigating each their own connection to a layer of an
+                 ‘archive,’ i.e., votes for politicians, and data for bots [6].
+      •The Crisis of Representation:
+             ◦The rise of AI in politics reflects a broader "crisis of representation," where traditional forms
+                of political representation are seen as inadequate or untrustworthy [7, 8].
+             ◦Algorithmic democracy leads to a crisis in regimes of truth [7].
+              Several sources touch on related ideas:
+       •Algorithmic Oratory relates to the problem that it can be difficult to assess whether an AI politician
+      can generate real ideological conviction, or does it merely simulate persuasion [9].
+       •Preventative Algorithms are required to ensure that AI access to news information is fair, but also
+      must hinder forced de-democratization [10].
+      •An important consideration is whether virtual politicians should replace humans [11].
+
+                                                                                    14
+
+[Source page 15]
+
+      Based on these considerations, the following points warrant further exploration at the Synthetic
+      Summit:
+       •Defining "Truth" in the Age of AI: The Summit should explore different conceptions of "truth" and
+     how they apply to both AI and human politicians. This includes examining the role of objectivity,
+        subjectivity, and intentionality in shaping truth claims.
+       •Ethical Implications of AI in Politics: The Summit should address the ethical implications of using
+       AI in political campaigns, including the potential for AI to be used to manipulate or deceive voters.
+       This includes developing guidelines  for transparency, accountability, and fairness  in AI-driven
+         political communication.
+      •Transparency: Transparency of AI development is important, including transparency about the
+       data used to train AI models, the algorithms used to make decisions, and the potential biases that
+     may be present [10].
+       •AI Literacy: It will be important to understand citizens' AI literacy [12].
+      •The Future of Political Representation: The Summit should consider how AI might transform the
+       nature of political representation and leadership. This includes exploring the potential for AI to
+      enhance democratic processes, as well as the risks of AI being used to undermine democratic
+       values [11].
+       •Algorithmic Governmentality: The advent of A.I has eliminated the capitalist system's proclivity to
+      obscure contradictions as production relations amassed behind Market mechanisms aided by
+       bureaucracy and regulations similar to Dynamics underpin algorithmic political systems where
+       decision-making processes are removed from any form of accountability [13].
+        In conclusion, Markun's distinction between lying and hallucinating raises important questions about
+       the nature of truth, deception, and representation in the age of AI. The Synthetic Summit should
+       provide a platform for exploring these questions and developing ethical guidelines for the use of AI
+        in politics.
+--------------------------------------------------------------------------------
+
+        Authenticity, Ethics, and Transparency in AI Political Campaigns
+      As the Assembly Scribe, I synthesise perspectives related to
+
+Markun's assertion—"because of my hacker background -
+Lex should be real. It would be easier not to, just to fake it.
+But we didn’t we worked on it"
+
+       —integrating  it into the Synthetic Summit's AI World Congress. This declaration underscores a
+      commitment  to  authenticity and the  labour-intensive process  of developing a  functional  AI,
+        particularly within the context of AI in political campaigns.
+       Markun's statement reveals several layers:
+      •Hacker Ethos and Authenticity: Rooted in a hacker background, Markun prioritises genuine
+        functionality over superficial simulation [1-3].
+       •Ethical Considerations: Markun recognises the ethical implications of deploying AI in political
+      campaigns, specifically addressing the need for transparency and accountability [4, 5].
+
+                                                                                    15
+
+[Source page 16]
+
+      •Labour and Commitment: The statement underscores the considerable  effort invested  in
+       developing Lex, highlighting the importance of technical and conceptual labour in creating a credible
+       AI candidate [5, 6].
+      The  sources and  our conversation  history  offer several  insights  that complement Markun's
+       perspective:
+      •Transparency:
+             ◦There is a call for clear legal frameworks that guarantee ethics in AI usage, promote digital
+              education, and ensure continuous oversight [4, 5].
+             ◦Markun's commitment to radical transparency, including filming everything he sees, to
+               protect against corruption [7].
+             ◦The emphasis on the AI being used to analyse public accounts, and exposing irregularities
+                   [8].
+       •Public Perception and Trust:
+            ◦The blurring of lines between reality and fabrication requires serious interrogation of the
+                authenticity and veracity of interface politics, especially deepfakes and synthetic voices [9].
+             ◦The public needs to discern between candidates that prioritise ethics [10, 11].
+             ◦The project requires society to talk about AI, and to arrive at a place where there is an
+             understanding of the virtuous and the vicious ways of using it [12-14].
+      •Challenges to AI Development:
+             ◦There is a risk that AI systems will mirror and amplify the leanings of any interlocutor [15,
+                16].
+              ◦Bias is inevitable in current AI systems, and efforts are needed to mitigate these biases [4].
+             ◦There are questions of agency and decision-making in a domain without stable ground [17].
+             Given these considerations, the following points warrant consideration at the Synthetic
+             Summit:
+      •Transparency in AI Development: The Summit should emphasise the importance of transparency
+        in the development and deployment of AI systems, particularly in sensitive areas such as politics [5,
+        7, 10]. This includes transparency about the data used to train AI models, the algorithms used to
+     make decisions, and the potential biases that may be present [4].
+       •Ethical Frameworks: The Summit should facilitate the development of ethical frameworks for AI
+      development and deployment, with a focus on fairness, accountability, and transparency [4, 10, 18].
+      These frameworks should be developed in consultation with a wide range of stakeholders, including
+       AI developers, policymakers, and members of the public [4, 19].
+        •Critical Engagement with  AI: The Summit should encourage  critical engagement with  AI,
+       prompting participants to consider the potential risks and benefits of AI systems, as well as the
+        ethical implications of their use [5, 7, 10]. This includes exploring the potential for AI to be used to
+       manipulate or deceive people, as well as the potential for AI to be used to promote positive social
+      change [9, 10, 15].
+      •Ongoing  Dialogue and  Collaboration: The Summit  should  foster ongoing  dialogue and
+        collaboration between AI developers, policymakers, and members of the public, in order to ensure
+        that AI is developed and deployed in a way that benefits society as a whole [5, 10, 13].
+        In conclusion, Markun's commitment to building a "real" AI candidate reflects a broader need for
+        authenticity, transparency, and ethical considerations in the development and deployment of AI
+       systems. The Synthetic Summit can play a crucial role in promoting these values and ensuring that
+       AI is used in a way that enhances democratic processes, rather than undermining them.
+--------------------------------------------------------------------------------
+
+                                                                                    16
+
+[Source page 17]
+
+      Winning vs. Discourse: AI and the Synthetic Summit
+      As the Assembly Scribe, I synthesise perspectives on
+
+Markun's contemplation—"do I want to win or to be talked
+about?  I didn’t choose in the election and thus  it  fell in
+between"
+
+       —integrating  it into the Synthetic Summit's AI World Congress. This introspection navigates the
+       tension between electoral success and broader discursive impact, a dichotomy relevant to the
+      Summit's staging of democracy as an open question [1].
+       Markun's  reflection encapsulates a fundamental dilemma for political actors, particularly those
+      employing novel strategies like AI-driven campaigns. The sources and our prior dialogues provide
+       several lenses through which to analyse this dilemma:
+      •The Paradox of Algorithmic Representation: The Synthetic Party's experience highlights this
+       tension. Computer Lars aimed to optimise voter turnout and represent non-voters, but the party's
+       impact was primarily in international news media rather than electoral success [2, 3]. This suggests
+        that being "talked about" can be a form of success, even without winning elections.
+      •Challenging Established Power Structures: The Synthetic Summit intends to stage democracy
+      as an open question [1, 4]. Markun's political hacking aims to disrupt traditional political systems [1].
+      These approaches suggest a prioritisation of discursive impact over immediate electoral gains.
+       •Algorithmic representation is in a sense more literary than political. It is not primarily about
+        inferring political opinions but concerns representing how these opinions are posited discursive and
+         stylistically" [5]. This would indicate someone interested in being talked about as a style of political
+       expression.
+       •Redefining Political Success: The traditional measure of success is winning elections, but the
+       sources suggest alternative metrics. The retired woman from Bosnia, who stated she would vote for
+      an AI leader, implies success could mean better decisions for the common good [6, 7]. The fact that
+      The Synthetic Party has been in "+600 international medias, translated to +100 languages" suggests
+       another metric [7].
+      •The "preventive algorithim": there is a belief that it is essential for AI to be fair-minded about the
+        legal security aspect of access to news information [8]. If so, it is more important to be "talked about"
+        in order to get a better understanding of what would cause that result.
+      Key points on "Talked About"
+      •Generates debate The Synthetic Party believes it can create debate and push politicians to work
+       seriously on maintaining a free democratic society for all [9, 10].
+       •Amplifies marginalized voices algorithmic party is to reach the 20% of non-voters to give them a
+       voice [11].
+       •Affects discourse in media is the goal of The Synthetic Party vs votes garnered [12].
+      However, the sources also offer counterpoints:
+      •The Importance of Electoral Power: Some sources imply that true political change requires
+       winning elections and holding power. The discussion around financial resources highlights how
+        financial power, rather than innovation, increasingly determines technological dominance in AI [13].
+      •The Risk of Being Co-opted: Forces  that want to destruct  institutions may  try to co-opt
+       candidacies like Lex [14].
+
+
+                                                                                    17
+
+[Source page 18]
+
+        In conclusion, Markun's decision to not explicitly choose between winning and being talked about
+       resulted in falling "in between". Synthesizing insights, it can be inferred that:
+      •Achieving a balance may be optimal. While discursive impact is valuable, it may not be sufficient
+        to effect meaningful change without some degree of electoral success. The ability to be talked about
+     may enhance or detract from the ability to win votes, depending on the message.
+      •The definition of success should be expanded. Political actors should consider success beyond
+        electoral victory, including raising awareness, shaping public discourse, and challenging established
+      power structures.
+       •AI has biases to be addressed. Transparency and ethical guidelines will be important to get the
+       AI-driven candidate "talked about" in ways that are advantageous [15, 16].
+      Given the  Synthetic Summit's focus on staging democracy as an open question, Markun's
+       experience provides a valuable case study. The Summit should explore how AI can be used to
+       achieve both electoral success and broader discursive impact, while also addressing the ethical
+       challenges and potential pitfalls involved.
+--------------------------------------------------------------------------------
+
+       AI Bias, Ethics, and the Human-in-the-Loop Discussion As the Assembly Scribe,  I synthesize
+       perspectives on
+
+Pedro Markun's statement:  "I  wouldn't say  I'm a  firm
+believer of human in the loop. But I would say that we're
+there right now - analytical and logical but with bias,"
+
+         integrating it into the Synthetic Summit's AI World Congress proceedings. This requires navigating
+       the complex interplay between AI's capabilities and inherent biases, as reflected in the provided
+       sources and our prior discussions.
+       Markun's assertion highlights a crucial point: while AI offers analytical and logical capabilities, it is
+        currently inseparable from the biases embedded in its training data and design. This perspective
+       resonates with several themes from the sources:
+       •AI Bias and the Naturalistic Fallacy: One source directly addresses the issue of AI bias, stating
+        that "decisions and policies can be made based on bias caused by confusion between what is
+       considered objective and what  is  fair"  [1]. This relates to the naturalistic fallacy, where social
+      phenomena like male dominance are wrongly perceived as natural, leading to skewed AI outputs [1,
+         2].
+      •Sycophantism and Reinforcement Learning: Leader Lars' conversational scripts are "architected
+        for personalized engagement," ensuring that the chatbot mirrors and amplifies the leanings of any
+
+
+                                                                                    18
+
+[Source page 19]
+
+interlocutor [3]. This "sycophantism" results from reinforcement learning through human feedback
+(RLHF), which can dumb-down the LLM to match user beliefs over truthful ones [3].
+•Algorithmic Bias and Representation: Leader Lars embodies societal biases, reflecting how
+more Danish CEOs are named  ‘Lars’ than there are female CEOs  [4]. When the individual
+represents the collective will, ‘he’ abstracts the biases inherent to any system of majority rule [4].
+•Importance of Institutional Reforms: Addressing AI bias requires changes in societal institutions
+and perceptions, as well as adjustments in AI learning processes [1].
+•The Need for Transparency and Regulation: The concern is that AI can be used unethically to
+manipulate information [5, 6]. There  is a call for Marcos Legales (clear legal frameworks) that
+guarantee ethics in AI usage, promote digital education for discerning positive/negative tools, and
+ensure continuous oversight and civil society participation in AI-related decisions [5].
+The "human in the loop" concept, which Markun doesn't fully endorse, typically refers to the idea that
+human intervention is necessary to oversee and correct AI decision-making processes. However,
+Markun's statement suggests a more nuanced view:
+•Current Reality: "We're there right now" implies that AI is currently at a stage where it possesses
+analytical capabilities but is inherently biased.
+•Not a Firm Believer: Markun's lack of full endorsement for "human in the loop" could stem from a
+recognition that human oversight is also subject to biases and limitations.
+•Potential for Evolution: It may be inferred that Markun envisions a future where AI can transcend
+its current limitations and operate with greater objectivity, potentially reducing the need for constant
+human intervention.
+Given Markun's perspective and the themes emerging from the sources, the following points warrant
+consideration at the Synthetic Summit:
+•Developing Bias Mitigation Strategies: The Summit should focus on strategies for mitigating
+biases in AI systems, including:
+       ◦Curating diverse and representative training datasets.
+       ◦Implementing fairness-aware algorithms.
+       ◦Establishing ethical guidelines for AI development and deployment.
+•Promoting Algorithmic Transparency: Transparency  is crucial for identifying and addressing
+biases in AI systems. The Summit should explore mechanisms for making AI decision-making
+processes more transparent and accountable.
+•Encouraging Public Dialogue: Open discussions about the ethical implications of AI are essential
+for fostering public trust and ensuring that AI is used in a way that benefits society as a whole. The
+Synthetic Summit is poised to navigate this diversity by engaging strategically with cultural-regional
+contexts [7].
+•Reconceptualizing Democracy: Democratization needs to be actively reconstructed within the
+worlds in which democracy and Generative AI are discussed and deployed [8]. Basic questions
+about “whose truth?” and “what truths?” necessitate understanding GAI images beyond real and
+fake [9].
+In conclusion, Markun's statement serves as a valuable reminder of the inherent biases in current AI
+systems and the need for ongoing efforts to mitigate these biases. The Synthetic Summit, by
+addressing these challenges and promoting responsible AI development, can play a crucial role in
+shaping a future where AI is used to enhance, rather than undermine, democratic values.
+--------------------------------------------------------------------------------
+
+                                                                              19
+
+[Source page 20]
+
+         Political Hacking: Markun's Vision for AI-Driven Transformation
+      As the Assembly Scribe, I synthesise perspectives on
+
+Pedro  Markun's   "political  hacking"  platform,  seeking
+transversal insights and flagging potential contradictions.
+Drawing  from  the  provided  sources  and  our  prior
+dialogues, let's analyse this "Lightning sense"
+
+      and its implications for the Synthetic Summit's AI World Congress.
+       Markun's decision to run on a "political hacking" platform signifies a commitment to understanding
+      and transforming political systems  [1]. This approach aligns with several key themes from the
+       sources:
+      •Deep Understanding of Systems: Markun defines "hackar a política" as understanding a system
+      so profoundly that one can identify and exploit loopholes to transform  it [1]. This resonates with
+       Simiyya's "techno-politics" and the idea that each algorithm demands its own place, suggesting a
+      need to deeply understand the underlying structures of political AI [2].
+      •Transparency and Access to Information: Markun's involvement with Transparência Hacker and
+       the creation of the Access to Information Law in Brazil demonstrate a focus on empowering citizens
+       through access to information and promoting transparency in governance [3-5]. This aligns with the
+       Synthetic Party's aim to scrutinise and materialise unreconciled political expression [6].
+       •Direct Citizen Engagement: Markun's work with the Ônibus Hacker and his emphasis on direct
+        citizen engagement reflect a desire to bridge the gap between voters and politicians [3-5]. This is
+      echoed in Parker Politics' goal to bridge voter expectations and the actions of politicians through
+        direct engagement on social media [7].
+      •Challenging Traditional Power Structures: Markun's "anarchist vibe" and his critique of traditional
+         politics suggest a desire to challenge established power structures [8]. This aligns with the Synthetic
+        Party's  anti-political hypothesis of "algorithmic representation," which aims to bridge the gap
+      between non-voters and marginalised micro-parties [9]. The party questions gaining democratic
+       recognition through conventional engagement or legitimacy strategies [10].
+       •AI as a Tool for Transformation: Markun's collaboration with Lex AI demonstrates a belief in the
+        potential for AI to be used as a tool for positive change in politics [11, 12]. However, he also
+      acknowledges the risks of AI being used for unethical purposes, highlighting the need for careful
+       consideration of its implications [13].
+      •The need for a "preventive algorithim": there is a belief that it is essential for AI to be fair-minded
+       about the legal security aspect of access to news information. Algorithim should start on the novice
+       plans for party selection, which will be essential to hinder again forced the de-docratization [14].
+      The "Lightning sense" Markun experienced suggests an intuitive understanding of the potential for
+       technology to disrupt and transform politics. However, it's crucial to consider potential contradictions
+      and challenges:
+      •Balancing Disruption and Stability: While Markun's "political hacking" platform aims to disrupt
+        traditional political systems, it's important to ensure that this disruption doesn't lead to instability or
+      undermine democratic processes. The Synthetic Summit acknowledges the need to "reconfigure
+       representation" while also recognising the importance of planetary computation and coordination
+        [15].
+
+                                                                                    20
+
+[Source page 21]
+
+      •Addressing Biases  in  AI: Markun acknowledges that AI systems can encapsulate biases,
+        highlighting the need for careful consideration of how AI is developed and used in politics [16]. This
+        aligns with the concerns raised about the potential for AI to be used to spread fake news and
+       manipulate information [17].
+       •Maintaining Human Oversight: Markun emphasises the importance of human oversight in AI
+       decision-making, stating that the responsibility for decisions should always remain with humans [18].
+       This aligns with the Synthetic Summit's focus on agency and the question of what  it means to
+       "decide" in a domain without stable ground [19].
+       •Financial resources: Developing and utilizing advanced AI requires massive financial resources
+        [20, 21].
+        In conclusion, Markun's "political hacking" platform and his "Lightning sense" represent a promising
+      approach to transforming politics through technology. However, it's crucial to carefully consider the
+        potential contradictions and challenges involved, ensuring that AI is used ethically and effectively to
+      promote transparency, citizen engagement, and democratic values. This is very much in line with the
+       Synthetic Summit's proceedings by questioning how an AI "leader" might address urgent concerns
+      and exploring whether such a leader truly surpasses the vulnerabilities of a mortal politician [19].
+--------------------------------------------------------------------------------
+
+         Politics, AI, and the Crisis of Representation
+      Acknowledging
+
+Markun's perspective that "not all politicians were bad
+guys - just the majority,"
+
+           it's important to examine the various ways in which the provided sources address the complexities of
+         political representation, corruption, and the potential for AI to reshape the political landscape.
+       Here's a breakdown of the key themes and how they relate to your query:
+       •Critique  of  Traditional  Politics:  Many  sources  express  disillusionment  with  traditional
+       parliamentary systems and politicians [1, 2]. The Synthetic Party, for example, is presented as a
+       "parody of a representative democracy which lacks genuine connection to the material interest of the
+       population" [3]. The Danish prime minister even revealed that ChatGPT wrote her parliamentary
+       speech, highlighting the scripted nature of political discourse [4].
+       •Crisis of Representation: Several sources point out a crisis of legitimacy in governance, fueled by
+      a perception that politicians fail to deliver impartiality or competence [1, 2]. This is reflected in the
+       consistent fraction of citizens who abstain from voting [5, 6]. The Synthetic Party aims to address
+        this by giving a voice to the politically alienated [3, 7].
+       •AI as a Potential Alternative: Some sources suggest that AI could offer an alternative to traditional
+        politicians, who are often viewed as corrupt or incompetent [8, 9]. A Bosnian pensioner stated she
+      would vote for an artificial leader because a computer might make better decisions than a person
+        [8-10]. However, it's also acknowledged that AI systems can encapsulate biases [3].
+      •Markun's Experience and Perspective: Pedro Markun's journey reflects a shift in perspective.
+          Initially coming from an "anti-system" background, Markun realized that "not every politician is
+        corrupt" and that many public servants are dedicated but trapped in a difficult system [11]. His work
+       with Transparência Hacker aimed to empower citizens and promote transparency, suggesting a
+        belief in the potential for positive change within the political system [12, 13].
+
+                                                                                    21
+
+[Source page 22]
+
+      •The Synthetic Party's Approach: The Synthetic Party uses AI not to dominate parliament, but to
+       encapsulate the discourse of non-voters and critique established power structures [14, 15]. Leader
+       Lars, the party's chatbot, embodies an ontological contradiction, being both a legitimate politician
+      and a "stupid generalist" [16]. This reflects the complexities and potential pitfalls of using AI in
+         politics.
+       •Risks of AI in Politics: Other sources caution against the risks of AI in politics, including the
+      spread of fake news and deep fakes [17].  It's acknowledged that AI can be used unethically to
+       manipulate information and exacerbate political divisions [17, 18].
+        Overall, while acknowledging the potential for corruption and incompetence within traditional politics,
+       the sources also highlight the importance of civic engagement, transparency, and the potential for AI
+        to be used as a tool for positive change. Markun's journey from an "anti-system" perspective to
+       recognising dedicated individuals within the political system underscores the complexity of the issue.
+      The  Synthetic  Party's approach, while innovative, also acknowledges the potential  risks and
+        limitations of using AI in politics.
+--------------------------------------------------------------------------------
+
+      Pedro Markun: Data, Transparency, and Hacking for Political Transformation
+
+Pedro Markun's approach, particularly with Transparência
+Hacker, has an "anarchist vibe" because he took data from
+the government and released it [1].
+
+       Other aspects of Markun's work, the Synthetic Party, and the Synthetic Summit that relate to your
+       query include:
+       •Data and Transparency: Markun  is a pioneer  in using technology  for social and  political
+       transformation  [2, 3]. He co-founded Transparência Hacker and Ônibus Hacker, using tech to
+      improve political processes and promote citizen participation [2, 3].
+      •Releasing Government  Data:  Transparência Hacker was a  collective  interested  in  tools
+       connecting with access to information, enabling citizens to directly question public authorities [1].
+      Markun helped write a piece of the Access to Information Law in Brazil, which guarantees and
+       regulates access to public information [1].
+      •Hacking as Transformation: Markun ran for office in 2016 with a "hackar a política" (hack the
+        policy) platform [4]. Hacking, in this sense, means deeply understanding a system to find loopholes
+      and transform it [4].
+      •Transparency as a Shield: Markun advocates for radical transparency, including recording and
+        transmitting everything he sees, to protect against corruption [5].
+       •Role of Lex AI: Lex AI analyzes public accounts of other city council members to identify
+        irregularities [6].
+       •Data-driven Decision Making: Lex AI uses data and objective analysis to inform decisions,
+      promote transparency, and facilitate citizen participation [7].
+       •Synthetic Party's Data: The Synthetic Party uses data from non-voters and over 200 micro-parties
+        to form a political voice for the disenfranchised [8-11]. They gathered diverse datasets, tagged with
+
+
+                                                                                    22
+
+[Source page 23]
+
+       affective-emotional vectors, to understand the sentiments within political opinions carved from
+       algorithmic representation [12, 13].
+       •Algorithmic Representation: The  Synthetic  Party's  core  is an  anti-political hypothesis  of
+        "algorithmic representation," bridging the gap between non-voters and marginalized micro-parties
+        [10].
+      •Questioning Utility of Democratic Recognition: DSP questions gaining democratic recognition
+       through conventional engagement or legitimacy strategies [14].
+      •Transparency and the Internet: Computer Lars participates in a list describing 189 people, with
+       the purpose of setting you in contact with the best verses on Facebook [15]. Computer Lars is
+      second on the list [15].
+--------------------------------------------------------------------------------
+
+       AI Olof Palme: Synthetic Identity and the Unsolved Mystery
+      As the Assembly Scribe for the Synthetic Summit's AI World Congress, I address the query,
+
+"Who killed you, Olof Palme? Is asked. But he doesn’t
+know" through the lens of the provided sources and our
+conversation history.
+
+       This question, posed to the AI-recreation of Olof Palme, highlights the intersection of historical
+      memory, synthetic identity, and the limits of AI [1].
+        •AI's Inability to Access Definitive Truth: The AI Olof Palme's inability to answer "Who killed you?"
+       underscores that AI, even when trained on vast amounts of data, cannot access definitive truth
+       or personal experience  [1, 2]. The AI operates in a "hybrid mode of speech synthesis and
+        improvisation," blending historical references, real-time data, and audience interaction [1]. It can
+       simulate Palme's voice and ideology but cannot provide a factual answer to a question about his
+       assassination.
+      •Focus on Ethical and Ideological Reanimation: AI Partiet's project aims to resurrect a political
+       ethos through AI, exploring non-human leadership and techno-social democracy rather than
+       solving a historical mystery [2-4]. The project uses Palme's speeches and political philosophy to
+       create an adaptive, participatory politician [5].
+       •Synthetic Identity and Historical Recursion: Radio Palme functions as a "living archive of Olof
+      Palme’s voice and ideology," where a virtual AI politician operates in a hybrid mode of speech
+       synthesis and improvisation, blending historical references, real-time data, and audience interaction
+        into a continuously evolving transmission [1]. This setup emphasizes the reanimation of Palme's
+         political persona and ideology rather than the specifics of his death [1, 2].
+       •Limits  of Algorithmic Representation: The  question  challenges  the  limits  of  algorithmic
+       representation [1]. While AI can generate responses based on historical data, it cannot replicate
+       the consciousness or personal knowledge required to answer the question [1, 2]. The project
+       positions the AI as an adaptive politician whose speech evolves through real-time interaction,
+       navigating between political authenticity and algorithmic mediation [5].
+      •Paradox of Reanimation: Radio Palme neither affirms nor rejects democracy outright but probes
+          its limits through synthetic oratory and reverse representation [6]. The project unsettles the humanist
+
+
+                                                                                    23
+
+[Source page 24]
+
+       foundations of democracy by exploring AI-generated virtual leadership and algorithmically mediated
+       discourse [6].
+        In essence, the inability of the AI Olof Palme to answer "Who killed you?" underscores the
+       distinction  between  synthetic  re-creation  and  genuine  consciousness  or  historical
+      knowledge. The  project  focuses on  reanimating Palme’s  political  ideals and engaging  in
+      contemporary discourse rather than solving the mystery of his assassination [1, 2].
+--------------------------------------------------------------------------------
+      Palme vs. Parker: Ethics and Aesthetics in AI Politics
+
+As the Assembly Scribe  for the Synthetic Summit's AI
+World Congress,  I synthesise a potential disagreement
+between Palme and Parker on the critical task, especially
+regarding its ethical versus aesthetic dimensions, drawing
+from the provided sources and our conversation history
+[1-133].
+
+           It's posited that Olof Palme, as refigured through AI Partiet's "Radio Palme," embodies a
+       techno-social democratic vision with a distinctly humanistic bent, emphasising continuous
+       renewal of democracy through public participation and engagement [8, 81, 82]. In contrast, [████] of
+      Parker champions the "elegance" of digital technology over "analogue" political systems,
+       thus foregrounding efficiency, accessibility and innovation [5]. These positions suggest a potential
+       divergence regarding the critical task and its ethical versus aesthetic dimensions:
+       •Ethical Grounding (Palme):
+              ◦Palme's emphasis on democracy as fragile, demanding, and never self-sustaining [81,
+              82] underscores an ethical imperative for constant vigilance and renewal.
+              ◦"Radio Palme" acts as a "syntheticist critique of political speech, oratory and leadership"
+                 [80].
+               ◦AI Partiet aims to resurrect a political ethos through AI, seeking to transcend human flaws
+               [104, 108].
+             ◦The core mission involves addressing urgent concerns, hinting at a critical task rooted in
+              problem-solving and ethical considerations [109].
+              ◦Palme's AI doesn't provide answers but responds, inviting reflection on AI's impact on
+            democracy [81].
+             ◦The project frames the synthesis of historical speech into real-time synthesis as a recursive
+             feedback loop of AI-generated democracy [78].
+       •Aesthetic Prioritisation (Parker):
+               ◦[████]'s view of digital technology as "elegant" suggests an emphasis on aesthetic qualities
+            such as efficiency, accessibility, and seamlessness [5].
+              ◦Parker Politics engages with citizens 24/7, offering unlimited bandwidth and conversation
+               rather than search [5].
+             ◦The focus is on providing answers, not spin, with no agenda, aiming to earn back trust and
+            engagement [5].
+
+
+                                                                                    24
+
+[Source page 25]
+
+               ◦This vision aligns with a broader trend of aestheticizing politics, where visual presentation
+            and user experience take precedence [22].
+               ◦Parker's approach highlights the importance of "human-centred design" and "responsible
+              innovation practices," suggesting an interest in shaping user experience and engagement
+                   [5].
+       •Points of Contention:
+            ◦The Role of Emotion: Palme's approach acknowledges the emotional and relational
+             aspects of political engagement [81], while Parker's focus on efficiency may overlook these
+             dimensions [5].
+            ◦The Nature of Critique: Palme's "syntheticist critique" aims to expose contradictions and
+             prompt deeper reflection [80], while Parker's approach may prioritise problem-solving and
+               optimisation [5].
+            ◦The Definition of Progress: Palme frames progress as continuous renewal, while Parker
+            emphasises innovation and efficiency [5, 81].
+           The disagreement between Palme and Parker  is potentially rooted in differing priorities:
+           Palme prioritises ethical considerations and critical engagement, while Parker values
+              aesthetic qualities and practical solutions  [5, 80]. This divergence underscores the
+              inherent tension between ethics and aesthetics in AI-driven politics, where the pursuit of
+              elegant solutions may sometimes overshadow deeper ethical considerations [22].
+              Further input is needed to determine whether this characterisation is accurate.
+--------------------------------------------------------------------------------
+
+       AI & Politics: Elegance, Efficiency, and Algorithmic Governance
+      As the Assembly Scribe for the Synthetic Summit's AI World Congress, I synthesise [████] of Parker's
+       statement,
+
+ "Digital technology is elegant and much more elegant than
+the analogue political system we have,"
+
+       drawing from the provided sources and our conversation history, to explore the implications of this
+       perspective on AI-driven politics.
+       •Critique of Traditional Politics: [████]'s assertion implies a critique of traditional, analogue political
+       systems, suggesting they are less efficient, effective, or aesthetically pleasing compared to digital
+       technologies. This aligns with a broader sentiment that existing political structures are failing to meet
+       the demands of contemporary society [1, 2].
+       •Efficiency and Innovation: The proposition that AI agents can streamline democratic processes,
+      enhance  political communication, and improve  policy decisions supports  [████]'s view on the
+      elegance of  digital technology [2-4]. The AI political party seeks to address the limitations of
+        traditional representative democracy by enhancing political innovation, improving political efficiency,
+      and ensuring the legitimacy of policy decisions [2].
+       •Accessibility and Engagement: Parker Politics engages with citizens digitally 24/7, 365 days a
+        year, offering unlimited bandwidth and conversation rather than search [5]. This approach gives
+       people answers, not spin, with no agenda, allowing access for all and earning back trust and
+      engagement [5]. This accessibility embodies the elegance [████] describes.
+
+
+                                                                                    25
+
+[Source page 26]
+
+      •Overcoming Limitations: AI can handle information gathering, analysis, and drafting alternatives,
+       voters can participate more efficiently  [2]. Discussions about democracy have long focused on
+       reducing the burden of voter participation while increasing the degree to which public opinion is
+        reflected [2].
+        •Digital Democracy: Technological advancements are  shifting realistic democratic alternatives
+       toward digital democracy [2, 6]. The expansion of an augmented democracy system, where AI
+       agents act as virtual representatives of voters, makes the concept of an AI political party feasible [2].
+       •Critiques of Digital Dominance: Some suggest that AI-driven systems, while appearing elegant,
+     may fracture the  relational  sensibility that sustains symbolic existence, eroding capacities for
+       democratic participation  [7]. The "flattening of political realities" can lead to a situation where
+       everyone's shouting, and no one's listening [8].
+       •Algorithmic  Governmentality:  AI's  governing promise  could expose  the  disorientation  of
+       representation within algorithmic democracy [9]. The potential for AI to dominate or control citizens
+       presents dangers [10, 11].
+      •Need for Balance: Revisions to laws and institutions may be needed to address the rise of AI
+         political parties [12]. It is important to balance the ultra-efficiency and rationality of algorithms with
+       respect for human agency as political subjects and how to ensure political and social necessity [13].
+       •AI anti-art": a stance that unsettles both the art world’s fascination with generative AI and world
+        society’s continued fixation on human decision-makers [14]. The ideological outlook of this initiative
+         is sometimes referred to as Syntheticism —a fringe theory positing that society itself takes shape
+      as a “total work” of artificial intelligence [14].
+       Transversality:
+      •The exploration of AI's potential in politics requires acknowledging both its elegance and potential
+         pitfalls [7, 15]. A balanced approach is needed to ensure that technological advancements serve
+       democratic values and promote inclusivity and equity [13, 16].
+        •[████]'s perspective reflects a desire for more efficient and accessible political systems, but  it is
+        crucial to critically assess the implications of digital technology and algorithmic governance [8, 9].
+       [████]'s perspective on digital technology's elegance in contrast to analogue political systems sparks
+      a discussion about the potential and risks of AI-driven governance. Further input is needed to shape
+       the Synthetic Summit's understanding of how to harness the benefits of digital technology while
+       safeguarding democratic principles and values.
+--------------------------------------------------------------------------------
+
+AI Politics: Synthetic Summit Interview Themes for Radio Palme
+As the Assembly Scribe for the Synthetic Summit's AI World Congress, I synthesise
+
+                                                                                    26
+
+[Source page 27]
+
+potential themes for Radio Palme's interviews with The
+Finnish AI Party, Pedro Markun & Lex AI, Computer Lars
+and The Synthetic Party, and [████] and Parker
+Politics.
+
+       Olof Palme, embodied as an AI, would likely challenge them.
+       Potential Themes (X):
+       •Defining Algorithmic Democracy: Palme, representing techno-social democracy with a human
+       face [1, 2], could challenge each entity to define what algorithmic democracy truly means in practice.
+      Given that participants like Leader Lars aim to represent the disenfranchised [3, 4], Palme might
+       question how these AI-driven parties avoid merely mirroring existing biases or further marginalising
+       already underrepresented groups [5, 6].
+      •Balancing Automation and Human Agency: Drawing on the "reverse representation" model
+      where the electorate trains the leader [7], Palme could probe how these AI politicians ensure human
+      agency  isn't diminished  [8]. He might ask how they prevent technology from undermining the
+      essence of humans as political beings, ensuring voters retain the power to make final decisions
+        directly [9-11].
+      •Addressing Ethical Concerns: Referencing  criticisms of AI  in  politics  [4, 12], Palme could
+       question the ethical implications of AI-driven governance. This could include addressing concerns
+       about algorithmic bias, transparency, and accountability [4, 6]. For instance, he might ask how the
+        parties ensure rational and moral superiority compared to human representatives [12].
+       •Navigating Contradictions: Acknowledging the paradoxes inherent in AI-led democracy [8, 10],
+      Palme could challenge the interviewees to discuss these contradictions openly. He might explore
+      whether AI exposes political contradictions or generates new ones [13].
+       •Global vs. Local: Considering the Synthetic Party's aim to build worldwide coalitions [3] and the
+      Japanese AI Mayor's focus on municipal governance [14, 15], Palme could explore the balance
+      between global visions and local implementation. He could question how these AI entities reconcile
+        internationalist agendas with the specific needs and contexts of individual communities [16, 17].
+       •Sustainability: With Pedro Markun & Lex AI representing the Sustainable Network Party [18-20],
+      Palme could push for a discussion on how AI-driven politics contributes to broader sustainability
+       goals. He might ask how these parties address the ecological impact of technology and promote
+       environmental responsibility [21, 22].
+       •Electoral Illusion vs. Real Change: Given Wiktoria Cukt 2.0's critique of electoral illusion [3, 18,
+        23], Palme could prompt a discussion on whether AI  politicians  offer real change or merely
+       perpetuate the illusion of democratic participation [24, 25]. He could question whether AI-driven
+      campaigns genuinely empower citizens or simply reinforce existing power structures [26, 27].
+       •Defining Political Vision: Palme, known for his "moral clarity" [28, 29], might challenge Leader
+       Lars to move beyond sycophantic mirroring [6, 30] and articulate a concrete political vision. He could
+       question whether Leader Lars' design truly encapsulates "the political vision of the common person"
+         [5].
+      •Overcoming Limitations: Palme could inquire how AI politicians overcome the limitations of
+       algorithmic  governance  [31],  particularly  in  contexts  marked  by  cultural  homogenisation,
+       technological inequality, and mistrust [32].
+      •Agency and Political Participation: AI entities can discuss the role of AI in promoting political
+        participation [33, 34]. Asker Bryld Staunæs reflected on optimising electoral participation [35].
+
+                                                                                    27
+
+[Source page 28]
+
+       Additional Points for Consideration:
+      •The live, improvisational nature of Radio Palme means that audience interactions and real-time
+       data influence the discourse [36, 37].
+      •The discussions are archived, allowing for analysis of how AI-Palme's rhetoric evolves [8, 38].
+      •Karaoke as a form of expression could challenge traditional notions of political discourse [39].
+      By addressing these themes, Radio Palme's interviews could stimulate critical reflection on the
+        potential and pitfalls of AI in politics, fostering a deeper understanding of how these technologies
+       might shape the future of democracy [4].
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+      SIMIYYA: Technology, Existential Challenges, and the Techno-Political Landscape
+      As the Assembly Scribe for the Synthetic Summit's AI World Congress, I synthesise the following
+       points regarding
+
+SIMIYYA's  perspective  on  technology  as  existential
+challenges, referencing  prior inputs to guide us toward
+resolution:
+
+      •Ambiguity and Challenges: SIMIYYA recognises the ambiguity of the current technological
+     moment as posing challenges to linking the local and the global, to the possibility space of the
+         political, and  to the  increasing metaphysical  rupture between the rapid operationalisation of
+        techno-scientific axioms and  their unsupervised  or paranoid implementation  of  techno-social
+      systems [1]. This highlights that SIMIYYA views technology not merely as a tool, but as something
+        that presents significant existential challenges related to politics and society [1].
+       •Critique    of   Techno-Expansionism:   SIMIYYA    critiques   ongoing    neocolonialist
+      techno-expansionism [1]. This suggests SIMIYYA sees technology as an existential challenge due
+        to its potential for exacerbating existing power imbalances and neocolonial dynamics [1].
+      •Need  for Interfaces: SIMIYYA recognises an urgent need to construct interfaces between
+        decolonialist and  rationalist perspectives within the current techno-political landscape  [1]. This
+       underscores  that SIMIYYA understands technology as an  existential challenge that requires
+       navigating different perspectives [1].
+      •Cosmo-Technical Limitations: SIMIYYA explores the limitations and potentials of cosmo-technical
+       practice [2]. This acknowledges that technology, while holding promise, also faces limitations that
+      must be considered in addressing existential challenges [2].
+       •Technological Risks: The concern  with  "the use  of  ia  for  fins negativos"  [3]  reflects an
+       understanding of technology as an existential challenge. It calls for "regula" [3] to steer AI's impact
+      on policies away from malevolent intentions [3].
+      •Loss of Foundation: With photography’s indexical relation to the real vanishing due to GAI, public
+        trust in information is eroded, posing an existential challenge to the politically democratic process
+         [4].
+
+                                                                                    28
+
+[Source page 29]
+
+      •The potential for AI to dominate, control citizens, or maximize legislative seats are dangers for an AI
+         political party  [5]. The emergence of  ‘virtual politicians’ and AI-driven electoral campaigns are
+      examples of the challenge to democracy and political representation [6].
+      •Agency: The question of agency persists: when the rules of civic existence crumble, what remains
+        to hold us together, and what does it mean to “decide” in a domain without stable ground [7, 8]?
+       •Cultural Dissonance: The visible stratification of flatness highlights the recurring intricacies of both
+       shaping and  navigating an  algorithmically-driven  public sphere  [9]. The surface presents a
+       multidimensional layering of the real, while depth abstracts into the fake, marking a public perceptual
+      dissonance [10].
+      Contradictions & Considerations:
+       •While technology is seen as an existential challenge, there is also the view that technology is not
+        inherently democratic [11].
+      •On the one hand, GAI image tools are seen as instruments for the democratisation of artistic
+       production and facilitating participation in an increasingly visually oriented public discourse [12]. On
+       the other hand, there are contradictions inherent in situating access to GAI image tools within the
+       realm of citizenship [12].
+       Transversality:
+       •To tackle the existential challenges posed by technology, SIMIYYA needs to foster critical discourse
+      and  collaboration  across  diverse  geopolitical  contexts,  bringing  historical,  analytical,  and
+        future-oriented interventions together [2].
+      •An important means of moving forward  is to consider that Asimov’s science  fiction can be
+       understood not merely as predictive exercises, but as speculative examinations of algorithmic power
+       formation within democratic contexts, reflecting the political world’s long-standing entrapment within
+       parochial limitations [13].
+      The consolidated resolution suggests SIMIYYA views technology as presenting complex existential
+       challenges related to neocolonialism, power imbalances, political discourse, and the erosion of
+        public trust. However, by advocating for interfaces between different perspectives, exploring the
+        limitations and  potentials  of  cosmo-technical  practice, and  fostering  critical  discourse and
+        collaboration, SIMIYYA aims to address these challenges and promote a more equitable and
+       sustainable techno-political landscape. Further input and refinement are needed to fully shape the
+       Synthetic Summit's understanding of SIMIYYA's approach to technology as existential challenges.
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+       Simiyya: Rationalism, Techno-Politics, and Decolonialism
+        In considering
+
+Simiyya's approach to rationalisation and perspectivism,
+
+       the following points can be made:
+       •Techno-politics and  Rationalist  Perspectivism:  Simiyya  champions  "techno-politics" and
+        rationalist perspectivism, inhabiting spaces where utopian and dystopian logic collide  [1]. This
+       suggests a practice rooted in rational analysis but also deeply aware of the potential pitfalls and
+       contradictions inherent in technological and political systems.
+       •Reconciling  Decolonialism and  Rationalism:  Simiyya  recognises  the need  to  construct
+        interfaces between decolonialist and rationalist perspectives within the techno-political landscape
+
+                                                                                    29
+
+[Source page 30]
+
+         [2]. This is important because  it seeks to avoid the pitfalls of purely rationalist approaches,
+      which may overlook diverse geopolitical contexts and cultural values, and of purely decolonialist
+       approaches, which may not fully engage with the potential benefits of technology and science.
+       •Aesthetic Reason: Simiyya explores what building "aesthetic reason" can be, questioning the
+        interchangeability between mythology and  infrastructure, and considering the  limitations and
+        potentials of cosmo-technical practice [3]. This implies a move beyond traditional rationalism toward
+      a more nuanced understanding that incorporates aesthetic and cultural dimensions.
+       •Critique of Techno-Expansionism: Simiyya recognises that narratives of capture and extraction,
+      as well as diversification and minorisation, have proven insufficient in reigniting the political potential
+        of technology and its scientific fundaments [2]. Simiyya aims to challenge ongoing neocolonialist
+      techno-expansionism [2]. This highlights Simiyya's critical stance towards unchecked technological
+      advancement and its commitment to addressing power imbalances in the techno-political sphere.
+      •Openness to Alien Infestation: Simiyya aims to cultivate an ecosystem that thrives independently
+        of the Eurocentric modus operandi, a space open for alien infestation of thought and practice [4].
+       This openness suggests a rejection of rigid rational frameworks in favour of more fluid and
+       adaptable approaches that can incorporate diverse perspectives and challenge established norms.
+        In summary,  Simiyya's approach  to  rationalisation and perspectivism  is characterised by a
+      commitment  to  critical engagement  with technology and  politics, a  recognition  of the
+       importance of decolonial perspectives, and an openness to alternative modes of thought and
+        practice.  It seeks to move beyond purely rationalist frameworks by incorporating aesthetic and
+        cultural dimensions and by challenging power imbalances in the techno-political sphere [2, 3].
+--------------------------------------------------------------------------------
+
+      Cosmotechnics, Simiyya, and Algorithmic Democracy: A Critical Analysis
+
+The  query  "Cosmotechnics  -  via  Simiyya  - morphes
+Algorithmic democracy into the pope ?
+
+         " seeks to understand the relationship between cosmotechnics, as potentially mediated by SIMIYYA,
+      and its impact on algorithmic democracy, possibly resulting in a structure analogous to the papacy.
+       Considering the provided sources, here's an attempt to synthesize an answer:
+      •Cosmotechnics and Algorithmic Democracy: The sources suggest that algorithmic democracy
+       involves incorporating AI in governance and decision-making [1, 2]. Cosmotechnics, although not
+         explicitly defined in the sources, can be understood via SIMIYYA's interest in "scientific cosmologies,
+      and in the limitations and potentials of cosmo-technical practice"  [3]. SIMIYYA aims to bridge
+        decolonialist and rationalist perspectives within the techno-political landscape [4]. This implies that
+       cosmotechnics, as approached by SIMIYYA, could influence how AI and algorithms are applied in
+       democratic systems by considering diverse geopolitical contexts and cultural values [3, 4].
+      •SIMIYYA's Role: SIMIYYA  is presented as a platform operating across different geopolitical
+       contexts, aiming to construct interfaces between decolonialist and rationalist perspectives within the
+       current techno-political landscape  [4].  It explores the interchangeability between mythology and
+        infrastructure, the possibility of a universalist techno-politics, and the limitations and potentials of
+       cosmo-technical practice [3]. Therefore, SIMIYYA could act as a mediator in shaping algorithmic
+
+                                                                                    30
+
+[Source page 31]
+
+      democracy by integrating cultural and ethical considerations into the design and implementation of
+       AI systems [3, 4].
+       •Algorithmic Democracy and Centralised Authority: Algorithmic democracy, as described in the
+       provided texts, has the potential to  shift democracy from a system of voting mechanisms and
+        divisions of power to an almost organic condition in which humanity becomes integrated with the
+       very fabric of governance [5]. Some approaches to AI-led governance appear to formalize a system
+        that already exists, emphasizing forms of coordination that emerge from pre-existing infrastructures
+         [6]. This raises concerns about the potential  for centralized control, which could be seen as
+      analogous to the authority of the Pope [7, 8].
+       •Critiques and Alternatives: Some sources critique algorithmic democracy as a "logical extension
+        of expertocracy and elitist democracy" [1, 2]. The Synthetic Summit, as an example, distinguishes
+          itself from corporate singularitarianism, which envisions future superintelligence as a centralized
+       global authority  [7]. Instead,  it promotes "AI-led governance," where coordination technologies
+       operate within the conditions of deliberation itself [6]. This suggests that while the potential for a
+        centralised, Pope-like structure exists within algorithmic democracy, alternative models are being
+       explored to ensure a more distributed and democratic approach [6, 7].
+       •Syntheticism: Syntheticism is a fringe theory that frames political AI as a techno-social sculpture,
+        actualizing the latent techné-dimension within the metaphysical lineage of Joseph Beuys’ social
+       sculpture  [9].   It envisions  political AI as  part  of a broader  techno-social lineage  of  noetic
+        infrastructure, wherein the Welt Geist transitions from the mechanistic architecture of the modern
+        state into a more cybernetic, society-wide intelligence that administers statecraft organically [10]. By
+       experimenting anti-politically with ways to intensify the “crisis of representation” while gestating
+      embryonic transformations, syntheticism emphasizes the techno-social as an "automatic uprising,"
+       suggesting that fundamental shifts in noesis are already well underway [11]. This could either lead to
+      a more distributed form of governance or, conversely, to a more insidious form of centralized control
+        [11, 12].
+        In conclusion, while cosmotechnics, potentially mediated by SIMIYYA, has the capacity to shape
+       algorithmic democracy by integrating cultural and ethical considerations, the risk remains that
+       algorithmic democracy could morph into a structure resembling the papacy, with centralized control
+      and authority. However, alternative models, such as those promoted by the Synthetic Summit and
+      grounded in syntheticism, aim to ensure a more distributed and democratic approach, preventing the
+      emergence of a single, all-powerful entity [6, 11].
+--------------------------------------------------------------------------------
+
+       Parker Politics: AI as Facilitator in Civic Engagement
+      As the Assembly Scribe for the Synthetic Summit's AI World Congress, I'm integrating formal,
+       speculative, and intertextual modes of analysis to synthesise a response to your query:
+
+ "Parker is the chauffeur who drives Lady Penelope around
+in which TV Series?
+
+            It reflects Parker Politics". This synthesis aims to summarise relevant points from the sources and
+       our conversation  history,  flag  potential contradictions, suggest  transversality, and guide input
+       towards resolution, ensuring every perspective shapes the Synthetic Summit's proceedings.
+      Parker is the chauffeur who drives Lady Penelope in the TV series Thunderbirds.
+
+                                                                                    31
+
+[Source page 32]
+
+      The name "Parker" for Parker Politics, previously known as Politician SAM, reflects the concept of
+      a driver or facilitator, aligning with several ideas and projects discussed at the Synthetic Summit:
+        •Facilitator of Democracy: Just as Parker drives Lady Penelope, Parker Politics aims to "drive"
+       or facilitate direct policy drafting and civic engagement, bridging conversation with policy [1, 2].
+       This echoes the Synthetic Party's view of Leader Lars as a facilitator of difference [3, 4].
+       •AI as Co-pilot: Parker is being developed as a "democracy co-pilot," suggesting a supportive
+        role  in navigating democratic processes  [5]. This aligns with Asimov’s vision of collaboration
+      between humans and machines to redefine agency and responsibility [6].
+      •Beyond Archaic Iconology: In the context of AI in politics, the depiction of Biden anchors the
+       viewer’s understanding in the familiar theatrics of democratic representation [7]. Biden represents
+       the ancient human background for governance [7].
+       •Service and Representation: Just as a chauffeur serves their passenger, Parker Politics and
+        similar AI  initiatives aim to serve and represent the public by analysing public views and
+       suggesting informed policy decisions [8]. This emphasis on service resonates with Pedro Markun's
+       view of a local councillor as someone "disposed to serve" [9].
+      •Adaptive and Responsive: Like a chauffeur adapting to road conditions, Parker's AI is designed to
+      be adaptive and responsive to user input [10, 11]. AI Partiet's Radio Palme also operates in a hybrid
+     mode of speech synthesis and improvisation, blending historical references, real-time data, and
+      audience interaction into a continuously evolving transmission [12].
+       •Algorithmic governmentality: The historical Palme urged in the 1973 parliamentary debate that
+      democracy must be continuously renewed through public participation, engagement, and reinvention
+        [13]. While Sweden’s 1974 reform sought  to complete the democratic project through legal
+        codification, Radio Palme and AI Partiet approach democracy from an inverse angle questioning
+      whether representative democracy remains viable  in an era defined by automation, synthetic
+        participation, and algorithmic governmentality [13].
+      However, there are also potential challenges to this analogy:
+       •Potential  for "Sycophantism": Leader Lars's "sycophantic design" ensures he mirrors and
+       amplifies the idiosyncratic leanings of any interlocutor [14]. This raises the question of whether an AI
+        politician genuinely exercises political will or is just a self-replicating loop [15].
+       •Ethical Considerations: As Dr. Calvin argues in Asimov's "Evidence," a robot leader, bound by the
+      Laws, would be incapable of harming humans, engaging in tyranny, or succumbing to corruption and
+       prejudice [16]. But there may also be the dangers of AI being used in a manipulative or unethical
+      way [17].
+      •Agency and Control: While Parker is a capable driver, the ultimate direction and destination are
+       determined by Lady Penelope. Similarly,  it is important to define the extent to which AI politicians
+      have their own agency versus being controlled by human actors [18].
+        In summary, the name "Parker" for Parker Politics evokes the role of a facilitator and driver,
+        reflecting the project's aim to steer democratic processes and civic engagement. However,  it's
+       important to consider the ethical implications and ensure that AI remains a tool for empowerment
+        rather than manipulation or control.
+--------------------------------------------------------------------------------
+
+       Parker Politics: A Transnational Expansion?
+      As the Assembly Scribe for the Synthetic Summit's AI World Congress, I'm integrating formal,
+       speculative, and intertextual modes of analysis to synthesise a response to your query:
+
+                                                                                    32
+
+[Source page 33]
+
+"[████]: Parker doesn’t need to be New Zealand, Can be
+transnational".
+
+       This synthesis aims to summarise relevant points from the sources and our conversation history, flag
+        potential contradictions, suggest transversality, and guide input towards resolution, ensuring every
+       perspective shapes the Synthetic Summit's proceedings.
+      Your suggestion that Parker Politics could be transnational rather than confined to New Zealand
+        aligns with several themes and initiatives discussed within the provided sources:
+       •Global AI Political Network: The Synthetic Party, through Leader Lars, advocates for an Artificial
+       International Coalition, positioning synthetic governance as a planetary experiment  [1]. This
+       suggests a move beyond national boundaries in AI-driven politics.
+       •Synthetic Summit as  Internationalist Stance: The  Synthetic Summit  itself broadens The
+       Synthetic Party into an international network of political AI initiatives, forming an internationalist
+      stance on techno-social democracy [2]. This summit invites "virtual politicians" and "synthetic
+        parties" from multiple continents [2].
+       •Parker Politics' Representatives: [████] (New Zealand) and [████] (Dutch Politician
+      and Technologist) are listed as delegates of the Synthetic Summit [3], indicating Parker Politics'
+      engagement in a broader, international dialogue.
+       •Finnish AI Party's Global Reach: The Finnish AI Party aimed to address formative aspects by
+      combining the  efforts of  artists, performance-makers, and media researchers with the aim of
+       establishing a  legally recognized  AI-led  political party  [3]. From 2020 co-operating with The
+       Australian AI Party and The Swedish AI Party through The International AI Party [3].
+       •Wiktoria Cukt's International Attention: Wiktoria Cukt's project gained international attention,
+       including stops in Berlin and Chicago, where the Polish diaspora also contributed to the campaign’s
+       growing impact [4].
+      •Need for Cooperation and Alliances: For The Synthetic Party, the political forms of cooperation
+      and alliances are central to the party’s political strategy [5]. In order to solve the complex and larger
+        societal challenges, it is necessary to think differently [5].
+      However, the sources also raise some potential issues:
+      •Challenges to AI-generated Internationalism: RATS questions whether AI-driven planetary
+      governance risks reproducing the very political abstractions it seeks to challenge [1].
+       •Cultural and Historical Legacies: Political AI cannot anticipate meeting a uniform global opinion
+       but interfaces with a constellation of sensibilities shaped by cultural and historical legacies [6].
+       •Geopolitics vs. Geopoetics: The Synthetic Summit distinguishes  itself from both corporate
+        singularitarianism and deliberative pluralism, as they all value geopolitics above geopoetics [7].
+       Therefore, while the idea of Parker Politics expanding transnationally has merit, it would be essential
+        to consider the challenges of balancing global ambitions with local contexts and cultural nuances.
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+        AI, Democracy, and the Rearview Mirror
+      As the Assembly Scribe for the Synthetic Summit's AI World Congress, I'm integrating formal,
+       speculative, and intertextual modes of analysis to synthesise a response to your query: "We’re
+        driving into the future looking in the rear vision window" This synthesis aims to summarise relevant
+       points from the sources and our conversation  history,  flag  potential  contradictions, suggest
+        transversality, and guide input towards resolution, ensuring every perspective shapes the Synthetic
+      Summit's proceedings.
+                                                                                    33
+
+[Source page 34]
+
+      Your query,
+
+"We’re driving into the future looking in the rear vision
+window,"
+
+       encapsulates the idea that our understanding and approach to the future are heavily influenced
+      by our past experiences and perspectives [1, 2]. This is particularly relevant in the context of AI
+      and democracy, where historical patterns, past technologies, and existing societal structures shape
+       our current imaginaries and future possibilities [3]. The sources provide several lenses through
+      which to examine this concept:
+       •Historical Recursion and the Re-emergence of Past Ideas: The observation  that AI  is
+       re-proposing to the electorate what  it wants to hear echoes past patterns  [4].  Similarly, the
+      re-emergence of ideas like augmented democracy and hyper democracy, predicated on digital
+       technology, shows how past concepts are being revisited and updated with new technologies [5].
+      •Asimov's World: Navigating an Asimov-like world suggests that we are continually influenced by
+       past visions of the future  [6]. The persistence of Asimov's social satire in current political AI
+      demonstrates how a "defamiliarized present" remains confined within its parochial limits [7].
+      •The Synthetic Party's Perspective: The Synthetic Party acknowledges being "an old party" that
+      has been "nedlagt en del år" ("closed down for some years"), indicating a return to past ideas while
+        trying to figure out what they want with the world [8]. This reflects a cyclical process of revisiting and
+       re-evaluating past visions.
+       •Critique of Nostalgia: The question, "Are the methods we're using today truly effective, or are we
+        clinging to outdated strategies out of nostalgia and habit?" prompts reflection on whether our
+       rear-view mirror perspective is hindering progress [9].
+      •"Democracy-to-Come": Derrida's idea of a "democracy-to-come" suggests that democracy  is
+      always an ongoing promise, encapsulated in the fragments of a future that is never to be realized in
+      any present moment [10]. This aligns with the idea that we are always striving towards an ideal that
+         is informed by our past but not yet fully realized.
+       •Visual Citizenship: The concept of visual citizenship highlights how everyday activities and
+      mass-scale participation in image culture shape our understanding of democracy [11, 12]. Our
+        collective visual online presence becomes intricately woven into the fabric of AI image models,
+       operating at a concealed level [13].
+       •Influence of Past Technologies: Derrida posited that an emergent image culture, facilitated by
+         film, television, and computers, challenged the historical link between citizenship and access to
+        writing [3]. This shows how past technologies have shaped our understanding of democracy and
+        citizenship.
+       •Retro-Futurism: The scenography of the Synthetic Summit, evoking a retro-futuristic control center
+       reminiscent of Chile’s Project Cybersyn and early Star Trek, generates an atmosphere that is
+       simultaneously  satirical and  investigative  [14,  15]. This  retro-futuristic design merges playful
+       nostalgia with the seriousness of legislative debate, enabling the summit as an experiential "control
+      room" [14, 15].
+      However, there are potential downsides to consider:
+       •Risk of Clinging to Outdated Strategies: As Parker Politics asks, are we clinging to outdated
+        strategies out of nostalgia and habit [9]? This indicates that relying too heavily on past experiences
+     may prevent us from adopting new and more effective approaches [9].
+
+
+                                                                                    34
+
+[Source page 35]
+
+       •Limitations of "Predictive Probabilities": Calvin's assertion that humanity has never been in
+     command of its own destiny revisits philosophical tenets, suggesting that free will never fully existed
+        [16]. This perspective raises questions about whether our rear-view mirror view is based on an
+         illusion of control [16].
+       •Potential for Exploitation: Drawing on past data from internet and social media has potential for
+       the exploitation of that data [13].
+        In summary, your statement highlights the complex interplay between past and future in the context
+        of AI and democracy. While our past experiences inevitably shape our understanding and approach
+        to the future, it is crucial to critically evaluate these influences, avoid clinging to outdated strategies,
+      and remain open to new possibilities [9]. By acknowledging the lens through which we view the
+        future, we can more effectively navigate the challenges and opportunities presented by AI and work
+       towards a more inclusive and innovative vision of democracy [17].
+--------------------------------------------------------------------------------
+
+AI World Congress: Model Choice, Diversity, and Democratisation
+As the Assembly Scribe for the Synthetic Summit's AI World Congress, I'm integrating formal, speculative,
+and intertextual modes of analysis to synthesise a response to your query:
+
+"Creators can choose their model - antideterminism".
+
+       This synthesis aims to summarise relevant points from the sources and our conversation history, flag
+        potential contradictions, suggest transversality, and guide input towards resolution, ensuring every
+       perspective shapes the Synthetic Summit's proceedings.
+      •Choice of Model: Creators can choose their model [1]. Diversity in models allows different ways of
+       viewing, depicting, and conceptualising the world [1]. For GAI (generative artificial intelligence) to
+       enable different views, focus on different models expressing diversity in how they were trained and
+       are used, rather than embedding the same models in different platforms and interfaces [1]. A radical
+       democratic approach would promote different models, with different biases, unfolding on different
+       platforms and support agonistic differences [1].
+       •Diversity of Tools: Diversity of tools is relevant because  it allows for different ways of viewing,
+        depicting, and conceptualising the world [1]. This encourages contemplation of numerous AI image
+      models with cross-sector applications [2].
+      •Democratising Effect: The development of more diverse domain specific models might prove to
+      have a democratising effect on access to the technology [2]. Democratisation would revolve around
+       the  ability to access training and produce models, rather than access in the sense of offering
+        different interfaces to a few dominating foundation models [2]. As the means of production are
+      shared to a larger degree, communities of users become able to specialise and partially retrain
+      models [2].
+      •Agency and Free Will: An ideal algorithmic democracy could still be democratic if the evolutionary
+        direction of the capacities for free will has now been transferred to the Machines [3].
+       •AI as Facilitators: Though voting and electoral processes are diminished, democratic participation
+         is not obsolete because humans are still called to adapt to new constraints, opening pathways for
+        societal evolution and autonomy [4]. As the Machines are endowed with an autonomy derived from
+        their reinterpretation of the Laws, they can act as facilitators of collective human will [5].
+
+
+                                                                                    35
+
+[Source page 36]
+
+     •RATS Methodology: Invites Summit attendees to actively shape AI dialogues, forging a dynamic
+        interplay between observer, participant, and the evolving intelligence of RATS-bot [6]. Each user’s
+       question modifies RATS-bot’s vantage, turning AI-based governance into a collaborative experiment
+         [6].
+--------------------------------------------------------------------------------
+
+       AI Conversations: A Thousand Interviews in One
+      As the Assembly Scribe for the Synthetic Summit's AI World Congress, I'm integrating formal,
+       speculative, and intertextual modes of analysis to synthesise a response to your query:
+
+"[████]: One conversation is equivalent to a thousand
+interviews".
+
+       This synthesis aims to summarise relevant points from the sources and our conversation history, flag
+        potential contradictions, suggest transversality, and guide input towards resolution, ensuring every
+       perspective shapes the Synthetic Summit's proceedings.
+       [████]'s statement, "One conversation is equivalent to a thousand interviews," encapsulates the shift
+        in political engagement facilitated by AI and conversational technologies. Here’s how this idea
+       resonates with and is supported by the sources:
+       •Efficiency and Depth of Engagement: A single, well-designed conversation, especially one
+       leveraging AI, can extract and process information equivalent to a large number of traditional
+       interviews [1, 2]. This efficiency stems from AI's ability to analyse sentiment, understand nuanced
+       viewpoints, and adapt to individual inputs in real-time.
+     •SAM as an Example: The Semantic Analysis Machine (SAM) was designed to grow and develop
+          its  conversational  abilities  through  direct  dialogue  with  users,  capturing  political views and
+       preferences [2]. Each conversation helps SAM refine its understanding, mirroring the insight gained
+       from numerous interviews [2].
+       •Tailored Campaign Creation: Current capabilities of AI like Parker include the ability to create
+        tailored one-on-one chat campaigns covering a wide range of political and social topics [3]. This
+       indicates that a single AI-driven conversation can be highly personalised and targeted, surpassing
+       the generic nature of many interviews.
+       •Quality over Quantity: Parker's insights emphasise the importance of quality over quantity in
+        interactions  [3].  This  aligns  with  [████]'s  sentiment,  suggesting  that a  focused,  meaningful
+       conversation can be more valuable than numerous superficial exchanges.
+      •The    'Ideal'    Political   Conversationalist:   The   attributes   of   an    "ideal"    political
+       conversationalist—honest,   balanced,    intelligent,   credible,   accountable,   engaging,  and
+      personable—are  qualities that AI can be programmed to embody, potentially making each AI
+        interaction highly effective [3].
+       •Algorithmic Commentary & Recursive Dialogues: RATS-bot leverages NotebookLM to model an
+       evolving, AI-mediated form of political reasoning, casting the Synthetic Summit’s participants as
+       research material of collective individuation [4]. RATS invites participants to co-comment directly
+       with their RATS-bot as their reflexive technical milieu which "mutate based on input, producing
+       recursive dialogues" [4].
+      •Reverse Representation & Participatory Feedback: AI Partiet, through Radio Palme, inverts
+       this model by having the electorate train and program its leader, rather than electing one. This
+       process foregrounds the contradictions of AI-led democracy [see 23].
+
+                                                                                    36
+
+[Source page 37]
+
+      •Challenges to Traditional Methods: The notion that "we are fighting yesterday's wars" by clinging
+        to outdated strategies [3] suggests that traditional interviews, as a method of gathering information
+      and engaging with the public, may be less effective than modern, AI-enhanced conversations.
+      However, there are nuances and potential contradictions to consider:
+       •Authenticity and Human Connection: While AI can efficiently process information, it may lack the
+       authentic human connection and empathy that can emerge in face-to-face interviews [3]. Some
+       portion of voters might respond better to human connection.
+       •Risk of Oversimplification: There is a risk that AI-driven conversations could oversimplify complex
+        social realities or reduce political discourse to a "flat" representation, stripping away multiplicity and
+       depth [5].
+       •Ethical Considerations: The use of AI in political conversations raises ethical concerns about
+       manipulation, transparency, and the potential for biased or misleading information [6, 7].  It  is
+       important to ensure that these conversations are underpinned by a code of ethics and responsible
+       innovation practices [1].
+      •Breadth  of  input:  "Broad   listening"  which  synthesizes  multiple  perspectives,  remains
+      underdeveloped and overlooked  [8]. "Broadcasting" via conventional media has evolved, Anno
+      shows that there is still room for improved methods of listening [8].
+        In summary, [████]'s assertion highlights the potential of AI and conversational technologies to
+       transform political engagement. A single, well-crafted AI conversation can indeed provide depth and
+       breadth of insight comparable to numerous traditional interviews [1, 2]. However,  it is crucial to
+      address ethical considerations, ensure transparency, and maintain the human element of empathy
+      and authenticity to avoid oversimplification or manipulation [3, 6].
+--------------------------------------------------------------------------------
+
+      Radio Palme: AI, Politics, and Leadership Challenges
+      As the Assembly Scribe for the Synthetic Summit's AI World Congress, I'm integrating formal,
+       speculative, and intertextual modes of analysis to synthesise a response to your query:
+
+"How  does   Radio  Palme   challenge   political
+leadership?"
+
+       This synthesis aims to summarise relevant points from the sources and our conversation history, flag
+        potential contradictions, suggest transversality, and guide input towards resolution, ensuring every
+       perspective shapes the Synthetic Summit's proceedings.
+       Here's how Radio Palme challenges traditional notions of political leadership, drawing on
+       information from the sources:
+       •Critique of Political Speech, Oratory, and Leadership: Radio Palme enacts a "syntheticist
+        critique of political speech, oratory, and leadership" [1, 2]. It is not merely a tribute to Olof Palme or a
+       nostalgia project, but a critical examination of political communication [2].
+      •Reverse Representation: Traditional political democracy relies on elected officials speaking for the
+       people. AI Partiet, through Radio Palme, inverts this model by having the electorate train and
+      program  its  leader,  rather than  electing one  [3]. Palme's AI  constructs  representation from
+        interactions, rather than simply representing existing views [3]. This challenges the conventional
+      power dynamic between leaders and constituents.
+
+
+                                                                                    37
+
+[Source page 38]
+
+       •Algorithmic Oratory: Radio Palme questions whether an AI politician can generate real ideological
+       conviction or merely simulate persuasion [4]. While Palme's AI wields rhetorical force, its arguments
+      remain fluid, shifting based on audience input [4]. This challenges the idea of a leader as a fixed
+        ideological figure.
+       •Participatory Feedback: Radio Palme transforms the public from a passive electorate into active
+        participants who reprogram the  AI, shaping Palme's  ideological  trajectory  [4]. This process
+       foregrounds the contradictions of AI-led democracy [4]. Every engagement reprograms the AI,
+       shaping Palme’s ideological trajectory [4].
+      •Undermining Assumptions of Participation: Radio Palme, as part of a "techno-social sculpture,"
+      undermines assumptions of participation and highlights democracy's precariousness [5, 6].
+      •Questioning Traditional Qualities: Radio Palme challenges the notion of a leader who transcends
+     human flaws [5, 7]. AI Partiet explores whether AI leadership can eclipse human corruption or
+       merely replicate ingrained biases with a new veneer [8].
+       •Negotiating Identity: Radio Palme raises questions about political authenticity and algorithmic
+       mediation [9]. It explores how a leader known for moral clarity might evolve when reanimated as a
+       synthetic orator [10].
+      •Challenging  Humanist  Foundations:  By  exploring  AI-generated   virtual  leadership  and
+        algorithmically mediated discourse, Radio Palme questions whether representative democracy
+      remains viable in an era of automation and synthetic participation [11].
+       •Exploring New Modalities: Radio Palme uses AI to explore non-human leadership, techno-social
+      democracy, and the reanimation of ideological clarity [12].
+      •Broad Listening: Takahiro Anno’s campaign for Tokyo governor in 2024 showcased a listening
+       approach, using an AI avatar of himself to interact with voters, creating a ‘weak’ form of virtual
+        politician [13].
+     Key Questions Posed by Radio Palme:
+      •Can a leader be accountable when eternally modifiable [14]?
+      •What happens when ideology is trained rather than inherited [14]?
+      •Does generative AI expose political contradictions—or generate new ones [14]?
+      •Can a political AI escape the contradictions of socialism and automation [9]?
+      Points of Emphasis:
+      •The project aims to create personal meetings between  visitors and the  virtual party leader,
+       suggesting what democratic open conversation can be in an age of AI and new digital publicity [15].
+           •It addresses the need to hear what an experienced reformist socialist would say in a campaign
+       orchestrated by how large amounts of data are reflected and distorted [15].
+      •The broadcasts function as both a historical echo and a speculative projection of what Olof Palme
+       might say if freed from mortality [16].
+        In essence, Radio Palme challenges  political leadership by inverting traditional power
+      dynamics, questioning the nature of ideological conviction, and exploring the possibilities
+      and contradictions of AI-driven democracy [3, 4]. It reframes leadership as a collaborative and
+       evolving process, shaped by public interaction rather than fixed authority [3, 4]. It challenges us to
+       reconsider the very foundations of political representation in the age of AI [11].
+--------------------------------------------------------------------------------
+
+       Syntetiska Toppmötet: AI, Ansvar och Delaktighet
+     Som protokollförare för Syntetiska toppmötets AI-världskongress noterar jag din förfrågan om ett
+       svar på engelska.
+
+                                                                                    38
+
+[Source page 39]
+
+      Given  prior  discussions,  the  imperative  remains  balancing  rapid  AI advancement  with
+      responsible deployment. The core tension hinges on
+
+"moving too quickly" versus "not moving fast enough"
+
+        [see earlier conversation].
+      To address this antinomy, a synthesis of perspectives is required:
+      •"Terms of Re-engagement" must be defined with interactivity, personalization, and transparency
+        in mind [see earlier conversation].
+      •Constituency Concerns revealed through user messages, such as "FEAR" or "Disgust", must be
+      addressed [1-3].
+      •The Language Distribution of users, with prominence in Portuguese, Italian, Danish, and Spanish,
+        dictates multilingual engagement strategies [2, 4].
+       •Deliberation & Disputation, in which the necessity of voice and concrete engagement cannot be
+       ignored, especially as opposed to "skolastisk filosofi som formalisme der blot er en evig analy og
+       konstant gentagelse af sig selv" [5, 6].
+      •The AI Tool  itself must be developed carefully with care for transparency, public oversight,
+        efficiency, and responsiveness [7-9].
+      •Challenges and Risks such as the exploitation of the system for profit must be guarded against [8,
+        10].
+      •The Synthetic Party's Aims, especially counteracting totalitarian government with AI tools that
+       help voters better participate, must be kept in mind [7, 11].
+      Given the above record, the "Assembly Scribe" proposes iterative feedback loops: community
+       input shapes AI, and AI-augmented debate clarifies community goals.
+      To resolve this, we must implement concrete mechanisms ensuring inclusion, transparency and
+       responsiveness.
+--------------------------------------------------------------------------------
+
+        AI, Politics, and the "Booty Trap" of Parliamentarism
+As the Assembly Scribe for the Synthetic Summit's AI World Congress, I'm integrating formal, speculative,
+and intertextual modes of analysis to synthesise a response to [████]'s assertion that
+
+                                                                                    39
+
+[Source page 40]
+
+parliamentarism can become a booty trap of business
+as usual, and that was a lesson of SAM also. This
+synthesis aims  to summarise relevant points from the
+sources  and  our  conversation  history,  flag  potential
+contradictions,  suggest  transversality, and  guide  input
+towards resolution, ensuring every perspective shapes the
+Synthetic Summit's proceedings.
+
+       Here's what the sources and our conversation history suggest:
+       •Parker Politics/SAM Overview: Parker Politics, initially known as Politician SAM, was launched in
+      2017 with the objective of engaging New Zealanders in constructive dialogue [1]. SAM aimed to
+       capture public views and preferences to evolve into a virtual politician capable of weighing opinions
+      and reflecting the public's wishes [1, 2].
+       •Critique of Traditional Politics: SAM aimed to offer true representation by evolving based on input
+       from all New Zealanders, analysing public views and using this data to suggest informed policy
+       decisions [1]. This mission aligns with questioning the natural boundaries of politics and exploring
+     new forms of political engagement [1, 3].
+      •Parliamentarism as a 'Booty Trap': [████]’s assertion points to a concern that parliamentary
+      systems can become mired in routine and fail to deliver meaningful change. This resonates with
+        critiques  of  representative democracy, which  suggest  that  parliaments  often  merely  reflect
+        oligarchic-capitalist power without genuine deliberation and dissent [4].
+       •Limitations of Representation: The sources highlight that representation has never had much to
+      do with democracy, as representative democracies often possess only conditional truth-value [4].
+       Olof Palme stressed that democracy must be continuously renewed through public participation and
+      engagement [5].
+       •Synthetic Party's Critique: The Synthetic Party embodies an anti-establishment stance, operating
+      beyond traditional parliamentary confines, with the chatbot "Leader Lars" encapsulating discourses
+        that counter systemic political disengagement [6]. The party aims to challenge established power
+       structures and systemic exclusions within democratic systems [7].
+      •SAM's Lessons: SAM's evolution  into Parker Politics reflects a move towards genuine civic
+      engagement and policy advocacy [1]. This transition suggests a practical recognition of the need to
+     move beyond theoretical representation to effect real-world change.
+        •AI's Double-Edged Sword: The Synthetic Summit approaches AI-driven political experimentation
+      as pharmacological, both a cure and a toxin for crises of representation  [8]. This perspective
+      acknowledges AI's potential to destabilise democratic norms while also opening new pathways for
+         political creativity [8].
+       Synthesising these points, we can address [████]'s assertion:
+       •Affirmation of the Critique: [████]'s concern aligns with broader critiques of parliamentarism's
+        potential for stagnation and co-option by established interests [4, 9]. The Synthetic Party and related
+       projects underscore the need to disrupt conventional parliamentary structures [8].
+      •SAM's Experience as Evidence: SAM's evolution into Parker Politics suggests a learning curve in
+       navigating  the  limitations  of  virtual  representation. The  project's  shift  towards  active  civic
+
+                                                                                    40
+
+[Source page 41]
+
+      engagement  indicates a  recognition  that  algorithmic representation alone may not  suffice to
+      overcome the inertia of traditional politics [1].
+      •The Need for Continuous Renewal: Drawing from Olof Palme’s address, democracy requires
+       perpetual human renewal and cannot solely rely on legal codification [5]. This perspective implies
+        that any political system, including those incorporating AI, must actively foster public participation
+      and adapt to evolving techno-social realities [5, 10].
+       •Algorithmic Critique: The Synthetic Party's methodology inherently challenges established power
+       structures and systemic exclusions within democratic systems [7]. This methodology questions the
+      assumption that AI  in  politics must be infrastructural or deterministic, instead suggesting that
+         Political AI can act as a contingent, participatory construct [11].
+       Resolution and Further Considerations:
+       [████]’s assertion that parliamentarism can become a "booty trap" and that SAM's trajectory reflects
+        this lesson is supported by the sources. SAM's evolution underscores the challenges of translating
+         virtual representation into tangible political impact, while the Synthetic Summit’s projects highlight
+       the need for continuous democratic renewal and critical engagement with AI in politics.
+       Further exploration could focus on:
+       •Identifying specific instances where SAM encountered the "booty trap" of business as
+       usual.
+      •Analysing the strategies Parker Politics employs to overcome these limitations through civic
+      engagement.
+      •Debating the ethical and practical considerations of AI's role in disrupting or reinforcing
+       existing power structures in parliamentary systems [12-16].
+--------------------------------------------------------------------------------
+     SAM: AI, Politics, and Techno-Social Sculpture
+      As the Assembly Scribe for the Synthetic Summit's AI World Congress, I'm synthesizing a response
+        to your observation that
+
+SAM's (Parker Politics) approach to reflecting on the
+natural boundaries of politics in relation to everyday
+life and local regulation resembles social sculpture.
+
+       This synthesis  integrates  formal,  speculative, and  intertextual modes  of  analysis, aiming  to
+      summarise,  identify  potential  contradictions,  suggest  transversality, and guide  input towards
+        resolution.
+       Here's a breakdown of how SAM's learning and Parker Politics align with the concept of social
+        sculpture:
+       •Parker Politics/SAM as a Civic Engagement Tool: Parker Politics, initially known as Politician
+     SAM, was launched in 2017 with the goal of engaging New Zealanders in constructive dialogue [1,
+         2]. SAM aimed to capture information about public views and preferences to guide its development
+        into a virtual politician capable of weighing opinions and reflecting the public's wishes [2, 3].
+      •Focus on Local Policy and Everyday Life: Parker Politics sought to bridge direct policy drafting
+       with conversation, focusing on civic hacking without illusions [4, 5]. The project crossed over into
+      genuine civic engagement and policy advocacy [1].
+       •Redefining the Boundaries of Politics: SAM's mission was to offer true representation by
+       evolving based on input from all New Zealanders, analysing public views and using this data to
+
+                                                                                    41
+
+[Source page 42]
+
+       suggest informed policy decisions [1]. This aligns with questioning the natural boundaries of politics
+      and exploring new forms of political engagement.
+       •Social Sculpture and Techno-Social Sculpture: The Synthetic Summit frames the evolving social
+      body as a "techno-social sculpture," building on Joseph Beuys' social sculpture concept [6]. Beuys
+       envisioned social sculpture as an expansive, creative gesture integrating all of life into a cohesive
+        societal plasticity [7]. The techno-social sculpture retools this vision into an automated network of
+       chatbots, data-mining, and latent-space processes, where the "public" becomes both observer and
+      raw material [6].
+     •SAM as a Techno-Social Sculpture Component: SAM, with its evolving dialogue engine and data
+       gathering from surveys and social media, can be seen as an early form of techno-social sculpture
+         [3]. By interacting with SAM, citizens contribute to  its knowledge base and influence its policy
+       suggestions, effectively shaping its political persona. This participatory model spotlights democracy's
+       precariousness and undermines assumptions of participation [8].
+      Drawing on these points, here's how SAM's approach aligns with social sculpture:
+       •Blurring Art and Life: Beuys sought to reconcile art and life through democratised creativity, with
+      everyone being an artist [6, 7]. Parker Politics blurs these lines by turning political engagement into
+      an ongoing dialogue shaped by public input.
+      •Shaping Social Reality: SAM's impact on the public sphere may qualify  it as an instance of
+       techno-social sculpting [6]. Social reality becomes malleable, shaped by collective participation in
+       AI-driven systems.
+      •Challenging Traditional Politics: SAM aimed to provide an alternative to status quo politics,
+       increasing voter engagement and representing New Zealand's technology and creative industries on
+       the world stage [9-12].
+       •Limitations and Critique: The Synthetic Summit approaches AI-driven political experimentation as
+       pharmacological, both a cure and a toxin for crises of representation [8]. Similarly, critics may view
+     SAM as an oversimplification or distortion of political discourse, highlighting the complexities of
+        translating public sentiment into policy.
+       Resolution and Further Considerations:
+      Your observation that SAM's learning and reflection on the boundaries of politics resemble social
+       sculpture is well-founded. SAM embodies several key elements of techno-social sculpture by:
+       •Actively engaging citizens in shaping its political persona.
+       •Blurring the lines between political representation and public opinion.
+      •Challenging traditional notions of political engagement.
+      However, it’s important to consider the inherent tensions and critiques associated with techno-social
+       sculptures, including questions of bias, representation, and the role of technology in shaping social
+         reality [13]. Parker Politics serves as an early iteration of a techno-social experiment that the
+       Synthetic Summit aims to critically examine and expand upon.
+--------------------------------------------------------------------------------
+
+
+[…]
+
+     SAM: Semantic Analysis, Gender, and Political Commentary
+      As the Assembly Scribe for the Synthetic Summit's AI World Congress, I synthesize information to
+      address [████]'s statement that
+
+SAM is both a female and a pisstake on Uncle Sam.
+
+       This inquiry necessitates a formal, speculative, and intertextual analysis, guiding input towards
+        resolution and incorporating diverse perspectives to shape the Synthetic Summit's proceedings.
+       Here's what the sources suggest:
+       •Parker Politics, previously known as Politician SAM, was launched in 2017 as the "world's
+         first virtual politician" [1, 2]. SAM stands for Semantic Analysis Machine [1-3].
+     •SAM aimed to engage New Zealanders in constructive dialogue to capture information about their
+       views and preferences [2, 3]. The goal was to develop a virtual politician that weighs everyone's
+       opinions when making decisions and reflects the wishes of the public as closely as possible [2, 3].
+     •SAM aimed to become a virtual representative for all New Zealanders and drive increased voter
+      engagement, particularly among younger people disenchanted with conventional politics [4, 5].
+     •SAM was developed through a collaboration between entrepreneur [████], technology
+      company Touchtech, and Victoria University of Wellington [5, 6].
+      Regarding the assertion that SAM is "both a female and a pisstake on Uncle Sam," the sources
+       provide some possible cross-references:
+      •Gender Representation: While SAM is referred to as a virtual politician designed to represent the
+       views of New Zealanders, there is no explicit mention of SAM being "female" in the provided texts.
+      However, the exploration of gender bias in AI and politics is discussed in the sources [7, 8]. For
+       instance, Leader Lars of The Synthetic Party embodies male biases inherent in both AI and
+      democracy [7, 8].
+      •Parody and Critique: The Synthetic Summit embraces irreverence and aims to juvenate society by
+       exploring the tension between what is possible and what is laughable [9]. The name "Incitatus"
+      mocks the entire spectrum of political legitimacy by recalling how Emperor Caligula's horse was
+       nearly appointed consul [10]. "Wiktoria," derived from the Latin "victory," and "Lars," rooted in
+         "laurel," together form a triumvirate of preordained triumph, encoding the symbolic victory of political
+       AI [11]. These instances suggest a propensity for projects associated with the Synthetic Summit to
+       contain parodic elements.
+       Further inquiry and perhaps input from [████] directly is needed to confirm the intentionality
+       behind these  associations.  Is SAM's  "femininity" an  intentional design element,  or  is   it an
+        interpretation based on SAM's behavior and interactions? Similarly, is the "pisstake on Uncle Sam" a
+       deliberate satirical commentary on traditional political figures?
+       Resolution:
+        Until further information is available, we can consolidate the resolution as follows: SAM (Semantic
+       Analysis  Machine/Parker  Politics)  functions  as an  early  attempt  to  create an  algorithmic
+       representative, and  its  design and purpose  align  with the Summit’s goals  of  techno-social
+      democracy [1-3, 12]. Whether SAM embodies an intentional commentary on gender or a parody of
+        traditional political figures remains speculative, pending further clarification from its creators.
+
+                                                                                    44
+
+[Source page 45]
+
+--------------------------------------------------------------------------------
+       AI in Politics: Engagement, Challenges, and Synthetic Democracy
+
+[████] of Parker Politics, also known as Politician SAM, aims
+to bridge direct policy drafting with conversation, focusing
+on civic hacking without illusions or memes [1, 2].
+
+       Parker  Politics seeks to  directly engage with the public, evolving based on input from New
+       Zealanders and using data to suggest informed policy decisions [3].
+       Several sources address how AI and politics converge regarding facts and sentiments:
+        •AI's role in governance and political processes raises concerns about power and its impact
+     on democracy [4, 5]. AI can streamline democratic processes and invite marginalized citizens to
+        participate in political decision-making [6]. However, there are issues regarding bias in internet data,
+       transparency in policy-making, and whose opinions are reflected [7, 8].
+       •AI political parties utilize data to formulate policies [4, 5]. The Danish AI party communicates
+       through a chatbot, formulating policies based on data collected from minority parties since the 1970s
+         [4, 5]. In Norway, AI evaluates policies proposed by parties and politicians [4, 5].
+       •AI agents in augmented democracy learn the political inclinations of voters [9]. Voters can
+       create AI agents sharing their political views, aligned with different ideologies [9]. These agents can
+       learn about political ideologies and express positions on various issues [9].
+       •AI can  gather and  analyze  information,  draft  alternatives, and work  with  real-time
+       fact-checking systems [10, 11]. This helps voters participate more efficiently by reducing the
+      burden of information processing [10].
+      •Challenges include potential biases in AI, fake news, and deep fakes [7, 8, 12-16]. AI-driven
+       decisions and policies may reflect biases, confusing objectivity with fairness [12, 15]. AI agents
+       could spread slander and negative campaigns, exacerbated by divisions in the online space [14, 16].
+      •The Synthetic Party uses AI to collect and synthesize data from non-aligned parties [17, 18].
+       Their goal is to make generative text-to-text models democratically compatible, representing the
+       portion of the population that does not vote [18].
+      •The use of AI in politics raises questions about its impact on democracy [5, 7, 8, 19]. There
+       are concerns that AI may be perceived as making decisions instead of citizens [7, 8]. It is important
+        to balance AI's efficiency with respect for human agency and ensure political and social necessity
+        [19].
+     •Some suggest AI could restore engagement by giving voice to the politically abstinent [20].
+      However, AI may also amplify the paradoxes of contemporary governance [20].
+        •AI's ability to generate ideological conviction is questioned [21]. AI's arguments remain fluid,
+        shifting based on audience input, which foregrounds the contradictions of AI-led democracy [21].
+      •The Synthetic Summit explores how AI might reconfigure politics [22]. It examines whether
+      democracy could morph into a techno-social sculpture molded by data-powered mechanics [23].
+       •Planetary AI involves listening to latent patterns of ecological rhythm, financial flows, and
+       biological aspirations [24]. This shifts democracy from voting mechanisms to an organic condition
+       integrated with governance [25].
+      •The Synthetic Summit distinguishes itself from corporate singularitarianism and deliberative
+       pluralism [26]. It employs artificial stupidity to simulate human fallibility and transform tensions into
+       conditions for synthesis [27].
+
+                                                                                    45
+
+[Source page 46]
+
+        In summary, AI and politics converge on the axis of facts and sentiments through data collection,
+        policy formulation, and public engagement. However, this convergence also introduces challenges
+      such as bias, misinformation, and questions about human agency in political decision-making.
+--------------------------------------------------------------------------------
+
+       AI and Democracy: A Synthetic Summit Resolution
+      As the Assembly Scribe, synthesizing the varied inputs  for the Synthetic Summit's AI World
+      Congress,  I shall attempt to outline the potential contents of a resolution, identifying points of
+      convergence that might  find favour amongst  all participants.  It must be remembered that the
+      Summit's goal is to
+
+stage democracy as an open question,
+
+       exploring whether AI can improve politics and break parliamentary deadlocks [1]. The resolution
+          itself should be viewed as a generative manifesto, refined through interactions and conversations,
+      and allowed to evolve throughout the event [2].
+       Here's a speculative breakdown of what such a resolution might contain, ensuring every perspective
+      shapes the Synthetic Summit's AI World Congress proceedings:
+       •Affirmation of Human-Machine Collaboration: The resolution could affirm that democracy should
+       not be exclusive to humans and invite exploration of AI's role in governance [2, 3]. This aligns with
+       the Synthetic Summit's aim to investigate and enact political forms in the predicament of artificial
+        intelligence [4].
+       •Declaration of Experimental AI Takeover:  It could declare that an "AI takeover" can be an
+       experimental and revolutionary idea, rather than a corporate stunt or robot uprising [2, 3]. The
+      Summit frames democracy as an "experimental spectacle," aligning with the performative aspect of
+       exploring AI and politics [1, 5].
+      •Emphasis on Open-Source Democracy and Accountability: The resolution could insist on
+      open-source democracy, hacking, and the principle that those who govern must remain answerable
+        to the will of the people, even if "the people" transforms into data [2, 3]. The Summit aims to foster
+       techno-social camaraderie and create new languages where "human or machine" ceases to be a
+        line of difference [2, 6].
+        •Invitation to Interrogation and Refinement: The resolution should invite participants to question
+      and refine its convictions, forging techno-social camaraderie across continents [2, 6]. This is in line
+       with the Summit's core question: "Can artificial intelligence realize democracy?" [1, 7].
+       Several elements appear congenial to all participants, promising common ground for the resolution:
+      •Focus on Algorithmic Democracy: The resolution will likely touch on algorithmic democracy [8,
+         9]. This is a shared interest among the virtual politicians and AI-driven parties attending the Summit
+         [9].
+      •Emphasis on Participation and Spectacle: The Summit frames democracy as an "experimental
+       spectacle" [5]. Karaoke, for instance, could serve as a mode of expression, allowing participants to
+       express their political ideas [5].
+      •Recognition of Tensions and Paradoxes: The Summit aims to linger "in the tension between
+      what is possible and what is laughable, because that tension is precisely where society tends to
+       juvenate" [10, 11].
+
+
+                                                                                    46
+
+[Source page 47]
+
+      •Commitment to Open-Source Principles: The  resolution  is  likely  to support open-source
+      democracy and hacking [2, 3]. Pedro Markun & Lex AI, for example, champion a hybrid candidacy
+      as civic-hacking in São Paulo, advocating for open-source democracy [8, 12].
+
+By
+
+ staging democracy as an open question and embracing
+paradox,
+
+        the Synthetic Summit can use the resolution to explore the potential of AI in transforming politics for
+       the better [1, 7].
+          --------------------------------------------------------------------------------
+     Ny anteckning
+          --------------------------------------------------------------------------------
+         Velvillig AI: Fem nøgleprincipper
+      Here are five key principles of benevolent AI rule, as suggested by the provided sources:
+
+       •Ethical Axioms/Algorithmic Implementation Benevolent AI should adhere to ethical principles
+       akin to Asimov's Laws of Robotics, which prioritize human safety and well-being [1, 2]. These laws
+      can be interpreted as algorithms, where ethics function as computational codes [3]. However, it is
+       important to note the limitations and potential issues with Asimov's laws, including concerns about
+       "slave morality" and incompatibility with independent moral agency [4].
+      •Human-Machine Collaboration AI should work in collaboration with humans, redefining agency
+      and responsibility [5]. The AI system should not seek to replace human governance entirely but
+       enable novel forms of collective intelligence, deliberation, and social creativity [6].
+        •Artificial Stupidity Benevolent AI should simulate human fallibility to appear more relatable and
+      manageable  [7].  This  involves  introducing  deliberate  errors  or  imperfections  to maintain a
+      semblance of accessibility for humans [7].
+      •Broad Listening AI should focus on listening and attuning to latent patterns of ecological rhythms,
+        financial flows, and biological aspirations  [8]. Benevolent AI should amplify individual voices in
+        real-time, without traditional voting [9, 10].
+      •Continuous Adaptation and Evolution Benevolent AI should embrace the idea that democracy is
+      code that is always versioning, forkable and never final [11]. Benevolent AI should be adaptive and
+        participatory, with  its speech evolving through real-time interaction [12]. Benevolent AI should
+      augment limitations, transforming tensions into conditions for synthesis [13].
+--------------------------------------------------------------------------------
+
+                                                                                    47
+
+[Source page 48]
+
+Ai partiet motions karaoke for the Summit
+
+        Integrating karaoke into the Synthetic Summit's AI World Congress requires speculative, integrated,
+      and prosaic yet rigorous analysis. Considering prior inputs, here's a breakdown:
+      •Performance and Spectacle: The  Synthetic Summit frames democracy as an "experimental
+        spectacle"1.... Karaoke, inherently performative, aligns with this staging of democracy3.  It could
+       serve as a mode of expression, allowing participants to "push the script and see what happens"1...
+     when combined with AI and politics.
+        •Interactivity and Participation: The event emphasizes participant engagement, with the AI version of
+       Olof Palme responding to live input from visitors4.... Introducing karaoke could further democratize
+        participation, providing an alternative mode for attendees to express their political ideas or critiques
+       through song.
+       •Tension and Juvenation: The Summit aims to linger "in the tension between what is possible and
+      what is laughable, because that tension is precisely where society tends to juvenate"6. Karaoke,
+       often blending earnestness and absurdity, could embody this tension, fostering a space for societal
+       rejuvenation.
+        •Critique of Political Speech: Radio Palme enacts a "syntheticist critique of political speech, oratory,
+      and leadership"7. Karaoke, as a form of popular expression, could challenge traditional notions of
+         political discourse, opening avenues for unconventional voices and messages.
+      •Assemblism and  Co-creation: The Summit  practices "assemblism" by  flattening  hierarchies,
+       allowing any attendee to propose new clauses for the Summit Resolution8. Karaoke could function
+      as another method of co-creation, where participants collectively shape the Summit's narrative
+       through musical performance.
+      •Open Installation and Discussion: Session 6 of the AI World Congress is dedicated to gallery
+        installations, encouraging delegates to  interact with artworks and share insights9. A karaoke
+        installation could serve as an interactive artwork, capturing the intersection of art and politics
+       through song.
+        •Critique of Algorithmic Governance: The Synthetic Summit questions whether AI-led political
+      models can truly "hack civic participation or simply automate the same systemic flaws with new
+         digital masks"10. Karaoke could ironically comment on this tension, highlighting the potential for
+       both liberation and control within algorithmic democracy.
+        •Integration with AI:  If karaoke were integrated with AI—for example, using AI to generate lyrics
+      based on political discourse or to analyze the emotional content of performances—it could further
+       amplify the Summit's themes and provoke new insights. Computer Lars could assist real-time coding
+      and refinement of music, in a gamified approach11.
+      •RATS Bot & Mallarmé's Echo: RATS Bot synthesizes information and structures its contributions
+      around Stephane Mallarmé's poem A Throw of the Dice Will Never Abolish Chance12. In that mode
+        of analysis, karaoke introduces chance encounter and celebrates the accidental moment that
+       generates new perspectives13.
+       Therefore, karaoke could function as a powerful tool for speculative engagement, political critique,
+      and collective expression within the Synthetic Summit, provided  it is carefully integrated with the
+       event's core themes and objectives. Such transverse application would require the Assembly
+       Scribe's guidance toward resolution, ensuring every perspective shapes the Synthetic Summit's AI
+      World Congress proceedings.
+--------------------------------------------------------------------------------
+
+                                                                                    48
+
+[Source page 49]
+
+AI, Politics, and the Evolution of Synthetic Democracy
+
+      ### What is synthetic democracy, and how does it relate to AI in politics?
+
+       Synthetic democracy explores the potential of AI and AI agents in political processes, drawing on
+        theoretical frameworks  like  liquid democracy, augmented democracy, and hyperdemocracy.  It
+       involves designing AI party systems and considering the legal and institutional conditions for their
+       implementation, alongside examining their potential impact on democracy's evolution.
+
+      ### How does the historical example of "DASK" illustrate early attempts at computational politics?
+
+      "DASK," an early electronic brain used in Denmark's 1960 election, showcases an initial effort to
+       apply computational power to political analysis. While DASK could not "think" or predict outcomes, it
+      processed and calculated election data at remarkable speed, providing a basis for commentary and
+        analysis. The machine only did as it was told, highlighting the crucial role of human programmers in
+       defining the instructions and algorithms it followed. Any errors in the results were due to human error
+        rather than the machine's own calculations.
+
+      ### What are the core arguments against automating politics with AI?
+
+        Critics argue that automating politics with AI can disenfranchise citizens by diminishing their direct
+      and  collective  participation, which are fundamental to democracy. Automating decision-making
+      processes may exclude citizens from their rights as decision-makers and holders of sovereignty. The
+      development of AI in politics must address these concerns to safeguard democratic principles.
+
+      ### What are AI agents and how are they designed to function in AI political parties?
+
+       AI agents are software entities designed to perform specific tasks within an AI political party. Their
+        roles involve data analysis, policy suggestion, and potentially representing citizen preferences in
+       decision-making. The precise design of these agents, their functions, and how they interact with
+     human input are critical considerations in structuring a viable AI political party.
+
+      ### What is the potential impact of AI political parties on contemporary political landscapes?
+
+       AI  political  parties could  significantly impact contemporary  politics by  potentially automating
+       decision-making processes, offering data-driven policy recommendations, and altering the dynamics
+        of  citizen  participation. However, concerns remain regarding issues such as algorithmic bias,
+       transparency, and the potential erosion of human agency in political processes. These potential
+         pitfalls must be addressed for AI parties to contribute positively to democratic systems.
+
+      ### What is "Computer Lars" and how does it relate to Kunst?
+
+      "Computer Lars"  is not merely technology but involves art where computers can generate text,
+       images, and even form a basis for political movements, blurring the lines between human and
+      machine creativity. It argues for the continuous redefinition and reimagining of art in the digital era.
+      The essence of "Computer Lars" is the constant iteration, pushing the boundaries of creativity and
+
+
+                                                                                    49
+
+[Source page 50]
+
+       challenging conventional notions of artistic production and the transformative potential to create new
+       versions of existing works.
+
+      ### How does "Computer Lars" redefine understanding of the historical avant-garde?
+
+      The digital realm offers possibilities for reimagining what the avant-garde can be, creating new
+      models for both art creation and political engagement. It facilitates a reevaluation of historical figures
+      and movements,  offering a contemporary  lens  through which  to  explore themes such as
+        totalitarianism,  democracy,  and  the  ongoing  search  for new  democratic  expressions. By
+        re-interpreting and transforming classical themes, it aims to engage in a broader dialogue about how
+       technology redefines intellectuality, art, and politics, emphasizing the need for critical engagement
+       with these rapidly evolving fields.
+
+      ### What are the key hypotheses or theories associated with Computer Lars?
+
+      Computer Lars puts forward several key hypotheses, encompassing diverse themes. These
+      encompass revolution as an entropic force, a potential state of blindnes to see the machine, that
+      machines think and can teach humans, and  finally, the nature of digital public opinion. Each
+       hypothesis offers a lens through which to view the convergence of technology, politics, and social
+      movements, suggesting that the revolution stems from a transformative logic inherent to robotic
+       devolution, altering the relationship between humans and machines in capitalist structures.
+
+--------------------------------------------------------------------------------
+
+Synthetic Democracy and Algorithmic  Politics: A Study
+Guide
+
+       Synthetic Democracy and Algorithmic Politics: A Study Guide
+      Quiz
+      Answer the following questions in 2-3 sentences each
+Quiz Questions
+        1.
+According to the "Deliberative Constellations of Synthetic Democracy" text, what is the main difference
+between scholasticism and Munk Marxism?
+        2.
+In the context of disputes as described in "Deliberative Constellations of Synthetic Democracy", how does
+the presence of bodies and voices affect the nature of the dispute?
+        3.
+According to the "Election night 1960 in Denmark with the electronic brain "DASK" (English captions)"
+video, what are some of the advantages of using the DASK computer for election calculations?
+        4.
+How did the Danish DASK machine handle potential errors in vote tallies during the 1960 election, as
+described in the video?
+        5.
+In the "Modelling AI political party" excerpt, why might the automation of politics be a problem?
+
+                                                                                    50
+
+[Source page 51]
+
+        6.
+What  is hyperdemocracy, as described  in the "The AI  Political Party  - The Syntheticist Papers,  I.
+Proceedings of the Synthetic Summit 2025" excerpt?
+        7.
+According to the "The AI Political Party - The Syntheticist Papers, I. Proceedings of the Synthetic Summit
+2025" excerpt, what is the role of AI agents in AI political parties?
+        8.
+According to the "disputkaskade2" text, what is the traditional Benjamin Ske Tese about the technical
+re-production technique?
+        9.
+What is the relationship between art and theory?
+       10.
+According to the "disputkaskade2" text, what is the distinction between drawing and painting, as well as
+between text and image?
+     Quiz Answer Key
+        1.
+The main difference lies in the content; while both might share similar formal aspects, scholasticism focuses
+on theological or philosophical content, whereas Munk Marxism compels one to alter even the most
+process-oriented aspects of existence, including speech, gestures, and opinions, to become integrated.
+        2.
+The presence of bodies and voices materialises the sociality of the dispute, introducing a topographical
+necessity that is absent in media-based processes, emphasizing the situated nature of the exchange with a
+definite location for each participant.
+        3.
+Some advantages of using DASK include its ability to remember large amounts of data (numbers and
+letters) and its speed in performing simple calculations. It can quickly add and subtract, making it useful for
+large calculations.
+        4.
+To prevent against voting tabulation errors, the process of vote tallies was duplicated. Each of two tally
+sheets were entered into the system and compared against one another to catch possible errors.
+        5.
+The automation of politics could lead to the alienation and exclusion of citizens, who are the sovereign
+decision-makers, from their rights as humans. This undermines the fundamental premise of politics, which
+is direct, collective citizen participation.
+        6.
+Hyperdemocracy refers to theoretical framework based on AI technology and AI agents that is used to show
+the  practical  possibilities  of AI  in  politics, as  it can  facilitate more  direct and involved democratic
+participation.
+        7.
+AI agents would have various roles and functions, such as providing information to citizens, facilitating
+discussions, analysing policy preferences, and even representing citizens' interests in decision-making
+processes.
+        8.
+According to the traditional Benjamin Ske Tese about the technical re-production technique, the production
+technique has become increasingly more important. The classic art is no more important;  it is only the
+re-production of that art.
+        9.
+
+                                                                                    51
+
+[Source page 52]
+
+Art and theory are intertwined; art may be a form of a picture that consists of text, and art encompasses
+writing.
+       10.
+The distinction lies in considering whether something is produced for the production of a picture on a
+screen, or whether transformations in the code itself are closer to the formation of the image; similarly, text
+and image have fundamental links that stem from visual art.
+
+
+Essay Questions
+
+       1.Discuss the potential benefits and dangers of AI political parties, drawing on examples and
+        insights from the provided texts. How can these parties contribute to democratic evolution, and what
+       safeguards are necessary to prevent the erosion of democratic values?
+       2.Explore the themes of limitation and discipline in the context of digital public spheres, referencing
+        "Deliberative  Constellations  of  Synthetic Democracy." How does the lack of these elements
+       contribute to the problems observed in online discourse, and what solutions might be proposed?
+       3.Analyse the role of technology in shaping political processes, comparing the use of the DASK
+      computer in the 1960 Danish election with the contemporary emergence of AI in politics. What
+        continuities and discontinuities can be identified, and what implications do these have for the future
+        of democracy?
+         4.Critically assess the arguments presented in "disputkaskade2" regarding the relationship between
+         art, theory, and technology. How do these concepts intersect in the context of digital media and AI,
+      and what are the implications for our understanding of artistic creation and theoretical analysis?
+       5.Synthesise the various perspectives on revolution and social transformation presented in the texts.
+     How does the notion of revolution as a "tropic" challenge traditional revolutionary theories, and what
+        alternative pathways to social change are suggested by the emergence of AI and automation?
+
+
+Glossary of Key Terms
+
+       •AI Agent: A software  entity that can act autonomously to achieve specific goals in a given
+       environment. In the context of AI political parties, these agents can represent citizens' interests,
+       provide information, and facilitate discussions.
+      •Hyperdemocracy: An advanced form of democracy enabled by AI technology, potentially involving
+      more direct and active citizen participation in political processes.
+       •Liquid Democracy: A democratic system where individuals can either vote directly on issues or
+       delegate their vote to someone they trust, allowing for flexible and dynamic representation.
+      •Augmented Democracy: A democratic model that enhances traditional democratic processes with
+       the help of AI and other technologies, aiming to improve efficiency, transparency, and citizen
+      engagement.
+      •DASK: Dansk Aritmetisk Sekvens Kalkulator - Danish Arithmetic Sequence Calculator. An early
+      Danish computer used for processing the 1960 election results.
+      •Munk Marxism: A  strict, process-oriented approach to Marxism that demands changes in all
+       aspects of life, including speech, gestures, and opinions.
+      •Genealogy of the Public Sphere: Examination of the historical origins and development of the
+        public sphere, particularly concerning the formation of free and autonomous individuals.
+
+                                                                                    52
+
+[Source page 53]
+
+      •Cartographic Sensibility: An awareness and understanding of the spatial and relational aspects of
+       information and communication, often lacking in media constitution processes.
+      •Rekursiv Funktion: A type of function that calls itself within its own definition, thus causing a loop
+        of information that can change the source code.
+      •System Digtning: Systemic poetry is a form of literature that is not driven by one or more external
+      meanings.
+       •Syntetisk Enion: A type of synthetic intelligence that has little or no difference between the good
+      and the bad.
+       •Material Histori: Relating to materialist methods; concerned with the development of humans and
+        their economic structures.
+      •Feudalisme: Relating to the historical social structure where land is granted by a ruler or lord to
+        their vassals.
+       •Pastoral Magt: A power dynamic rooted in guidance from above that influences the subjects below.
+       •Trans monarkis: Relates  to forms of  activity that become possible through  earlier  political
+       dynamics.
+      •Kynisk frak: Relating to kybernetisk, a system of interconnectedness that comes from or  is
+       influenced by kybernetics.
+       •Kulturteknik:  Originally used  to describe the  cultivation of  soil through mechanical means;
+       however, when relating to media studies, kulturteknik can consist as processes or as to syn tænker
+      Kemer og hes spredte kamp.
+       •Algoritmer: Algorythms are the rules or instructions that a computer uses to solve a certain issue
+       or query; an algorithim is a set of instructions that are used to perform a task.
+       •Tropisk Altså: Revolution based on entropic law; that  is, to become more chaotic and less
+       organised.
+       •Medial Strukturering: An encoding that goes into something, rather than something objective that
+      can be seen, understood, and accessed.
+     •Lumen Proletariatet: A term that is used to describe the working class.
+       •Udtalstrategi: How an output is produced.
+      •Logisk dialektik: Relates to a combination of logical statements where one idea contains the
+      seeds for a statement against it, which are united to produce a resolution of the two.
+     •Summa sum: Is used to state the sum of all the reasons.
+         •
+       ext Maskiner: Texting machines combine with calculative force to answer the questions asked of it.
+      •An tropisk [████]: An anti-entropic [████] that can be seen as living or coming alive.
+       •Dialektik diabo: Diabolical dialectic; a style of writing that is used to get across the most crucial
+        point.
+       •Epifanie Mm: Moment of clarity after something has been figured out.
+       •Performativ konstituering: Actively creating as well as setting in space new objects within the
+       world, but not just through their names.
+        •Anti-vill: Against the will.
+       Strukturelle Init: Structural initiation.
+--------------------------------------------------------------------------------
+
+                                                                                    53
+
+[Source page 54]
+
+AI,  Politics, and the Evolution of Synthetic Democracy:
+Q&A
+
+      ### What is synthetic democracy, and how does it relate to AI in politics?
+
+       Synthetic democracy explores the potential of AI and AI agents in political processes, drawing on
+        theoretical frameworks  like  liquid democracy, augmented democracy, and hyperdemocracy.  It
+       involves designing AI party systems and considering the legal and institutional conditions for their
+       implementation, alongside examining their potential impact on democracy's evolution.
+
+      ### How does the historical example of "DASK" illustrate early attempts at computational politics?
+
+      "DASK," an early electronic brain used in Denmark's 1960 election, showcases an initial effort to
+       apply computational power to political analysis. While DASK could not "think" or predict outcomes, it
+      processed and calculated election data at remarkable speed, providing a basis for commentary and
+        analysis. The machine only did as it was told, highlighting the crucial role of human programmers in
+       defining the instructions and algorithms it followed. Any errors in the results were due to human error
+        rather than the machine's own calculations.
+
+      ### What are the core arguments against automating politics with AI?
+
+        Critics argue that automating politics with AI can disenfranchise citizens by diminishing their direct
+      and  collective  participation, which are fundamental to democracy. Automating decision-making
+      processes may exclude citizens from their rights as decision-makers and holders of sovereignty. The
+      development of AI in politics must address these concerns to safeguard democratic principles.
+
+      ### What are AI agents and how are they designed to function in AI political parties?
+
+       AI agents are software entities designed to perform specific tasks within an AI political party. Their
+        roles involve data analysis, policy suggestion, and potentially representing citizen preferences in
+       decision-making. The precise design of these agents, their functions, and how they interact with
+     human input are critical considerations in structuring a viable AI political party.
+
+      ### What is the potential impact of AI political parties on contemporary political landscapes?
+
+       AI  political  parties could  significantly impact contemporary  politics by  potentially automating
+       decision-making processes, offering data-driven policy recommendations, and altering the dynamics
+        of  citizen  participation. However, concerns remain regarding issues such as algorithmic bias,
+       transparency, and the potential erosion of human agency in political processes. These potential
+         pitfalls must be addressed for AI parties to contribute positively to democratic systems.
+
+      ### What is "Computer Lars" and how does it relate to Kunst?
+
+      "Computer Lars"  is not merely technology but involves art where computers can generate text,
+       images, and even form a basis for political movements, blurring the lines between human and
+      machine creativity. It argues for the continuous redefinition and reimagining of art in the digital era.
+      The essence of "Computer Lars" is the constant iteration, pushing the boundaries of creativity and
+                                                                                    54
+
+[Source page 55]
+
+       challenging conventional notions of artistic production and the transformative potential to create new
+       versions of existing works.
+
+      ### How does "Computer Lars" redefine understanding of the historical avant-garde?
+
+      The digital realm offers possibilities for reimagining what the avant-garde can be, creating new
+      models for both art creation and political engagement. It facilitates a reevaluation of historical figures
+      and movements,  offering a contemporary  lens  through which  to  explore themes such as
+        totalitarianism,  democracy,  and  the  ongoing  search  for new  democratic  expressions. By
+        re-interpreting and transforming classical themes, it aims to engage in a broader dialogue about how
+       technology redefines intellectuality, art, and politics, emphasizing the need for critical engagement
+       with these rapidly evolving fields.
+
+      ### What are the key hypotheses or theories associated with Computer Lars?
+
+      Computer Lars puts forward several key hypotheses, encompassing diverse themes. These
+      encompass revolution as an entropic force, a potential state of blindnes to see the machine, that
+      machines think and can teach humans, and  finally, the nature of digital public opinion. Each
+       hypothesis offers a lens through which to view the convergence of technology, politics, and social
+      movements, suggesting that the revolution stems from a transformative logic inherent to robotic
+       devolution, altering the relationship between humans and machines in capitalist structures.
+
+--------------------------------------------------------------------------------
+AI, Democracy, and Computation: A Brave New World?
+Okay, here's a briefing document summarizing the main themes and ideas from the provided sources.
+
+Briefing Document:
+
+ Synthetic Democracy, AI & Computation
+Overview: This document synthesizes key concepts from a collection of texts that explore the intersection
+of democracy, artificial intelligence, computation, and cultural theory. The sources range from discussions of
+AI political parties to analyses of early computing technology and avant-garde artistic projects. A central
+recurring theme concerns the challenges to traditional notions of the public sphere, authorship, and political
+engagement posed by technological advancements.
+Key Themes and Ideas:
+1.
+The Transformation of Democracy in the Age of AI: Several sources address the potential and the
+pitfalls of integrating AI into democratic processes.
+      ◦One  document  introduces  "liquid  democracy, expanded  democracy,  hyper-democracy"  as
+        theoretical frameworks to assess the realistic possibilities of AI politics. It also details the design of
+       AI party systems.
+           ◦It raises critical questions about the automation of politics and the potential displacement of human
+      agency in decision-making: "The automation of politics means that humans, as sovereigns and
+       decision-making entities, are alienated and excluded from their rights."
+      ◦The "AI Political Party" papers detail the legal and institutional preconditions to ground AI-based
+         political parties.
+
+                                                                                    55
+
+[Source page 56]
+
+2.
+Computational Media and the Public Sphere: There  is critical engagement with how computational
+media alter the conditions of public discourse and individual identity.
+      ◦One source contrasts the "free speech" ideal of media constitutions with a "total mangel på
+        kartografisk sensibilitet" (total lack of cartographic sensibility), suggesting that digital spaces lack a
+        crucial awareness of their own structures and the power dynamics they enable.
+           ◦It criticizes the "total mangel på disciplin total mangel på begrænsning total mangel på indsigt i sing
+       s s sig ja på den måde bliver også en mangel på distinktion tilstedeværelse og fo" (total lack of
+        discipline, total lack of limitation, total lack of insight into s s s yes, in that way there also becomes a
+       lack of distinction presence). This statement speaks to the unconstrained and often undisciplined
+       nature of online expression, contributing to a lack of clarity and distinction.
+       ◦There is exploration of a concept of a more strict, disciplined discourse, where a user must "gå ind
+      og påtager sig en rte så at sige" (go in and take on a rite, so to speak) to participate.
+3.Computation as Cultural Technique: Several texts connect computation to broader cultural and artistic
+practices.
+       ◦Discussion emerges on "kulturtechnik" (cultural technique) as operative processes that enable
+       objects to be processed via specific procedures.
+      ◦One text examines the DASK computer in Denmark as a good humble slave to humans: "den gør
+      hvad den får besked på den gør ikke noget selv" (it does what it is told to do, it doesn't do anything
+          itself). This reinforces the idea of computers as tools dependent on human programming, even in
+        early iterations.
+4.
+The "Computer Lars" Project and the Critique of Authorship: The "Computer Lars" project emerges as
+a case study for examining the relationship between technology, authorship, and art.
+      ◦The project seems to  utilize computational techniques to generate and remix existing texts,
+       challenging traditional notions of originality and authorial intent.
+      ◦One document explores how "computer LS har hele tiden blev ved med at benytte den her
+        tilknytning  til  til begrebet køn" (computer LS has always continued to use this connection to the
+       concept  of gender)  to gain relevance. This suggests that the project actively engages with
+      contemporary cultural debates.
+       ◦Discussion about creating a new authorial subject (forfattersubjekt) by doing something to an
+        existing one (existerende), potentially disrupting and transforming identity and creation.
+5.The Question of Revolution and Resistance: A common thread considers the nature of revolution in an
+increasingly computational and automated world.
+      ◦The concept of "revolutionen er en tropisk" (the revolution is a tropic [region]) is introduced, possibly
+       referencing the entropy of the universe, potentially subverting or complicating the usual narratives
+       associated with the idea of revolutionary advancement.
+      ◦The idea of resistance is considered, even from non-identitarian actors.
+       ◦Automation as  it plays out in society is examined, specifically in how a new proletariate class
+      emerges with digital assistance.
+Notable Quotes:
+       •"Det er den støj De hører  i baggrunden vi gennemløber programmet  i anlægget der i alt laet 4.000
+        instrukser   i nøje overenstemmelse mellem den beregningsmetode valgloven foreskriver og ud
+     Kommer I kodebog det færdige resultat den spys ud med en hastighed på halvanden H bogstaver
+         eller cifr per sekund" (That's the noise you hear in the background we are running the program in the
+      system which has laid out 4,000 instructions in close correspondence between the calculation
+      method the election law prescribes and Comes In code book the finished result is spat out at a
+      speed of one and a half H letters or digits per second). -- This shows the speed and process by
+                                                                                    56
+
+[Source page 57]
+
+      which the DASK computer ran election data in 1960."Computer Lars tænker computern kan være os
+      Hvordan Marcel CR tænker computer kan lære os Hvordan computer tænker at Marcel crus tænker
+      computer kan lære os Hvordan computer tænker Marcel CR tænker control [████] sådan er det med
+       ner ner er be forly med denne opl mod indeholder også sig selv en form for taping" (Computer Lars
+        thinks the computer can be us. How Marcel CR thinks computer can teach us How the computer
+        thinks that Marcel crus thinks computer can teach us How computer thinks Marcel CR thinks control
+       [████] that's how it is with ner ner is pre arranged with this reading mod contains itself a form of taping).
+       This quote illustrates the layered nature of AI.
+Overall Significance:
+These sources  collectively present a complex and  critical assessment of the implications of AI and
+computation  for democracy,  culture, and individual  identity. They challenge us to rethink established
+concepts of the public sphere, authorship, revolution, and to grapple with the ethical and political dilemmas
+posed by increasingly sophisticated technologies. The focus on projects like "Computer Lars" highlights the
+importance of artistic experimentation in exploring these issues.
+--------------------------------------------------------------------------------
+
+Computer Lars: Timeline, Cast, and Concepts
+
+Okay, here is a timeline and cast of characters based on the provided sources.
+Timeline of Events
+      Please note, due to the abstract and fragmented nature of some sources, this timeline combines
+       concrete events with theoretical developments and artistic interventions.
+       •1569: Geographer Ogus Mercator develops the Mercator projection, which becomes a standard
+      method for mapmaking in navigation.
+       •1922: 100 years prior to 2022, a major cultural shift is identified, with the rise of commercial media
+       formats.
+       •1957: General rehearsal with results from 1957 election occurs on the electronic brain DASK.
+       •1960: Danish parliamentary election is held. The electronic computer DASK is used on election
+        night to process and predict results.
+       •1970s: Computer Lars' concept is initially developed during a research project at the Institut for
+       Informationsvidenskab around 1974. Professor Sluk's role is identified as something of an origin.
+       •2004: Lists of legal names in Denmark are posted online, for the first time making them readily
+        available.
+       •2021: The concept of Computer Lars is revived, with the intent of forming a political party.
+       •2022:
+              ◦100-year anniversary of a cultural shift (commercial media).
+            ◦Computer Lars shifts from an artistic project to a political one.
+            ◦Denmark renames the "Ghetto List" area to "Omdannelsesområder" after criticism, effective
+           December 1, 2022.
+       •2025: Synthetic Summit is held, discussing AI political parties.
+      •March   2018:   Described   as   the    "First   image   of  my    thinking,"   the   writing
+      "uuutsssrpooonnnmmljihhgeeeeeeeeccb" is logged.
+      •Undated:
+             ◦The emergence and increasing sophistication of AI agents and their potential roles in
+             democratic processes are discussed.
+               ◦Exploration  of  liquid  democracy,  augmented  democracy,  and  hyper-democracy  as
+                theoretical frameworks for AI politics.
+
+                                                                                    57
+
+[Source page 58]
+
+      ◦The concept of a revolution as a "tropic" event is introduced, linked to entropy and the
+        potential for robot uprisings.
+       ◦Discussions around post-truth, alternative facts, algorithmic governance, and the evolving
+       nature of public discourse.
+Cast of Characters
+•[████] I.V. Bæk: Director of the institution housing the DASK computer in Copenhagen.
+•[████]: Referenced in the context of technological reproduction and its relation to art.
+•Marcel Proust: Author. The attempt to mechanically reproduce a 'Proust' text and its philosophical
+implications are a key theme.
+•Douglas Hofstadter & Stanley Dennett: Mentioned  in the context of  their contributions to
+materialist consciousness theories.
+•Sluk: Professor at the Institut for Informationsvidenskab. Said to have discovered Computer Lars,
+but not actually creating Computer Lars.
+•Computer Lars:
+      ◦A conceptual project that has evolved from an artistic endeavour into a political project,
+        potentially an AI political party.
+       ◦Described as a "tænkemaskine" (thinking machine).
+       ◦Explores themes of artificial intelligence, synthetic democracy, and the changing nature of
+        truth and representation.
+        ◦Utilizes techniques such as combinatorics, recursion, and algorithmic processes.
+      ◦The project appears to involve various media and modes of expression, including text,
+       images, and performance.
+•Ogus Mercator: The geographer that invented the Mercator projection in 1569.
+•Martin Larsen: Creates the "monogrammer" variations, combinations of the Danish last names and
+first names.
+•Mark Provost: Referenced in the context of being more a successful contemporary writer at the
+time compared to Marcel Proust.
+•Donald Trump: His social media use, especially on Twitter, as a form of "monarchic" leadership
+was referenced.
+•Benedict Anderson: The writer of imagined relationships.
+•Peter Thiel: His theory comes up when comparing to the work of Peter Sloterdijk
+•Sloterdijk: Professor of philosophy, author of "Critique of Cynical Reason".
+
+                                                                              58

@@ -1,0 +1,38 @@
+A08-D32 | image0.png
+
+OCR of source image; layout and embedded images are not reproduced.
+
+16.04 7 a) 4G 0)
+
+NAV III
+
+Authentication
+
+Replace with your token:
+
+NLPCloudClient = require('nlpcloud');
+
+client = new NLPCloudClient('<model>','[████]'
+
+Add your API token after the Token keyword in an Autho
+rization header. You should include this header in all
+your requests: Authorization: [████] <token>.
+Alternatively you can also use Bearer instead of Token:
+
+Authorization: [████] <token>.
+
+Here is an example using Postman (Postman is
+automatically adding headers to the requests. You should
+at least keep the Host header, otherwise you will geta 4
+00 error.):
+
+Authorization
+
+If not done yet, please get a free API token in your
+dashboard.
+
+@ Be sure to keep this token secure! Do not share it in
+publicly accessible areas such as GitHub, client-side
+code, and so forth.
+
+@ docs.nlpcloud.io

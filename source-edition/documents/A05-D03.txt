@@ -1,0 +1,112 @@
+A05-D03 | Blank birth-registration form circulated with the party-name discussion
+
+PDF text extraction; layout and embedded images are not reproduced.
+
+[Source page 1]
+
+  Fødselsanmeldelse
+
+    Send blanketten til det sogn, hvor moren bor.
+    Har moren ingen folkeregisteradresse, skal du sende blanketten til
+                                                                                                   Personregistrering      kirkekontoret i  det sogn, hvor barnet  er født.
+   Du kan se, hvilke bilag du skal vedlægge på www.personregistrering.dk
+
+   Oplysninger om moren
+     Fornavn(e)                                                                                CPR-nummer
+
+
+     Mellemnavn(e)
+
+
+     Efternavn
+
+
+     Vej og nummer                                                      Postnummer      By
+
+
+      Civilstand                                                                    Statsborgerskab
+
+
+      Fødselsregistreringssted
+
+
+     Har moderen inden for de sidste 10 måneder før
+     barnets fødsel været gift med en anden mand uden
+      at være separeret                                     Ja                 Nej
+
+   Oplysninger om faren
+     Fornavn(e)                                                                                CPR-nummer
+
+
+     Mellemnavn(e)
+
+
+     Efternavn
+
+
+     Vej og nummer                                                      Postnummer      By
+
+
+      Civilstand                                                                    Statsborgerskab
+
+
+      Fødselsregistreringssted                                                                     Omsorgs- og ansvarserklæring vedlagt
+
+                                                                                                       Ja                 Nej
+
+    Kontaktoplysninger
+      Telefon i dagtimerne                     Telefon i aftentimerne                  E-post
+
+
+   Oplysninger om barnet
+     Barnets køn              CPR-nummer eller fødselsdato  Hvor er fødslen foregået
+1        Dreng           Pige
+     Barnets køn              CPR-nummer eller fødselsdato  Hvor er fødslen foregået
+2        Dreng           Pige
+     Barnets køn              CPR-nummer eller fødselsdato  Hvor er fødslen foregået
+3        Dreng           Pige
+     Barnets køn              CPR-nummer eller fødselsdato  Hvor er fødslen foregået
+4        Dreng           Pige
+
+   Morens underskrift
+
+     Dato/md/år         Underskrift
+
+
+                                      SIGN
+
+   Udfyldes af ministerialbogføreren (felter til intern sagsbehandling)
+     Dato for modtagelsen                                   O/A erklæring korrekt udfylde
+
+                                                                  Ja                 Nej
+     Bemærkninger                                                    Ministerialbogførerens underskrift
+
+                                                                  Dato/md/år         Underskrift
+06.07.2007
+Blanket
+
+[Source page 2]
+
+Fødselsanmeldelse
+Vejledning
+
+                                                                                               Personregistrering
+
+
+Fødselsanmeldelse                                     Persondata
+Barnets forældre skal anmelde barnets fødsel via blanketten         Som led i sagsbehandlingen indsamler, behandler og videregiver
+”Fødselsanmeldelse” under følgende omstændigheder:                sognet/kommunen personoplysninger. Hvis sognet/kommunen under
+- Moren bor uden for Sønderjylland, og ingen jordemoder har           sagens behandling forelægger eller videresender sagen til Familie-
+medvirket ved fødslen.                                                      retshuset, vil Familieretshuset også kunne foretage behandling m.v.
+- Moren bor i Sønderjylland, og fødslen er ikke sket på et hospital.        af personoplysninger.
+Dette gælder, uanset om du er medlem af folkekirken eller ej.             Efter databeskyttelsesloven (lov nr. 502 af 23. maj 2018) har
+Du kan anmelde fødslen af op til fire børn. Ønsker du at anmelde         registrerede personer følgende rettigheder:
+flere fødsler end fire, skal du kontakte fødselsregistreringsstedet.                                                                                     • Ret til at bede om indsigt i de oplysninger, der behandles
+                                                                                     • Ret til at gøre indsigelse mod, at oplysningerne behandlesAnmeldelse af fødsel og fælles forældremyndighed                                                                                     • Ret til at kræve berigtigelse, sletning eller blokering af oplysninger,I mange tilfælde kan I som forældre, hvis I ikke er gift, få faderskabet                                                      som er urigtige, vildledende eller på anden måde er behandlet iregistreret og samtidig få fælles forældremyndighed ved at sende                                                                                     strid med lovgivningen.fødselsanmeldelsen sammen med en ”Omsorgs- og ansvars-
+erklæring”.                                                     Ønsker I nærmere oplysninger om lovgrundlaget for personoplysnin-
+                                                                      ger og databeskyttelse, kan vi henvise til Datatilsynets hjemmeside
+Du skal sende blanketten til                                       www.datatilsynet.dk
+Send blanketten til det sogn, hvor moren bor. Hvis moren bor i
+Sønderjylland, send da blanketten til bopælskommunen. Har moren
+ingen folkeregisteradresse, skal du sende blanketten til det sogn, hvor
+barnet er født. Du kan finde adressen på www.sogn.dk.

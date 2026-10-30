@@ -1,0 +1,54 @@
+A09-D21 | [████].pdf
+
+PDF text extraction; layout and embedded images are not reproduced.
+
+[Source page 1]
+
+FAKTURA
+
+
+Leverandør                        Kontakt                               Fakturanr:[the operator]                         [the operator][████]                                        [████]                                Tlf: [████]
+[████]                            E-mail:
+                          [████] (DK:CPR)
+
+Fakturamodtager
+Taastrup Bibliotek
+Taastrup Hovedgade  86    Personreference
+DK- 2630 Taastrup        [████]
+
+5798008904400 (GLN)
+
+Fakturanr:               Fakturadato:                                                 Ordre- og rekvisitionsnr.:      Kontostreng:[████]                 [████]
+
+
+Linje  Varenr.    Beskrivelse                   Antal   Enhedspris   Moms           Nettopris
+1                    Togbillet Aarhus-KBH           1.00    269.00         0 pct.         269.00 DKK
+
+2                    Togbillet KBH-Aarhus           1.00    259.00         0 pct.         259.00 DKK
+
+3                    Togbillet KBH-Taastrup          1.00    68.00          0 pct.          68.00 DKK
+
+4                    Togbillet Taastrup-KBH          1.00    68.00          0 pct.          68.00 DKK
+
+
+Total ekskl. moms                                                                       664.00 DKK
+Momsfri andel                                                                          664.00 DKK
+At betale                                                                               664.00 DKK
+
+Betalingsoplysninger
+Sidste betalingsdato: [████]
+Betaling foretages via NemKonto (DK:CPR [████])
+
+Yderligere reference:
+ID: 2
+Dokumenttype kode: PersonalSecure
+ID: [████]
+Dokumenttype kode: [████]
+
+OIOUBL dokumentparametre
+UBLVersionID: 2.1
+CustomizationID: OIOUBL-2.1
+Profil ID: urn:www.nesubl.eu:profiles:profile5:ver2.0
+ID: [████]
+
+Dokument valuta: DKK

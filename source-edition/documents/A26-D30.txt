@@ -1,0 +1,23 @@
+A26-D30 | Production invoice
+
+PDF text extraction; layout and embedded images are not reproduced.
+
+[Source page 1]
+
+Faktura [████], ifmb. “Synthetic Summit”
+V. Asker Bryld Staunæs / ComputerLars, Kunsthal Aarhus forår 2025.
+
+
+[████]
+
+Honorar: 25.000 kr.
+
+Bedes udbetalt til:
+
+[████]
+[████]
+[████]
+
+
+[████]
+Kont. nr: [████]

@@ -1,0 +1,23 @@
+A28-D25 | Exhibition invoice
+
+PDF text extraction; layout and embedded images are not reproduced.
+
+[Source page 1]
+
+Faktura [████], ​
+​
+Til: Asker Bryld Staunæs, [████]
+
+[████]
+
+Honorar: 6500 kr.
+
+Bedes udbetalt til:
+
+[████]
+[████]
+[████]
+
+
+[████]
+Kont. nr: [████]

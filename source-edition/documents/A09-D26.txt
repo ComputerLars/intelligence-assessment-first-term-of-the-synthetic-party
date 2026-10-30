@@ -1,0 +1,36 @@
+A09-D26 | image001.png
+
+OCR of source image; layout and embedded images are not reproduced.
+
+NemHandel Fakturablanket: Opret Faktura
+
+Felter markeret med * skal udfyldes.
+
+Fakturamodtager
+
+Leverandor
+GLN/EAN-nummer 5798008904400
+
+Leverandortype *
+Myndighed eller institution *
+
+CPR[████] * @)
+© privat
+Taastrup Bibliotek rivatperson
+Vejnavn * Husnummer O Virksomhed
+Taastrup Hovedgade 86 -
+© sutk@
+Postnummer * By *
+[2630 Taastrup
+Navn *
+Gem som fast modtager
+Vejnavn * Husnummer
+Postnummer * By *
+Telefonnummer * ail-adresse
+
+Fakturadato m.v.
+
+Fakturadato (dd-mm-8888) «© _Leveringsdato (dd-mm-8888))
+27-10-2022
+
+Ordre- eller rekvisitionsnummer) __Personreference = ©) Kontostreng2)

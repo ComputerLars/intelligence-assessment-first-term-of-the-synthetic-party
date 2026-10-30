@@ -1,0 +1,64 @@
+A21-D04 | Workshop outline
+
+PDF text extraction; layout and embedded images are not reproduced.
+
+[Source page 1]
+
+                 KREATIV WORKSHOP
+
+   FIND DIN STEMME MED KUNSTIG INTELLIGENS
+
+               Det Syntetiske Parti ved Computer Lars
+
+Workshopbeskrivelse
+Faciliteret af Computer Lars fra Det Syntetiske Parti  vil skoleelever eksperimentere med
+kunstig intelligens til at tematisere efterårets folketingsvalg. Eleverne vil skulle finde deres
+egen stemme gennem praksisøvelser med, hvordan kunstig intelligens udtrykker sig gennem
+data lavet af mennesker. Resultatet er, at hver elev selv laver ét billede og én tekst, som
+kan illustrere et for dem vedkommende politisk emne.
+
+Hver elev medbringer en computer (evt. dele i grupper af 2), og links til værktøjer sendes
+ud på forhånd. Workshops’ne er de første af sin art, men kan på sigt blive et alment
+tilbud. Derfor vil arrangøren, Asker Bryld Staunæs, gerne kunne evaluere med både lærer
+og elever for at bestemme, hvordan det for unge bliver interessant at skabe med kunstig
+intelligens, således at formatet kan blive målrettet netop dem, der om et par år får valgret.
+
+[Source page 2]
+
+Baggrund
+
+              Udklip fra “designserie for et nyt Christiansborg” ved Det Syntetiske Parti
+
+Vores viden om unges demokratiske og digitale dannelse er blevet udfordret i en tid, hvor
+algoritmer udøver kontrol over indholdet på de sociale medier, og man ikke kan vide, om
+internettets billeder og tekst er lavet af et menneske eller en maskine. Der opstår en lang
+række af nye didaktiske og pædagogiske udfordringer, nu hvor kunstig intelligens selv kan
+skrive en hel artikel, og lave nye fotorealistiske billeder gennem en simpel tekstbeskrivelse.
+
+Kunst kan tilbyde en unik metode til at få styr på den digitale offentligheds diskrete magt.
+Derfor udbyder kunstnergruppen Computer Lars sammen med tech-hub’en MindFuture to
+workshops over efteråret 2022 omkring Det Syntetiske Parti - en platform for demokrati og
+kunstig intelligens. Workshopsene vil bestå af et performativt foredrag ved Computer Lars,
+og følges op af hands-on øvelser for elever  i at bruge billede- og tekstgeneration som en
+metode til at undersøge digital kultur. Slutteligt vil eleverne “generere” deres egen politik
+- som et illustreret principprogram - over et emne i forbindelse med det forestående valg.
+
+Workshopsene indfører udskolings- og gymnasieelever  i nemme værktøjer  til, at skabe
+med kunstig intelligens. Man kan sige, at kunstig intelligens i dag har lært sine evner ved
+at læse hele det kulturelle arkiv, der indeholder alle de billeder og tekster, som almindelige
+mennesker har lagt på nettet. Ved at forstå, hvordan man kommunikerer med maskinen
+gennem tekstbeskrivelser - såkaldte prompts  -, kan eleverne få et indblik  i algoritmernes
+skjulte grundlag gennem en leg med dets “pærevælling” af det almenmenneskelige udtryk.
+
+[Source page 3]
+
+Links til yderligere baggrundsinformation
+Hjemmeside: www.detsyntetiskeparti.org
+
+Jyllands-Posten (udenom betalingsmur):
+https://jyllands-posten.dk/kultur/ECE14145385/danskere-vil-ind-paa-den-politiske-scene-med-kunstig-intelligens/
+[Sharing token and tracking query removed.]
+
+Kulturen P1 (fra 11:42):
+https://www.dr.dk/lyd/p1/kulturen-pa-p1/kulturen-2022-06-22
+[Tracking-query continuation removed.]

@@ -1,0 +1,48 @@
+A26-D28 | Travel reimbursement
+
+PDF text extraction; layout and embedded images are not reproduced.
+
+[Source page 1]
+
+    Travel expenses for participating in Asker Bryld
+             Staunæs’ Synthetic Summit
+
+
+Kunsthal Aarhus
+CVR: 29109338
+J.M. Mørks Gade 13
+8000 Aarhus C
+
+[████]
+
+ Date                Description                         Expense
+ [████]   [████]                  DKK 2.198,00
+ [████]                                           EUR 294.59
+
+ [████]   [████]             EUR 243.15
+ [████]
+
+                      Total                           EUR 537.74
+
+I certify that the expense(s) listed above are accurately recorded and represent only
+expenditures made for Travel purposes to Synthetic Summit.
+
+
+[████]
+[████]
+
+Signature: _________________________         Date Submitted: [████]
+
+[████]
+
+Pris i alt for værelser                   DKK 1.998,00
+Pris i alt for ekstra ydelser                DKK 200,00
+ I alt at betale ved ankomst:               DKK inkl. moms  2.198,00
+Vi ser frem til at byde Dem velkommen på vores hotel.
+
+[████]
+
+Price specification
+Total price   EUR 243.15
+Payment method:
+Mastercard  EUR 243.15

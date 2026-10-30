@@ -1,0 +1,10 @@
+A26-D15 | Receipt fields
+
+[Selected receipt fields, checked against the photographed page.]
+
+[████]
+
+[████]. DSB Indland: 898,00 kr. DSB Indland: 60,00 kr. Total: 958,00 kr. VAT: 0,00 kr.
+[████]; total amount DKK 1310.40.
+[████]
+[Payment, booking, terminal and transaction identifiers excised.]

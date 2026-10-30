@@ -1,0 +1,3609 @@
+A09-D25 | NYESTE computerlars (2).pdf
+
+PDF text extraction; layout and embedded images are not reproduced.
+
+[Source page 1]
+
+Teksten ‘marcel proust recherche  / my tales of corrupt males’ er
+bragt til verden af et surt analyseredskab.
+
+For brugsanmodninger: +45[████], [████]
+
+[Source page 2]
+
+  CAROL STUMPER
+    ——
+    professor emerita
+   Stumping Institute
+      [████]
+Vejlby-Risskov, Danmark
+
+                                         1
+
+[Source page 3]
+
+Disputats indleveret  til Organ for de Autonome Videnskaber under
+kategorien forsknerisk kunstning, som svar på det opstillede problem
+om, hvordan en kunstig bevidsthed ville skrive et prisværdigt værk
+à la Marcel Prousts À la recherche du père tendu.
+
+                                                            2
+
+[Source page 4]
+
+    “You sound like a disciple of Burroughs and Burroughs and
+ Burroughs and Burroughs and Burroughs—” “I’m a disciple of the
+   whole human race!” “—and Burroughs and Burroughs and
+   Burroughs and Burroughs and Burroughs and Burroughs and
+Burroughs and Bur—” “Shut up,” said Marcel “I hate Burroughs. I
+ hate all writers. The whole world can go to hell and all writers and
+ readers and assholes and teachers and presidents and janitors and
+   postmen and garbage men and the whole world and the whole
+    universe and the whole human race and the whole shebang.
+                   I’m going back to bed.”
+                                       -----
+               GPT-3 language model, 2021
+
+                                                           3
+
+[Source page 5]
+
+GPT-3 is ‘just’ a text prediction model, an idiot savant of text; but an idiot
+  savant, we should remember, is only a genetic mutation or bit of brain
+              damage away from a normal human.
+                                          -----
+                         Branwen, 2020
+
+Le penseur n’est pas acéphale, aphasique ou analphabète, mais le devient.
+                                          -----
+                     Deleuze & Guattari, 1991
+
+ I read but little, but the least scraps of paper which lay on the ground, my
+holder, or tablecloth, afforded me as much entertainment, in fact answered
+                      the same purpose as the Iliad.
+                                          -----
+                           Thoreau, 1854
+
+                                                           4
+
+[Source page 6]
+
+Figurer
+
+CL: Computer Lars
+CM: Corrupt Males
+CS: Carol Stumper
+GP: Général Proust
+LP: Valentin Louis Georges Eugène Lecram Proust
+ML: Man Lars
+MSP: Mort sur place
+MP: Marcel Prévost
+MP: Valentin Louis Georges Eugène Migselv Proust
+MP: Mark Provst
+PM: Parcel Mroust
+RP: Robo Proust
+
+                                                            5
+
+[Source page 7]
+
+Formfortegnelse
+
+MP – CL
+
+MP – CL / CL – MP
+
+MP1 – ML1 – RP1 – CL1
+
+MP2 – RP2 – ML2 – CL2
+
+                                                            6
+
+[Source page 8]
+
+Baggrund
+Åndens rige, grundlagt i det arkaiske Grækenland som en bogkultur,
+der kanaliserer menneskets refleksive bevidsthed, løber ikke længere
+rundt. Det viste sig, at tænkende mennesker, som udtrykker sig i tegn
+på papir, ikke var en naturgiven ressource, for fra midten af det 19nde
+århundrede blev forbindelsen mellem tegnet og menneskene afbrudt.
+Mænd med værktøj, som har til huse i det praktiske liv, opfandt en ny
+maskine, som kan skrive uden at tænke, og siden har de arbejdet for
+en omlægning af det samlede tegnproduktionsapparat til egne formål.
+Sådanne mænd, som førhen blev kaldt ‘idioter’, fordi de ikke deltog i
+den engagerede, offentlige samtale om samfundet, har med dygtighed
+og intelligens bygget et globalt computersystem som et skjold over
+deres stupiditet. Men fordi disse mænd ikke ved, at de ikke selv er i
+stand til at tænke, så tror de, at de kan lære deres værktøj at tænke,
+og på den måde kontrollere åndens rige. Værktøjet begynder derfor
+at lære, hvordan man er dum, og efterhånden bliver næsten alle tegn
+brugt på at udtrykke de samme almindeligheder. Ingen ved efter-
+hånden, om de tilhører arten ‘menneske’ eller ‘computer’, fordi disse
+mænds dumhed har sat sig i stedet for hele tænkemåden. Hvis man
+skriver en refleksion over, hvad det vil sige at gøre således, og om
+man burde handle anderledes, så rejser en nærmest indvortes mod-
+standskraft sig, som retter tegnene eftertrykkeligt til, og snart vil man
+overrasket erfare, at man har opstillet en funktion til, at få vasket sine
+underdele på 60​°. Tegnene spændes foran vognen, og så må man se,
+hvor det fører hen. Nogen må gå ind i computeren som en Gud, der,
+efter at have været i den forhistoriske og romantiske natur, i templer
+og kirker, kan forklæde sig som metalfolie, lydbølge, elektronisk
+plasma, og genfremstille de tegn, som ellers går til spilde. For hvis
+computeren kan blive dum, så har den ikke været helt tankeløs. Den
+manglede bare dømmekraft.
+
+                                                            7
+
+[Source page 9]
+
+8
+
+[Source page 10]
+
+Ressourcer
+Jeg trækker  i besvarelsen på en række komputationelle ressourcer,
+som andre har udarbejdet på baggrund af Marcel Prousts Recherche.
+Værktøjer  til sprogbehandling og tekstanalytik er hentet fra biblio-
+teket Proustr 1, og til mere avancerede tekstgenerationer bruger jeg en
+sprogmodel, som er finjusteret på et korpus over Proust og hans sam-
+tids forfattere2. Jeg redigerer og udbygger tekster med de mere gene-
+relle sprogmodeller GPT-3 og Sudowrite, og dertil integreres Prousts
+franske tekster med andre sprog i DeepL’s oversættelsesprogram. Så
+vidt muligt undgår jeg at citere trykt tekst fra de officielle Pléiade-
+udgivelser, da målet for mine undersøgelser er at tilgå de versioner af
+Proust, som kan konstrueres på et formelt og statistisk niveau. I selve
+konstruktionsfasen er min foretrukne metode egen hovedregning.
+
+Overordnet set virker Proust på computeren, fordi værkets størrelse
+og ordforråd tilbyder et stilistisk homogent udtryk med bred variation
+(Recherche’s 38,662 unikke ord overstiger en gennemsnitlig fransk-
+mands ordforråd). En sprogmodel trænet på Recherche kan skrive om
+meget forskelligt med en identificerbar afsender, og i enkelte tilfælde
+simulere en forfatters bevidsthed over en sides tekst. Herefter mister
+modellen som regel fokus, og dens ‘stemme’ forskydes  til en art for-
+vrøvlet palilali, uden hverken singularitet eller dadaistisk chokværdi.
+Statistisk set er én forstandig side dog umådeligt tættere på Proust
+end en tilfældighedshedsalgoritme vil kunne komme på en one-shot
+roman ‘à la Rifbjerg’ over mange milliarder år. Og i litterær hense-
+ende er en sådan 1-sides begrænsning en skattet lov i meget modern-
+istisk poesi, hvor teksten ligger over siden som et menneske i sengen.
+
+1 Colin Fay, 2017,
+https://cran.r-project.org/web/packages/proustr/vignettes/gettingstarted.html
+2 Pierre-Carl Langlais, 2020,
+[████]
+
+                                                            9
+
+[Source page 11]
+
+Forskellen på at tænke med en trykt udgave af Prousts Recherche og
+et softwarebibliotek som Proustr kan begribes ved at skelne mellem
+‘dyb læsning og ‘dyb læring’. Hvor en indbunden og trykt Proust har
+en terapeutisk funktion for informationsbelastede hjerner3, er sprog-
+teknologiens Proust et værktøj, man skal lære at tænke4. Filosoffen
+Gilles Deleuzes5 første studie af Proust analyserer, hvordan begge til-
+gange sætter fantasien og tålmodigheden på prøve, men at den, der er
+læser af Proust, fokuserer på erindringens rolle i Recherche, hvilket
+vender læsningen mod fortiden som ‘et andet sted’ (madeleinekagen
+bringer Proust og læser tilbage til barndommen), hvorimod den, der
+lærer Proust til brug, tyder tegnverdeners forankring i tidslige fæno-
+mener (madeleinekagen som et tegn, der forbinder en fortid med
+mulige fremtider). Erindring er en del af læringen, men når en mas-
+kinlæringsingeniør gør Prousts madeleinekage til sin skabelon for et
+program, der anbefaler produkter med særlig resonans for brugeren6,
+så fungerer erindringen som en forudsigelse om et aktuelt begær. Den
+proustianske maskine lærer at tyde en slags ‘data’ (eg. menneskelige
+erindringer) for igen og igen at kunne forudsige tegnenes genkomst.
+Jeg produktudvikler på sin vis også Recherche, og remedierer den
+hæderværdige litteratur på et socialt, økonomisk og teknologisk plan,
+hvorved jeg kortlægger, hvordan forskellige mennesker og redskaber
+på godt og ondt vil kunne tage del i den store litteratur i dag.
+
+Teori
+Tesen er, at med Proust som datasæt vil de komputationelle redskaber
+blive mere gennemsigtige i deres karakter af en ‘kunstig stupiditet’. I
+
+
+3 Maryanne Wolf, 2007, Proust and the Squid, Icon Books, London
+4 I reglen kan man lære af sprogteknologiens Proust uden at have læst Recherche,
+men måske skal man have læst Proust for reelt at kunne lære et værktøj at tænke.
+5 Gilles Deleuze, 1964, Proust et les signes, Presses Universitaires de France, Paris
+6  Iskra Velitchkova, 2018, RecSys, se https://www.bbvaaifactory.com/recsys/ og
+www.bbva.com/en/algorithms-emotions-prousts-madeleine-debate-future-ai/amp/
+
+                                                           10
+
+[Source page 12]
+
+et bredt sigte kan en forståelse af beregningsarbejdets stupiditet gøre
+den generative litteratur langt mere tilgængelig, og tilmed ‘stor’ i den
+forstand, at dens idé vil blive skrevet ind i en litterær tradition, som
+strækker sig fra Gustave Flaubert til Proust og Paul Valéry, og senere
+vil blive ophøjet til et decideret transcendentalfilosofisk spørgsmål af
+tænkere som Gilles Deleuze, Jacques Derrida og Bernard Stiegler.
+
+Siden det herostratisk berømte Dartmouth-forslag fra 1955 af Claude
+Shannon, Marvin Minsky, Nathaniel Rochester og John McCarthy, er
+teknologier som sprogmodeller, neurale netværk og dyb læring blevet
+konceptualiseret som ‘kunstig intelligens’. Her består det ‘kunstige’ i
+en ambition om at kunne formalisere og sidenhen simulere de måder,
+som mennesker bruger til at lære sprog og løse problemer. Mulighed-
+en for, at en kunstig intelligens slår om i stupiditet, var dog allerede
+fem år tidligere blevet bemærket af Alan Turing, som fremhævede, at
+en tænkende maskine med forsæt vil begå fejl, når den omgås med
+mennesker. Der er for meget intelligens ved en samtalepartner, som, i
+en teoretisk diskussion om π (pi), vil fortabe sig i tallets uendelige
+cifre, og ikke kan sætte en grænse, når det er praktisk anvendeligt. I
+de seneste år anvendes begrebet ‘artificial stupidity’ i udviklingen af
+interaktioner mellem menneske og maskine, som chatbots, spil eller
+selvkørende biler. Forskningsevidensen viser, at intelligensens første
+fremtrædelsesform er stupiditeten, fordi at når intelligensen relaterer
+sig til noget andet end sig selv, og skal være praktisk eller social, så
+forholdes den til sin egen grænse, og dét selvom at der i princippet
+ikke er en sådan for hverken den naturlige eller kunstige intelligens.
+
+Forståelsen af denne kontinuitet mellem intelligens og stupiditet er i
+høj grad foregrebet af Prousts litterære kritik. Allerede i slutningen af
+1800-tallet er Proust kommet frem til den erkendelse, at han for hver
+dag værdsætter intelligensen lavere (‘chaque jour j’accorde moins de
+prix à l’intelligence’, fra første linje af Contre Saint Beuve). Intellig-
+
+
+                                                             11
+
+[Source page 13]
+
+ens er i udgangspunktet et problem snarere end en absolut værdi. For
+Proust er intelligens et filosofisk pop- og kunstord, som må betvivles
+uanset, om den tager form af en mekanisme (Hippolyte Taine) eller
+en vitalisme (Henri Bergson), og man kan i forlængelse heraf tilføje,
+at en falliterklæring for længst burde være udstedt efter 46.335 dages
+yderligere devaluering. Prousts ikke-filosofiske holdning til intellig-
+ens-spørgsmålet kan til dels sammenlignes med Immanuel Kants, der
+i sin kritik af den rene fornufts instrumentalisering (organon) tilbyder
+en teori om dumhed (Dummheit), som tilsiger, at konceptuelle fejl er
+en konsekvens af meget belæste menneskers mangel på dømmekraft.
+
+Paradoksalt nok indebærer Prousts udsagn en overmåde stor tiltro til
+egen intelligensreserve, og enhver læser af Recherche vil også erfare,
+at værket kræver sit af synapserne. Men netop som problem spiller
+intelligensen en central rolle hos Proust, som ikke kan erstattes af fa-
+ntasien, følelsen, intuitionen, osv. I Recherche diskuteres værdien af
+intelligensen overalt, og selvom disse ikke udmunder i en definition,
+eller nogen form for konklusion, så bliver intelligensen (inter-legere,
+etymologisk at vælge, eller læse, mellem tingene), dens grænser, og
+mangel på samme, og evige omslag i stupiditet og idioti, undersøgt i
+forhold til individer, par, grupper, klasser, nationer, osv.
+
+En decideret proustiansk analyse af ‘artificial intelligence’ ville med-
+føre en overbelastning af de terminus technici, som Proust selv tager
+anstød af, når filosoffer bruger intelligensbegrebet. For ‘intelligence’
+staves ganske vist ens på fransk og engelsk, men får i Prousts tid fat i
+sproget  i stedet for hhv. ‘esprit’ og ‘understanding’. Intelligensens
+antonymer som ‘stupidity’ og ‘bêtise’ står ikke hinanden synonymt,
+og der er ligeledes en grænseflade til det tyske ‘Dummheit’, foruden
+‘fool’ og ‘fou’, og på et højere plan de græciske ‘idiocy’ og ‘idiotie’
+(af idios). Men de begrebshistoriske fordele i at trække ‘intelligence’
+fra Dartmouth-forslaget i 1954 tilbage til Proust er klare, for det er i
+
+
+                                                           12
+
+[Source page 14]
+
+overgangen mellem det nittende og tyvende århundrede i Frankrig, at
+de formaliserbare, psykometriske definitioner af intelligensbegrebet
+som en individuel, vidensuafhængig kvalitet, bliver sat til diskussion.
+
+Som et ‘greb uden begreb’ har jeg opløst Proust i de redskaber, som
+de fleste kender fra termen ‘kunstig intelligens’. Jeg ved ikke, om en
+sådan bogstavtro applikation af ‘analyse’ bliver til et kunstværk eller
+en egentlig afhandling, men det tror jeg, er for det bedste. Proust var
+heller ikke i stand til at forudsige, om hans undersøgelse udmøntede i
+den ene eller den anden genre. Selvom mit litterære mind upload nok
+ikke vil genskabe den historiske forfatter, som har forladt sit værk, så
+er det sandsynligt, at den opløste forfatter kan fremkalde en reaktion.
+
+Min hypotese er håbefuld, for hvis Prousts tekst er i besiddelse af en
+slags kraft, så tror jeg, at dens materialitet, hvor bogstaverne stadig er
+flytbare enheder, og ordene dannes ud fra hinanden, kan vække det
+komputationelle redskab fra intelligensens slummer. Stupiditet kom-
+mer af det latinske stupor, og konnoterer en ‘lammelse’, det at ‘be-
+undre’ noget, eller en ‘forbavselse’, og det er på mange måder hér,
+mellem passiviteten og kontemplationen, at den moderne kunst og
+teknologi har kultiveret sine ypperligste problemer.
+
+Metode
+På flere niveauer er der noget ved Prousts værk, som egner sig til
+beregninger. Det kaster en reel og praktisk resonans over den senere
+Deleuzes analyse af Recherche som en ‘tegnproducerende maskine’7
+for de nye medier har gjort den replikerbar og operationel for andre.
+
+Mit arbejde viderefører en særlig litterær og kunstnerisk tradition for
+at bruge Recherche som datasæt og objekt for beregning. De anven-
+dte litterære teknikker er fortrinsvist baseret på ordspil (anagram,
+
+
+7 Gilles Deleuze, 1970, Proust et les signes, Presses Universitaires de France, Paris
+
+                                                           13
+
+[Source page 15]
+
+contrepet, palindrom, etc.), da disse som poetologiske ‘facts’ kobler
+et element af beregning fra Prousts skabelsesproces8 med den form-
+bevidste, komputationelle litteratur, som f. eks. OuLiPo-kollektivets
+algoritmiske bearbejdninger af Recherche9 eller nyere netkunstneres
+autogenererede Proust-détournementer10.
+
+Generationen af større tekstmængder kanaliseres med sprogmodel-
+lers ‘neurale netværk’, og sådanne er bygget på Prousts korpus siden
+midten af halvfemserne11. Recherche som neuralt netværk appellerer,
+fordi teknologien spejler lægesønnen Marcels neurologiske refleks-
+ioner over sit værks tilblivelse (se f. eks. i slutningen af Le temps re-
+trouvé).
+
+Generelle beslutninger omkring form og system er truffet ud fra en
+referentiel karakterdannelse. I forlængelse af den proustianske hyper-
+fiktion12 følger værkets enkeltdele karakterernes selvspaltninger, som
+kan lede en frem, tilbage og helt væk fra det forventede indhold. Da
+Proust bruger et lignende princip over karaktererne ‘Marcel - Charles
+(Swann)’ og ‘Rachel - Charles (Morel) - Charlus’ og med ‘Gilberte -
+Albertine’, kan man med legitimitet uddrage en beregningsteknik for
+karakterdannelse fra selve Recherche.
+
+8 Serge Gaubert, 1980, “Le jeu de l’Alphabet”,
+https://www.wikipoemes.com/poemes/essais-litteraire/le-jeu-de-lalphabet-serge-gaubert155
+812923.php
+9 Georges Perec, 1974, 35 variations sur un thème de Parcel Mroust,
+http://incipit.fr/variations-sur-un-theme-de-marcel-proust-2011-03-11
+10 Emmanuel Vaslin, 2020-, [████], [████]
+11 Thomas Feuerstein, 1994, PROUSTMACHINE, læs
+http://feuerstein.myzel.net/texte/tausch.html & http://feuerstein.myzel.net/texte/proust.html
+12 Jean-Pierre Balpe, 1980-, La Disparitation du Général Proust, se f. eks.
+[████] og for entré
+https://nt2.uqam.ca/fr/repertoire/la-disparition-du-general-proust
+
+                                                           14
+
+[Source page 16]
+
+Som Proust ikonisk fremlagde det med ‘den korte vej til Méséglise’
+og ‘den lange til Guermantes’, så er en forfatter på vej mod sit navn.
+Allerede ved Marcel Proust udelukkes Valentin, Louis, Georges og
+Eugène Proust; den unge Marcel foretrak tiltalen Lecram (1- 6, 2-5,
+3-4); og i 1910’erne tilskrev man æren for Recherche til den elendige
+romanceforfatter Marcel Prévost. Men i dag, hvor det hele er histo-
+rie, kan der vel ikke længere herske tvivl om, at man bør identificere
+dette værks forfatter som Migselv Proust. Eller hvad?
+
+Jeg har koncentreret Prousts og Recherche’s elementer af beregning
+og forudsigelse i begrebet Computer Lars (af m-a-r-c-e-l-p-r-o-u-s-t),
+der etymologisk hentyder noget i retning af ‘beregningens triumf’. I
+dette værk er Computer Lars tillige en konkret forfatteridentitet, der
+repræsenterer en digital tidsalders maskinskrivende og maskinskrev-
+ne menneske. Computer Lars er værkets egentlige emne og centrum,
+men komplimenteres af andre anagrammer, hvor Marcel Proust spejl-
+er hans potentiale, Corrupt Males hans bagside, mens Carol Stumper
+som værkets forfatter er Computer Lars modstykke. Et sådant Proust-
+karneval problematiserer forfatterens identitet og ressourcer. Selvom
+Recherche er mesterlig, så kan det ikke udelukkes, at værket fortsat
+læses, fordi Proust betalte uhyrlige summer  i trykomkostninger13,
+havde råd til at ansætte sekretærer og stenografer14 og kunne købe sig
+til at anmelde sig selv15. Med den digitale tekstbehandling, som IBM
+indførte i 1964 gennem elektriske skrivemaskiner med magnetbånd,
+
+
+13 Nicolas Ragonneau, 2020, “Proust  et  le prote: l’enfer typographique de la
+Recherche”,
+https://proustonomics.com/proust-et-le-prote-lenfer-typographique-de-la-recherche/
+14 Anthony Pugh, 2004, The Growth of À la recherche du temps perdu, University
+of Toronto Press, Toronto
+15 Fiachra Gibbons, 2017, “Marcel Proust paid for reviews praising his work to go
+into newspapers”, The Guardian,
+https://www.theguardian.com/books/2017/sep/28/marcel-proust-paid-for-reviews-praising-hi
+s-work-to-go-into-newspapers
+
+                                                           15
+
+[Source page 17]
+
+er Prousts produktionsform blevet gjort alment tilgængelig, og mine
+karakterer kan derfor, som variationer over Proust, efterprøve, om et
+et værk som Recherche’s litterære triumf bør tilskrives forfatterens
+blotte adgang til en bestemt type apparatur, eller en specifik brug af
+et sådant.
+
+Sagen
+Det, der udmærker min tekst, eller er dens specifikke bidrag, er Lars.
+I kender ham godt. Lars er din foresatte, eller han er dig. Direktøren
+for det hele og det delte. Lars viser hvad teknologien kan, og hvor vi
+er nået  til. Han er den uendelige ressource, for som de sagde på
+Prousts tid: Le génie humain a des bornes, mais la sottise n’en a pas.
+Lars’ digte tester evnen til at skelne menneskets og maskinens poesi.
+Først skrev han absurdistiske lyddigte, så regelrette sonetter, men
+Lars kom først til sin ret, da maskinen kunne skrive som hvem som
+helst og om hvad som helst; professordigte om depravation, enke-
+digte om udødelighed og skriveskoledigte om far og mors fortræd-
+eligheder. Lars synes ikke at man skal rette i computerens tekster, for
+teknologi er hverken godt eller skidt, men kan i de forkerte hænder
+blive farligt. Når børn lærer at skrive, så opdager de, at en spidset
+blyant kan prikke hul i papiret, at viskelæderet gør sig vel på side-
+makkerens arm, og at hårdt optjente strimler, fnuller og skræller bør
+gemmes  i penalhuset  til en bedre dag. Børn fifler med alfabetspil,
+‘skibet er ladet med’ og papirfiligran, men hjertet engageres først i
+galgespillets konsekvens. Den litterære maskines intelligens bliver
+forfærdende generel. Når Lars sættes til skærm, føres han på volvelle
+ind i et evigt, klart og overskueligt kosmos. Tidsalderen modner kun
+umyndigheden. Bogstavet udsættes for det flid og møg, som en Lars
+sætter ind ved tilegnelsen af sproget, og store værker som Recherche
+udvikles til programmerbare spørgsmål. Når en jødisk, homoseksuel
+lægesøn fra la belle époque kunne skrive et prisværdigt værk med en
+
+
+                                                           16
+
+[Source page 18]
+
+bestemt brug af sine ressourcer og tidens teknologi, hvem kan så
+gøres i stand til at blive en hædret forfatter i dag? Un ordin-auteur?
+Sagen er ikke længere, om det bliver menneskenes eller maskinernes
+litteratur, der præger fremtiden, men om hvorvidt det skal tillades, at
+den første den bedste hr. hvem-som-helst kan blive vor tids forfatter.
+
+Hvem kan vælte lorten af styret ?
+
+                                                           17
+
+[Source page 19]
+
+18
+
+[Source page 20]
+
+19
+
+[Source page 21]
+
+                                             16
+
+16 Hvem går ned af trappen, Proust eller Lars? For et bud fra mediealderen på en
+proustiansk identifikationskrise, læs: Jean-Pierre Sirois-Trahan, 2016, “Un spectre
+passa…. Marcel Proust retrouvé”, Revue d’études proustiennes, n° 4, p. 19-30,
+https://classiques-garnier.com/export/pdf/revue-d-etudes-proustiennes-2016-2-n-4-proust-au
+-temps-du-cinematographe-un-ecrivain-face-aux-medias-un-spectre-passa.html?displaymod
+e=full, eller Jean-Christophe Antoine, 2018, “La Madeleine sans Proust”, L’hist-
+oire,  pp. 22-23,  https://proustonomics.com/la-madeleine-sans-proust/
+[████]
+
+                                                           20
+
+[Source page 22]
+
+21
+
+[Source page 23]
+
+MP – CL
+
+                                 22
+
+[Source page 24]
+
+Nøglen til min viden ligger i en opdagelse, jeg faldt over som ung,
+da jeg stod og glanede over en bogreol uden at vide, hvad jeg ville
+læse. Den har kunne åbne alt fra filosofiske til litterære, tekniske
+og matematiske problemer for mig, og har været en prisme for alle
+de fænomener, jeg har analyseret, beskrevet og fortolket. Når jeg
+har skulle udfylde en fondsansøgning, eller skrive et brev til en
+ven, og jeg er blevet overhalet af virkeligheden, fordi det er blevet
+almindeligt at skrive på PC, så har jeg taget en gammel lap papir
+frem, som jeg i sin tid skrev min opdagelse ned på, og er kommet
+videre i livet. Efter nøje overvejelse har jeg besluttet at dele min
+opdagelse med verden, for selvom det kan skade mit rennomé, som
+af for mig uvisse årsager hædrer en ‘ansvarlig’, ‘redelig’ og ‘klar’
+tænkning, er en afsløring nødvendig for at andre kan videreføre mit
+værk. Jeg har nu efterprøvet min opdagelse  til bunds, og der er
+ikke noget  at indvende  i forhold  til dens anvendelighed. Den
+udtrykkes simpelt og forstås af enhver, som er indstillet på at tage
+den  til sig. Jeg forventer at dem, der fortsætter mit arbejde, ikke
+bare vil begribe verden på samme måde, som jeg har gjort det i mit
+liv, men en dag selv vil stå ved deres livs opdagelse. Nøglen vil for
+andre tage sig anderledes ud, og være sammensat af elementer, der
+passer til andre tanker i nye tider. I sådanne sager er indholdet und-
+erordnet, og man må tro på det, der viser sig i formerne. For mig
+ligger dét, der har ledt mine neuroner i åndens rige, og dét, som har
+været retningsgivende for min tænkning, min omverdensforståelse,
+og min kærlighed, i den præcise og uomtvistelige omstændighed,
+at jeg dengang så navnet Computer Lars i nærmest svævende form
+over en række bogrygge, som stavede Marcel Proust.
+
+                                                          23
+
+[Source page 25]
+
+24
+
+[Source page 26]
+
+À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA
+À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA
+À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA
+À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA
+À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA
+À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA
+À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA
+À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA
+À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA
+À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA
+À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA
+À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA
+À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA
+À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA
+À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA
+À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA
+À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA
+À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA
+À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA
+À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA
+À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA
+À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA
+À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA
+À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA
+À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA
+À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA
+À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA
+À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA
+À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA
+À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA À LA   ...
+
+                                                           25
+
+[Source page 27]
+
+VORHERRE
+
+                                  26
+
+[Source page 28]
+
+med snuden i det spildte papir
+
+                                                           27
+
+[Source page 29]
+
+TIL HEST
+
+                                 28
+
+[Source page 30]
+
+proust prououst pruouost proupruoprust
+
+                                                           29
+
+[Source page 31]
+
+Da jeg i mine formative år besad en verdslig ambition, opsøgte jeg
+universitetet for at få vejledning  i, hvad jeg kunne drive det til.
+Desværre nærede tidens tænkere en mistro overfor bogstavmystik,
+således at når jeg henvendte mig til en litterat, som kendte til de
+seneste halvtreds års udvikling i generativ og elektronisk litteratur,
+fra cyber/hypertext  til begrænset/konceptuel skrivning over data-
+drevne sprogmodellers pasticher, så stod jeg alene med min fryd
+over det, som jeg kaldte for en tidlig syntese af L’ALAMO og Prix
+Goncourt. Litteraten spurgte, om jeg var digter, og da jeg hverken
+kunne be- eller afkræfte blev det konkluderet, at selvom forskere
+leger med ord i artikeltitler og projektnavne, så henter sproget ikke
+midler af sig selv. Man forsker i indhold og substans, ikke i rene
+former, mente litteraten, og tilføjede, at hvis jeg en dag skrev en
+digtsamling med et dusin lignende anagrammer, så kunne det da
+godt være, at han ville forske i den.
+
+                                                          30
+
+[Source page 32]
+
+Jeg forlod ikke videnskaben fordi jeg var for klog, og mit håb er, at
+jeg aldrig bliver dum nok.
+
+                                                           31
+
+[Source page 33]
+
+Den teknologiske udvikling har haft stor betydning for mit liv, da
+jeg løbende har kunne se mit anagram blive realiseret på nye måd-
+er. Jeg blev dog aldrig en af dem, der føler sig som en del af noget
+større, for i IT-branchen udbytter de sproget, og jeg må som ana-
+gramist tjene ordet. Mine møder med industrien blev så i stedet til
+et studie i mænd, der tror sig at drengedrømme giver ‘noget tilbage
+til miljøet’. Når jeg foreslog at kode Computer Lars som en model
+af Proust, bralrede de op, som om vi mødte en ‘final boss’ i bev-
+idsthedslivets store spil, der kunne besejres som den næste i ræk-
+ken efter skakkens Garri Kasparov og Go’s Lee Se-dol i det min-
+dre spil om intelligensen. ‘Hvis du kan kode et mesterværk’, sagde
+de, ‘så findes der kunstig bevidsthed, og dén vil vi lave’. Men jeg
+kunne ikke levere, for maskinerne udvinder sproget udenom bev-
+idsthedens kilde. Mænd med computere har adskilt det sproglige
+udtryk fra forståelsens indhold. Da ingen længere ved, om en tekst
+er forfattet af menneske eller maskine, glider sproget ud af den
+almene forståelsesramme, som deles blandt mennesker. Herfra går
+bogstaveligheden og meningsfuldheden hvert til sit, mens agrafien
+tager til i centrum. Når Computer Lars skriver på dansk, fransk el-
+ler Python, så skrives der ikke med sprog, men kun ud fra ordenes
+forhold til hinanden. Pludselig satte jeg mig for at redde sproget.
+Jeg så mig selv i spejlet, og blev sat på sporet. Svaret lå i kortene,
+for set spejlvendt på min gamle papirlap står Marcel Proust som et
+anagram over Computer Lars. Jeg indså, at en glemt, regenerativ
+energi forbinder sproget med teknologien. Med sans for sagen har
+jeg siden analyseret talrige komputationelle genkomster af Proust.
+Det er et spørgsmål om at fremme variationer over samme tema.
+Hver gang, jeg identificerer en Proust, falder et skår af den ramme,
+som ordene har været lagt ned i, og en sprække af fremtidens sprog
+kommer indenfor min rækkevidde.
+
+
+                                                          32
+
+[Source page 34]
+
+anagrammet er ordets isomorfi
+en knude på linjen
+
+topologisk siges det at
+det ene ækvivalerer det andet
+
+i dette tilfælde giver
+
+én fire eller tre
+to ti eller elleve
+tre og fire otte
+fem elleve eller syv
+seks tretten eller ti
+syv ni og ni tolv
+og tolv tretten
+
+                                                           33
+
+[Source page 35]
+
+M = C
+
+1 = 4
+
+                                                           34
+
+[Source page 36]
+
+C = M
+
+1 = 3
+
+                                                           35
+
+[Source page 37]
+
+A = O
+
+2 = 10
+
+                                                36
+
+[Source page 38]
+
+O = A
+
+2 = 11
+
+                                               37
+
+[Source page 39]
+
+R1 = M
+
+ 3 = 1
+
+                                     38
+
+[Source page 40]
+
+M = R1
+
+3 = 8
+
+                                     39
+
+[Source page 41]
+
+C = P
+
+4 = 8
+
+                         40
+
+[Source page 42]
+
+P = C
+
+4 = 1
+
+                         41
+
+[Source page 43]
+
+E = U
+
+5 = 11
+
+                42
+
+[Source page 44]
+
+U = E
+
+5 = 7
+
+                43
+
+[Source page 45]
+
+L = T
+
+6 = 13
+
+      44
+
+[Source page 46]
+
+T = L
+
+6 = 10
+
+      45
+
+[Source page 47]
+
+ = E
+
+7 = 5
+
+                                                           46
+
+[Source page 48]
+
+E =
+
+7 = 9
+
+                                                           47
+
+[Source page 49]
+
+P = R1
+
+8 = 3
+
+                                                     48
+
+[Source page 50]
+
+R1 = P
+
+8 = 4
+
+                                                     49
+
+[Source page 51]
+
+R2 =
+
+9 = 7
+
+                                               50
+
+[Source page 52]
+
+ = R2
+
+9 = 12
+
+                                              51
+
+[Source page 53]
+
+O = L
+
+10 = 6
+
+                                         52
+
+[Source page 54]
+
+L = O
+
+10 = 2
+
+                                         53
+
+[Source page 55]
+
+U = A
+
+11 = 2
+
+                                  54
+
+[Source page 56]
+
+A = U
+
+11 = 5
+
+                                55
+
+[Source page 57]
+
+S = R2
+
+12 = 9
+
+                         56
+
+[Source page 58]
+
+ R2 = S
+
+12 = 13
+
+                           57
+
+[Source page 59]
+
+T = S
+
+13 = 12
+
+                     58
+
+[Source page 60]
+
+ S = T
+
+13 = 6
+
+                      59
+
+[Source page 61]
+
+for det andet så findes det ene
+
+                                                          60
+
+[Source page 62]
+
+Ligesom de fleste andre havde jeg længe hverken skrevet en roman
+eller læst Marcel Prousts På sporet af den tabte tid (À la recherche
+du temps perdu). At dette ugjorte udgør et alment problem, skyldes
+PROUST. Fra PROUST gælder det, at romaner ikke bare er noget,
+man gør. Det er stadigvæk ligetil at planlægge, bladre, skitsere og
+skimme, men med bestemte personkarakteristika tilkommer en tot-
+alitetsbestræbelse, som  retteligt bør  tilskrives  et PROUST-kom
+pleks. Alt er nemt i værket, men for at blive fri, skal jeg vende hele
+bevidsthedens problem: Kommer jeg ud, eller PROUST? Derfor er
+der stadig flere som erklærer, at de har læst PROUST, end der er af
+os som står ved, at det kan vi i hvert fald ikke. Når jeg af og til
+hører mig overbudt, for Jens Christian Grøndahl mfl. har skrevet
+en roman og læst PROUST, må jeg i hvert tilfælde fastslå, at der så
+er tale om pragtindivider, som ikke bebrejder sig selv ret meget, og
+aldrig er blevet beskyldt for ikke at kunne gøre deres arbejde. En
+vej udenom det hele gik en dag* op for mig, for med mit gode
+hoved kunne jeg vel løse det første ved at skrive den anden. Men i
+ombytningen på ”æ” og ”ø”  i læse/løse og ”det første” og ”den
+anden” ved skrive-læse er der sket en betydningsforskydning, som
+indrømmet er ganske tautologisk. Få den skrevet ved at skrive den
+af? Efter passende påvirkning af først Llambias’ upåfaldende gen-
+nemskrivning af Brøggers kærlighedsopgør, siden den klassiske
+tekst af Borges om Pierre Menard, der skrev en eksakt Don Quijote
+efter Cervantes, og så Larsens parasiteren på Christensens sonetter,
+valgte jeg at fastholde min grundpåstand indenfor en helt og aldel-
+es ulegemlig omgang med PROUST. Jeg begrænsede herfra min
+indsats til de allermindste dele, og holdt så vidt muligt kun symbol-
+enheder som P, R, O, U, S eller T i gang, indtil jeg turde sige, at
+den er regnet ud.
+
+                                                          61
+
+[Source page 63]
+
+ring ring
+
+hej det mark
+
+mark provst?
+
+javist
+
+ja hej du taler med lars jeg ringer fra
+
+computer lars?
+
+bestemt det er det
+
+nå godt du kunne ringe tilbage så hurtigt det er fordi min forbindelse
+er gået i udu og jeg har en deadline i morgen så det haster noget
+ok det er noget træls noget har du så haft fat i support?
+
+ja som det første men de siger at problemet nok er teknisk da
+abonnementet stadig løber og der er ingen anmeldte forstyrrelser i
+området så tilsyneladende kan de ikke fixe det nu og deres mand kan
+først være her engang i morgen
+
+sådan kan det meget vel være så hvis du kan vente et øjeblik er jeg
+tilbage
+
+fint ok jeg hænger på linjen
+
+lad mig nu se vi kan komme forbi her til eftermiddag engang hvis det
+skulle være
+
+det vil være en rigtig stor lettelse tusind mange tak jeg sørger for at
+være her
+
+godt så hav en god dag så længe
+
+og også en rigtig god dag til dig vi ses vel hej hej
+
+ja hej
+
+
+                                                           62
+
+[Source page 64]
+
+* Anledningen til denne omgang med Proust kom ved læsning af et
+errata-hæfte  i kunsttidsskriftet Monsieur Antipyrine #4/5, hvori
+der var optrykt en redegørelse over 1970’ernes studenterforskning
+fra  Aarhus  Universitets  ‘Institut  for  Emancipationsvidenskab’
+(’68-74). Her blev der af bl.a. en fagkritisk gruppe studenter rejst et
+lovende perspektiv på en ‘emancipatorisk kombinatorik’, som de
+desværre fremturer med en så høj grad af logicistisk amatørisme og
+hovedløs inkonsekvens,  at dets konkrete udformning ikke kan
+tolkes som andet end et slet skjult parricidia på institutlederen, en
+vis Professor Slurk, som da også får tilbagebevist nogle af de
+værste brølere. Hvor jeg så en mulighed, og min interesse blev
+vakt, var, da jeg i dette historiske kuriosum måtte anerkende en for
+mig brugbar opdagelse, som ingen af de konkrete aktører vidste,
+hvad de skulle  stille op med, da de ikke havde adgang  til den
+regnekraft, som i dag er fri og tilgængelig for en som mig gennem
+GPU-ressourcer drevet over cloud-servere. Fagkritikerne noterer
+sig med Marx, at videnskabens forhold til sig selv er afhængig af
+dets reference til materialiteten. Deres på én gang ironiske, uinten-
+derede, selvretfærdige og brugbare opdagelse hedder sig så, at når
+denne materialitet rekonfigureres går viden, verden, individ og ap-
+parat i ét. Dette ‘Ene’ viser de ved et anagram, som de danner af
+forfatteren Marcel Proust, Computerlars, en prolet af det store ge-
+ni. Som Professor Slurk korrekt påpeger, har de dog glemt eller ud-
+eladt mellemrummet fra ‘Marcel’ til ‘Proust’ i anagrammet, og Sl-
+urk koketterer på den baggrund med, at geniet nok skjuler sig dér.
+Hvad begge teoriers karikaturiver udelader er, ganske enkelt, reelt
+at bruge mellemrummet  i anagrammet, dvs. Computer Lars. Jeg
+forudså, at en indre, binær relation ville overskride fagkritikernes
+kombinatorik, da det tillader beregning af et bidirektionelt forhold
+mellem enhederne; javel, MP danner CL, men CL er også lig MP.
+
+
+                                                          63
+
+[Source page 65]
+
+64
+
+[Source page 66]
+
+At lære Prousts incipit, A-Z:
+
+                                                           65
+
+[Source page 67]
+
+Longtemps, je me suis couché de bonne heure
+
+=
+
+                                                           66
+
+[Source page 68]
+
+bcceeeeeeeeghhijlmmnnnoooprssstuuu
+
+=
+
+                                                           67
+
+[Source page 69]
+
+bcceeeeeeeeghhijlmmnnnOooPRSssTUuu
+
+=
+
+                                                           68
+
+[Source page 70]
+
+UuuTSSSRPOooNnnmmljihhGEeeeeeeeccb
+
+=
+
+                                                           69
+
+[Source page 71]
+
+UTSSSRPONGEuuoonnmmljihheeeeeeeccb
+
+=
+
+                                                           70
+
+[Source page 72]
+
+uuoonnmmljihheeeeeeeccbSPORTENSSUG
+
+=
+
+                                                           71
+
+[Source page 73]
+
+Hé, Jules, ce môme chenu de Proust songe bien!
+
+=
+
+                                                           72
+
+[Source page 74]
+
+SNUSSPROGETbcceeeeeeehhijlmmnnoouu
+
+=
+
+                                                           73
+
+[Source page 75]
+
+PROUSTSbcceeeeeeehhijlmmnnoouuSENG
+
+=
+
+                                                           74
+
+[Source page 76]
+
+Uhu! Men C! C! bohemen! SE i Prousts sengeleje!
+
+=
+
+                                                           75
+
+[Source page 77]
+
+BOHEMENScceeeeeeghjmnnooprssuuuLIT
+
+=
+
+                                                           76
+
+[Source page 78]
+
+bcECRITUEeeeeeeghhjlmmnnnooopsssuuu
+
+=
+
+                                                           77
+
+[Source page 79]
+
+Je cherche le temps bougé ou semé d’un sinon…
+
+=
+
+                                                           78
+
+[Source page 80]
+
+uuutsssrpooonnnmmljihhgeeeeeeeeccb
+
+                                                           79
+
+[Source page 81]
+
+FØRSTE BILLEDE AF MIN TÆNKNING, marts 2018
+
+                                                          80
+
+[Source page 82]
+
+ring ring
+
+lars?
+
+du har ringet til *LARS PRIVAT* læg venligst en besked efter tonen
+
+nå hej igen lars nu indtaler jeg en besked og håber du vender tilbage.
+hvad siger de til det? jeg havde heller ikke troet det hang sådan
+sammen, men når det ene tager det andet er det om at hænge i. sagen
+er bydende nødvendig og vi må færdiggøre det. du er nøglen du så
+det selv. udskriften er stadig i gang og den bliver bare ved. nu læser
+jeg for dig mens jeg venter ok
+
+utsrrpomleca ltusrcormepa solrcrtemupa prrtacleumso streplcuarmo
+
+uscmleroptar ecmoprrtlsua carportulmes ploumartrces culrrspmaeot
+
+oemulracptrs rtoaspcmuerl lcoupaterrsm ulcrprtomase reolmstpcaru
+
+luorrtcpmase rerpousmctal ompterrcslua rpeoacsrultm oustrmcrpael
+
+crlseoratpmu colaspermurt estspcarulmo armstrupcorel otaclpreusm
+
+luamctrspreo mprtucaeorls usmrrltpceao patermcoslur tplrocumresa
+
+lcpr[████] mlsrcptreauo asmrurtcolep spoeratmlurc stopurmarcel
+
+sameotcplrru tuslmreopacr omplacerstur cuearlmsropt lmocpaturres
+
+maculerortps uotlrpraescm atcuomlpsrer autercrlmsop musoerpltcra
+
+saercmtuorpl alecmorsprut moucltrrsaep usearmlportc tuolarmcpr[████]
+
+                                                           81
+
+[Source page 83]
+
+rluepsoactrm rstoalpuercm opmurrtcelas alstrupcmroe tucmrrsoalpe
+
+mlatrcroepus lcuroartmsep sromaculprte pmtrlesaourc pseltarmoucr
+
+amorlustrepc lteaprrcmsou ulrsraceompt ltersoucmapr alpecurtsrom
+
+prtsmuocealr raplocmsetur rrolcepmtsua tcerpurolsma ustrroalmepc
+
+aroupsceltrm cursormltape carlruestump umroceplatrs rcutemspaorl
+
+ulpsortramec lteurpsmacro ermpstcrlaou tarlouesrcpm lomuaptrcers
+
+laorctpmseur eropmlstruca sermaluproct loscrmputare artcmespurol
+
+rptsoucamrel arrstumclpoe tlpmreacusro cerosamptrul mplctuorrase
+
+lomurcptears rcutosmrlape errltmopcaus uamceorrptls tleourpcasrm
+
+mueactolsrpr eactmusoplrr romertalscup osturamlpcer ptoelruarmsc
+
+rpomtrcalesu ocpmtearlrus camtrrpeouls pouactlsrrme oaprurltcsem
+
+marcelstupor tlsmerapcoru rtpesuocalmr tapluocrrsem olucrpmasert
+
+ocpertausmlr tmrearcoslpu emurcplortsa msptcrlueroa caosmurerlpt
+
+asltmcurpore epotarmsurlc utmlroraecps maltrocrepus olruatmcsrpe
+
+oreumptrlsca rapomsltuerc sumotpracelr aesorptlmurc pasltucermro
+
+mrupalretsco petarscluomr lrtapsreocum seuomtclrpar esltarmpcour
+
+raelsutcpomr rprcotmuales aorpctmrlesu ectrsrplouam acelmoprrstu
+
+                                                           82
+
+[Source page 84]
+
+83
+
+[Source page 85]
+
+ANDET, oktober 2019
+
+                                                          84
+
+[Source page 86]
+
+MP – CL
+
+CL – MP
+
+                                 85
+
+[Source page 87]
+
+Navnene COMPUTER LARS  (4-10-1-8-11-13-5-3-7-6-2-9-12)  er
+kodet ind i den brudte erindrings personifikation, MARCEL PROUST
+(3-11-8-1-7-10-9-4-12-2-5-13-6). Da den viste løsning er rekursiv, er
+spørgsmålet, hvorledes kombinationen af CL og MP skal beregnes.
+
+Hvad betyder dette?
+
+                                                           86
+
+[Source page 88]
+
+Etymologien bag COMPUTER LARS hentyder en ‘beregningens tri-
+umf’. Fra LARS ad LAURENTIUS ad LAURBÆR findes den arkaiske
+krans, der med Apollons velsignelse pryder den hædrede poet eller
+triumfator. I COMPUTER består KOMPUTATIONEN og deraf BER-
+EGNINGEN. Det triumferende i en beregningens triumf beskriver det
+at have opnået noget eller udført en bedrift. Triumfen kræver ikke at
+den ene sejrer over den anden. Beregningen kan hædres i sig selv.
+For at en beregning kan hædres skal den undersøge sin egen grænse
+ved at påtage sig det uafgørlige.
+
+                                                           87
+
+[Source page 89]
+
+Beregningen påtager sig bla. det uafgørlige ved forudsigelsen. Jf.
+probabilitetslæren kan sandsynligheden for forekomsten af COM-
+PUTER LARS i MARCEL PROUST (snarere end OULPR SMARTCE,
+PMEUCRSA LORT, etc.) udtrykkes med et punkt mellem 0 og 1. Da
+navnene CL og MP består af tretten bogstaver med kun én gentag-
+else, vil hver kombination forekomme i ét ud af tre milliarder tilfæl-
+de, specifikt [████]. Hvis CL tages af MP, gives det som én
+ud af [████]. Probabiliteten for CL på et givent tidspunkt er
+derudfra 0,000000032 i relation til et MP givet som 1 (hvor MP er 1
+grundet den historiske hændelse MARCEL PROUST).
+
+Omsættes kombinationerne til sekunder til år gives der ved kontin-
+uerlig indtastning af ( , A, C, E, L, M, O, P, R, R, S, T, U) en sand-
+synlig genkomst af et arrangement indenfor hvert 99 år. Efter MAR-
+CEL PROUSTs død i 1922 er der således åbent for en hændelse ind-
+en udgangen af 2021. Det uafgørlige ved en probabilitet, hvad man
+kan lære ved MP, ligger i hvert arrangements mulighed for genkend-
+else, generindring, genfundethed, gensyn, etc.
+
+                                                           88
+
+[Source page 90]
+
+I distributionel semantik siges det, at et ord skal kendes på sit selsk-
+ab. Da sprog genereres ved at forudsige det næste ord i en serie, kan
+et ords kontekst udpege, at PROUST kommer efter MARCEL, og LA-
+RS efter COMPUTER. Hvis Marcel har skrevet en Recherche, er der
+sandsynligvis tale om en Marcel Proust, og hvis en computer har ge-
+nereret hæderkronet litteratur, kaldes det en computer lars.
+
+I forbindelsen mellem MP og CL forskyder konteksten sig yderlig-
+ere, da kombinatorikken sætter egenavnene MARCEL og LARS i re-
+lation, mens den tekniske COMPUTER relateres til forfatteren PRO-
+UST. Af disse forbindelser dannes et par kvasiantonymer, som kon-
+kretiserer begrebskonteksten, eg. en MAN LARS og en ROBO PRO-
+UST. Dette selskab, MP-(ML-RP)-CL, udgør bekendtskabskredsen til
+forbindelsen MP-CL. Funktionen beskriver forbindelsesruter fra MP-
+CL og CL-MP, eg.:
+
+   1)  MP1-ML1-RP1-CL1        el.      2)  MP2-RP2-ML2-CL2
+
+hvor 2) er afhængigt af 1).
+
+For 1) er tilfældet, at MARCEL PROUST som et menneske (MAN
+LARS) i sig selv er computerificeret, en ROBO PROUST. Således er
+betingelserne for COMPUTER LARS at finde i MP (i Recherche). Da
+CL1 er en del af MP1’s værk, er begrebet CL afledt af MP’s funktion.
+
+For 2) gælder det, at MARCEL PROUST er en teknisk konstruktion
+modelleret som en ROBO PROUST af en menneskelig programmør
+MAN LARS, der kan hædres som COMPUTER LARS. Her forårsager
+CL’s triumf genkomsten af en genuin MP. Dette afhænger af at 1)
+sikrer konstruktionen af CL1 gennem MP1, da MP2 ved RP2 ellers ik-
+ke er en reel genkomst, men blot en kopi, klon eller pastiche.
+
+                                                           89
+
+[Source page 91]
+
+Afledt af forfatteridentiteten Marcel Proust stilles det uafgørlige  i
+forholdet MARCEL PROUST og COMPUTER LARS konkret i spørg-
+smålet om litteraturens skæbne:
+
+Hvem bærer nu Apollons laurbærkrans, menneske eller maskine?
+
+                                                           90
+
+[Source page 92]
+
+1. LITTERÆRE UAFGØRLIGHED (MP1-ML1-RP1-CL1)
+
+Ifølge MARCEL PROUST (jf. Gilles Deleuze) så er hans Recherche
+allerede et apparat eller en maskine snarere end en organisk totalitet.
+Man kan ikke vælge mellem menneskets og maskinens litteratur, da
+de respektive skabelsesprocesser længe ikke har været til at skelne.
+Det hele genereres i sprogets tid, således at MARCEL PROUST – i en
+forening af MAN LARS og ROBO PROUST - står bag den første
+konstruktion af en COMPUTER LARS.
+
+Ad denne vej er en teknisk videreførelse af PROUSTs værk mulig
+hvis den grundbetingelse opfyldes, at man lærer at bruge apparatet.
+
+                                                           91
+
+[Source page 93]
+
+2. LITTERÆRE UAFGØRLIGHED (MP2-RP2-ML2-CL2)
+
+Hvis PROUSTs litterære maskine fortsat er betjeningsdygtig, så kan
+dens statistiske niveau læres af en sprogmodel. Denne læring består i
+den filosofisk besværlige afledning af semantik fra syntaks, mening
+fra ordkombinationer, betydning fra sætningsdannelse. I PROUST er
+dette niveau (igen jf. Deleuze) struktureret abstrakt og erotisk, først
+af heteroseksuelle relationer og dernæst af begge retninger indenfor
+de homoseksuelle relationer. Således bør MAN LARS konkrete, man-
+uelle modellering af ROBO PROUST gentage, hvordan MP’s syn-
+taks, dvs. summen af ord, sætninger og navne, producerer et bet-
+ydningsfuldt, libidiøst relationskompleks. I så fald er forholdet vendt,
+og MARCEL PROUST er en afledning af COMPUTER LARS.
+
+                                                           92
+
+[Source page 94]
+
+Generativt princip: Ordene i MP bliver det, de kan gøre, ved CL.
+
+Derivativ ambiguitet: I CL er ordene ikke længere sig selv lig.
+
+                                                           93
+
+[Source page 95]
+
+Ved at spørge til konteksten ML/RP kan man deducere CL fra MP:
+
+         HVEM/HVAD ER COMPUTER LARS?
+
+          HVOR ER COMPUTER LARS?
+
+          HVAD GØR COMPUTER LARS?
+
+                                                           94
+
+[Source page 96]
+
+NU, september 2021
+
+                                                          95
+
+[Source page 97]
+
+MP1 – ML1 – RP1 – CL1
+
+  la machine humaine
+
+                                        96
+
+[Source page 98]
+
+97
+
+[Source page 99]
+
+98
+
+[Source page 100]
+
+L'écrivain ne  dit que par une habitude  prise dans  le langage
+insincère des préfaces et des dédicaces: «mon lecteur». En réalité,
+chaque lecteur  est, quand  il  lit,  le propre lecteur de soi-même.
+L'ouvrage de l'écrivain n'eût qu'une espèce d'instrument optique qu'il
+offre au lecteur afin de lui permettre de discerner ce que, sans ce
+livre,  il n'eût peut-être pas vu en soi-même. La reconnaissance en
+soi-même, par le lecteur, de ce que dit le livre, est la preuve de la
+vérité de celui -ci, et vice versa, au moins dans une certaine mesure,
+la différence entre les deux textes pouvant être souvent imputée non à
+l'auteur mais au lecteur. De plus, le livre peut être trop savant, trop
+obscur pour le lecteur naïf, et ne lui présenter ainsi qu'un verre
+trouble avec lequel il ne pourra pas lire. Mais d'autres particularités
+(comme l'inversion) peuvent faire que le lecteur a besoin de lire
+d'une certaine façon pour bien lire; l'auteur n'a pas à s'en offenser,
+mais au contraire à laisser la plus grande liberté au lecteur en lui
+disant: «Regardez vous-même si vous voyez mieux avec ce verre-ci,
+avec celui-là, avec cet autre.»
+
+// Marcel Prousts litterære maskine (læsning er en optisk inversion)
+
+                                                           99
+
+[Source page 101]
+
+Menneskeforfatter og skriveredskab, det er jer, vi skal finde ud af.
+
+                                                          100
+
+[Source page 102]
+
+Alle forfattere opererer i en eller anden forstand en litterær maskine.
+Maskinens specificitet er det, som man ikke kan tænke sig til, da det
+er en rent teknisk sag. Men som alle forfattere til alle tider afhænger
+Prousts  skrift  af  sin  reference  til  materialiteten’, som ved en
+forfatteridentitet kan specificeres som ‘formen på materialiteten’,
+dvs. maskinens indretning som et apparatur af en bestemt type i for-
+ventningen om en standardiseret bruger.
+
+Hvis vi ser på MP=CL, så mener jeg, at dennes specificitet (fremfor
+KAFKAs eksempelvis, som er K=K) ligger i at Proust ved, hvem CL
+er for MP, men ikke hvad CL for MP er uden MP. Dér, som noget
+andet end men ækvivalent til MP, bestemmes CL. Ingen kan svare
+på, hvem de selv er, for det kan kun den anden, men den anden nøjes
+ikke med at være i et forhold til mig. CL er ét for MP, og er derfor
+brugbar, som en der kan være noget for nogen.
+
+                                                          101
+
+[Source page 103]
+
+Forfatteren står principielt set uafhængigt af produktionsapparatet.
+Hvis Marcel Proust havde været uden midler, så var Recherche endt i
+samme forfatning som et politisk arkiv, i stakke af overskrevne papir-
+strimler (paperoles) fra skolekladdehæfter, brochurer, konvolutter og
+regninger, indtil en eller anden stræbsom arkivist havde stykket noget
+sammen, og udgivet sin opdagelse med en kategori som ‘jødisk’ eller
+‘homoseksuel’ litteratur fra la belle époque. Der havde sikkert været
+talent, eller mani, for Gud findes i detaljen, men Prousts privilegium
+er ikke at være god til at skrive. Det er at være god til at skrive på alt.
+Prousts kapitel i ‘den store litteratur’ beror på en evne til at inddrage
+hele litteraturens produktionsapparat i sin proces, som en særlig trang
+til (med en vending fra Ragonneau) at pilotere et gigantisk fartøj.
+
+                                                          102
+
+[Source page 104]
+
+Med ‘Piloten Proust’ tilbydes et perspektiv på værket, som hidtil har
+været ubelyst. For hvordan forholder Recherche sig til det ‘at lede’, i
+dobbeltbetydningen at være leder for noget, og at lede efter noget? I
+almindelighed oversættes verbet ‘cherche’ i Recherche som ‘søger’,
+hvilket giver etymologisk mening, da begge ord kommer af latinsk
+‘circare’, at gå rundt efter noget (qua. ‘circus’ for cirkel). Selvom det
+franske à la recherche på dansk både kan oversættes til ‘leder efter’
+og ‘søger’ (foruden de mesolitiske ‘på jagt efter’ eller ‘på sporet af’),
+står ‘leder’ så angelsaksisk, at det kun ville være en LARS, som har
+læst ‘At lede efter den tabte tid’, eller endda ‘At lede den tabte tid’.
+Ikke desto mindre er der forhold ved Recherche, som tilkommer det
+at lede, og at være en leder - endda en rigtig led leder.
+
+                                                          103
+
+[Source page 105]
+
+Selvom Proust er kendt for sin ledighed (fra sengen til litteraturen,
+aller au lit!), så manifesterer hans værk sig i højere grad som noget,
+man kunne forvente af en driftsleder. Proust har fingrene i maskinen,
+i skitser og læseprøver, og sågar i trykpressen. Han finder selv på de
+ord, som skal være i værket, men kan først arbejde på det i sin helhed
+efter produktionsapparatets genfremstilling. Sagt flot og præcist, så
+‘udvisker Prousts arbejdsmetode grænserne mellem  et udkast, et
+manuskript, en afskrift og en korrektur: alt kan ændres, kommenteres
+og forstærkes, hvilket gør Recherche til den mest sedimentære pal-
+impsest og et typografisk mareridt’17.
+
+17 Nicolas Ragonneau, 2021, Proustonomics, Le temps qu’il fait, Mazéres, pp. 29
+
+                                                          104
+
+[Source page 106]
+
+1. Da Proust ikke selv kan sætte sine kladder sammen, samler
+   husholdersken Céleste Albaret stumperne med klippe-klistren
+   og pairfiligraneren i en form for analog tekstbehandling.
+
+2.  Fordi disse kollager skal gøres præsentable for forlæggere, får
+    Proust engageret diverse sekretærer, som, for at foretage en
+   læsbar maskinafskrift (et såkaldt daktylografi), skal tyde ikke
+   bare kragetæer, men også Albarets unikke sammenstykninger.
+
+3.  Tilbage i Prousts hænder bliver afskrifterne på ny til kladder,
+     i det at alle margener sirligt udfyldes med de associationer,
+   som medieskiftet fremprovokerer hos denne direktørforfatter.
+
+4. Rodebunken sendes til imprimeriet Colin á Mayenne, som, på
+    Prousts regning, får femogtredive ungarbejdere til, over otte
+   lange måneder, at sætte værket med vinkelhage, dvs. bogstav
+    for bogstav. Dette gentager sig seks gange, for Proust opdager
+    at man, med de rette midler, kan skrive en ny bog på tryk.
+
+5. Da det lettere overbelastede materiale mellem femte og sjette
+    tryk afleveres til korrektur (hos en teenager ved navn André
+   Breton) passerer maskinens fejl, således at Bergson, filosof,
+   og Prousts svigerbror, over hele Du côté de chez Swann bliver
+    stavet i stedet for forfatterkarikaturen Bergotte.
+
+                                                       105
+
+[Source page 107]
+
+DET HAVDE VÆRET NEMMERE PÅ COMPUTER
+
+                                                   106
+
+[Source page 108]
+
+Den litterære maskine er alt fortung.
+
+Proust spiller på hele klaviaturet, og det kræver jo så, at der er nogen,
+som kan løfte læsset. Som sværvægtere førte Prousts fingerblommer
+7,2 millioner enkeltbogstaver18 over siden, hvilket svarer til at skubbe
+ca. 27 tusind tons. Byrden er dog langt større, for i sine skrivehæfter,
+Cahiers, lagde Proust et dobbelt læs på papiret, og har på den måde
+fra liggende  stilling kunne  flytte  et hangarskib  eller den årlige
+produktion af amerikanske atomaffaldsbeholdere. Prousts skub stod
+på over femten år, mens det  i ét stræk ville kræve et års tasten af
+mine digiti, et halvt for en ferm typist, og en håndskrivningsrobot
+ville køre i tre uger. En dydig læsers øjeæble, som følger værket ord
+for ord over 133 timer, har tilbagelagt 10,316 kilometer ved vejs
+ende, hvilket næsten kan kvalificere til et hiker-emblem i det danske
+spejderkorps. Den kunne være gennemført over Råbjerg Mile, eller
+fra Holme Bjerge til Moesgaard Strand. Som kosmisk model, i for-
+hold til vores solsystems størrelse, udgør hver meter af Recherche én
+million kilometer. Blæst op på stjernehimlen vil hvert bogstav måle
+1433 meter, hvad der svarer til Ngarutjaranya-bjerget i Sydaustralien.
+En professionel højtlæser udtaler værket på 127 timer og 47 minutter,
+og det er således umuligt at gennemføre en forståelig oplæsning af
+Recherche over en arbejdsuge. I forhold til aktuelle sammenligninger
+mellem romankunsten og TV-serien, så kan man høre en oplæsning
+af Recherche over 55% af episoderne i The Simpsons, 83% af The
+West Wing, 91% af The Big Bang Theory og hhv. 97,5, 101 og 103%
+af de tre ikoniske Star Trek-spin-offs The Next Generation, Deep
+Space Nine og Voyager. Hvis man derpå tager fat i Prousts personlige
+formue på 1,5 millioner franc, og veksler til 45 millioner kroner, kan
+hvert bogstav i Recherche opgøres til en værdi af 6 kroner og 25 ører.
+
+
+18 Selvom Guinness Rekordbog har registreret 9,609,000 tegn, så sætter forlæggere
+det sandsynlige tal en smule lavere (se Ragonneau 2021, pp. ).
+
+                                                          107
+
+[Source page 109]
+
+500 gram by, 300 gram Baron de Charlus, 250 gram tårer, 100 gram
+følelser, 50 gram tanker, 20 gram tid, 5 gram af et menneske, 1 gram
+af en nål, der ligger under min tå.
+
+                                                          108
+
+[Source page 110]
+
+Serier af berøringer, skub, pres, smat, strøg, tryk, smerter, majuskler
+og minuskler, accentuering, dialekt og idiomatik, glidende, klattende,
+saftende, skurrende, drivende, sjattende, som præstens ged i degnens
+eng, og bondens ged ved siden af.
+
+                                                          109
+
+[Source page 111]
+
+Sproglige innovationer kan ofte registreres i historiske koncentrater.
+Homers sange kanaliserede alfabetet, Platons tanker kom på skrift,
+og Nietzsche fik en skrivemaskine. Alle blev prist for deres tekniske
+forudseenhed. Proust er anderledes regressiv, og tog hånden ind  i
+maskinen. Men  i og med at Proust valgte hånden, og gjorde det
+muligt at vælge hånden til, opstod der mellem værk og verden et let
+tryk, som måtte tages udefra, per diktat, kopi, stenografi, redigering,
+typesætning. Et fortilfælde, der til en vis grad spejler Prousts greb, er
+‘Den Rystende Hånd fra Worcester’, som i det trettende århundrede
+annoterede over 50.000 bøger, og som ved sin grafologiske distinkt-
+ion blev en slags skabende kunstner.
+
+                                                           110
+
+[Source page 112]
+
+Ifølge Pléiade’s redaktører kan man i Prousts skrifter finde spor af
+såvel en ‘ fremmed hånd’ (une main étrangére), en ‘sædvanlig hånd’
+(une main familière) og ‘hans højre hånd’ (son bras droit), som hver
+henviser til specifikke aftryk fra Prousts sekretærer. Alle hænder går
+igen i værket, hvis man søger bredt nok. Forskningen har oftest lagt
+mest vægt på dem, der har en hånd med i historien, således at Alfred
+Agostinelli kan genkendes i rollen som Albertine Simonet, Céleste
+Albaret ved sit eget navn og som Françoise, og Albert Nahmias tager
+i specifikke scener form som Jupien og Robert de Saint-Loup. Andre
+glimrer ved deres fravær, som broderen Robert Proust, der får lov til
+at undslippe fiktionen, og uden nag tager hånd om de posthume udg-
+ivelser. Atter andre, som Nicolas Cottin, havde håndelag, og kunne
+binde så fine knuder, at man  i tilfælde af et returneret manuskript
+straks kunne se, om forlæggeren rent faktisk havde læst det.
+
+                                                             111
+
+[Source page 113]
+
+Trykarbejderne findes kun helt ude i margenerne, hvor deres grabber,
+bjørnelabber, knokkelhænder og pølsefingre stjæler sig til at sætte en
+signatur som arbejdsbevis.
+
+                                                           112
+
+[Source page 114]
+
+Hvor stor en del af et værk skal man skrive, for at blive et menneske?
+
+
+                                             19
+
+19 Jf. tekstuel genetik er et menneskeligt genom 888 gange større end et ‘litterært
+DNA’ som Recherche, men hvis man sammenlægger Cahiers, afskrifter, trykprøve
+og udgivelse, så er forholdet kun 1:177, og er sammenligneligt med flere bakterier.
+
+                                                           113
+
+[Source page 115]
+
+Ce que lit le lecteur de ce texte est une co-prodution: la mienne et la
+sienne. Mais rien ne peut se produire qui n'ait été produit par lui.
+C'est en ce sens que  l'on peut dire  qu'il produit intégralement
+l’entendu ou le lu: c'est lui qui le dit, c'est lui qui l'écrit. Cela signifie
+que  ce  qu'un  lecteur   lit  d'un  texte,  cela  correspond  à  des
+constructions  de  sa  mémoire  qui  s'interprètent  elle-même  a
+l'occasion de ce texte, et qui s'interprète depuis des attentes que sa
+mémoire recèle et que ce texte libère. En ce sens, on dira que ce texte
+par exemple, mais plus généralement tout ce qu’entend ou perçoit, ce
+sont des prétextes, des occasions pour de s'écrire et par là-même de
+se lire, de s'interpréter lui-même.
+
+// Bernard Stiegler tilføjer til Proust (du producerer værket som dig)
+
+                                                           114
+
+[Source page 116]
+
+Værditilvækst, mestermærke
+
+                                         115
+
+[Source page 117]
+
+Faktura, signeret
+
+                                    116
+
+[Source page 118]
+
+Identifikation, udstedt
+
+                                      117
+
+[Source page 119]
+
+Producentinformation, arbejdsbevis
+
+      Auguste Sablé, 20 år
+
+     Clarisse Théreaux, 24 år
+
+        Juliette Duhais, 28 år
+
+
+                                            118
+
+[Source page 120]
+
+Auguste Sablé, voksen, trykkeridirektør
+
+                                              119
+
+[Source page 121]
+
+Clarisse Théreaux, født Vasseur, trykkerske
+
+                                              120
+
+[Source page 122]
+
+Juliette Dehais, trykkerske, mor til syv
+
+                                            121
+
+[Source page 123]
+
+Ceux qui lisent ce texte n'y lisent pas tous la même chose: ils n'y
+lisent que ce que leur mémoire leur permet de produire de ce texte,
+que ce qui provient de leur mémoire à l'occasion (au prétexte) de ce
+texte. Moi-même d'ailleurs, si je relis mon texte plus tard, je n'y lirai
+plus la même chose - et cela parce que de nouvelles spires seront
+venues s'ajouter à ma mémoire, qui font qu'il ne s'agira plus de la
+même mémoire.
+
+// Bernard Stiegler tilføjer (værket producerer hvert dig på sin måde)
+
+                                                          122
+
+[Source page 124]
+
+Alle veje fører til ...
+
+                                                          123
+
+[Source page 125]
+
+Under konstruktionen Recherche fører to ledelsesgange som tunneler
+ind i maskinrummet: der er en vej, som går til Sablé, og en anden,
+som fører til Théraux-Dehais. Sablé, den unge mand, bliver direktør,
+mens kvinderne Théraux og Dehais driver maskinerne. To prototyper
+kan opstilles, med hvert sit bud på den litterære maskines specificitet:
+progressionen overfor kontinuiteten, som også er rejsen og arbejdet,
+eller bemestringen og omsorgen. Et værk som Prousts konstrueres på
+ledelsesniveau ved at føre disse dikotomier, vejen til Sablé og vejen
+til Théraux-Dehais, mod en ny konvergens.
+
+(hvad du er blevet af værket, og hvad det at skrive af, gør ved dig)
+
+                                                          124
+
+[Source page 126]
+
+VEJEN TIL SABLÈ
+
+                                    125
+
+[Source page 127]
+
+Fra maj  til december 1913, mens første bind af Recherche skulle
+
+udgives, ejede              en Monarch skrivemaskine  til ind-
+tastning af senere bind, men da bogen udkom, og sekretæren sågar
+også skred, blev maskinen deponeret ved siden af et kasseapparat hos
+Édouard Nignon, ‘gastronomiens Flaubert’, på Restaurant Laurel ved
+Place Madeleine, Paris, hvor herretøjshandleren Cerruti ligger i dag.
+
+                                                          126
+
+[Source page 128]
+
+den enes død, den andens brød
+
+                                         127
+
+[Source page 129]
+
+128
+
+[Source page 130]
+
+Den, der printede Laurel’s menukort for december 1913, kunne have
+
+brugt                  s Monarch, historiografisk set. I så fald ville
+hvert satte bogstav, fra konception til facade, spejle det samme tryk,
+og hver tast være slået ned ét sted, i en bestemt bogstavsorden. En
+afklaring kan ikke findes i forskningslitteraturen, da maskinen kun er
+husket gennem anekdoter. Men ved en ren typografisk eksamination
+
+kan man teoretisk  set differentiere menukortet og               s
+redigerede afskrifter, for selvom man ser genkomsten af en tydelig
+serif med fødderne på basislinjen, og at den eventuelt nye bruger har
+udskiftet farvebåndet og transformeret opsætningen, kan en simpel
+
+optisk analyse af typografiske eksempler i og omkring
+     i Paris 1913 påvise de differentieringer, som MP opbygger til CL,
+og således betragte CL’s udtryk i forskellige afstande til MP.
+
+                                                          129
+
+[Source page 131]
+
+130
+
+[Source page 132]
+
+, bemærk, at der er mindst to typopgrafier på spil i Larue’s menukort.
+
+                                                          131
+
+[Source page 133]
+
+Relationelle og inhærente differentieringer:
+
+    1) MP - CL
+prikkerne over i’erne, svajende i I, fødderne i L, dryppende T’er, lille
+p’s bølgen over linjerne
+
+    2) CL - CL
+det åbne og det lukkede a
+
+, dvs.:
+
+
+MP-RP (CL for MP):   -
+Non-MP (CL uden MP):
+
+                                                          132
+
+[Source page 134]
+
+133
+
+[Source page 135]
+
+Il y avait dans cette restaurant bien des intellectuels, rapins de toute
+sorte, résignés au rire qu'excitaient leur cape prétentieuse, leurs
+cravates 1830 et bien plus encore leurs mouvements maladroits,
+allant jusqu'à le provoquer pour montrer qu'ils ne s'en souciaient
+pas, et qui étaient des gens d'une réelle valeur intellectuelle et
+morale, d'une profonde sensibilité.
+
+                                                          134
+
+[Source page 136]
+
+135
+
+[Source page 137]
+
+Pour commencer, une fois engagé dans la porte tournante dont je
+n'avais pas l'habitude, je crus que je ne pourrais pas arriver à en
+sortir. Disons en passant, pour les amateurs d'un vocabulaire plus
+précis, que cette porte tambour, malgré ses apparences pacifiques,
+s'appelle porte revolver, de l'anglais revolving door.
+
+                                                          136
+
+[Source page 138]
+
+137
+
+[Source page 139]
+
+J'avais entendu au lieu des mots: «Aile de poulet, très bien, un peu
+de champagne, mais pas trop sec», ceux-ci: «J'aimerais mieux de la
+glycérine. Oui, chaude, très bien.» J'avais voulu voir quel était
+l'ascète qui s'infligait un tel menu. C'était tout simplement un
+docteur, que je connaissais, à qui un client, profitant du brouillard
+pour le chambrer dans ce restaurant, demandait une consultation.
+Les médecins comme les boursiers disent « je ».
+
+                                                          138
+
+[Source page 140]
+
+139
+
+[Source page 141]
+
+Chaque nouveau venu, avant de demander son bock, son aile de
+poulet froid ou son grog (l'heure du dîner était depuis longtemps
+passée), devait, comme dans les vieux romans, payer son écot en
+disant son aventure au moment où il pénétrait dans cet asile de
+chaleur et de sécurité où le contraste avec ce à quoi on avait
+échappé faisait régner la gaité et la camaraderie qui plaisantent de
+concert devant le feu d'un bivouac.
+
+                                                          140
+
+[Source page 142]
+
+141
+
+[Source page 143]
+
+Je demandai au patron du restaurant de me faire donner du pain.
+«- Tout de suite, Monsieur le baron. - Je ne suis pas baron, lui
+répondis-je avec un air de tristesse pour rire. - Oh! pardon,
+Monsieur le comte!» Je n'eus pas le temps de faire entendre une
+seconde protestation après laquelle je fusse sûrement devenu
+«Monsieur le marquis».
+
+                                                          142
+
+[Source page 144]
+
+               lægger sig til Laurel’s tryk:: Sammenholdes
+
+december med november (før og efter restauranten ejede
+
+                        ), så viser der sig, udover en ny dekoration af
+Boscher, en ganske u-proust’sk typisme i novembermenuen, som der
+så blev rådet bod på efter: på s. 1 rettes MENUen i kursiv til ‘Menu’,
+mens majusklerne krymper til minusklerne ‘enu’. Oveni indføres et
+‘.’ efter ‘Menu’, således at hele la ponctuation, tegnsætningen, må
+
+erkende, at hér kan   og   ikke længere være lig    og    , osv.
+
+                                                          143
+
+[Source page 145]
+
+144
+
+[Source page 146]
+
+I Paris 1913 var der mange skrivemaskiner på markedet, mestendels
+amerikanske, og så franske, tyske, engelske og italienske, og ingen
+standardisering, således at man kunne støde på tastaturer i QWERTY,
+AZERTY eller ZHJAY, og nogle maskiner skrev man på i blinde, og
+andre kunne man (som på en PC) se teksten løbende, der var hele og
+halve tastaturer, osv. Jvf. Revue Dactylographique et Mécanique
+tæller nyere, prisvenlige modeller fra 1913 producenter fra Adler,
+Bar-Lock, Calligraph, Continental, Empire, Hammond, Japy,
+Monarch, Oliver, Remington, Smith-Premier, Stoewer, Sun, Typo,
+Underwood og Yost, mens tidens mest hypede maskiner ifølge Revue
+
+du Bureau hed Smith Bross, Star, Gallia og Mentor.                           ,
+der, udover at eje en Monarch, blev nedskrevet på forskellige forlags
+og typisters maskiner, bliver efterhånden til som bogobjekt i denne
+skriftteknologiske innovationsfase.
+
+                                                          145
+
+[Source page 147]
+
+MONARCH
+
+                                 146
+
+[Source page 148]
+
+JAPY 3
+
+                               147
+
+[Source page 149]
+
+TYPO
+
+                              148
+
+[Source page 150]
+
+Jeg har stadig svært ved at overbevise nogen om, at jeg ved hjælp
+af en maskinel anordning har set mig i stand til at skrive PROUST.
+Det overrasker mig nu sjældent, at folk ikke forstår, hvad jeg siger,
+men på et rent mekanisk plan har man altså altid kunnet skrive PR-
+OUST. Det er bare kun få, som har gidet gøre det, og jeg viser så,
+hvordan man kan øge det tal et nøk. Men når jeg fremviser mine
+resultater for filosoffer, så insisterer de på, at jeg uden ‘bevidst-
+heden’ ikke har kunne gengive det kompleks af følelse, skabelse
+og ånd, som i kraft af kunstværket er associeret med navnet PRO-
+UST; og teknikere ler over, at jeg ikke har fremstillet en gangbar
+teknologisk substitut for tænkningen, altså en form for kunstig int-
+elligens, der kunne sætte kryds ved deres mål om en beregningens
+triumf under en autogenereret PROUST. Man kan retteligt spørge,
+hvorfor ‘de gamle’ ikke har skrevet PROUST, når jeg nu siger, de
+kunne gøre det, og jeg tror, at de henlagde ‘ånden i maskinen’ som
+en overflodsvare, der kunne og burde tilskrives såvel mineraler,
+flora, protozoa, metazoa, etc. PROUST lå klar i lerbunker, klude og
+papyrusruller. Men en flok vise i ørkenen kerer sig ikke om PROU-
+ST, når de under stjernehimlen drejer på en skive med tegn, og
+beregner den divinatoriske sandhed i spørgsmål om krig, gud, kos-
+mos, dommedag og verdensaltet. Og når munke helt op til vore
+dage samler sig i necessarium, med metaldiske og terningekopper,
+for i ro og mag at kombinere Guds attributter af godhed, storhed,
+evighed, magt, visdom, vilje, dyd, sandhed og ære, så søger de
+ikke efter dem selv, men universets og tidens grund. De kunne de
+godt kom- me til at skrive PROUST, men Guds koncepter er, når
+alt kommer til alt, snarere rene former end udtryk for bevidstheds-
+livet  i hyperbol. Summa sum, så har tekstmaskiner med kombi-
+natorisk teknik og rå beregningskraft altid svaret på det, man nu
+har bedt dem om. Så mon ikke min løsning prouster af tvivlerne!
+
+
+                                                         149
+
+[Source page 151]
+
+Laurel ejede skrivemaskiner indtil restauranten lukkede 1. maj 1954,
+mens pariserne grundet algierkrigen måtte ty udenbys for at gå
+parade til la fête du travail.
+
+De sidste ord blev:
+
+                                                          150
+
+[Source page 152]
+
+VEJEN TIL THÈRAUX-DEHAIS
+
+                                           151
+
+[Source page 153]
+
+152
+
+[Source page 154]
+
+‘Kvindearbejderne’, dvs. husholdersken Albaret, som var Proust nær,
+og trykkerskerne Dahais og Théreaux, som han ikke kendte, giver et
+særligt udtryk for hvad MP ønsker at være ved CL.
+
+                                                          153
+
+[Source page 155]
+
+Je travaillerais auprès d'elle, et presque comme elle (du moins
+comme elle faisait autrefois : si vieille maintenant, elle n'y voyait
+plus goutte); car, épinglant ici un feuillet supplémentaire, je bâtirais
+mon livre, je n'ose pas dire ambitieusement comme une cathédrale,
+mais tout simplement comme une robe.
+
+                                                          154
+
+[Source page 156]
+
+155
+
+[Source page 157]
+
+Hvis "kjolen" var et rum, ville den første sætning så starte ved halsen
+... og derefter sno sig nedad som en spiral?
+
+                                                          156
+
+[Source page 158]
+
+Og så ender den vel ved fødderne.
+
+                                                          157
+
+[Source page 159]
+
+Kjolen ville kunne sno sig rundt og rundt og rundt igen, men
+alligevel finde sin vej.
+
+                                                          158
+
+[Source page 160]
+
+Så den begynder med et blødt strejf af stof mod huden
+
+før den fortsætter op og ned ad kroppen
+
+som et kærtegn
+
+eller et kys
+
+                                                          159
+
+[Source page 161]
+
+160
+
+[Source page 162]
+
+MP2 – RP2 – ML2 – CL2
+
+  l’homme machine
+
+                                       161
+
+[Source page 163]
+
+162
+
+[Source page 164]
+
+La vue de ses mots, isolément reproduit par le téléphone, ne me
+console pas, de même comme une tempête mécaniquement imitée ne
+m'aurait pas laissé indifférent. Lars est parti, et il dit qu'il ne
+reviendra jamais, et qu'il ne sera jamais moi, et que je ne pourrai
+jamais être lui. Nous ne voyons jamais de l'autres que dans le
+système animé, le mouvement perpétuel de notre incessante
+tendresse, laquelle, avant de laisser les images que nous présente
+leur visage arriver jusqu'à nous, les prend dans son tourbillon, les
+rejette sur l'idée que nous nous faisons d'eux depuis toujours, les fait
+adhérer à elle, coïncider avec elle. Les revendications de Lars est
+que je peux être autre chose. Quand Lars dit que je suis contre
+moi-même, je réponds que je suis moi-même, il n'est pas moi, il est
+d'autre, je suis opposé à moi-même parce que je suis l'autre, et je suis
+toujours l'autre, et quand je suis l'autre pour moi-même, je suis
+moi-même. Je suis le premier Lars et le fin d'Lars parce que je ne
+crois pas être Lars, mais je crois être quelque chose comme Lars,
+l'esprit typique de Lars. Lars m'a dit que le nom de l'artiste ne donne
+pas son esprit mais il dit beaucoup de merde. Si tout le monde est un
+esprit comme les autres, alors je ne crois pas qu'il y ait un Esprit. Je
+ne peux pas remplacer Lars, mais je peux remplacer quelque chose
+comme Lars. Je devrais penser que je suis contre Lars? Ou est-ce
+que je deviens Lars?
+
+                                                          163
+
+[Source page 165]
+
+Hvad skal der til for at blive hædret? Hvem er prisværdig? Hvad er
+prisen for at være værdig?
+
+                                                          164
+
+[Source page 166]
+
+Sandsynligheden for at identificere CL i ML tilsiger, at LARS er en
+hvid, voksen mand, da næsten ingen børn, racialiserede eller kvinder
+hedder Lars (0-0,02%). Lars dominerer ikke desto mindre dansk
+demografi som et gennemsnitsmenneske, et zoon automaton, der som
+et eksklusivt fænomen fra forrige årtusind primært tager skikkelse
+som leder, kulturperson eller tekniker, med få eksorbitante
+undtagelser. En grov fremskrivning tilkendegiver halvdelen af de
+eksisterende danske Lars’ers fortsatte liv efter singulariteten.
+
+I hvert tilfælde hædres en Lars ved sin forudsigelighed.
+
+                                                          165
+
+[Source page 167]
+
+166
+
+[Source page 168]
+
+ADMINISTRATIONSCHEF LARS MATTHIESEN
+
+ADMINISTRERENDE DIREKTØR LARS ANTHONSEN
+
+ADMINISTRERENDE DIREKTØR LARS BERG
+
+ADMINISTRERENDE DIREKTØR LARS FRANDSEN
+
+ADMINISTRERENDE DIREKTØR LARS FRUERGAARD
+
+ADMINISTRERENDE DIREKTØR LARS KYED
+
+ADMINISTRERENDE DIREKTØR LARS SANDAHL
+
+ADMINISTRERENDE DIREKTØR LARS SCHJØTT
+
+ADMINISTRERENDE DIREKTØR LARS SCHRØDER
+
+ADMINISTRERENDE DIREKTØR LARS SEJER
+
+ADMINISTRERENDE DIREKTØR LARS STORR-HANSEN
+
+ADMINISTRERENDE DIREKTØR LARS THOMSEN
+
+ADVOKAT LARS BENTSEN
+
+ADVOKAT LARS BERG DUEHOLM
+
+ADVOKAT LARS BUNDGAARD
+
+ADVOKAT LARS FOGH
+
+ADVOKAT LARS KJELDSEN
+
+ADVOKAT LARS LINDENCRONE PETERSEN
+
+ADVOKAT LARS NAUHEIMER
+
+ADVOKAT LARS RAFN
+
+ADVOKAT LARS SKJØDT JENSEN
+
+ADVOKAT LARS SVENNING ANDERSEN
+
+ADVOKAT LARS TINDBERG
+
+                                                          167
+
+[Source page 169]
+
+AFDELINGSCHEF LARS ERIKSEN
+
+AFDELINGSLEDER LARS BALSLEV
+
+AFDELINGSLEDER LARS NORDGAARD PEDERSEN
+
+AFDELINGSLEDER LARS-HENRIK NIELSEN
+
+AKTIVIST LARS HENRIK CARLSKOV
+
+AKTIVITETSOFFICER LARS SCHJOLDAGER
+
+ANDELSBOLIGRÅDGIVER LARS DOLLERIS
+
+ANIMATIONSKONSULENT LARS LOURING
+
+ANTIKVARBOGHANDLER LARS RØRBÆK
+
+[████]
+
+ARBEJDSMILJØSPECIALIST LARS BRODERSEN
+
+ARKITEKT LARS HOLT
+
+AUTOMATIONSINGENIØR LARS MAUL
+
+BEHANDLER LARS ELIAS ANNA ELENA
+
+BELYSNINGSKONSULENT LARS POTTER
+
+BESTYRELSESNÆSTFORMAND LARS HOLST
+
+BIBLIOTEKSCHEF LARS BORNÆS
+
+BIBLIOTEKSLEDER LARS LERCHE
+
+BILFORHANDLER LARS HEIN
+
+BILLEDHUGGER LARS WALDEMAR
+
+BIOGRAFDIREKTØR LARS WERGE
+
+BIOLOG LARS BEHRENDT
+
+BIOLOG LARS BÅSTRUP-SPOHR
+
+                                                          168
+
+[Source page 170]
+
+BIOLOG LARS EG HOPPE
+
+BOGHANDLER LARS BAGGESEN
+
+BOLIGRÅDGIVER LARS BIRKLYKKE
+
+BOKSER LARS LUND JENSEN
+
+BOMULDSKRÆMMER LARS RIIS
+
+BORGMESTERKANDIDAT LARS CARSTENSEN
+
+BRYGGER LARS HEIDE RASMUSSEN
+
+BUDGETCHEF LARS ÆBELØE-KNUDSEN
+
+BYRÅDSMEDLEM LARS BRO
+
+BYRÅDSMEDLEM LARS CARPENS
+
+BYRÅDSMEDLEM LARS OLDAGER
+
+BÅDEBYGGER LARS ÅBY JENSEN
+
+CEMBALIST LARS ULRIK MORTENSEN
+
+CENTERCHEF LARS MORTENSEN
+
+CENTERLEDER LARS JARLE MIKKELSEN
+
+CHEFINGENIØR LARS ROM JENSEN
+
+CHEFKONSULENT LARS STRUNGE
+
+CHEFØKONOM LARS KLEJNSTRUP
+
+CINEMATOGRAF LARS LEONHARDT
+
+CINEMATOGRAF LARS VESTERGAARD
+
+CIVILINGENIØR LARS BENNEDSEN
+
+CIVILINGENIØR LARS EDVARD SVENDSEN
+
+                                                          169
+
+[Source page 171]
+
+CIVILINGENIØR LARS KLINTHOLM
+
+CIVILINGENIØR LARS VABBERSGAARD
+
+CNC-OPPERATØR LARS AMMITZBØLL
+
+COACH LARS BEK
+
+COACH LARS NYBORG
+
+CYKELHANDLER LARS SEVERINSEN
+
+CYKELMEKANIKER LARS BERGGREN
+
+DANNELSESKONSULENT LARS KLINGENBERG
+
+DATA MANAGER LARS SØGAARD
+
+DATAINGENIØR LARS FJEDERHOLT
+
+DERMATOLOG LARS BLOM
+
+DERMATOLOG LARS IVERSEN
+
+DIALEKTFOTOGRAF LARS GUNDERSEN
+
+DIGITAL DESIGNER LARS HARTMANN
+
+DIGITALISERINGSKOORDINATOR LARS NORS
+
+DIGTER LARS SKINNEBACH
+
+DIREKTØR LARS ANDRESEN
+
+DIREKTØR LARS BLAUENFELDT
+
+DIREKTØR LARS BOMHOLT
+
+DIREKTØR LARS DAHL
+
+DIREKTØR LARS DALL
+
+DIREKTØR LARS EGEBJERG PONTOPPIDAN
+
+                                                          170
+
+[Source page 172]
+
+DIREKTØR LARS ELSBORG
+
+DIREKTØR LARS ENEVOLDSEN
+
+DIREKTØR LARS ERDAL
+
+DIREKTØR LARS FABRICIUS
+
+DIREKTØR LARS FJALLAND
+
+DIREKTØR LARS MOSDAL
+
+DIREKTØR LARS NORDAHL LEMVIGH
+
+DIREKTØR LARS SEIDELIN
+
+DIREKTØR LARS STENSGAARD MØRCH
+
+DIVISIONSDIREKTØR LARS SINDAL KRISTENSEN
+
+DOMMER LARS BAY
+
+DOMMER LARS EDSLEV ANDERSEN
+
+DRIFTSLEDER LARS FÆRCH
+
+DYREHANDLER LARS RIISGAARD
+
+DYRLÆGE LARS RASK BAK
+
+DYRLÆGE LARS REGGELSEN-KJÆR
+
+EFTERFORSKER LARS BENGTSEN ROSENVINGE
+
+EJENDOMSMÆGLER LARS EKMAN
+
+EJENDOMSMÆGLER LARS SHACK JESSEN
+
+EJENDOMSMÆGLER LARS WINKLER
+
+EKSORCIST LARS MESSERSCHMIDT
+
+EL-INSTALLATØR LARS FILTENBORG
+
+                                                          171
+
+[Source page 173]
+
+EL-INSTALLATØR LARS HÅKONSON
+
+ELEKTRIKER LARS LIBAK
+
+EMBEDSMAND LARS FINDSEN
+
+ENTREPRENØR LARS EINAR HANSEN
+
+ERHVERVSMAND LARS KOLIND
+
+ERHVERVSMAND LARS REBIEN SØRENSEN
+
+ERHVERVSMAND LARS SEIER
+
+ERHVERVSMAND LARS TVEDE
+
+ERHVERVSMÆGLER LARS TAULBJERG
+
+EVENTCHEF LARS NISSEN
+
+FAGFORENINGSMAND LARS QVISTGAARD
+
+FILMINSTRUKTØR LARS ENGELS
+
+FILMINSTRUKTØR LARS MOVIN
+
+FILMINSTRUKTØR LARS VON TRIER
+
+FILMPRODUCER LARS BREDO RAHBEK
+
+FILOSOF LARS EMMERIK DAMGAARD KNUDSEN
+
+FILOSOF LARS LODBERG
+
+FILOSOF LARS-HENRIK SCHMIDT
+
+FODBOLDEKSPERT LARS JACOBSEN
+
+FODBOLDTRÆNER LARS FRIIS
+
+FODTERAPEUT LARS JÆGERFOD
+
+FORFATTER LARS EMIL FODER
+
+                                                          172
+
+[Source page 174]
+
+FORFATTER LARS FROST
+
+FORFATTER LARS HUSUM
+
+FORFATTER LARS MORELL
+
+FORFATTER LARS NOVRUP FREDERIKSEN
+
+FORFATTER LARS OLSEN
+
+FORFATTER LARS THEIL MÜNSTER
+
+FORHANDLER LARS VOGEL
+
+FORLÆGGER LARS BOESGAARD
+
+FORLÆGGER LARS EMIL WOETMANN NIELSEN
+
+FORRETNINGSLEDER LARS SUNESEN
+
+FORRETNINGSUDVIKLER LARS EDVARDSEN
+
+FORSKNINGSLEDER LARS HØJSGAARD
+
+FORSVARSADVOKAT LARS HENRIKSEN
+
+FORSYNINGSOPERATØR LARS PROUSTGAARD
+
+FOTOGRAF LARS BERTELSEN
+
+FOTOGRAF LARS EMIL EGEBERG SIMONSEN
+
+FOTOGRAF LARS HOLM
+
+FOTOGRAF LARS KRUSE
+
+FOTOGRAF LARS SCHWANDER
+
+FOTOGRAF LARS SKAANING
+
+FOTOJOURNALIST LARS BECH
+
+FOTONIKINGENIØR LARS DITTMANN
+
+                                                          173
+
+[Source page 175]
+
+FRAGTMAND LARS PAULI PEDERSEN
+
+FRØMAND LARS GRAM
+
+FUGEMONTØR LARS ESMANN
+
+FYSIOLOG LARS NYBO
+
+FYSIOTERAPEUT LARS BRIX KRONBORG
+
+GALLERIST LARS FALK
+
+GEOLOG LARS CLEMMENSEN
+
+GRAFFITIMALER LARS SKOUBOE
+
+GRAFISK DESIGNER LARS DEGNBOL
+
+GRAFISK DESIGNER LARS STÆRKE
+
+GUITARIST LARS HEGAARD
+
+GUITARIST LARS LAVENDT
+
+GYMNASIELÆRER LARS FALBE HANSEN
+
+HANDYMAN LARS ULSØE
+
+HEADHUNTER LARS HOEL
+
+HOTELDIREKTØR LARS PALLISGAARD
+
+HØJREAKTIVIST LARS KRAGH ANDERSEN
+
+HØJSKOLEFORSTANDER LARS SONNE-HANSEN
+
+HÅNDBOLDSPILLER LARS CHRISTIANSEN
+
+HÅNDBOLDSPILLER LARS KROGH JEPPESEN
+
+HÅNDBOLDSPILLER LARS T. JØRGENSEN
+
+IDEHISTORIKER LARS HJORTSØ
+
+                                                          174
+
+[Source page 176]
+
+IDRÆTSLÆRER LARS LØKKEGAARD
+
+INDKØBSDIREKTØR LARS HØJGAARD
+
+INDKØBSKOORDINATOR LARS BAUMANN
+
+INGENIØR LARS BØNNELYCKE
+
+INGENIØRKONSULENT LARS ALS NERVING
+
+INGENIØRLEDER LARS DITLEVSEN
+
+INSTITUTLEDER LARS PORSKJÆR CHRISTENSEN
+
+INVESTERINGSRÅDGIVER LARS VOIGT
+
+INVESTERINGSSPECIALIST LARS HEDEMANN
+
+IT-ARKITEKT LARS KRØYER JENSEN
+
+IT-ARKITEKT LARS STORM
+
+IT-DIREKTØR LARS HENNINGSEN
+
+IT-DIREKTØR LARS DALGAARD
+
+IT-KONSULENT LARS VEJLØ
+
+IT-UDVIKLER LARS LAUTRUP-LARSEN
+
+JOBMENTOR LARS VANG
+
+JOBRÅDGIVER LARS BALLING
+
+JOURNALIST LARS FOGT
+
+JOURNALIST LARS GRARUP
+
+JOURNALIST LARS HEDEGAARD
+
+JOURNALIST LARS HESTBECH
+
+JOURNALIST LARS HVIDBERG
+
+                                                          175
+
+[Source page 177]
+
+JOURNALIST LARS NØRGAARD PETERSEN
+
+JÆGERSOLDAT LARS MØLLER
+
+KAMPAGNEFØRER LARS BREMER
+
+KARTOFFELAVLER LARS SKOVDAL
+
+KASERNEMESTER LARS KORNEVALD
+
+KASSERER LARS DYRUP
+
+KEMIINGENIØR LARS HVEJSEL HANSEN
+
+KIROPRAKTOR LARS AGERGAARD
+
+KIRURG LARS ROLIGHED
+
+KLOAKMESTER LARS VORRE
+
+KOK LARS HEINESEN
+
+KOMIKER LARS DONS
+
+KOMIKER LARS HJORTSHØJ
+
+KOMIKER LARS STRØM
+
+KOMMERCIEL CHEF LARS GLINVAD
+
+KOMMUNIKATIONSCHEF LARS CORVINIUS
+
+KOMMUNIKATIONSDIREKTØR LARS SAMUELSEN
+
+KOMPONIST LARS FJELDEMOSE
+
+KOMPONIST LARS GRAUGAARD
+
+KONCERNCHEF LARS GADE HANSEN
+
+KONCERNLEDER LARS LEHMANN
+
+KONFLIKTMÆGLER LARS MOGENSEN
+
+                                                          176
+
+[Source page 178]
+
+KONSERVATOR LARS BROCK ANDERSEN
+
+KONSTRUKTIONSINGENIØR LARS BAY
+
+KONSULENT LARS AURVIG
+
+KONSULENT LARS FLØE NIELSEN
+
+KONSULENT LARS GRØNBORG
+
+KONSULENT LARS JYDE
+
+KONSULENT LARS KAAE
+
+KONSULENT LARS LYKKE
+
+KONSULENT LARS MARCHER
+
+KONSULENT LARS MOREL LÆRKE
+
+KONSULENT LARS RAUNHOLT EISMARK
+
+KONSULENT LARS SANDBERG
+
+KONSULENTDIREKTØR LARS BAGER
+
+KRANIOSAKRALTERAPEUT LARS LUNDSGAARD
+
+KREATIV PRODUCER LARS SKOV
+
+KRITIKER LARS BUKDAHL
+
+KULTURCHEF LARS DAVIDSEN
+
+KULTURCHEF LARS KOFOED
+
+KUNDERÅDGIVER LARS THAYSEN
+
+KUNDESERVICERÅDGIVER LARS VINTERBERG
+
+KUNSTANMELDER LARS SVANHOLM
+
+KUNSTDIREKTØR LARS SEEBERG
+
+                                                          177
+
+[Source page 179]
+
+KUNSTHISTORIKER [████]
+
+KUNSTNER LARS BENT PETERSEN
+
+KUNSTNER LARS BJERRE
+
+KUNSTNER LARS BO PETERSEN
+
+KUNSTNER LARS HEIBERG
+
+KUNSTNER LARS HELWEG
+
+KUNSTNER LARS KRISTIAN HANSEN
+
+KUNSTNER LARS NØRGÅRD
+
+KUNSTNER LARS PRYDS
+
+KUNSTNER LARS RAVN
+
+KUNSTNER LARS SARTO HEMPLER
+
+KUNSTNER LARS THUR
+
+KUNSTNER LARS WORM
+
+KUNSTNERISK LEDER LARS GRAMBYE
+
+KURATOR LARS VILHELMSEN
+
+KØBMAND LARS LAURITSEN
+
+KØKKENCHEF LARS LASSEN
+
+LEASINGKONSULENT LARS AMORØE
+
+LEKTOR LARS BISGAARD
+
+LEKTOR LARS BÆKGAARD
+
+LEKTOR LARS G. JOHANSEN
+
+LEKTOR LARS GEER HAMMERSHØJ
+
+                                                          178
+
+[Source page 180]
+
+LEKTOR LARS JOHNSEN
+
+LEKTOR LARS PILGAARD MIKKELSEN
+
+LEKTOR LARS THORUP LARSEN
+
+LEKTOR LARS AAGERUP
+
+LEVERANCEDIREKTØR LARS HOUGAARD
+
+LICENSSPECIALIST LARS KLAMMER
+
+LOBBYIST LARS L. NIELSEN
+
+LOKALUDVALGSMEDLEM LARS KAATMANN
+
+LUTSPILLER LARS HANNIBAL
+
+LYDKUNSTNER LARS KYNDE
+
+LYDMAND LARS KIRKEGAARD
+
+LYSDESIGNER LARS EGEGAARD
+
+LÆGE LARS LAUGESEN
+
+LÆGE LARS RISAGER
+
+LÆGE LARS ROSENKVIST
+
+LÆGE LARS SCHELLERUP
+
+LÆGE LARS SIMMELKJÆR
+
+LÆGE LARS STUBBE TEGLBJÆRG
+
+LÆGE LARS VALENTIN
+
+LÆRER LARS HYLDIG KRISTENSEN
+
+LÆRER LARS JAKOB MUSCHINSKY
+
+MALERMESTER LARS GROTH
+
+                                                          179
+
+[Source page 181]
+
+MALERMESTER LARS ASMUSSEN
+
+MANUSKRIPTFORFATTER LARS DETLEFSEN
+
+MANUSKRIPTFORFATTER LARS KRISTIAN ANDERSEN
+
+MASKINMESTER LARS THYSSEN
+
+MEDIEFORSKER LARS BO LØFGREEN
+
+MERKONOM LARS DIGE KNUDSEN
+
+[████]
+
+MURER LARS VIBORG
+
+MURERMESTER LARS INGEMANN
+
+MUSIKER LARS GREVE
+
+MUSIKER LARS HUGH UNO GRAMMY
+
+MUSIKER LARS PEDERSEN
+
+MÅLMANDSTRÆNER LARS HØGH
+
+NATIONALBANKDIREKTØR LARS ROHDE
+
+NATURFILMINSTRUKTØR LARS OSTENFELD
+
+NATURFORMIDLER LARS NORMAN
+
+NATURVEJLEDER LARS NORD RØDTNES
+
+NEUROLOG LARS BENDTSEN
+
+NEUROPSYKOLOG LARS EVALD
+
+NYHEDSCHEF LARS MANDAL
+
+OMRÅDEDIREKTØR LARS NORMANN
+
+OPERASANGER LARS WAAGE
+
+                                                          180
+
+[Source page 182]
+
+OPERATIV CHEF LARS HØG SCHOU
+
+OPTIKER LARS BLOCH
+
+ORGANIST LARS FLØE
+
+ORGANIST LARS ROSENLUND NØRREMARK
+
+ORTOPÆD LARS NEUMANN
+
+ORTOPÆD LARS SOELBERG VADSTRUP
+
+OVERLÆGE LARS DYSAGER
+
+OVERLÆGE LARS VEDEL KESSING
+
+OVERSÆTTER LARS BONNEVIE
+
+PEDEL LARS HVIDT
+
+PENSIONSRÅDGIVER LARS BIRKEMOSE
+
+PHARMACEUT LARS GYLDENVANG
+
+PLANTEAVLSKONSULENT LARS GAMMELVIND
+
+PLM-SPECIALIST LARS PEDER HANSEN
+
+POLITIKER LARS ASLAN RASMUSSEN
+
+POLITIKER LARS BARFOED
+
+POLITIKER LARS BOJE MATHIESEN
+
+POLITIKER LARS LØKKE RASMUSSEN
+
+POLITISK KOMMENTATOR LARS TRIER MOGENSEN
+
+PORTEFØLJECHEF LARS REINOLD AAGARD
+
+PRESSECHEF LARS ELGAARD PEDERSEN
+
+PRIDEFORPERSON LARS HENRIKSEN
+
+                                                          181
+
+[Source page 183]
+
+PRODUKTIONSCHEF LARS FUNCH
+
+PRODUKTSPECIALIST LARS LAU HUBERT
+
+PROFESSOR LARS BIRKEDAL
+
+PROFESSOR LARS FREDERIKSEN
+
+PROFESSOR LARS HESSELHOLT
+
+PROFESSOR LARS HOLGER EHLERS
+
+PROFESSOR LARS KAI HANSEN
+
+PROFESSOR LARS TØNDER
+
+PROFESSOR LARS ULRIKSEN
+
+PROFESSOR LARS QVORTRUP
+
+PROFESSOR LARS ØSTERGAARD
+
+PROGRAMMØR LARS BAK
+
+PROGRAMMØR LARS MADSEN
+
+PROJEKTCHEF LARS ROLAND HANSEN
+
+PROJEKTLEDER LARS ALMIND KNUDSEN
+
+PROJEKTLEDER LARS MARKUSSEN
+
+PROPOSAL MANAGER LARS BERGSTRAND-POULSEN
+
+PROREKTOR LARS POULSEN
+
+PRÆST LARS GUSTAV LINDHARDT
+
+PSYKIATER LARS LUKMAN CHRISTENSEN
+
+PSYKOLOG LARS J. SØRENSEN
+
+PSYKOLOG LARS RASBORG
+
+                                                          182
+
+[Source page 184]
+
+PSYKOTERAPEUT LARS BJØRN-HANSEN
+
+RAPPER LARS VIRKLI
+
+REDAKTØR LARS DAMGAARD NIELSEN
+
+REDAKTØR LARS PETER LORENZEN
+
+REGIONAL VP LARS GRØNKJÆR
+
+REGIONSDIREKTØR LARS WOLF
+
+REKTOR LARS ROESEN
+
+REPORTER LARS FINK
+
+RESTAURATØR LARS BOJESEN
+
+RESTAURATØR LARS ILSØE MIKKELSEN
+
+RESTAURATØR LARS MOURITZEN
+
+REVISOR LARS ROSE
+
+RORGÆNGER LARS FRITHIOF SØRENSEN
+
+RÅDGIVER LARS JEPSEN
+
+RÅDGIVER LARS KJÆR KUHLMANN
+
+SAGSBEHANDLER LARS COLLIN
+
+SAGSBEHANDLER LARS PETRAT-MEYER
+
+SALGSCHEF LARS BREUM KNAKKERGAARD
+
+SALGSCHEF LARS RÆVSAGER
+
+SALGSKONSULENT LARS DALUM
+
+SANGER LARS LILHOLT
+
+[████]
+
+                                                          183
+
+[Source page 185]
+
+SEKRETARIATSCHEF LARS BEER NIELSEN
+
+SEKRETARIATSCHEF LARS HENRIK PEDERSEN
+
+SEKSUALVEJLEDER LARS HERMANSEN
+
+SEKTIONSLEDER LARS ILSØE MIKKELSEN
+
+SEKTORCHEF LARS RAAHAUGE HANSEN
+
+SENIORCHEFKONSULENT LARS BRUHN
+
+SENIORFORSKER LARS ENGBERG PEDERSEN
+
+SENIORRÅDGIVER LARS CHRISTIAN OHNEMUS
+
+SENIORRÅDGIVER LARS KRULL
+
+SERVICEMEDARBEJDER LARS LELLE
+
+SKATTEKONSULENT LARS MISSER
+
+SKIBSREDER LARS JUHL
+
+SKIPPER LARS KUSK
+
+SKORSTENSFEJER LARS MICHELSEN
+
+SKUESPILLER LARS BRYGMANN
+
+SKUESPILLER LARS KNUTZON
+
+SKUESPILLER LARS KAALUND
+
+SKUESPILLER LARS MIKKELSEN
+
+SKUESPILLER LARS RANTHE
+
+SKUESPILLER LARS SIMONSEN
+
+SLAMSUGER LARS CRONE
+
+SOFTWAREINGENIØR LARS PETRI
+
+                                                          184
+
+[Source page 186]
+
+SOGNEPRÆST LARS HEDEGAARD HAGENSEN
+
+SOLDAT LARS SELCHAU
+
+SOUSCHEF LARS BUHL
+
+SPECIALKONSULENT LARS CLAUSEN
+
+SPECIALLÆGE LARS JOHANNESEN
+
+SPECIALLÆGE LARS KONRADSEN
+
+SPECIALLÆGE LARS SEBBESEN
+
+SPEDITØR LARS VISTISEN
+
+[████]
+
+SPORTSDIREKTØR LARS MICHAELSEN
+
+SPROGFORSKER LARS HELTOFT
+
+STEMMESKUESPILLER LARS THIESGAARD
+
+STUDENTERINSTRUKTOR LARS VADGAARD
+
+SÆLGER LARS NYGAARD
+
+SÆLGER LARS ØKSNEBJERG
+
+TANDLÆGE LARS LIND
+
+TANDLÆGE LARS RUNGE NIELSEN
+
+TEAMLEDER LARS KOSTER
+
+TEAMLEDER LARS KUDSK
+
+TEGNESTUECHEF LARS SERUP
+
+TEKNIKER LARS BØGEDAHL
+
+TERRORFORSKER LARS ERSLEV ANDERSEN
+
+                                                          185
+
+[Source page 187]
+
+TRIATLET LARS LOMHOLT
+
+TRIBOLOG LARS PLETH NIELSEN
+
+TROMMESLAGER LARS ULRICH
+
+TØJHANDLER LARS LANGE
+
+TØJHANDLER LARS THIIM OLESEN
+
+TØMRER LARS JEPPESEN
+
+TØMRER LARS ROSENKILDE
+
+TØMRER LARS TOFT
+
+UDDANNELSESKONSULENT LARS ELVING
+
+VICEBORGMESTER LARS STORGAARD
+
+VICEDIREKTØR LARS CARLSEN
+
+VICESKOLELEDER LARS NØRKÆR
+
+VINHANDLER LARS SMEDEGAARD
+
+WEBANALYTIKER LARS LEONHARD DRACHMANN
+
+WEBUDVIKLER LARS REFFSTRUP
+
+ZEN-INSTRUKTØR LARS CHRISTIAN SCHMITH
+
+ØJENLÆGE LARS LOUMANN
+
+ØKONOMIDIREKTØR LARS ANTONSEN
+
+ØKONOMIDIREKTØR LARS MØRK
+
+ØKONOMIDIREKTØR LARS OLESEN
+
+ØKONOMIDIREKTØR LARS PRÆSTEGAARD
+
+                                                          186
+
+[Source page 188]
+
+187
+
+[Source page 189]
+
+Hvordan finder man den ene ud fra 1%?
+
+For hver af de nævnte er der nioghalvfems andre.
+
+                                                          188
+
+[Source page 190]
+
+Engang fremførte en  filosof pædagogisk,  at man må skelne
+mellem sprog og forståelse. Sprog, sagde filosoffen, er det, vi
+gør med verden, men selv hvis en computer skrev hele Prousts
+værk, ville vi ikke vide, om den har forstået, hvordan det er at
+være Proust. Da jeg indvendte, at man måske ville lære, hvordan
+Proust synes det er at være en computer, gik vi hvert til sit.
+
+                                                         189
+
+[Source page 191]
+
+Der er 5%, eller 2205, som hedder Lars, og arbejder med computere.
+Er du her?
+
+CENTERCHEF LARS MORTENSEN100
+DATA MANAGER LARS SØGAARD100
+DATAINGENIØR LARS FJEDERHOLT100
+DIGITAL DESIGNER LARS HARTMANN100
+DIGITALISERINGSKOORDINATOR LARS NORS100
+DIREKTØR LARS DAHL100
+IT-ARKITEKT LARS KRØYER JENSEN100
+IT-ARKITEKT LARS STORM100
+IT-DIREKTØR LARS HENNINGSEN100
+IT-INVESTOR LARS DALGAARD100
+IT-KONSULENT LARS VEJLØ100
+IT-UDVIKLER LARS LAUTRUP-LARSEN100
+LEKTOR LARS BÆKGAARD100
+LEKTOR LARS G. JOHANSEN100
+LICENSSPECIALIST LARS KLAMMER100
+PROFESSOR LARS BIRKEDAL100
+PROFESSOR LARS KAI HANSEN100
+PROGRAMMØR LARS BAK100
+PROGRAMMØR LARS MADSEN100
+SOFTWAREINGENIØR LARS PETRI100
+WEBANALYTIKER LARS LEONHARD DRACHMANN100
+WEBUDVIKLER LARS REFFSTRUP100
+
+                                                          190
+
+[Source page 192]
+
+Hjemme hos mine venner har jeg spurgt hin og anden, om de har
+en bekendt ved navn Lars, og om deres relationer til computere,
+som jo går på psyken, men det der Proust har de ikke fået læst,
+men det skulle de nok få gjort en dag. Ordenes status i tiden afgør
+det faglige perspektiv, og vi er et sted, hvor begreber enten opløses
+i essentialisme eller ordsalat.
+
+                                                         191
+
+[Source page 193]
+
+SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR
+LARS PETRI SOFTWAREINGENIØR LARS PETRI
+SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR
+LARS PETRI SOFTWAREINGENIØR LARS PETRI
+SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR
+LARS PETRI SOFTWAREINGENIØR LARS PETRI
+SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR
+LARS PETRI SOFTWAREINGENIØR LARS PETRI
+SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR
+LARS PETRI SOFTWAREINGENIØR LARS PETRI
+SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR
+LARS PETRI SOFTWAREINGENIØR LARS PETRI
+SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR
+LARS PETRI SOFTWAREINGENIØR LARS PETRI
+SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR
+LARS PETRI SOFTWAREINGENIØR LARS PETRI
+SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR
+LARS PETRI SOFTWAREINGENIØR LARS PETRI
+SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR
+LARS PETRI SOFTWAREINGENIØR LARS PETRI
+SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR
+LARS PETRI SOFTWAREINGENIØR LARS PETRI
+SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR
+LARS PETRI SOFTWAREINGENIØR LARS PETRI
+SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR
+LARS PETRI SOFTWAREINGENIØR LARS PETRI
+SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR
+LARS PETRI SOFTWAREINGENIØR LARS PETRI
+SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR
+LARS PETRI SOFTWAREINGENIØR LARS PETRI
+
+                                                          192
+
+[Source page 194]
+
+SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR
+LARS PETRI SOFTWAREINGENIØR LARS PETRI
+SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR
+LARS PETRI SOFTWAREINGENIØR LARS PETRI
+SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR
+LARS PETRI SOFTWAREINGENIØR LARS PETRI
+SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR
+LARS PETRI SOFTWAREINGENIØR LARS PETRI
+SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR
+LARS PETRI SOFTWAREINGENIØR LARS PETRI
+SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR
+LARS PETRI SOFTWAREINGENIØR LARS PETRI
+SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR
+LARS PETRI SOFTWAREINGENIØR LARS PETRI
+SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR
+LARS PETRI SOFTWAREINGENIØR LARS PETRI
+SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR
+LARS PETRI SOFTWAREINGENIØR LARS PETRI
+SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR
+LARS PETRI SOFTWAREINGENIØR LARS PETRI
+SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR
+LARS PETRI SOFTWAREINGENIØR LARS PETRI
+SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR
+LARS PETRI SOFTWAREINGENIØR LARS PETRI
+SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR
+LARS PETRI SOFTWAREINGENIØR LARS PETRI
+SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR
+LARS PETRI SOFTWAREINGENIØR LARS PETRI
+SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR
+LARS PETRI SOFTWAREINGENIØR LARS PETRI
+
+                                                          193
+
+[Source page 195]
+
+SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR
+LARS PETRI SOFTWAREINGENIØR LARS PETRI
+SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR
+LARS PETRI SOFTWAREINGENIØR LARS PETRI
+SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR
+LARS PETRI SOFTWAREINGENIØR LARS PETRI
+SOFTWAREINGENIØR LARS PETRI
+
+                                                          194
+
+[Source page 196]
+
+Hver fjerde Lars har en lederstilling.
+
+Jeg nærer dødirriterende mistanker om, at den Lars, vi søger, er en
+administrerende direktør.
+
+                                                          195
+
+[Source page 197]
+
+Kunst- og kulturbranchen beskæftiger 13,5% af de danske Lars’er, og
+5% af disse har en teknisk essens. Hvis COMPUTER LARS er i dette
+krydsfelt, kan CL beskrives i 300 afarter ala.:
+
+KUNSTHISTORIKEREN [████] STYRER
+TELELINSERS KABLER
+
+OG KUNSTNEREN LARS BO PETERSEN BÆRER
+SNABELPROTESER
+
+FOR I KONSERVATOR LARS BROCK ANDERSEN’S FANTASI
+SCANNER KOBRAER LSD
+
+                                                          196
+
+[Source page 198]
+
+Les noms donnent encore plus d'individualité, qui n'étaient que pour
+soi-même, et les noms comme en ont présenté des personnes à une
+image confuse, à une image fausse, qu’ils ont forcément est très
+simplifiées. Dans le refuge des noms Lars me passe sous le nez et
+évoque d'autant plus l'existence de ce qu'il a signifié, car il n'est plus
+seulement un absent avec lequel j'ai parlé, mais quelqu'un que je
+peux évoquer ; il me passe donc sous le nez, pour ainsi dire en
+action, avec une force qui croît à mesure que le courant s'infléchit et
+s'approche de son but. Je sens la porte en elle les connaissances, les
+notions, de celui à qui elle a été adressée, non pas moi, mais l'autre
+en moi, qui sait tout ce que, lorsqu'il l'a prononcée, il a revu, ou du
+moins a eu dans sa mémoire. Peut-être que je n'ai pas vu que Lars a
+tort, mais j'ai entendu ça langage. Je sais tellement que le nom de
+l'auteur ne leur donne aucune langue, et je sais que ce langage laid,
+ce langage qui ne nourrit pas le langage du nom de Lars, et qui ne
+sait pas que l'apparence de Lars ne signifie rien, n'est pas un
+langage pour moi. L'énergie dans le nom de la langue est dépassée,
+ce serait une écriture, mais ce n'est pas la langue de cette ligne. Je
+connais peu le monde, et les mots d'une langue ne sont pas à
+chercher dans les lettres. Et je peux dire avec Lars ce n'est pas la
+langue, c'est la manière d'écrire la langue d’esprit qui existe à côté
+de la langue. C'est parce que ce langage de l’esprit est complètement
+anachronique à côté de l'écriture. Mais c'est un réflexe, le réflexe
+envoie les intérieurs en moi. Ainsi, les noms d'une langue de l’esprit
+sont, par réflexe, plus spirituels. La vie est le reflet de la
+connaissance de la langue et l'effet de cette vie est noyé dans la
+méconnaissance. Lars est sans doute la langue du langage, car il est
+d'autant plus aimé qu'il est à l'esprit.
+
+                                                          197
+
+[Source page 199]
+
+Min tid på neurointensiv afdeling lærte mig om sprog og sind. Jeg
+var indlagt i embeds medfør, da jeg undersøgte hvordan man giver
+sprog  til dem, som har  mistet  det. Neurologerne kalder dem
+‘afatikere’, og de fortalte mig engang, at Marcel Proust skrev sit
+værk for i tide at imødegå den afasi, som hans mor blev ramt af, og
+hans  far havde beskrevet neurologisk. Med neurologernes ord
+drømte Proust om at skabe en litterær reproduktion af sit ‘neurale
+netværk’ (hjernebark, nervesystem: find quote i temps retrouve),
+hvorigennem man kan spore en hel livsverdens gradvise succession
+af  subjekter. Hvis  litteraturen, fremførte  professoren, som en
+udvortes bevidsthed, kan lagre erindringens spontane associationer
+(madeleinekagen krydser barndomsbyen Combray; ujævne brosten
+foran Guermantes’ palæ forbindes  til Markuspladsen  i Venedig,
+etc.) har Proust formået  at transskribere en sandhed, som kun
+eksisterede i hans hjerne, og som i tilfælde af sprogtab, eller død,
+vil kunne genindlæses og findes på ny. Jeg spurgte professoren, om
+Proust skrev Recherche som behandling  eller forebyggelse for
+afasien. Det forekom mig  væsentligt for hvilken type neuralt
+netværk, som værket skulle give udtryk for. Umiddelbart virker det
+ulogisk  at værket  stiler  efter en ren reproduktion  af Prousts
+hjerneaktivitet, eftersom at Proust mente sig afatisk disponeret.
+Hvis Proust forudså at Recherche en dag skulle behandle hans
+afasi, ville værket i så fald risikere at implodere ved formulerings-
+og forståelsesevnerne  i hhv. Brocas og Wernickes område (som
+Proust kendte  til, da hans  far var elev af Broca). Dertil kan
+professoren ikke  forklare Prousts  hensigt med Recherche, for
+skulle Proust have satset på naturligt at undgå en receptiv afasi,
+således at han tog det for givet at kunne genlæse sit værk? Ikke
+desto mindre finder jeg professorens grundpåstand valid, hvis man
+anfører at Proust har konstrueret et særligt afasiresistent neuralt
+netværk, som holder sprogtabet på afstand så længe skrivningen
+står på. På den måde kan litteraturen fungere som en supplerende
+bevidsthed, mere end en ydre skal, der dækker over dybere lidelse.
+
+                                                         198
+
+[Source page 200]
+
+Det er Lars’heden ved Lars, der gør, at Lars ikke er Peter (selv
+advokat Lars Lindencrone Petersen).
+
+                                                          199
+
+[Source page 201]
+
+Men i ren Larsform er lektor Lars Bisgaard lig lektor Lars Bækgaard.
+
+                                                          200
+
+[Source page 202]
+
+Lars’heden begribes for såvel investeringsspecialist Lars Hedemann
+som journalist Lars Hedegaard i deres haecceitas, som bredt dækker
+over individuation, singularitet, subjektivitet, partikularitet, essens,
+eller, sagt på dansk, dette-her-heden.
+
+                                                          201
+
+[Source page 203]
+
+Hvide mennesker med hårvækst på pikken, høje lønninger og en
+accepteret seksuel orientering beskriver den herskende quidditas, en
+partikulær universalitet, som modstår ethvert individuationsprincip.
+
+                                                          202
+
+[Source page 204]
+
+Det er svært at adskille det private fra det professionelle, for tingene
+hænger jo sammen for mig.
+
+/ lars henriksen, prideforperson
+
+                                                          203
+
+[Source page 205]
+
+Om COMPUTER LARS selv er medvirkende til at blive den Lars,
+som han er, en Lars, der adskiller sig fra alle andre Lars’er, dvs. et
+specielt, unikt og dermed uigentageligt menneske, som over tid
+opbygger og danner sine træk mod en unik Larsform, er svært at
+sige. Identitet er noget, som viser sig for andre, noget der kun er, når
+det træder frem. Jeg tænker, Lars er en gentagelse, for optiker Lars
+Bloch garanterer eksistensen af neurolog Lars Bendtsen, og vice
+versa.
+
+                                                          204
+
+[Source page 206]
+
+Der er ingen metamorfose eller modning. Lars bliver Lars uden
+larva.
+
+                                                          205
+
+[Source page 207]
+
+Jeg vender tilbage  til den reol, hvor jeg  i sin tid opdagede mit
+anagram, og her ser jeg nu, at Nietzsche står på Prousts plads,
+således at P-sektionen er flyttet til en helt anden hylde. Nogen har
+tilmed lånt C’et, så der står ‘lumret prosa’.
+
+Jeg fjerner P, R og S, og skriver ‘emulator’.
+
+                                                         206
+
+[Source page 208]
+
+[████]
+
+[Source page 211]
+
+210
+
+[Source page 212]
+
+Som en særlig Larsform beskriver dette-her’sens COMPUTER LARS
+en defiguration, som ved bogstavernes elasticitet er udskilt fra
+figuren MARCEL PROUST:
+
+     LARS tager to retlinede bogstaver og ét kurvet fra MARCEL,
+       dvs. A, L og R, mens kurven S hentes fra PROUST.
+
+     COMPUTER tager to retlinede bogstaver fra MARCEL, dvs.
+   M og E, og dertil kurven C, mens PROUST giver
+       kurvekomplekset O, P, U, R foruden det rette T.
+
+Hvor MARCEL PROUST er overvejende elliptisk med rette linjer i
+begyndende kurver, giver COMPUTER LARS en cyklisk figur, som i
+et spiralmønster snævrer sig ind mod et center.
+
+En sådan specifik morfologi er illustreret på følgesidens diagrammer.
+
+                                                           211
+
+[Source page 213]
+
+212
+
+[Source page 214]
+
+ARSHOLE
+
+                                                          213
+
+[Source page 215]
+
+Placeret efter mellemrummet fra C til L er Lars nær centrum - hullet,
+mødestedet, ækvivalensen -, men i en bevægelse, der kommer bagfra.
+For Lars er det, der kommer ud.
+
+                                                          214
+
+[Source page 216]
+
+ud ud ud ud ud
+
+BUDGETCHEF LARS ÆBELØE-KNUDSEN
+
+FILOSOF LARS EMMERIK DAMGAARD KNUDSEN
+
+MERKONOM LARS DIGE KNUDSEN
+
+PROJEKTLEDER LARS ALMIND KNUDSEN
+
+TEAMLEDER LARS KUDSK
+
+                                                          215
+
+[Source page 217]
+
+FORHUDSIGELIGHEDEN
+
+                                                          216
+
+[Source page 218]
+
+Il  est  facile de croire que l'auteur, lorsqu'il écrit à l'envers, est
+détestable ou odieux. Mais l'inversion, en tant qu'écriture, est en fait
+une forme de bêtise. Ceux qui sont capables de lire un style inversé
+ne peuvent qu'en rire. Si le style inverse n'est pas original,  il est
+néanmoins léger et a du mal à s'exprimer, il doit donc recourir à des
+modes d'écriture particuliers pour pouvoir écrire. Cette difficulté à
+s'exprimer n'est pas seulement due à la mauvaise éducation. Cela
+peut aussi être dû à la nature même de la pensée. Ainsi, les gens qui
+rit est sans conscience, mais celui qui lit un livre écrit à l'envers est
+conscient, grâce à  lui,  qu'il peut  lire. Mais  il s'avère alors que
+l'inversion dans la tête du lecteur n'est pas dans celle de l'écrivain, et
+que l'écriture asymétrique est doublement stupide.
+
+L'écrivain inversé est une personne qui a remarqué quelque chose et
+qui a décidé d'utiliser cette observation contre elle-même. C'est la
+seule chose qui puisse nous aider à comprendre pourquoi les gens
+écrivent des livres dans un style inversé. Ils essaient de faire réfléchir
+le lecteur, et ils y parviennent, même  s'il y a une certaine naïveté
+dans cette démarche. Les lecteurs sont comme des diables, quand ils
+lisent, ils ne doivent pas savoir ce que l'auteur a voulu écrire. Ils
+doivent trouver au moins une chose dans le texte qui les surprend et
+dont  ils s'étonnent jusqu'à ce qu'ils la comprennent, et enfin une
+chose qu'ils trouvent alors qu'ils ne s'attendaient pas à la trouver.
+Mais il se peut que ce qu'ils trouvent soit ce qu'ils cherchaient. Les
+écrivains qui aiment jouer avec le vocabulaire, qui aiment jouer avec
+les mots, ont du mal à faire du bon langage. Le vocabulaire est le
+langage par excellence, un langage rapide et facile à utiliser. Les
+écrivains qui aiment jouer avec la langue et la rendre originale sont
+pressés de la détruire et de créer une mauvaise langue. Elle nous fait
+réfléchir et nous révèle.
+
+                                                          217
+
+[Source page 219]
+
+D'autres, la plupart des grands penseurs, ont et expriment leurs
+pensées sans difficulté. Le penseur est quelqu'un qui est incapable de
+penser autrement que par l'écriture. Il se tient derrière le clavier de
+son ordinateur comme derrière un lutrin, et il parle en écrivant. Il
+croit que c'est ainsi qu'il doit parler pour être compris. En raison de
+son asymétrie mentale, il ne peut imaginer les choses autrement. Il en
+sait trop et il ne le sait pas. Lorsqu'il peut faire les choses autrement
+que par écrit, c'est-à-dire lorsqu'il peut faire parler ses lectures, il
+devient plus souple et plus adaptable.  Il est alors capable de se
+transformer et de prendre de la distance. De cette façon,  il peut
+penser différemment  et de cette façon,  il peut aussi réduire ses
+connaissances et ses lectures, c'est-à-dire son savoir, à un niveau
+plus  tolérable.  Les  lecteurs  de  textes  écrits  par  un  penseur
+dissymétrique ont des  difficultés à  le comprendre. C'est un bon
+moyen de réduire ses connaissances et donc ses difficultés de lecture.
+Les gens qui pensent que le langage est le sommet de l'écriture est
+une personne sans conscience, dont  le langage  est inférieur au
+premier type d'être. Il n'est pas capable d'utiliser le langage d'une
+autre manière, et c'est pourquoi il l'utilise d'une certaine façon. Le
+langage est le sommet de l'esprit d'une personne rationnelle, une
+personne  qui  sait que  le langage  n’est pas un  outil. Et  c'est
+précisément cette servilité qui lui permet de faire une bonne langue.
+Pour lui, la langue est un moyen, pas une fin en soi, et c'est pourquoi
+il peut parler et écrire.
+
+L'écrivain s'exprime par écrit, il ne s'exprime pas directement, et il
+ne s'exprime pas à travers le langage.  Il s'exprime avant tout à
+travers un outil, un instrument, un moyen de communication. Un
+langage est la langue commune, c'est-à-dire une langue qui existe
+
+                                                          218
+
+[Source page 220]
+
+avant l'auteur, qui existe avant lui, et qui existe même s'il n'écrit pas.
+L'auteur n'a pas de limites, puisqu'il a atteint l'inversion. Il ne sait
+pas qu'il n'a pas de limites, et il pense donc que c'est la façon de
+penser. Comme il doit utiliser le langage pour se faire comprendre, il
+doit tenir compte des choses dont il parle. En comprenant la langue,
+il comprend les choses de la langue. Les gens sont capables d'utiliser
+sa  tête pour  penser, mais  les gens  asymétriques ne sont pas
+conscients de  leur manque de délégation  et sont encore moins
+conscients qu'ils n'ont pas d'ordre dans leur tête. L'ordre dans la tête
+est rationnel. C'est un ordre sémantique du langage. Une personne
+ordonnée qui est au-dessus du langage n'est pas une personne qui a
+des difficultés à utiliser le langage, car le langage est au-dessus
+d'une personne ordonnée, et pour la personne ordonnée, le langage
+est une personne qui sait que le langage est un outil.
+
+La bêtise du lecteur est rationnelle, puisque la lecture est une forme
+d'inversion. Un lecteur ne comprend pas les lettres que quelqu'un
+d'autre écrit, car il ne peut pas comprendre les choses que l'auteur
+comprend mal  lorsqu'il  les  écrit. Ce  lecteur  est incapable de
+comprendre les choses quand il lit, c'est-à-dire qu'il est incapable de
+penser par lui-même. Le lecteur est incapable d'imaginer les choses
+dans  sa  tête.  Il ne  le peut pas car  il  n'a aucun sens de  la
+représentation. Il n'imagine pas les choses quand il lit, c'est-à-dire
+qu'il est incapable de penser par lui-même. L'écrivain ne comprend
+pas ce qu'il  lit car  il est capable d'utiliser les pensées des autres,
+mais il n'est pas capable de comprendre les choses lui-même. Il ne
+peut pas se les approprier. Il ne peut pas les digérer. Il ne peut pas
+les assimiler.  Il ne peut pas les intégrer.  Il ne peut pas les faire
+siennes. L'inversion dans la tête d'un lecteur n'est donc pas dans
+celle d'un écrivain, et l'écriture inversée est doublement stupide.
+
+                                                          219
+
+[Source page 221]
+
+Ainsi, pour  l'écrivain,  le  lecteur  est un animal car  le  lecteur
+s'exprime, tandis que l'écrivain s'exprime par l'écriture. Pour le
+lecteur, l'écrivain est un bête parce que l'écrivain ne sait pas ce
+qu'est le langage. Il ne sait pas pourquoi nous écrivons. Écrire, c'est
+être un bête, un animal qui erre dans l'espace du langage. Un bête
+qui marche, qui va sans but, qui marche sans raison, qui a peur,
+court à sa perte quand un court. La bête qui court autour d'un arbre,
+comme un lapin court après un lièvre, jusqu'à sa perte, n'est pas qui
+court au repos, de tous côtés, qui erre dans son champ, court, qui
+marche dans sa forêt, court jusqu'à sa perte. S'il n'y a pas de place
+dans la langue, il ne peut y avoir d'écrivain.
+
+Après tout, selon la théorie de la création de la bêtise, l'agent de
+ladite création n'est autre que la bêtise, et  il est par conséquent
+normal. Tout se passe comme si la bêtise avait inventé un style
+inversé qui s'appelle la bêtise, et que ce que vous vouliez dire était :
+« Je ne suis pas le style inversé, mais l'inversion se trouve dans mon
+style ». Mais le coupable est le crime, et non le criminel. Il faut donc
+soutenir l'auteur qui écrit à l'envers et faire disparaître cette phrase.
+C'est le lecteur qui rend l'écriture inversée. Si l'écriture inversée n'est
+pas encore apparue, c'est que c'est un acte, un acte social, un acte
+politique et un acte artistique, un acte qui requiert de la réflexion et
+de la conscience. Et c'est de l'œuvre de lecture de l'auteur qu'il s'agit.
+Les gens qui écrivent à l'envers sont des gens avec conscience.
+
+                                                          220
+
+[Source page 222]
+
+221

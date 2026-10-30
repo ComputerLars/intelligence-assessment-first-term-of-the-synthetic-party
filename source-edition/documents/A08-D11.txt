@@ -1,0 +1,37 @@
+A08-D11 | Invoice-[████].pdf
+
+PDF text extraction; layout and embedded images are not reproduced.
+
+[Source page 1]
+
+Invoice
+
+
+Invoice number [████]
+Date of issue   October 3, 2022
+Date due       October 3, 2022
+
+
+NLP Cloud                                                                       Bill to
+[████]
+
+$9.00 due October 3, 2022
+
+Pay online
+
+Description                                                       Qty                      Unit price                          Amount
+
+Pay-as-you-go consumption in September 2022                1                 $9.00                          $9.00
+
+
+                                                             Subtotal                                          $9.00
+
+                                                               Total                                             $9.00
+
+                                                Amount due                                     $9.00
+
+Soupeo, 970 route de Corrençon, 38250 Villard-de-Lans, France
+Siren 812 027 043
+VAT FR 55 812027043
+
+[████] · $9.00 due October 3, 2022                                                                             Page 1 of 1

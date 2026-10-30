@@ -1,0 +1,69 @@
+A30-D16 | Source transcription
+
+OCR of redacted facsimile; layout and embedded images are not reproduced.
+
+[Source page 1]
+
+ChatGPT 40>
+
+7 Step 3: Recreate the secrets.tom! File (If Missing)
+
+Ifthe file does not exist or is empty, recreate it:
+
+cee | [████] — nano ~/.streamlit/secrets.toml — 98x33
+
+hhon3.413/site-packages (trom httpxct,>=0.21.0->replicate) (4.8.0)
+® Open Terminal and run: Requirement elready satisfied: certifi in /Library/Franeworks/Python.franework/Versions/3.13/1ib/p
+ython3.13/site-packages (from Nttpxcl,2=0.21.0->replicate) (2024.12.14)
+Requirement already satistied: nttpeoressi.x in /Library/Frameworks/Python. framework/Versions/2.13
+Mib/pythons.13/site-packages. (From httpxci,>=0.21.0-rreplicate) (1.0.7)
+Requirement already satisfied: idna in /Library/Frameworks/Python. framework/Versions/3.13/1i6/pyth
+(on3.13/site-packages (from Nttpx<1,>=0.21.0->replicate) (3.10)
+Requirement already satisfied: 33 in /Library/Fraseworks/Python. framework/Versions/3.
+43/lib/python3.13/site-packages (trom hitpcore==1.e->httpxci,>=0.21.0->replicate) (0.16,
+Requirement already satisfied: annotated-types>=0.6.0 in /Library/Frameworks/Python. franework/Ve!
+B Inside the file, paste your AP! keys: ions/3.13/1ib/python3.13/site-packages (tron pydantic>1.10.7->replicate) (0.7.0)
+Requirement already satisfied: pydantic-core==2.27.2 in /Library/Franeworks/Python. framework/Versi
+‘ons/3.13/1ib/python3.13/sit. (trom pydanticsi.10.7->replicate) (2.27.2)
+Requirement already satisfies: 2 in /Library/Fraseworks/Python. framework/Versions/3.13/
+1ib/python3.13/site-packages (from anyio-shttpxcl, >=0.21.0->replicsea) (0 2 17
+‘[device]! export REPLICATE APL_TOKEN
+
+bash
+
+nano ~/.streamlit/secrets.tom)
+
+tom
+
+OPENAI_API_KEY = [████]
+
+REPLICATE API_TOKEN = *your-replicate-[device]:~ [████] inport replicate
+~bash: import: comand not found
+‘[device]:~ [████] nano ~/.streanlit/secrets.toml
+fey" and "your-re)[device]:~ [████] cat ~/-streamlit/secrets. tom]
+‘cat: [████] .streanlit/secrets.toml: No such file or directory
+‘[device]! Lit/secrets.tos]
+mnlit/secrets.tonl
+‘No such file or directory
+
+(Replace "your-openai-api
+
+® Save the file:
+
++ Press Control + X (exit).
+
++ Press ¥ (confirm changes). a
+
+REPLICATE_API_TO)
++ Press Enter (save).
+
+Step 4: Restart Streamlit to Apply Changes
+
+Message ChatGPT
+
++ OO G °@
+ss
+$
+View Full Profle
+
+CGSB - SOGHODOSSSOS (Bo) mec ne a wow oN pummunin

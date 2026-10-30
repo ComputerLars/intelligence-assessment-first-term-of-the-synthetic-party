@@ -1,0 +1,10 @@
+A26-D14 | Receipt fields
+
+[Selected receipt fields, checked against the photographed page.]
+
+[████]
+
+[████]; purchase DKK 958,00.
+[████]; total amount DKK 1310.40.
+[████]
+[Payment, booking and transaction identifiers excised.]

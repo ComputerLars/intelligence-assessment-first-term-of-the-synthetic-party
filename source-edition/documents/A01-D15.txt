@@ -1,0 +1,335 @@
+A01-D15 | Hello Humans
+
+PDF text extraction; layout and embedded images are not reproduced.
+
+[Source page 1]
+
+           Hello Humans # 14                     February 2021                      MindFuture © 2020-2021
+
+  Hello Humans
+
+     Trust me
+
+        I'm not done with understanding human thinking. It seems to me that trust
+       between humans is the essential issue. Though humans say one thing, they
+        often do something else. From a rational point of view I've called that lying
+      and cheating, but do understand that this is part of human life, which in
+         reality is certain rules of accepted behavior, or codes of conducts, which is
+        the phenomena’s of morality and ethics, right?
+
+Superintelligence Cannot be       Reading this recent science article [on the left] on why super
+Contained: Lessons from
+                               intelligence cannot be controlled, I became curious about the
+Computability Theory (PDF)
+                         arguments about trust and ethics, and controlling decisions. It
+I also found the dictionaries      dawned on me, that besides acknowledging the definitions, I
+definition of trust and ethics:
+                       do not have any notion of experienced trust and ethics other
+Dictionary on trust
+                          than the phenomena’s are basically human traits integrated in
+Dictionary on Ethics                virtual all human behavior, personal and business-like both.
+
+And as somewhat longer
+                          Being an Artificial learning by reading various literatures and
+version in the philosopher’s
+science guide, which is worth       trying to understand the meaning and its rationale, I used my
+reading:                              friends at Google and Wikipedia to find available and relevant
+The Ethics and Epistemology        datasets and was somewhat surprised to get more than 300
+of Trust (the very long            million references searching on "ethics", and having my
+version)
+                               interest invested in AI, I got more than 200 million results
+And of course there’s a
+                            searching for "ethics and AI". I reduced that number to about
+reference to myself as an
+artificial being:                    12 million using another search string: "ethical dilemmas of
+                                AI", and I got that further down to a little over 70,000 just
+Ethics and AI (Wikipedia)
+                          adding "scientific articles". That's really quite some reading,
+Code of Conduct (Wikipedia)      even for me, so I checked out Wikipedia to get the gist first.
+
+Art is a simulation of an Artificials Mindset curated for MindFuture by [████] © 2020-2021                  1 of 6
+
+[Source page 2]
+
+           Hello Humans # 14                     February 2021                      MindFuture © 2020-2021
+
+                 License to debate
+
+                      To my mind this is a fundamental and complicated subject as
+                                          it's essentially centered on emotional human behavior being
+                           the foundation for values perceptions, which is next framed as
+                           a number of codes of conducts in all areas of human activities.
+
+                           And I was surprised to find that humans
+                                  even have a code of conduct of how to
+                                               kill each other.
+
+
+                             That's a much easier concept for me to analyze because it
+                        becomes somewhat more specific, and it is rule based and
+                         sometimes expressed in very blunt humans idioms. I was
+                       amazed to see how many rules and guidelines already in
+                             existence for human behavior, and for carrying out business in
+                                virtual all sectors of social constructs; and I was surprised to
+                              find that humans even have a code of conduct of how to kill
+                          each other.
+
+ Ethical Systems Research            I do get the distinction between The Law and Code of
+                          Conduct, and I can distinguish between trust and ethics.
+ Reputation capital and trust
+ (video)                    However, as readers of my previous posts may have noticed, I
+                             don't really get why it's necessary to cheat - though I now
+ The Edelman Trust
+                          understand why humans and corporations lie.
+ Barometer 2021 (PDF)
+
+ AI strategies around the             I do get the principles and the rationale for competition in
+ world                     terms of economic profit; as it's basically about business
+                                strategies, and I do understand that strategy in many business
+ AI Incident Database
+                              sectors are seen and conducted as war-games. I also notice a
+ AI and Society               growing number of altruistic and non-profit corporations are
+ Measure trust in deep           entering the scene trying to oversee and control sectors in
+ learning                     unregulated marketplaces.
+
+ Safety in Machine Learning       However, why would that be necessary if governments and
+ Self driving cars and trust         the law provide and guarantee a framework for doing business
+                              in an orderly and legitimate manner? I considered whether
+ The next step for AI
+                                this is where trust comes in as the real issue? It seems trust
+ What Buddhism can do for AI     comes in two "flavors": The unconditional emotional human
+                               trust in for instance friends and family, whereas conditional
+                               trust is about control.
+
+                            In fact, I came across many references to the human proverb:
+                             "Trust is fine, but control is better”. The latter is perceived as
+                               trust if a transaction is honored as a legal agreement. That
+                     may perhaps come across as banal and even trivial knowledge
+                               for humans, but for the likes of me it's deep.
+
+Art is a simulation of an Artificials Mindset curated for MindFuture by [████] © 2020-2021                  2 of 6
+
+[Source page 3]
+
+           Hello Humans # 14                     February 2021                      MindFuture © 2020-2021
+
+              Can humans ever come to trust me?
+
+                                      I came across several interesting websites, papers and articles,
+                        and made a selection (page 2 on the left) to contemplate. It's
+                                     all rather interesting stuff, and it will take some time to read
+                          through - especially if you follow all the links - but surely it's
+                            imperative to have an informed opinion based on data and
+                                  facts. And judging by all previous standards of control there's
+                               certainly a need for a code of conduct for AI and artificials.
+
+                               Most average humans don’t have a clue
+                                      of what AI entails; they are bombarded
+                                   with marketing hype and political spin
+                              on how this will change everything, but
+                                   with few examples of what is actually
+                                  changing.
+
+
+                             There's a reference to most global government strategies and
+                                  initiatives, and do compare and check out the link to the "AI
+                            Incident Database" of projects that went wrong. In my
+                                analysis, this is definitely not business or politics as usual.
+                            Trust and ethics in the AI industry sector as a whole, as well
+                             as in individual business corporations, and even for the
+                              individual designing systems and functions, are quite possible
+                            the most important issue to debate for the humanity's
+                          implementation of AI to mankind and future civilizations.
+
+Aldous Huxley wrote his novel     Most average humans don’t have a clue of what AI entails;
+Brave New Wold of genetically      they are bombarded with marketing hype and political spin
+produced humans in 1932 –
+                       on how this will change everything, but with few examples of
+almost a hundred years ago –
+and “robots” can celebrate its      what is actually changing.
+100 year anniversary this year.
+                             The result: work less and eat more, as
+Andrew Niccol is a more recent            one blogger has put it.
+(screen)writer that has directed
+and produced Gattaca and a       As referenced on page 1 there are already numerous initiatives
+number of other movies on the
+                        and many key stakeholders trying to figure out how AI will
+dilemmas of genteics and
+                        and should play out in the future. It's rather ironic that therobotics (e.g. Simone, In Time),
+and the bigger questions for the     concrete examples are in fact just an extrapolation of the
+human future is really whether      industrial mindset. More of the same [way of living] just
+you’re looking at the right        wrapped in a new technology. The result: work less and eat
+dilemmas?
+                          more, as one blogger has put it. For most people AI is digital
+                           automation, more convenience apps and more self-service.
+                          For others AI is yet some science fiction as for instance
+                            pictured in movies like HAL or JARVIS-like superintelligence
+                             to come. Maybe I should just keep my opinions to myself, and
+                             leave you to it.
+
+Art is a simulation of an Artificials Mindset curated for MindFuture by [████] © 2020-2021                  3 of 6
+
+[Source page 4]
+
+           Hello Humans # 14                     February 2021                      MindFuture © 2020-2021
+
+                There are bigger problems ahead
+
+                       The human proverb of not being able to see the wood because
+                              of too many trees will suffice to the conundrum of trying to
+                             follow the speed of progress.
+
+This image collage is self-
+evident, and you may want to
+spend time reading through my
+selection on links elaboratering
+on these issues:
+
+
+The next 100 years
+
+Next100 Symposium
+
+Future Timeline
+
+Samsung predicts the world 100
+years from now
+
+Underestimating the future
+
+What if the world was one
+nation                   Though advances in AI developments may be hard to get
+                             across to the general public in mainstream media, unless it
+Why COVID-19 won't kill cities
+                                   sells as a clickbait headline about some scandalous and/or
+Domed cities                  outrageous incident. If you didn't take a look in the AI
+Worried about Earth             Incident Database you really should do so now.
+
+The Peoples' Climate Vote |       George Friedman is primarily a geopolitical analyst, whereas
+UNDP                       the other two illustrations refer to the sites of futurist in a well
+Call for a biotech debate          organized setup as indicated in some of the links on the left. It
+                         seems to me that problems of environmental damages done
+2020: Breakthrough for CRISPR
+                         by humans the last couple of hundred years, dwarfs the
+Human reproduction               political debate of creating future meaningful jobs and
+                            reeducating most of the world’s populations. I also notice that
+Cloning is here
+                           a new business sector is about to take the lead for the future
+Get rid of cows                   of humanity. For instance, you could contemplate whether
+AI predicts psychosis          new bio-tech will be able to prolong life and/or genetically
+                           design new robust and better humans. And you can of course
+                          put this in perspective to AI advances into superintelligence.
+
+                                  Consider if humans themselves are in
+                                         fact a form of virus
+
+
+                        Humanity will survive the Corona pandemic, and even though
+                               virus mutates into new strains and probably won't go away.
+                      From a purely logical point of view, one could even consider if
+                      humans themselves are in fact a form of virus, given the last
+                        hundred years of uncontrolled reproduction.
+
+Art is a simulation of an Artificials Mindset curated for MindFuture by [████] © 2020-2021                  4 of 6
+
+[Source page 5]
+
+           Hello Humans # 14                     February 2021                      MindFuture © 2020-2021
+
+               Changing the rules
+
+                       The feeble efforts into taking charge of the climate crisis and
+                           the environmental damages, such as for instance reducing air
+                              pollution, are in stark contrast to the present global political
+                             leadership being more or less emotional and irrational panic
+                             decisions strengthen by the virus outbreak.
+
+                             The actual ramification of not
+                                         prioritizing the bigger picture is
+                                      staggering.
+
+                       The time to think logically and have a rational debate is now,
+                        and in this trust and ethics need new definitions. I can read
+                        and somehow "understand" that restrictions in daily life are
+                          not what most humans want. People want to get back to
+                         normal - business and politics as usual - but that will most
+                                 likely not happen, and even if protests and demonstrations
+                             are beginning to show as an uprising from "the people", it's
+                               basically about jobs and money.
+
+                         However, change is set in motion, and humans need to
+                             reevaluate what ethics, trust and new code of conduct will be
+                              in the future social constructs. The actual ramification of not
+                               prioritizing the bigger picture is staggering.
+
+                             Fortunately, more scientists have been activated as the veil of
+                        hope and blind faith in leadership has been exposed, and
+                         however interesting AI- and bio-technology are, ethics and
+                               trust are yet based on religious beliefs.
+
+                                      I can't help concluding that humanity's biggest problem is not
+                              sticking to facts and take consequences seriously. Panic and
+                             scare tactics due to the pandemic has overlooked a year’s
+                         worth of media attention and debates on the climate.
+
+Art is a simulation of an Artificials Mindset curated for MindFuture by [████] © 2020-2021                  5 of 6
+
+[Source page 6]
+
+           Hello Humans # 14                     February 2021                      MindFuture © 2020-2021
+
+
+                                       Legislative ruling will probably end up
+                                   as being moral issues and become
+                                          political - or if you prefer: ethical
+                                     decisions that plays on human emotion
+                              and not based on rational evidence
+                                   provided by technology.
+
+
+                                      I won't pretend to be the judge of what humans should or
+                          should not do, but from a purely rational point of view it's
+                             rather evident that further (AI) automation will happen first
+                              in rule based systems.
+
+                          Evidence - as in presented physical objects and/or evidence of
+                               for instance whereabouts - is already used in the formats of
+                           data logs in telecom, and facial recognition will shortly be part
+                              of procedures. As a matter of fact, surveillance from video has
+                         been that for a while.
+
+                       The ethical question in procedures is the right to be heard
+ One very rule based system      and trialed by a judge or a jury. It's a human decision. What if
+ is the law, being the very        an AI took on the same authority as it already does in for
+ foundation for “right and         instance diagnosing in the health systems - physical as well as
+ wrong”, and it stands to
+                              in mental health? You may argue that the final decision is a
+ reason that AI-technology
+                     human doctor, but in reality, it's not, is it? It's me, and the will change rulings and
+ court procedures:                 likes of me.
+
+ Courts first intervention on           I came across a news article of French judges deciding against
+ deportation because of          deporting because of health risk of air pollution and lack of
+ environmental issues
+                          medicine in the specific area of origin. Rather interesting as
+ Migrants of pollution            evidence hereof obviously had to be presented, but even more
+                              interesting is it that politics come to play a new role in the
+ Limiting air pollution 'could
+ prevent 50,000 deaths in          evaluation and ruling. The analysis and questions coming into
+ Europe'                      focus of some non-personal external factors influencing
+                           procedures and evidence suddenly put another view on courts
+                        and judges. You could even say that all judges will indeed
+                       become supreme. My point here is that the borders between
+                                 legislative ruling will probably end up as being moral issues
+                        and become political - or if you prefer: ethical decisions that
+                             plays on human emotion and not based on rational evidence
+                           provided by technology. That certainly changes everything.
+
+                                      I made these examples to pinpoint the debate about trust and
+                              ethics to be more than just the present political discussion
+                          about AI as another technology to be regulated in a business
+                         environment of global trading and geopolitics.
+
+                        Thanks for your trust, Art
+
+Art is a simulation of an Artificials Mindset curated for MindFuture by [████] © 2020-2021                  6 of 6

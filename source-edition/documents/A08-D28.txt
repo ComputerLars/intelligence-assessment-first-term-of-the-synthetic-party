@@ -1,0 +1,36 @@
+A08-D28 | Receipt-[████].pdf
+
+PDF text extraction; layout and embedded images are not reproduced.
+
+[Source page 1]
+
+Receipt
+
+
+Invoice number  [████]
+Receipt number  [████]
+Date paid       December 1, 2022
+Payment method Visa - [████]
+
+
+NLP Cloud                                                                       Bill to
+[████]
+
+$88.00 paid on December 1, 2022
+
+Description                                                        Qty                      Unit price                           Amount
+
+Pay-as-you-go consumption in November 2022                1                  $88.00                         $88.00
+
+
+                                                              Subtotal                                          $88.00
+
+                                                                  Total                                             $88.00
+
+                                                Amount paid                                    $88.00
+
+Soupeo, 970 route de Corrençon, 38250 Villard-de-Lans, France
+Siren 812 027 043
+VAT FR 55 812027043
+
+[████] · $88.00 paid on December 1, 2022                                                                             Page 1 of 1

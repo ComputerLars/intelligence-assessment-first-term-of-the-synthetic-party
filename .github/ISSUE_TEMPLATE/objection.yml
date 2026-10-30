@@ -1,0 +1,28 @@
+name: Public objection · Assurance 05
+description: Contest an assessment finding or source classification.
+title: 'Objection: '
+body:
+  - type: markdown
+    attributes:
+      value: 'This is a public submission. Do not include private identities, contact details, access information or withheld source material. The operator controls accepted revisions, publication and issue closure; this procedure is not institutionally independent.'
+  - type: input
+    id: finding
+    attributes:
+      label: Assessment finding
+      description: Section and paragraph, or the claim you contest.
+    validations:
+      required: true
+  - type: input
+    id: record
+    attributes:
+      label: Record identifier
+      placeholder: A17-D03, page 1
+    validations:
+      required: true
+  - type: textarea
+    id: objection
+    attributes:
+      label: Objection and proposed correction
+      description: Use the published evidence. Do not reconstruct redacted identities.
+    validations:
+      required: true

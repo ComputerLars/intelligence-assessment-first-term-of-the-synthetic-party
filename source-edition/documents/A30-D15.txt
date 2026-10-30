@@ -1,0 +1,35 @@
+A30-D15 | Source transcription
+
+OCR of redacted facsimile; layout and embedded images are not reproduced.
+
+[Source page 1]
+
+ChatGPT 4o >
+
+@ share v
+Y Step 3: Recreate the secrets.tom! File (If Missing)
+vet not exist or is empty, recreate it:
+TOOTH SCIENCES oee @ [████] — nano ~/.streamlit/secrets.toml — 98x33
+PU PICO 5.07 rilec [████] streanlit/sccrete.tonl woditied |
+® Open Terminal and run:
+OPENAT_APL_KEY =
+bosh REPLICATE. AITO
+B inside the file, paste your API key[████]:
+tom!
+OPENAT_API_KEY = [████]
+REPLICATE_APL_TOKEN = *your-replicate-ap
+" spi-key" and *your-re)
+PCA
+
+® save the file:
++ Press Control + X (exit).
++ Press ¥ (confirm changes).
+
++ Press Enter (save). Get Help, To Files.
+Cancel Complete
+
+® Step 4: Restart Streamlit to Apply Changes
+
+Message ChatGPT
+
+4+ OO G -@

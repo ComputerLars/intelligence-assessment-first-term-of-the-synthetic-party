@@ -1,0 +1,131 @@
+A26-D24 | Electoral software
+
+PDF text extraction; layout and embedded images are not reproduced.
+
+[Source page 1]
+
+Victoria Cukt 2.0 - Citizen Electoral
+Software (CES)
+
+
+PLANNED PURPOSE
+Victoria Cukt 2.0 uses CES, an AI-driven platform, to engage global audiences in shaping the
+'will' of the virtual figure Victoria Cukt. This interactive installation, accessible both online
+and in-gallery, encourages participants to propose, vote, and influence decisions in real-
+time, redefining civic engagement through cutting-edge AI and participatory governance.
+
+This project will debut as a key feature at the 'Synthetic Summit' international exhibition at
+Kunsthal Aarhus in 2025, exploring how global citizenship and direct democracy can evolve
+through AI participation.
+
+PROJECT DESCRIPTION
+
+
+Victoria Cukt 2.0 revisits the iconic artivist concept of Wiktoria Cukt, a fictional candidate
+from the 2000 campaign who stood for transparent governance and collective decision-
+making, heralding the potential of digital democracy. The new project is powered by
+“Citizen Electoral Software (CES)”, an AI-based interactive platform where global users
+submit, vote, and participate in real-time model training and political debate.
+
+The installation consists of a metal frame supporting the whole system: 3 curved monitors
+—2 ultra-wide on the sides and a central 16:9 display for the connection between local and
+global perspectives. A keyboard in front of the central monitor enables visitors to input
+proposals, while a high-performance computer powers the system, processing user input
+and translating it into Victoria’s evolving 'will.'
+
+The CES platform integrates multiple interfaces to foster global participation:
+
+1. Input Interface: Users submit proposals via a keyboard and central monitor.
+
+2. Voting System: Proposals can be voted up or down by participants.
+
+3. AI Integration: Victoria’s speech is generated using an AI-driven text-to-voice system,
+creating realistic lip-synched video animations.
+
+4. AI Categorization & Thematic Organization: Proposals are categorized by the model into
+local, national, and global themes and prioritized according to live sentiment analysis by AI.
+
+5. Social media Bot: A bot posts snippets of ongoing discussions, allowing users to engage
+with Victoria Cukt’s evolving 'will' in bite-sized social media formats.
+
+[Source page 2]
+
+6. Official Declarations: Proposals with the most votes are formalized as Victoria Cukt's
+official statements (the will), continuously evolving her political persona based on global
+input.
+
+CES is programmed using a combination of AI services including OpenAI for natural
+language processing, reasoning for managing real-time user interaction, Heygen and
+Elevenlabs for generating Victoria’s video announcements, and Replicate. The will of
+Victoria Cukt evolves continuously, shaped by user contributions, making CES a dynamic
+platform mixing human and AI opinions for digital democracy,
+
+This innovative system allows real-time remote access through an online interface,
+expanding global participation. CES transforms political commentary by introducing the
+concept of AI-driven civic engagement. It not only encourages individual contributions but
+also demonstrates the power of collective decision-making in shaping discourse. By
+integrating AI, CES transcends the typical boundaries of interactive art, engaging users in
+the real-time evolution of a synthetic political figure. The installation reflects on how AI can
+transform governance, presenting both the possibilities and challenges of a future shaped
+by technology-driven democracy.
+
+BUDGET
+
+  Item                                      Cost (DKK)
+
+
+
+[████]
+
+  Programming and Software Development    500,000 DKK
+  (AI and CES system)
+
+
+  Metal Frame (structural support)           200,000 DKK
+
+
+  Curved Ultra-Wide Monitors (2)            600,000 DKK
+
+
+  16:9 Central Monitor                     300,000 DKK
+
+
+  Custom-Built Keyboard for User Interaction  50,000 DKK
+
+
+  High-Performance Computer with Internet   350,000 DKK
+  Connection
+
+[Source page 3]
+
+  Electrical Wiring & Setup                  150,000 DKK
+
+
+  Installation & Labor Costs                 250,000 DKK
+
+
+  Transport & Logistics                     200,000 DKK
+
+
+  Construction Company Fee                 1,490,000 DKK
+
+
+
+[████]
+
+  Material Costs (booth, lighting, ventilation)   2,980,000 DKK
+
+
+  Audio-Visual Components                 335,250 DKK
+
+
+  Transport of Work & Artist Travel           1,337,250 DKK
+
+
+  **API Subscriptions (OpenAI, Heygen,       200,000 DKK
+  Replicate)** (Dec 2024 - Apr 2025)
+
+
+  Travel Costs for 2 People (round trips)      300,000 DKK
+
+**Total Production Cost: 9,009,850 DKK**

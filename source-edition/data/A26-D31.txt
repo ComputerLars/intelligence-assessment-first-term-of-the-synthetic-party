@@ -1,0 +1,56 @@
+A26-D31 | Exhibition plan
+
+Overbliksinfo om opbygningen af "Synthetic Summit", 28.02 - 13.04
+
+
+Skitse til udstilling i Galleri 1 (realistiske mål)
+
+Overordnet infrastruktur og scenografi
+
+
+
+[████]
+
+Den centrale infrastruktur består af fem vægge bygget i træ, som har udskårne åbninger hvori der kan indsættes plexiglas og skærme til video. Væggene males i grå, de fungerer som rumadskillere, men når ikke op til loftet. Højden for væggene er ca 2-3 meter, og bredden varierer afhængigt af deres placering, med ca. 2-4 meter for hver, dybden er 40 centimeter. Der tages hensyn til, at nogle paneler skal bære mindre skærme og andre plexiglas. Vi vil gerne have assistance til at bygge panelerne. (Vi laver tegninger med mål)
+
+
+Rummets vægge er malet i døråbningernes højde i røde, grå og blå felter. Et større felt på den nord-østlige væg er rødt helt op til loftets skråning. (Her laver vi også præcise tegninger og angiver farvekoder). Vi vil gerne have assistance til at male væggene.
+
+
+Ligeledes hjælp til at anlægge et blåt væg-til-væg tæppe, som dækker hele rummet.
+
+
+Materialer vi indkøber til infrastruktur
+* Lægter og mdf-plader til bygning af fem paneler, cirka 100-120 styks i diverse former og størrelser 
+* Spartelmasse
+* Maling til vægge og paneler, 3x2 vægmaling og 3x1 farver træmaling
+* Væg-til-væg-tæppe
+* Plexiglas og skærme til indsætning
+
+
+Tekniske behov
+Udstillingen får som minimum brug for følgende tekniske ressourcer fra Kunsthallen:
+
+
+* 4-5 projektorer
+* Mikrofoner til lyd (vi kan kigge på hvilke)
+* Høretelefoner (vi kan kigge på hvilke)
+* Spots til belysning
+* Strømkilder til computere, skærme og projektorer. Vi har brug for min. 10 strømudtag med forlængerledninger.
+* Muligvis ethernet-forbindelser til summitsimulatoren og enkelte af installationerne for at sikre stabil netforbindelse til AI-modeller?
+* Muligvis nogle skærme i reserve, også til arrangementer.
+Særlig hjælp til enkelte værkbidrag (Asker og [████] hjælper også):
+
+
+* Dansk bidrag (gøres sammen med Asker og [████]):
+Ophængning af opslagstavle på væg
+Opsætning af skrivebord
+
+
+* Finsk bidrag: Mere konkret følger.
+
+
+* Svensk bidrag: Et lavt bord sendes. Computere opkobles til strøm. Mere følger.
+
+
+* Polsk bidrag: Sendes i en kasse med posten. Skal opkobles til strøm. Mere følger.

@@ -1,0 +1,18 @@
+MindFuture Launch
+
+
+Text- to speech augmentation
+
+Tre skærme, “augmented text” – du læser en tale op, som du også kan bruge til medierne. Derefter augmenterer du bestemte sætninger på flere sprog, og kører dem som tre videoer i baggrunden.
+
+”Overskrift: Det Syntetiske Parti og det politiske subjekt”
+
+Synopsis:
+-           Vis en video med AI-chat…
+-           Præsenter baggrunden for samarbejdet med MindFuture, dig selv, og dine erfaringer med automatiseret skrift- og billeder, samt din filosofiske tilknytning til ”kunstig stupiditet”. Life With Artificials, realiseret gennem den situationistiske idé om at overtage UNESCO.
+Tydeliggør, at du arbejdede på et projekt om Lars, og ville vide, hvem Lars er: hvem er det politiske subjekt i computeren? ( i filosofisk forstand et sted mellem agambens hvem-som-helst og stiegler’s amatør)
+-           Realiseret som en undersøgelse af den politiske repræsentation i store sprogmodeller. Hvis den taler for alle, hvem kan den så siges at være en stemme for? Hvordan giver man den ansvar, hvem taler den for? Hvordan kan spam bots, fake news, algoritmiske systemer stilles for et politisk ansvar?
+-           How not to be governed like that / mercedes bunz, //
+-           Knytter an til en længere dk-tradition for antipolitik og politik-som-kunst: 1) linje, SABAE, nihi1listisk folkeparti, dukkepartiet, 2) linje, Nashisterne, Hard Line … en bestemt kritik og teoretisk tradition, og dertil en længere avantgarde tradition med at betænke organisationsformerne for den kunstneriske politik: situationisterne, trocchi, tiqqun… dette snarere end den AI-bestemte tradition, som SKYNET, eller aktuelle optimiseringsprogrammer SAM og ALISA
+-           Overblik over træningsdata, OpenAI-diskussioner, chatbot, diverse skrupler, mediestrategier, aktuelt arbejde, med nedslag, analyser, i konkrete tekststykker
+-           Fremad, hvad nu, - fysiske manifestationer, vælgermøder, mediegennembrud … introduktion af partiets kommende leder: LARS

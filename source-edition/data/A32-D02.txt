@@ -1,0 +1,56 @@
+const NLPCloudClient = require('nlpcloud');
+const Discord = require('discord.js');
+
+// Hardcoded NLP Cloud token and Discord Bot token.
+const nlpcloudToken = '[████]';
+const discordBotToken = '[████]';
+
+// Token Validation
+if (!nlpcloudToken || !discordBotToken) {
+    console.error('Missing NLP Cloud token or Discord bot token');
+    process.exit(1);
+}
+
+// Initialize the NLP Cloud and Discord clients.
+const nlpCloudClient = new NLPCloudClient('finetuned-llama-2-70b', nlpcloudToken, true, 'dan_Latn');
+const discordClient = new Discord.Client({ intents: [Discord.Intents.FLAGS.GUILDS, Discord.Intents.FLAGS.GUILD_MESSAGES] });
+
+let history = [];
+let charsCount = 0; // Initialize character count
+
+discordClient.on("messageCreate", async function(message) {
+    if (!message.content.startsWith("!") || message.author.bot) return;
+
+    const actualMessageContent = message.content.slice(1); // Remove '!' prefix
+
+    // Prepare the chatbot request with the context of 'Leder Lars'
+    const context = 'This is a discussion with the superintelligent entity "Leder Lars" who is a virtual politician of "Det Syntetiske Parti" from Denmark.';
+
+    try {
+        charsCount += actualMessageContent.length; // Update character count
+
+        const response = await nlpCloudClient.chatbot({
+            input: actualMessageContent,
+            context: context,
+            history: history
+        });
+
+        charsCount += response.data.response.length; // Update character count
+
+        history.push({ input: actualMessageContent, response: response.data.response });
+
+        // Prune history if character count exceeds a certain threshold
+        while (charsCount > 1800 * 4) {
+            const removed = history.shift();
+            charsCount -= removed.input.length + removed.response.length;
+        }
+
+        // Send the response back to the Discord channel
+        message.reply(response.data.response);
+    } catch (err) {
+        console.error('Error in NLP Cloud response:', err);
+        message.reply('An error occurred while processing your request.');
+    }
+});
+
+discordClient.login(discordBotToken);

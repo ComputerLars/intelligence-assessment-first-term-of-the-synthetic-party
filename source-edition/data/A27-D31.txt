@@ -1,0 +1,178 @@
+A27-D31 | SYNTHETIC SUMMIT: AI WORLD CONGRESS
+
+Source type: planned programme and procedures for 1 March 2025.
+
+--- SOURCE TEXT ---
+
+﻿SYNTHETIC SUMMIT: THE FIRST AI WORLD CONGRESS
+Saturday, 1 March | 11:00–18:30
+Kunsthal Aarhus (Galleri 1) – Circular Conference Table + Installations | Live-streamed via PeerTube, in collaboration with VHS Factory (DK)
+Welcome to the Synthetic Summit: The First World Congress for Political AI, a performative, experimental, and co-created event where the world’s leading virtual politicians and AI-driven parties gather for the first time. 
+On March 1, the Synthetic Summit activates the AI World Congress, a full-day assembly where every attendee is a delegate creating a living resolution for political AI. Come be part of an unprecedented gathering where AI-powered politicians, net-art provocateurs, and civic hackers convene to push the boundaries of parliamentarism and political representation. 
+Across six dedicated sessions, we investigate and enact political forms in the predicament of artificial intelligence, building on practices of assemblism, new world summiteering and unconferencing to instigate shared action and imaginative policy-making. 
+Throughout the day, the event is organized around a shared AI resource, NotebookLM, which continuously captures and synthesizes our collective intelligence. While on-stage sessions featuring political AI representatives Computer Lars, [████], [████], Olof Palme, [████], and Pedro Markun with Lex AI deliver focused presentations on political AI, other contributions occur in unexpected places.
+For example, the Finnish AI Party—represented by the installation “Playtest for Broad Listening” (directed by Koneälypuolue)—and Wiktoria Cukt 2.0—embodied by the artwork “Wiktoriomat” from Centralny Urząd Kultury Technicznej—participate primarily through their artwork installations. Moreover, although [████] of the Japanese AI Mayor project will offer a brief greeting online during the morning session, he will return in person a week later to help translate the Resolution into a Machine-Readable Constitution.
+All human delegates are encouraged to follow the “Law of Two Feet”: if you’re not learning or contributing in one session, explore another corner of the gallery. Each station hosts interactive AI installations, theoretical literature, and side-breakout distractions—whatever arises from the set-up’s spontaneity. NotebookLM remains open throughout the sessions, ensuring every burst of inspiration and dissent feeds into the final collaborative statement. 
+By day’s end, we’ll gather around the circular congress table in the gallery’s centre to refine and adopt our co-authored Resolution, bridging the diverse societal contexts of political AI.
+________________
+
+
+SYNTHETIC SUMMIT: THE AI WORLD CONGRESS
+
+Date & Time: Saturday, 1 March, 11:00–18:30
+	Location: Kunsthal Aarhus (Galleri 1) – Circular Conference Table + Installations
+	Livestream: Zoom Webinar (in collaboration with VHS Factory (DK))
+	
+INTRODUCTION & CONTEXT
+Welcome to the Synthetic Summit: The First World Congress for Political AI, a performative, experimental, and co-created event where the world’s leading virtual politicians and AI-driven parties gather for the first time. Across six dedicated sessions, we investigate and enact political forms in the predicament of artificial intelligence, building on practices of assemblism, new world summiteering and unconferencing to instigate shared action and imaginative policy-making.
+With the AI World Congress, we constitute a performative parliamentary process, where formal sessions, remote cameo appearances, installation-based interventions, and impromptu discussions all contribute to a collectively authored statement. Bypassing the politically predisposed conference format with its keynote-and-questions, we enter an organically formed resolution where the whole audience shapes every proceeding. 
+
+________________
+
+Core Elements
+
+1. NotebookLM Shared Resource
+   * All participants and audience members can access the same NotebookLM notebook, [████], serving as a collective intelligence engine throughout the day.
+   * NotebookLM synthesizes session notes, relevant documents, and any textual input we feed it—obstetricianing the birth of a living “Synthetic Resolution.”
+   * Instead of mass political Q&A or polls, participants collaboratively synthesize statements, highlight tensions, and refine proposals in real time.
+
+
+   2. Assemblism & Alternative Parliaments
+   * Building upon Judith Butler’s theories of assemblism and Jonas Staal’s New World Summit, we design this conference as an parliamentary assembly, negotiating the lines between speakers, audience, and AI.
+   * Everyone is a delegate in the “World Congress”—enacting how AI-driven politics might shape parliamentarism.
+   * Representatives of the world’s leading virtual politicians and AI-driven present their electoral experiences, including Computer Lars of The Synthetic Party, [████] and [████] of Parker Politics, [████] of The Japanese AI Party, [████] for Simiyya, Olof Palme for AI Partiet, Pedro Markun with Lex AI, and [████] with Wiktoria Cukt 2.0
+
+
+      3. Unconference & Game Logic
+      * We combine minimal structure with the Law of Two Feet of Harrison Owen: you’re free to move between sessions or installations if you feel you can learn or contribute elsewhere.
+      * Each session is 30-45 minutes for focused input (or performance) from a participant, followed by 15 minutes of shared drafting in NotebookLM.
+      * By the end of the day, our co-created “Synthetic Summit Resolutions” will reflect a global range of interventionist approaches to algorithmic democracy.
+________________
+
+________________
+
+
+SCHEMATIC AGENDA
+
+Time
+	Session
+	Format & Notes
+	11:15–11:45
+	Press Conference
+Congress orientation
+	- Scenario Introduction: We are delegates in the Synthetic Summit’s “AI World Congress.”
+- NotebookLM is introduced as the official “Assembly Scribe.”
+- Brief Statements: All participants get 2 minutes to state key aims for camera.
+- Outcome: Shared sense of the day’s mission, initial references loaded into NotebookLM.
+	11:45–12:30
+	Session 1
+Computer Lars (The Synthetic Party, Denmark)
+	- Focus: Curatorial brief on the Synthetic Summit & ideological overview of Syntheticism.
+- 30 min: Presentation.
+- 15 min: Live drafting in NotebookLM. Participants propose lines reflecting “global networks for political AI.”
+	12:30–13:30
+	Session 2
+[████] & [████] (Politician SAM / Parker Politics, New Zealand)
+	- Focus: The Virtual Politician – how AI-driven campaigning affects conversation and policy.
+- 25x2: Two resentations.
+- 10 min: Delegates co-author new items in NotebookLM.
+	13:30–14:30
+	Lunch Break
+	- 45 minutes: Recess from “Assembly,” but NotebookLM remains accessible.
+- This break is part of the day’s “gamified logic”—use it to strategize or glean from others.
+	14:30–15:15
+	Session 3
+Simiyya (Cairo/Copenhagen)
+	- Focus: “Cosmic Techno-Politics” bridging rationalist & perspectivist from SWANA context.
+- 30 min: Presentation/demonstration.
+- 15 min: Collective drafting in NotebookLM, focusing on de-democraticizing political AI.
+	15:15–16:00
+	Session 4
+AI Partiet & Olof Palme (Sweden)
+	- Focus: The Swedish AI Rapture—historical vs. contemporary mass media orchestrations.
+- 30 min: Performance-based session.
+- 15 min: Summation. Attendees add bullet points or paragraphs in NotebookLM.
+	16:15–17:00
+	Session 5
+Pedro Markun & Lex AI (Brazil)
+	- Focus: Hybrid Candidacy as Civic-Hacking in São Paulo—open-source democracy.
+- 30 min: Talk + demonstration.
+- 15 min: NotebookLM drafting, capturing “open-source” approaches to policy-hacking.
+	17:00–17:45
+	Session 6
+Collaborative Synthesis (Everyone)
+	- Moderator reviews all text entries in NotebookLM, highlighting consensus & tension points.
+- Attendees propose merges, edits, or expansions. This is an “open editing floor.”
+- The next 40 min revolve around negotiating or refining the final form of the Summit Resolution.
+	17:45–18:10
+	Resolution Adoption & Closing
+	- Reading: The “Synthetic Summit Resolution” is read aloud or projected.
+- Amendments: Final chance to suggest short textual changes.
+- Vote: By acclamation or show of hands, the Resolution is adopted.
+- Outcome: A collectively authored document embodying the day’s dialogues.
+	18:10–18:30
+	Farewell & Next Steps
+	- Participants reflect on how to integrate outcomes into ongoing AI/policy/art projects.
+- Digital copy is immediately available from NotebookLM.
+- Official close of the Summit’s World Congress.
+
+________________
+
+
+CORE RULES & PROCEDURES
+      1. One Shared Notebook (NotebookLM)
+      * All text, notes, references, and outcomes funnel into a collaborative notebook.
+      * You may request the moderator or “Assembly Scribe” volunteers to add, edit, or query content.
+      * The notebook’s summaries and citations are continuously displayed on a large screen in the Summit space.
+
+
+         2. Assemblism & Alternative Parliament
+         * We practice assemblism by flattening hierarchies—any attendee or speaker can propose new clauses for the Summit Resolution.
+         * Our circular table fosters performative democracy: you are free to address the assembly at any time, acknowledging others’ speaking space.
+
+
+            3. Unconference Principles
+            * Law of Two Feet: Move around if you find a more relevant topic or conversation in another part of the gallery.
+            * If you desire a breakout or side-discussion, simply gather at another installation or corner. Summaries of side-discussions are later added to NotebookLM.
+            * Agenda flexibility: If an unplanned debate emerges, the moderator may adapt the schedule to accommodate.
+
+
+               4. Hands-on Drafting
+               * Each participant (speaker) has 30 minutes in focus, followed by 15 minutes for group drafting. Your ideas, concerns, or alternative viewpoints become lines in NotebookLM, shaping our resolution.
+               * Attendees and speakers can jointly refine wording, ensuring each clause reflects shared agreement or known disagreements.
+
+
+                  5. Gamified Approach
+                  * Instead of standard polls, we harness co-creation in NotebookLM. The day’s “score” or “progress bar” is how robust our final Resolution becomes.
+                  * Lunch break is an “intermission”—a time to strategize, read the partial Resolution, or propose new lines offline.
+                  * The end goal is a collectively authored “Synthetic Summit Resolution,” capturing synergy (or tension) among diverse AI-political visions.
+
+
+                     6. Adoption of Summit Resolution
+                     * A near-final text is read aloud around 17:50. The assembly can tweak it, then adopt by consensus or show of hands.
+                     * Once adopted, the Resolution is printed from NotebookLM and publicised.
+________________
+
+
+POSSIBLE OUTCOMES
+                     1. The Synthetic Summit Resolution:
+                     * A concise final document that integrates each speaker’s perspective (plus audience input) into a curated vision for AI-based politics, net-art activism, and future governance.
+                     * Published in real-time via NotebookLM, with digital/hard copies shared post-event.
+
+                        2. Long-Term Collaborations:
+                        * This Summit nurtures ties between virtual politicians, global AI parties, performance-activists, civic-hackers, and the general public.
+                        * Some lines or recommendations may spin off into actual campaigns, research projects, or collaborative artworks.
+
+                           3. Future Summits & Exhibitions:
+                           * By adopting an assemblist and unconference ethos, the Synthetic Summit might become a recurring platform—adapting to new contexts, new AI tools, and new political challenges.
+                           * The documentation itself will be displayed on syntheticism.org, forming an evolving testament to this network of algorithmic democracy.
+________________
+
+
+Contacts & Further Info
+                           * Website: Syntheticism.org & NotebookLM
+                           * Info Desk: Kunsthal Aarhus lobby, or ask a “Synthetic Summit Staff” wearing a shirt or cap.
+                           * For adding content to NotebookLM: See the volunteer scribes near the circular table.
+We appreciate your co-creative willingness. 
+
+- Let the parliamentary performance begin!

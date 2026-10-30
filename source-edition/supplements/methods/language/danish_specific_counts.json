@@ -1,0 +1,14 @@
+{
+  "source": "source-edition/data/A15-D02.txt",
+  "completed_non_operator_exchanges": 4808,
+  "danish_or_danish_compatible": 1198,
+  "unclassified": 283,
+  "non_danish_or_mixed": 3327,
+  "percentage_non_danish_or_mixed": 69.19717138103161,
+  "short_inputs_left_unclassified": 275,
+  "code_noise_or_name_only_unclassified": 8,
+  "uncorrected_da_only_classifier_count": 3653,
+  "method": "langid 1.1.6 whole-input coding followed by targeted manual correction; includes mixed-language inputs; not a complete manual census",
+  "analysis_version": "METHOD-A15-A08/2026-10-26",
+  "analysed_representation": "Pre-treatment analysis witness, preserved separately; language classifications are not recalculated from the later public derivative."
+}

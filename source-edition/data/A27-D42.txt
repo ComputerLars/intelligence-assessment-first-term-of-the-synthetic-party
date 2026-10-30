@@ -1,0 +1,13 @@
+A27-D42 | Teaching proposal — margin comments
+
+Two substantive comments from a collaborative application draft. The supplied text does not independently establish their authorship. The application and other comments are not reproduced.
+
+[…]
+
+[c]Integrate that it's not just a technical mission, but that it will give critical skills in using these tools for both making new artistic productions with a reflective cultural-political dimension, and for evaluating one's own style through AI
+
+[…]
+
+[p]Maybe one can add that finetuning knowledge will also be a key competency in working with cultural institutions who have archives that are not captured by the commercial AI foundation models
+
+[…]

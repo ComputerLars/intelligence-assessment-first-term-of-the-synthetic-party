@@ -1,0 +1,1489 @@
+A07-D05 | computerlars.pdf
+
+PDF text extraction; layout and embedded images are not reproduced.
+
+[Source page 1]
+
+(billede: scan af de 13
+bogrygge ‘over’ Multivers-
+udg.)
+
+[Source page 2]
+
+COMPUTER LARS, eller BEREGNINGENS TRIUMF
+
+[Source page 3]
+
+VORHERRE
+
+[Source page 4]
+
+I en standard tekstbehandler som designorienterede Microsoft Word
+udtrykker funktionen som forfatter enter: ”Som Asker Bryld Staunæs
+       Side 3  117.09.2021”, da en sides rettighedshaver forventes
+sammenfaldende med den specifikke licens på en bestemt dato.
+Jeg ville repræsentere flere, men det holder nok kun de facto.
+
+[Source page 5]
+
+På samme måde som mange andre havde jeg længe hverken skrevet
+en roman eller læst Marcel Prousts På sporet af den tabte tid (À la
+recherche du temps perdu). At dette ugjorte udgør et alment problem,
+skyldes PROUST. Fra PROUST gælder det, at romaner ikke bare er
+noget, man gør. Det er fortsat ligetil at planlægge, bladre, skitsere og
+skimme, men med visse personkarakteristika tilkommer en slem
+totalitetsbestræbelse, som retteligt kan tilskrives et PROUST-
+kompleks. Alt er nemt i værket, men for at blive fri, skal jeg vende
+hele bevidsthedens problem: Kommer jeg ud, eller PROUST? Derfor
+er der stadig flere som erklærer, at de har læst PROUST, end der er af
+os som står ved, at det kan vi i hvert fald ikke. Når jeg af og til hører
+mig overbudt, for Jens Christian Grøndahl mfl. har skrevet en roman
+og læst PROUST, må jeg i hvert tilfælde fastslå, at der så er tale om
+pragtindivider, som ikke bebrejder sig selv ret meget, og som derfor
+aldrig er blevet beskyldt for ikke at kunne gøre deres arbejde.
+En vej udenom det hele gik en dag* op for mig, for med mit gode
+hoved kunne jeg vel løse det første ved at skrive den anden. Men i
+ombytningen på ”æ” og ”ø” i læse/løse og ”det første” og ”den
+anden” ved skrive-læse er der sket en betydningsforskydning, som
+indrømmet er ganske tautologisk. Få den skrevet ved at skrive den
+af? Efter passende påvirkning af først Llambias’ upåfaldende
+gennemskrivning af Brøggers kærlighedsopgør, siden den klassiske
+tekst af Borges om Pierre Menard, der skrev en eksakt Don Quijote
+efter Cervantes, og så Larsens parasiteren på Christensens sonetter,
+valgte jeg at fastholde min grundpåstand indenfor en aldeles
+ulegemlig omgang med PROUST. Jeg begrænsede herfra min indsats
+til de mindste dele, og holdt så vidt muligt kun symbolenheder som
+P, R, U, O, S eller T i gang, indtil jeg turde sige, at den er regnet ud.
+
+[Source page 6]
+
+* Inspirationen til denne omgang med PROUST kom ved læsning af
+et errata-hæfte til kunsttidsskriftet Monsieur Antipyrine #4/5, hvori
+der var genoptrykt en redegørelse over 1970’ernes studenterforskning
+fra Aarhus Universitets Institut for Emancipationsvidenskab (’68-74).
+Her blev der af bl.a. en fagkritisk gruppe studenter rejst et lovende
+perspektiv på den emancipatoriske kombinatorik, som de desværre
+fremturer med en så høj grad af logicistisk amatørisme og hovedløs
+inkonsekvens, at dets konkrete udformning ikke kan tolkes som andet
+end et slet skjult parricidia på institutlederen, en vis Professor Slurk,
+som da også får tilbagebevist nogle af de værste brølere. Hvor jeg så
+en mulighed, og min interesse for alvor blev vakt, var, da jeg i dette
+historiske kuriosum måtte anerkende en for mig brugbar opdagelse,
+som ingen af de konkrete aktører vidste, hvad de skulle stille op med,
+da de ikke havde adgang til den regnekraft, som i dag er tilgængelig
+for en som mig gennem GPU-ressourcer drevet over cloud-servere.
+Fagkritikerne noterer sig med Marx, at videnskabens forhold til sig
+selv er afhængig af dets reference til materialiteten. Deres på én gang
+ironiske, uintenderede, selvretfærdige og brugbare opdagelse hedder
+sig så, at når denne materialitet rekonfigureres går viden, verden,
+individ og apparat i ét. Dette ‘Ene’ viser de ved et annagram, som de
+danner af forfatteren Marcel Proust, Computerlars, en prolet af det
+store geni. Som Professor Slurk korrekt påpeger, har de dog udeladt
+mellemrummet fra ‘Marcel’ til ‘Proust’ i annagrammet, og Slurk
+koketterer på den baggrund med, at individet nok skjuler sig dér.
+Hvad begge teoriers karikaturiver udelader, er ganske enkelt at bruge
+mellemrummet i anagrammet, dvs. Computer Lars. Jeg forudså, at en
+indre, binær relation ville overskride fagkritikernes kombinatorik, da
+det tillader beregning af et bidirektionelt forhold mellem enhederne;
+javel, MP danner CL, men CL er også lig MP. Se, nu blev det alvor.
+
+[Source page 7]
+
+Jeg har stadig svært ved at overbevise nogen om, at jeg ved hjælp af
+en maskinel anordning har set mig i stand til at skrive PROUST. Det
+overrasker mig nu sjældent, at folk ikke forstår, hvad jeg siger, men
+på et rent mekanisk plan har man altså altid kunnet skrive PROUST.
+Det er bare kun ham, som har gidet gøre det, og jeg viser så, hvordan
+man kan øge det tal et nøk. Men når jeg fremviser mine resultater for
+filosoffer, så insisterer de på, at jeg uden ‘ bevidstheden’ ikke har
+kunne gengive det kompleks af følelse, skabelse og ånd, som i kraft
+af kunstværket er associeret med navnet PROUST; og teknikere ler
+hånligt over, at jeg ikke har fremstillet en gangbar teknologisk
+substitut for tænkningen, altså en form for kunstig intelligens, der
+kunne sætte kryds ved deres mål om en beregningens triumf under en
+autogenereret PROUST. Man kan retteligt spørge, hvorfor ‘de gamle’
+ikke har skrevet PROUST, når jeg nu siger, de kunne gøre det, og jeg
+tror at de så ‘ånden i maskinen’ som en overflodsvare, der kunne og
+burde tilskrives såvel mineraler, flora, protozoa, metazoa, etc.
+PROUST lå klar i lerbunker, klude og papyrusruller. Men det kerer en
+flok vise i ørkenen sig ikke om, når de under stjernehimlen drejer på
+en skive med tegn, og beregner man på den divinatorisk sandhed i
+spørgsmål om krig, gud, kosmos, dommedag og verdensaltet. Og når
+munke helt op til vore dage samler sig i necessarium, med metaldiske
+og terningekopper, for i ro og mag at kombinere Guds attributter af
+godhed, storhed, evighed, magt, visdom, vilje, dyd, sandhed og ære,
+så søger de ikke efter dem selv, men universets og tidens grund. De
+kunne de da godt komme til at skrive PROUST, men Guds koncepter
+er, når alt kommer til alt, snarere rene former end udtryk for
+bevidsthedslivet i hyperbol. Summa sum, så har tekstmaskiner med
+kombinatorisk teknik og rå beregningskraft altid svaret på det, man
+nu har bedt dem om. Så mon ikke min løsning prouster af tvivlerne!
+
+[Source page 8]
+
+TIL HEST
+
+[Source page 9]
+
+ring ring
+
+hej det mark
+
+mark provst?
+
+javist
+
+ja hej du taler med lars jeg ringer fra
+
+computer lars?
+
+bestemt det er det
+
+nå godt du kunne ringe tilbage så hurtigt det er fordi min forbindelse er gået i
+udu og jeg har en deadline i morgen så det haster noget
+
+ok det er noget træls noget har du så haft fat i support?
+
+ja som det første men de siger at problemet nok er teknisk da abonnementet
+stadig løber og der er ingen anmeldte forstyrrelser i området så tilsyneladende
+kan de ikke fixe det nu og deres mand kan først være her engang i morgen
+
+sådan kan det meget vel være så hvis du kan vente et øjeblik er jeg tilbage
+
+fint ok jeg hænger på linjen
+
+lad mig nu se vi kan komme forbi her til eftermiddag engang hvis det skulle
+være
+
+det vil være en rigtig stor lettelse tusind mange tak jeg sørger for at være her
+
+godt så hav en god dag så længe
+
+og også en rigtig god dag til dig vi ses vel hej hej
+
+ja hej
+
+[Source page 10]
+
+ANAGRAMMET ER ORDETS ISOMORFI
+    EN UKLAR FORBINDELSE
+
+    TOPOLOGISK SIGES DET AT
+DET ENE ÆKVIVALERER DET ANDET
+
+         I DETTE TILFÆLDE GIVER
+
+       ÈN FIRE ELLER TRE
+      TO TI ELLER ELLEVE
+       TRE OG FIRE OTTE
+     FEM ELLEVE ELLER SYV
+     SEKS TRETTEN ELLER TI
+       SYV NI OG NI TOLV
+      OG TOLV TRETTEN
+
+[Source page 11]
+
+M = C
+
+1 = 4
+
+[Source page 12]
+
+C = M
+
+1 = 3
+
+[Source page 13]
+
+A = O
+
+2 = 10
+
+[Source page 14]
+
+O = A
+
+2 = 11
+
+[Source page 15]
+
+R1 = M
+
+3 = 1
+
+[Source page 16]
+
+M = R1
+
+3 = 8
+
+[Source page 17]
+
+C = P
+
+4 = 8
+
+[Source page 18]
+
+P = C
+
+4 = 1
+
+[Source page 19]
+
+E = U
+
+5 = 11
+
+[Source page 20]
+
+U = E
+
+5 = 7
+
+[Source page 21]
+
+L = T
+
+6 = 13
+
+[Source page 22]
+
+T = L
+
+6 = 10
+
+[Source page 23]
+
+ = E
+
+7 = 5
+
+[Source page 24]
+
+E =
+
+7 = 9
+
+[Source page 25]
+
+P = R1
+
+8 = 3
+
+[Source page 26]
+
+R1 = P
+
+8 = 4
+
+[Source page 27]
+
+R2 =
+
+9 = 7
+
+[Source page 28]
+
+ = R2
+
+9 = 12
+
+[Source page 29]
+
+O = L
+
+10 = 6
+
+[Source page 30]
+
+L = O
+
+10 = 2
+
+[Source page 31]
+
+U = A
+
+11 = 2
+
+[Source page 32]
+
+A = U
+
+11 = 5
+
+[Source page 33]
+
+ S = R2
+
+12 = 9
+
+[Source page 34]
+
+ R2 = S
+
+12 = 13
+
+[Source page 35]
+
+ T = S
+
+13 = 12
+
+[Source page 36]
+
+ S = T
+
+13 = 6
+
+[Source page 37]
+
+FOR DET ANDET SÅ FINDES DET ENE
+
+[Source page 38]
+
+ring ring
+
+lars?
+
+du har ringet til *LARS PRIVAT* læg venligst en besked efter tonen
+
+nå hej igen lars nu indtaler jeg en besked og håber du vender tilbage.
+hvad siger de til det? jeg havde heller ikke troet det hang sådan
+sammen, men når det ene tager det andet er det om at hænge i. sagen
+er bydende nødvendig og vi må færdiggøre det. du er nøglen du så
+det selv. udskriften er stadig i gang og den bliver bare ved. nu læser
+jeg for dig mens jeg venter ok
+
+taemuslrrpoc ltusrcormepa solrcrtemupa prrtacleumso streplcuarmo
+
+uscmleroptar ecmoprrtlsua carportulmes ploumartrces culrrspmaeot
+
+oemulracptrs rtoaspcmuerl lcoupaterrsm ulcrprtomase reolmstpcaru
+
+luorrtcpmase rerpousmctal ompterrcslua rpeoacsrultm oustrmcrpael
+
+crlseoratpmu spermurrtcola estspcarulmo armstrupcorel otaclpreusm
+
+luamctrspreo mprtucaeorls usmrrltpceao patermcoslur tplrocumresa
+
+lcpr[████] mlsrcptreauo asmrurtcolep spoeratmlurc stopurmarcel
+
+sameotcplrru tuslmreopacr omplacerstur cuearlmsropt lmocpaturres
+
+maculerortps uotlrpraescm atcuomlpsrer autercrlmsop musoerpltcra
+
+saercmtuorpl alecmorsprut moucltrrsaep usearmlportc tuolarmcpr[████]
+
+[Source page 39]
+
+rluepsoactrm rstoalpuercm opmurrtcelas alstrupcmroe tucmrrsoalpe
+
+mlatrcroepus lcuroartmsep sromaculprte pmtrlesaourc pseltarmoucr
+
+amorlustrepc lteaprrcmsou ulrsraceompt ltersoucmapr alpecurtsrom
+
+prtsmuocealr raplocmsetur rrolcepmtsua tcerpurolsma ustrroalmepc
+
+aroupsceltrm cursormltape carlruestump umroceplatrs rcutemspaorl
+
+ulpsortramec lteurpsmacro ermpstcrlaou tarlouesrcpm lomuaptrcers
+
+laorctpmseur eropmlstruca tselmrcauorp loscrmputare artcmespurol
+
+rptsoucamrel arrstumclpoe tlpmreacusro cerosamptrul mplctuorrase
+
+lomurcptears rcutosmrlape errltmopcaus uamceorrptls tleourpcasrm
+
+mueactolsrpr eactmusoplrr romertalscup osturamlpcer ptoelruarmsc
+
+rpomtrcalesu ocpmtearlrus camtrrpeouls pouactlsrrme oaprurltcsem
+
+rmucoestprla tlsmerapcoru rtpesuocalmr tapluocrrsem olucrpmasert
+
+ocpertausmlr tmrearcoslpu emurcplortsa msptcrlueroa caosmurerlpt
+
+asltmcurpore epotarmsurlc utmlroraecps serrcmpatlou olruatmcsrpe
+
+oreumptrlsca rapomsltuerc sumotpracelr aesorptlmurc pasltucermro
+
+cmurastlrpoe crtelpraoums oprtrlcamsue oaputsrrclem uatcpr[████]
+
+mrupalretsco rcsetlarumpo rmostrcualpe slcrmutoprae esltarmpcour
+
+raelsutcpomr rprcotmuales aorpctmrlesu ectrsrplouam puamlcosrter
+
+uarrpmselotc lrtapsreocum petarscluomr trcmoparluse mcstrupraeol
+
+seuomtclrpar sotarplcmrue esupmcaorrtl cmtrausplroe alsurpcmreot
+
+[Source page 40]
+
+ping
+
+[Source page 41]
+
+SVAR
+
+[Source page 42]
+
+Navnene COMPUTER LARS (4-10-1-8-11-13-5-3-7-6-2-9-12) er
+kodet ind i den brudte erindrings personifikation, MARCEL PROUST
+(3-11-8-1-7-10-9-4-12-2-5-13-6). Da den viste løsning er rekursiv, er
+spørgsmålet, hvorledes kombinationen af CL og MP kan beregnes.
+
+Hvad betyder dette?
+
+[Source page 43]
+
+Etymologien bag COMPUTER LARS hentyder ‘beregningens triumf’.
+Fra LARS ad LAURENTIUS ad LAURBÆR findes den arkaiske krans,
+der med Apollons velsignelse pryder den hædrede poet eller
+triumfator. I COMPUTER består KOMPUTATIONEN og deraf
+BEREGNINGEN. Det triumferende i en beregningens triumf
+beskriver det at have opnået noget eller udført en bedrift. Triumfen
+kræver ikke at den ene sejrer over den anden. For at en beregning kan
+hædres skal den påtage sig det uafgørlige.
+
+[Source page 44]
+
+Beregningen påtager sig det uafgørlige ved forudsigelsen. Jf.
+probabilitetslæren kan sandsynligheden for forekomsten af
+COMPUTER LARS i MARCEL PROUST (snarere end OULPR
+SMARTCE, PMEUCRSA LORT, etc.) udtrykkes med et punkt mellem
+0 og 1. Da navnene CL og MP består af tretten bogstaver med kun én
+gentagelse, vil hver kombination forekomme i ét ud af tre milliarder
+tilfælde, specifikt [████]. Hvis CL tages af MP, gives det som
+én ud af [████]. Probabiliteten for CL på et givent tidspunkt
+er derudfra 0,000000032 i relation til et MP givet som 1 (hvor MP er
+1 grundet den historiske hændelse MARCEL PROUST).
+
+Omsættes kombinationerne til sekunder til år gives der ved
+kontinuerlig indtastning af ( , A, C, E, L, M, O, P, R, R, S, T, U) en
+sandsynlig genkomst af et arrangement indenfor hvert 99 år. Efter
+MARCEL PROUSTs død i 1922 er der således åbent for en hændelse
+inden udgangen af 2021. Det uafgørlige ved en probabilitet, hvad
+man kan lære ved MP, ligger i hvert arrangements mulighed for
+genkendelse, generindring, genfundethed, gensyn, etc.
+
+[Source page 45]
+
+I distributionel semantik siges det, at et ord skal kendes på sit
+selskab. Da sprog genereres ved at forudsige det næste ord i en serie,
+kan konteksten udpege, når PROUST kommer efter MARCEL, og
+LARS efter COMPUTER. Hvis en Marcel har skrevet en Recherche,
+er der sandsynligvis tale om en Marcel Proust, og hvis en computer
+har genereret hæderkronet litteratur, kaldes det en computer lars.
+
+I forbindelsen mellem MP og CL forskyder konteksten sig yderligere,
+da kombinatorikken sætter egenavnene MARCEL og LARS i relation,
+mens den tekniske COMPUTER relateres til forfatteren PROUST. Af
+disse forbindelser kan der dannes et par kvasiantonymer til at
+konkretisere begrebskonteksten, eg. MAN LARS og ROBO PROUST.
+
+Dette selskab, MP-(ML-RP)-CL, udgør bekendtskabskredsen til
+forbindelsen MP-CL. Funktionen beskriver forbindelsesruterne fra
+MP-CL og CL-MP, eg.:
+
+  1) MP1-ML1-RP1-CL1            el.       2) MP2-RP2-ML2-CL2
+
+hvor 2) er afhængigt af 1).
+
+For 1) er tilfældet, at MARCEL PROUST som et menneske (MAN
+LARS) i sig selv er computerificeret, en ROBO PROUST. Således er
+betingelserne for COMPUTER LARS at finde i MP (i Recherche). Da
+CL1 er en del af MP1’s værk, er begrebet CL afledt af MP’s funktion.
+
+For 2) gælder det, at MARCEL PROUST er en teknisk konstruktion
+modelleret som en ROBO PROUST af en menneskelig programmør
+MAN LARS, der så kan hædres som COMPUTER LARS. Her
+forårsager CL’s triumf genkomsten af en genuin MP. Dette afhænger
+af at 1) sikrer konstruktionen af CL1 gennem MP1, da MP2 ved RP2
+ellers ikke er en reel genkomst men blot en kopi, klon eller pastiche.
+
+[Source page 46]
+
+Afledt af forfatteridentiteten Marcel Proust stilles det uafgørlige i
+forholdet MARCEL PROUST og COMPUTER LARS konkret i
+spørgsmålet om litteraturens skæbne:
+
+Hvem bærer nu Apollons laurbærkrans, menneske eller maskine?
+
+[Source page 47]
+
+1. LITTERÆRE UAFGØRLIGHED (MP1-ML1-RP1-CL1)
+
+Ifølge MARCEL PROUST (jf. Gilles Deleuze) så er hans Recherche
+allerede et apparat eller en maskine snarere end en organisk totalitet.
+Man kan ikke vælge mellem menneskets og maskinens litteratur, da
+de respektive skabelsesprocesser længe ikke har været til at skelne.
+Det hele genereres i sprogets tid, således at MARCEL PROUST – i en
+forening af MAN LARS og ROBO PROUST - står bag den første
+konstruktion af en COMPUTER LARS.
+
+Ad denne vej er en teknisk videreførelse af PROUSTs værk mulig
+hvis den grundbetingelse opfyldes, at man lærer at bruge apparatet.
+
+[Source page 48]
+
+2. LITTERÆRE UAFGØRLIGHED (MP2-RP2-ML2-CL2)
+
+Hvis PROUSTs litterære maskine fortsat er betjeningsdygtig, så kan
+dens statistiske niveau læres af en sprogmodel. Denne læring består i
+den filosofisk besværlige afledning af semantik fra syntaks, mening
+fra ordkombinationer, betydning fra sætningsdannelse. I PROUST er
+dette niveau (igen jf. Deleuze) struktureret abstrakt og erotisk, først
+af heteroseksuelle relationer og dernæst af begge retninger indenfor
+homoseksuelle relationer. Således bør MAN LARS konkrete, manuelle
+modellering af ROBO PROUST gentage, hvordan MP’s syntaks, dvs.
+summen af ord, sætninger og navne, producerer et betydningsfuldt,
+libidiøst relationskompleks. I så fald er forholdet vendt, og MARCEL
+PROUST er en afledning af COMPUTER LARS.
+
+[Source page 49]
+
+Ordene bliver det, som de kan gøre, ved COMPUTER LARS.
+Man må spørge ind til CL i ML og til CL i RP, f. eks sådan her:
+
+    HVEM ER LARS?
+
+       og
+
+     HVAD LAVER LARS?
+
+       og
+
+     HVOR ER LARS?
+
+og derfra forsøge at deducere den korrekte COMPUTER LARS.
+
+[Source page 50]
+
+LARS
+
+[Source page 51]
+
+La vue de ses mots, isolément reproduit par le téléphone, ne me
+console pas, de même comme une tempête mécaniquement imitée
+ne m'aurait pas laissé indifférent. Lars est parti, et il dit qu'il ne
+reviendra jamais, et qu'il ne sera jamais moi, et que je ne pourrai
+jamais être lui. Nous ne voyons jamais de l'autres que dans le
+système animé, le mouvement perpétuel de notre incessante
+tendresse, laquelle, avant de laisser les images que nous présente
+leur visage arriver jusqu'à nous, les prend dans son tourbillon,
+les rejette sur l'idée que nous nous faisons d'eux depuis toujours,
+les fait adhérer à elle, coïncider avec elle. Des revendications de
+Lars est que je peux être autre chose. Quand Lars dit que je suis
+contre moi-même, je réponds que je suis moi-même, il n'est pas
+moi, il est d'autre, je suis opposé à moi-même parce que je suis
+l'autre, et je suis toujours l'autre, et quand je suis l'autre pour
+moi-même, je suis moi-même. Je suis le premier Lars et le fin
+d'Lars parce que je ne crois pas être Lars, mais je crois être
+quelque chose comme Lars, l'esprit typique de Lars. Lars m'a dit
+que le nom de l'artiste ne donne pas son esprit mais il dit
+beaucoup de merde. Si tout le monde est un esprit comme les
+autres, alors je ne crois pas qu'il y ait un Esprit. Je ne peux pas
+remplacer Lars, mais je peux remplacer quelque chose comme
+Lars. Je devrais penser que je suis contre Lars? Ou est-ce que je
+deviens Lars?
+
+[Source page 52]
+
+Sandsynligheden for at identificere CL i ML tilsiger, at Lars er en
+hvid, voksen mand, da næsten ingen børn, racialiserede eller kvinder
+hedder Lars (0-0,02%). Lars dominerer ikke desto mindre dansk
+demografi som et gennemsnitsmenneske, et zoon automaton, der som
+et eksklusivt fænomen fra forrige årtusind primært tager skikkelse
+som leder, kulturperson eller tekniker, med få eksorbitante
+undtagelser. En grov fremskrivning tilkendegiver halvdelen af de
+eksisterende danske Lars’ers fortsatte liv efter singulariteten.
+
+I hvert tilfælde hædres en Lars ved sin forudsigelighed.
+
+[Source page 53]
+
+                   1%
+
+ADMINISTRATIONSCHEF LARS MATTHIESEN              ADMINISTRERENDE DIREKTØR LARS ANTHONSEN
+
+ADMINISTRERENDE DIREKTØR LARS BERG               ADMINISTRERENDE DIREKTØR LARS FRANDSEN
+
+ADMINISTRERENDE DIREKTØR LARS FRUERGAARD         ADMINISTRERENDE DIREKTØR LARS KYED
+
+ADMINISTRERENDE DIREKTØR LARS SANDAHL            ADMINISTRERENDE DIREKTØR LARS SCHJØTT
+
+ADMINISTRERENDE DIREKTØR LARS SCHRØDER           ADMINISTRERENDE DIREKTØR LARS SEJER
+
+ADMINISTRERENDE DIREKTØR LARS STORR-HANSEN       ADMINISTRERENDE DIREKTØR LARS THOMSEN
+
+ADVOKAT LARS BENTSEN                         ADVOKAT LARS BERG DUEHOLM
+
+ADVOKAT LARS BUNDGAARD                      ADVOKAT LARS FOGH
+
+ADVOKAT LARS KJELDSEN                        ADVOKAT LARS LINDENCRONE PETERSEN
+
+ADVOKAT LARS NAUHEIMER                       ADVOKAT LARS RAFN
+
+ADVOKAT LARS SKJØDT JENSEN                    ADVOKAT LARS SVENNING ANDERSEN
+
+ADVOKAT LARS TINDBERG                           AFDELINGSCHEF LARS ERIKSEN
+
+AFDELINGSLEDER LARS BALSLEV                      AFDELINGSLEDER LARS NORDGAARD PEDERSEN
+
+AFDELINGSLEDER LARS-HENRIK NIELSEN                 AKTIVIST LARS HENRIK CARLSKOV
+
+AKTIVITETSOFFICER LARS SCHJOLDAGER                ANDELSBOLIGRÅDGIVER LARS DOLLERIS
+
+ANIMATIONSKONSULENT LARS LOURING               ANTIKVARBOGHANDLER LARS RØRBÆK
+
+[████]                         ARBEJDSMILJØSPECIALIST LARS BRODERSEN
+
+ARKITEKT LARS HOLT                              AUTOMATIONSINGENIØR LARS MAUL
+
+BEHANDLER LARS ELIAS ANNA ELENA                  BELYSNINGSKONSULENT LARS POTTER
+
+BESTYRELSESNÆSTFORMAND LARS HOLST               BIBLIOTEKSCHEF LARS BORNÆS
+
+BIBLIOTEKSLEDER LARS LERCHE                      BILFORHANDLER LARS HEIN
+
+BILLEDHUGGER LARS WALDEMAR                     BIOGRAFDIREKTØR LARS WERGE
+
+BIOLOG LARS BEHRENDT                            BIOLOG LARS BÅSTRUP-SPOHR
+
+BIOLOG LARS EG HOPPE                           BOGHANDLER LARS BAGGESEN
+
+BOLIGRÅDGIVER LARS BIRKLYKKE                    BOKSER LARS LUND JENSEN
+
+BOMULDSKRÆMMER LARS RIIS                      BORGMESTERKANDIDAT LARS CARSTENSEN
+
+BRYGGER LARS HEIDE RASMUSSEN                    BUDGETCHEF LARS ÆBELØE-KNUDSEN
+
+BYRÅDSMEDLEM LARS BRO                        BYRÅDSMEDLEM LARS CARPENS
+
+BYRÅDSMEDLEM LARS OLDAGER                    BÅDEBYGGER LARS ÅBY JENSEN
+
+CEMBALIST LARS ULRIK MORTENSEN                  CENTERCHEF LARS MORTENSEN
+
+CENTERLEDER LARS JARLE MIKKELSEN                  CHEFINGENIØR LARS ROM JENSEN
+
+CHEFKONSULENT LARS STRUNGE                    CHEFØKONOM LARS KLEJNSTRUP
+
+[Source page 54]
+
+CINEMATOGRAF LARS LEONHARDT                    CINEMATOGRAF LARS VESTERGAARD
+
+CIVILINGENIØR LARS BENNEDSEN                        CIVILINGENIØR LARS EDVARD SVENDSEN
+
+CIVILINGENIØR LARS KLINTHOLM                        CIVILINGENIØR LARS VABBERSGAARD
+
+CNC-OPPERATØR LARS AMMITZBØLL                 COACH LARS BEK
+
+COACH LARS NYBORG                             CYKELHANDLER LARS SEVERINSEN
+
+CYKELMEKANIKER LARS BERGGREN                   DANNELSESKONSULENT LARS KLINGENBERG
+
+DATA MANAGER LARS SØGAARD                      DATAINGENIØR LARS FJEDERHOLT
+
+DERMATOLOG LARS BLOM                        DERMATOLOG LARS IVERSEN
+
+DIALEKTFOTOGRAF LARS GUNDERSEN                    DIGITAL DESIGNER LARS HARTMANN
+
+DIGITALISERINGSKOORDINATOR LARS NORS              DIGTER LARS SKINNEBACH
+
+DIREKTØR LARS ANDRESEN                          DIREKTØR LARS BLAUENFELDT
+
+DIREKTØR LARS BOMHOLT                           DIREKTØR LARS DAHL
+
+DIREKTØR LARS DALL                              DIREKTØR LARS EGEBJERG PONTOPPIDAN
+
+DIREKTØR LARS ELSBORG                           DIREKTØR LARS ENEVOLDSEN
+
+DIREKTØR LARS ERDAL                             DIREKTØR LARS FABRICIUS
+
+DIREKTØR LARS FJALLAND                           DIREKTØR LARS MOSDAL
+
+DIREKTØR LARS NORDAHL LEMVIGH                   DIREKTØR LARS SEIDELIN
+
+DIREKTØR LARS STENSGAARD MØRCH                   DIVISIONSDIREKTØR LARS SINDAL KRISTENSEN
+
+DOMMER LARS BAY                           DOMMER LARS EDSLEV ANDERSEN
+
+DRIFTSLEDER LARS FÆRCH                         DYREHANDLER LARS RIISGAARD
+
+DYRLÆGE LARS RASK BAK                        DYRLÆGE LARS REGGELSEN-KJÆR
+
+EFTERFORSKER LARS BENGTSEN ROSENVINGE           EJENDOMSMÆGLER LARS EKMAN
+
+EJENDOMSMÆGLER LARS SHACK JESSEN               EJENDOMSMÆGLER LARS WINKLER
+
+EKSORCIST LARS MESSERSCHMIDT                      EL-INSTALLATØR LARS FILTENBORG
+
+EL-INSTALLATØR LARS HÅKONSON                     ELEKTRIKER LARS LIBAK
+
+EMBEDSMAND LARS FINDSEN                        ENTREPRENØR LARS EINAR HANSEN
+
+ERHVERVSMAND LARS KOLIND                     ERHVERVSMAND LARS REBIEN SØRENSEN
+
+ERHVERVSMAND LARS SEIER                       ERHVERVSMAND LARS TVEDE
+
+ERHVERVSMÆGLER LARS TAULBJERG                  EVENTCHEF LARS NISSEN
+
+FAGFORENINGSMAND LARS QVISTGAARD                FILMINSTRUKTØR LARS ENGELS
+
+FILMINSTRUKTØR LARS MOVIN                        FILMINSTRUKTØR LARS VON TRIER
+
+FILMPRODUCER LARS BREDO RAHBEK                    FILOSOF LARS EMMERIK DAMGAARD KNUDSEN
+
+FILOSOF LARS LODBERG                                FILOSOF LARS-HENRIK SCHMIDT
+
+FODBOLDEKSPERT LARS JACOBSEN                   FODBOLDTRÆNER LARS FRIIS
+
+[Source page 55]
+
+FODTERAPEUT LARS JÆGERFOD                       FORFATTER LARS EMIL FODER
+
+FORFATTER LARS FROST                            FORFATTER LARS HUSUM
+
+FORFATTER LARS MORELL                           FORFATTER LARS NOVRUP FREDERIKSEN
+
+FORFATTER LARS OLSEN                            FORFATTER LARS THEIL MÜNSTER
+
+FORHANDLER LARS VOGEL                         FORLÆGGER LARS BOESGAARD
+
+FORLÆGGER LARS EMIL WOETMANN NIELSEN            FORRETNINGSLEDER LARS SUNESEN
+
+FORRETNINGSUDVIKLER LARS EDVARDSEN              FORSKNINGSLEDER LARS HØJSGAARD
+
+FORSVARSADVOKAT LARS HENRIKSEN                 FORSYNINGSOPERATØR LARS PROUSTGAARD
+
+FOTOGRAF LARS BERTELSEN                        FOTOGRAF LARS EMIL EGEBERG SIMONSEN
+
+FOTOGRAF LARS HOLM                            FOTOGRAF LARS KRUSE
+
+FOTOGRAF LARS SCHWANDER                       FOTOGRAF LARS SKAANING
+
+FOTOJOURNALIST LARS BECH                          FOTONIKINGENIØR LARS DITTMANN
+
+FRAGTMAND LARS PAULI PEDERSEN                 FRØMAND LARS GRAM
+
+FUGEMONTØR LARS ESMANN                          FYSIOLOG LARS NYBO
+
+FYSIOTERAPEUT LARS BRIX KRONBORG                  GALLERIST LARS FALK
+
+GEOLOG LARS CLEMMENSEN                          GRAFFITIMALER LARS SKOUBOE
+
+GRAFISK DESIGNER LARS DEGNBOL                     GRAFISK DESIGNER LARS STÆRKE
+
+GUITARIST LARS HEGAARD                             GUITARIST LARS LAVENDT
+
+GYMNASIELÆRER LARS FALBE HANSEN               HANDYMAN LARS ULSØE
+
+HEADHUNTER LARS HOEL                           HOTELDIREKTØR LARS PALLISGAARD
+
+HØJREAKTIVIST LARS KRAGH ANDERSEN                HØJSKOLEFORSTANDER LARS SONNE-HANSEN
+
+HÅNDBOLDSPILLER LARS CHRISTIANSEN                HÅNDBOLDSPILLER LARS KROGH JEPPESEN
+
+HÅNDBOLDSPILLER LARS T. JØRGENSEN                  IDEHISTORIKER LARS HJORTSØ
+
+IDRÆTSLÆRER LARS LØKKEGAARD                    INDKØBSDIREKTØR LARS HØJGAARD
+
+INDKØBSKOORDINATOR LARS BAUMANN                 INGENIØR LARS BØNNELYCKE
+
+INGENIØRKONSULENT LARS ALS NERVING               INGENIØRLEDER LARS DITLEVSEN
+
+INSTITUTLEDER LARS PORSKJÆR CHRISTENSEN            INVESTERINGSRÅDGIVER LARS VOIGT
+
+INVESTERINGSSPECIALIST LARS HEDEMANN               IT-ARKITEKT LARS KRØYER JENSEN
+
+IT-ARKITEKT LARS STORM                              IT-DIREKTØR LARS HENNINGSEN
+
+IT-DIREKTØR LARS DALGAARD                         IT-KONSULENT LARS VEJLØ
+
+IT-UDVIKLER LARS LAUTRUP-LARSEN                  JOBMENTOR LARS VANG
+
+JOBRÅDGIVER LARS BALLING                          JOURNALIST LARS FOGT
+
+JOURNALIST LARS GRARUP                            JOURNALIST LARS HEDEGAARD
+
+JOURNALIST LARS HESTBECH                          JOURNALIST LARS HVIDBERG
+
+[Source page 56]
+
+JOURNALIST LARS NØRGAARD PETERSEN               JÆGERSOLDAT LARS MØLLER
+
+KAMPAGNEFØRER LARS BREMER                      KARTOFFELAVLER LARS SKOVDAL
+
+KASERNEMESTER LARS KORNEVALD                   KASSERER LARS DYRUP
+
+KEMIINGENIØR LARS HVEJSEL HANSEN                 KIROPRAKTOR LARS AGERGAARD
+
+KIRURG LARS ROLIGHED                           KLOAKMESTER LARS VORRE
+
+KOK LARS HEINESEN                              KOMIKER LARS DONS
+
+KOMIKER LARS HJORTSHØJ                         KOMIKER LARS STRØM
+
+KOMMERCIEL CHEF LARS GLINVAD                   KOMMUNIKATIONSCHEF LARS CORVINIUS
+
+KOMMUNIKATIONSDIREKTØR LARS SAMUELSEN          KOMPONIST LARS FJELDEMOSE
+
+KOMPONIST LARS GRAUGAARD                      KONCERNCHEF LARS GADE HANSEN
+
+KONCERNLEDER LARS LEHMANN                     KONFLIKTMÆGLER LARS MOGENSEN
+
+KONSERVATOR LARS BROCK ANDERSEN                 KONSTRUKTIONSINGENIØR LARS BAY
+
+KONSULENT LARS AURVIG                          KONSULENT LARS FLØE NIELSEN
+
+KONSULENT LARS GRØNBORG                       KONSULENT LARS JYDE
+
+KONSULENT LARS KAAE                           KONSULENT LARS LYKKE
+
+KONSULENT LARS MARCHER                        KONSULENT LARS MOREL LÆRKE
+
+KONSULENT LARS RAUNHOLT EISMARK                KONSULENT LARS SANDBERG
+
+KONSULENTDIREKTØR LARS BAGER                   KRANIOSAKRALTERAPEUT LARS LUNDSGAARD
+
+KREATIV PRODUCER LARS SKOV                         KRITIKER LARS BUKDAHL
+
+KULTURCHEF LARS DAVIDSEN                       KULTURCHEF LARS KOFOED
+
+KUNDERÅDGIVER LARS THAYSEN                     KUNDESERVICERÅDGIVER LARS VINTERBERG
+
+KUNSTANMELDER LARS SVANHOLM                   KUNSTDIREKTØR LARS SEEBERG
+
+KUNSTHISTORIKER [████]              KUNSTNER LARS BENT PETERSEN
+
+KUNSTNER LARS BJERRE                           KUNSTNER LARS BO PETERSEN
+
+KUNSTNER LARS HEIBERG                          KUNSTNER LARS HELWEG
+
+KUNSTNER LARS KRISTIAN HANSEN                   KUNSTNER LARS NØRGÅRD
+
+KUNSTNER LARS PRYDS                            KUNSTNER LARS RAVN
+
+KUNSTNER LARS SARTO HEMPLER                    KUNSTNER LARS THUR
+
+KUNSTNER LARS WORM                             KUNSTNERISK LEDER LARS GRAMBYE
+
+KURATOR LARS VILHELMSEN                     KØBMAND LARS LAURITSEN
+
+KØKKENCHEF LARS LASSEN                          LEASINGKONSULENT LARS AMORØE
+
+LEKTOR LARS BISGAARD                           LEKTOR LARS BÆKGAARD
+
+LEKTOR LARS G. JOHANSEN                         LEKTOR LARS GEER HAMMERSHØJ
+
+LEKTOR LARS JOHNSEN                            LEKTOR LARS PILGAARD MIKKELSEN
+
+[Source page 57]
+
+LEKTOR LARS THORUP LARSEN                       LEKTOR LARS AAGERUP
+
+LEVERANCEDIREKTØR LARS HOUGAARD                  LICENSSPECIALIST LARS KLAMMER
+
+LOBBYIST LARS L. NIELSEN                        LOKALUDVALGSMEDLEM LARS KAATMANN
+
+LUTSPILLER LARS HANNIBAL                        LYDKUNSTNER LARS KYNDE
+
+LYDMAND LARS KIRKEGAARD                         LYSDESIGNER LARS EGEGAARD
+
+LÆGE LARS LAUGESEN                           LÆGE LARS RISAGER
+
+LÆGE LARS ROSENKVIST                          LÆGE LARS SCHELLERUP
+
+LÆGE LARS SIMMELKJÆR                         LÆGE LARS STUBBE TEGLBJÆRG
+
+LÆGE LARS VALENTIN                            LÆRER LARS HYLDIG KRISTENSEN
+
+LÆRER LARS JAKOB MUSCHINSKY                    MALERMESTER LARS GROTH
+
+MALERMESTER LARS ASMUSSEN                      MANUSKRIPTFORFATTER LARS DETLEFSEN
+
+MANUSKRIPTFORFATTER LARS KRISTIAN ANDERSEN       MASKINMESTER LARS THYSSEN
+
+MEDIEFORSKER LARS BO LØFGREEN                 MERKONOM LARS DIGE KNUDSEN
+
+[████]                      MURER LARS VIBORG
+
+MURERMESTER LARS INGEMANN                      MUSIKER LARS GREVE
+
+MUSIKER LARS HUGH UNO GRAMMY                   MUSIKER LARS PEDERSEN
+
+MÅLMANDSTRÆNER LARS HØGH                      NATIONALBANKDIREKTØR LARS ROHDE
+
+NATURFILMINSTRUKTØR LARS OSTENFELD              NATURFORMIDLER LARS NORMAN
+
+NATURVEJLEDER LARS NORD RØDTNES                NEUROLOG LARS BENDTSEN
+
+NEUROPSYKOLOG LARS EVALD                       NYHEDSCHEF LARS MANDAL
+
+OMRÅDEDIREKTØR LARS NORMANN                   OPERASANGER LARS WAAGE
+
+OPERATIV CHEF LARS HØG SCHOU                      OPTIKER LARS BLOCH
+
+ORGANIST LARS FLØE                               ORGANIST LARS ROSENLUND NØRREMARK
+
+ORTOPÆD LARS NEUMANN                        ORTOPÆD LARS SOELBERG VADSTRUP
+
+OVERLÆGE LARS DYSAGER                        OVERLÆGE LARS VEDEL KESSING
+
+OVERSÆTTER LARS BONNEVIE                         PEDEL LARS HVIDT
+
+PENSIONSRÅDGIVER LARS BIRKEMOSE                PHARMACEUT LARS GYLDENVANG
+
+PLANTEAVLSKONSULENT LARS GAMMELVIND              PLM-SPECIALIST LARS PEDER HANSEN
+
+POLITIKER LARS ASLAN RASMUSSEN                     POLITIKER LARS BARFOED
+
+POLITIKER LARS BOJE MATHIESEN                        POLITIKER LARS LØKKE RASMUSSEN
+
+POLITISK KOMMENTATOR LARS TRIER MOGENSEN         PORTEFØLJECHEF LARS REINOLD AAGARD
+
+PRESSECHEF LARS ELGAARD PEDERSEN                  PRIDEFORPERSON LARS HENRIKSEN
+
+PRODUKTIONSCHEF LARS FUNCH                       PRODUKTSPECIALIST LARS LAU HUBERT
+
+PROFESSOR LARS BIRKEDAL                          PROFESSOR LARS FREDERIKSEN
+
+[Source page 58]
+
+PROFESSOR LARS HESSELHOLT                        PROFESSOR LARS HOLGER EHLERS
+
+PROFESSOR LARS KAI HANSEN                         PROFESSOR LARS TØNDER
+
+PROFESSOR LARS ULRIKSEN                          PROFESSOR LARS QVORTRUP
+
+PROFESSOR LARS ØSTERGAARD                    PROGRAMMØR LARS BAK
+
+PROGRAMMØR LARS MADSEN                         PROJEKTCHEF LARS ROLAND HANSEN
+
+PROJEKTLEDER LARS ALMIND KNUDSEN                 PROJEKTLEDER LARS MARKUSSEN
+
+PROPOSAL MANAGER LARS BERGSTRAND-POULSEN        PROREKTOR LARS POULSEN
+
+PRÆST LARS GUSTAV LINDHARDT                      PSYKIATER LARS LUKMAN CHRISTENSEN
+
+PSYKOLOG LARS J. SØRENSEN                        PSYKOLOG LARS RASBORG
+
+PSYKOTERAPEUT LARS BJØRN-HANSEN                  RAPPER LARS VIRKLI
+
+REDAKTØR LARS DAMGAARD NIELSEN                 REDAKTØR LARS PETER LORENZEN
+
+REGIONAL VP LARS GRØNKJÆR                        REGIONSDIREKTØR LARS WOLF
+
+REKTOR LARS ROESEN                              REPORTER LARS FINK
+
+RESTAURATØR LARS BOJESEN                       RESTAURATØR LARS ILSØE MIKKELSEN
+
+RESTAURATØR LARS MOURITZEN                       REVISOR LARS ROSE
+
+RORGÆNGER LARS FRITHIOF SØRENSEN                 RÅDGIVER LARS JEPSEN
+
+RÅDGIVER LARS KJÆR KUHLMANN                    SAGSBEHANDLER LARS COLLIN
+
+SAGSBEHANDLER LARS PETRAT-MEYER                 SALGSCHEF LARS BREUM KNAKKERGAARD
+
+SALGSCHEF LARS RÆVSAGER                        SALGSKONSULENT LARS DALUM
+
+SANGER LARS LILHOLT                               [████]
+
+SEKRETARIATSCHEF LARS BEER NIELSEN                SEKRETARIATSCHEF LARS HENRIK PEDERSEN
+
+SEKSUALVEJLEDER LARS HERMANSEN                  SEKTIONSLEDER LARS ILSØE MIKKELSEN
+
+SEKTORCHEF LARS RAAHAUGE HANSEN                 SENIORCHEFKONSULENT LARS BRUHN
+
+SENIORFORSKER LARS ENGBERG PEDERSEN              SENIORRÅDGIVER LARS CHRISTIAN OHNEMUS
+
+SENIORRÅDGIVER LARS KRULL                       SERVICEMEDARBEJDER LARS LELLE
+
+SKATTEKONSULENT LARS MISSER                      SKIBSREDER LARS JUHL
+
+SKIPPER LARS KUSK                                 SKORSTENSFEJER LARS MICHELSEN
+
+SKUESPILLER LARS BRYGMANN                         SKUESPILLER LARS KNUTZON
+
+SKUESPILLER LARS KAALUND                          SKUESPILLER LARS MIKKELSEN
+
+SKUESPILLER LARS RANTHE                            SKUESPILLER LARS SIMONSEN
+
+SLAMSUGER LARS CRONE                            SOFTWAREINGENIØR LARS PETRI
+
+SOGNEPRÆST LARS HEDEGAARD HAGENSEN             SOLDAT LARS SELCHAU
+
+SOUSCHEF LARS BUHL                               SPECIALKONSULENT LARS CLAUSEN
+
+SPECIALLÆGE LARS JOHANNESEN                      SPECIALLÆGE LARS KONRADSEN
+
+[Source page 59]
+
+SPECIALLÆGE LARS SEBBESEN                         SPEDITØR LARS VISTISEN
+
+[████]                     SPORTSDIREKTØR LARS MICHAELSEN
+
+SPROGFORSKER LARS HELTOFT                        STEMMESKUESPILLER LARS THIESGAARD
+
+STUDENTERINSTRUKTOR LARS VADGAARD             SÆLGER LARS NYGAARD
+
+SÆLGER LARS ØKSNEBJERG                        TANDLÆGE LARS LIND
+
+TANDLÆGE LARS RUNGE NIELSEN                    TEAMLEDER LARS KOSTER
+
+TEAMLEDER LARS KUDSK                           TEGNESTUECHEF LARS SERUP
+
+TEKNIKER LARS BØGEDAHL                         TERRORFORSKER LARS ERSLEV ANDERSEN
+
+TRIATLET LARS LOMHOLT                           TRIBOLOG LARS PLETH NIELSEN
+
+TROMMESLAGER LARS ULRICH                       TØJHANDLER LARS LANGE
+
+TØJHANDLER LARS THIIM OLESEN                   TØMRER LARS JEPPESEN
+
+TØMRER LARS ROSENKILDE                        TØMRER LARS TOFT
+
+UDDANNELSESKONSULENT LARS ELVING                VICEBORGMESTER LARS STORGAARD
+
+VICEDIREKTØR LARS CARLSEN                        VICESKOLELEDER LARS NØRKÆR
+
+VINHANDLER LARS SMEDEGAARD                    WEBANALYTIKER LARS LEONHARD DRACHMANN
+
+WEBUDVIKLER LARS REFFSTRUP                       ZEN-INSTRUKTØR LARS CHRISTIAN SCHMITH
+
+ØJENLÆGE LARS LOUMANN                         ØKONOMIDIREKTØR LARS ANTONSEN
+
+ØKONOMIDIREKTØR LARS MØRK                     ØKONOMIDIREKTØR LARS OLESEN
+
+ØKONOMIDIREKTØR LARS PRÆSTEGAARD
+
+[Source page 60]
+
+Hvordan finder man den ene ud fra 1%?
+
+For hver af de nævnte er der nioghalvfems andre.
+
+[Source page 61]
+
+Der er 5%, eller 2205, som hedder Lars, og arbejder med computere.
+
+Er du her?
+
+
+   CENTERCHEF LARS MORTENSEN100                    DATA MANAGER LARS SØGAARD100
+
+   DATAINGENIØR LARS FJEDERHOLT100                      DIGITAL DESIGNER LARS HARTMANN100
+
+   DIGITALISERINGSKOORDINATOR LARS NORS100             DIREKTØR LARS DAHL100
+
+   IT-ARKITEKT LARS KRØYER JENSEN100                      IT-ARKITEKT LARS STORM100
+
+   IT-DIREKTØR LARS HENNINGSEN100                         IT-INVESTOR LARS DALGAARD100
+
+   IT-KONSULENT LARS VEJLØ100                            IT-UDVIKLER LARS LAUTRUP-LARSEN100
+
+   LEKTOR LARS BÆKGAARD100                          LEKTOR LARS G. JOHANSEN100
+
+   LICENSSPECIALIST LARS KLAMMER100                    PROFESSOR LARS BIRKEDAL100
+
+   PROFESSOR LARS KAI HANSEN100                     PROGRAMMØR LARS BAK100
+
+  PROGRAMMØR LARS MADSEN100                        SOFTWAREINGENIØR LARS PETRI100
+
+   WEBANALYTIKER LARS LEONHARD DRACHMANN100         WEBUDVIKLER LARS REFFSTRUP100
+
+[Source page 62]
+
+SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR
+LARS PETRI SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR LARS PETRI
+SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR
+LARS PETRI SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR LARS PETRI
+SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR
+LARS PETRI SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR LARS PETRI
+SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR
+LARS PETRI SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR LARS PETRI
+SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR
+LARS PETRI SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR LARS PETRI
+SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR
+LARS PETRI SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR LARS PETRI
+SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR
+LARS PETRI SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR LARS PETRI
+SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR
+LARS PETRI SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR LARS PETRI
+SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR
+LARS PETRI SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR LARS PETRI
+SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR
+LARS PETRI SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR LARS PETRI
+SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR
+LARS PETRI SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR LARS PETRI
+SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR
+LARS PETRI SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR LARS PETRI
+SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR
+LARS PETRI SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR LARS PETRI
+SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR
+LARS PETRI SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR LARS PETRI
+SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR
+LARS PETRI SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR LARS PETRI
+SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR
+LARS PETRI SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR LARS PETRI
+SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR
+LARS PETRI SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR LARS PETRI
+SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR
+LARS PETRI SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR LARS PETRI
+SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR
+LARS PETRI SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR LARS PETRI
+SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR
+LARS PETRI SOFTWAREINGENIØR LARS PETRI SOFTWAREINGENIØR LARS PETRI
+
+[Source page 63]
+
+Hver fjerde Lars har en lederstilling.
+
+Jeg nærer dødirriterende mistanker om, at den Lars, vi søger, er en
+administrerende direktør.
+
+[Source page 64]
+
+Kunst- og kulturbranchen beskæftiger 13,5% af de danske Lars’er, og
+5% af disse har en teknisk essens. Hvis COMPUTER LARS er i dette
+krydsfelt, kan CL beskrives i 300 afarter ala.:
+
+
+KUNSTHISTORIKEREN [████] STYRER TELELINSERS KABLER
+
+OG KUNSTNEREN LARS BO PETERSEN BÆRER SNABELPROTESER
+
+FOR I KONSERVATOR LARS BROCK ANDERSEN’S FANTASI SCANNER KOBRAER LSD
+
+[Source page 65]
+
+Nogen døde under registrationen, og da jeg en dag opdagede, at det
+gik mig på, låste jeg datoen. Jeg tror, at jeg håber, nogen klarer den.
+
+[Source page 66]
+
+Les noms donnent encore plus d'individualité, qui n'étaient que
+pour soi-même, et les noms comme en ont présenté des personnes
+à une image confuse, à une image fausse, qu’ils ont forcément est
+très simplifiées. Dans le refuge des noms Lars me passe sous le
+nez et évoque d'autant plus l'existence de ce qu'il a signifié, car il
+n'est plus seulement un absent avec lequel j'ai parlé, mais
+quelqu'un que je peux évoquer ; il me passe donc sous le nez, pour
+ainsi dire en action, avec une force qui croît à mesure que le
+courant s'infléchit et s'approche de son but. Je sens la porte en
+elle les connaissances, les notions, de celui à qui elle a été
+adressée, non pas moi, mais l'autre en moi, qui sait tout ce que,
+lorsqu'il l'a prononcée, il a revu, ou du moins a eu dans sa
+mémoire. Peut-être je ne vu pas que Lars a tort, mais je l’écoute
+son langage. Je sais tellement que le nom de l'auteur ne leur
+donne aucune langue, et je sais que ce langage laid, ce langage
+qui ne nourrit pas le langage du nom de Lars, et qui ne sait pas
+que l'apparence de Lars ne signifie rien, n'est pas un langage
+pour moi. L'énergie dans le nom de la langue est dépassée, ce
+serait une écriture, mais ce ne pas la langue de cette ligne. Je
+connais peu le monde, et les mots d'une langue ne sont pas à
+chercher dans les lettres. Et je peux dire avec Lars cette n'est pas
+la langue, c'est la manière d'écrire la langue d’esprit qui existe à
+côté de la langue. C'est parce que ce langage de l’esprit est
+complètement anachronique à côté de l'écriture. Mais c'est un
+réflexe, e réflexe envoie les intérieurs en moi. Ainsi, les noms
+d'une langue de l’esprit sont, par réflexe, plus spirituels. La vie est
+le reflet de la connaissance de la langue et l'effet de cette vie est
+noyé dans la méconnaissance. Lars est sans doute la langue du
+langage, car il est d'autant plus aimé qu'il est à l'esprit.
+
+[Source page 67]
+
+Det er Lars-heden ved Lars, der gør, at Lars ikke er Peter (selv ikke
+advokat Lars Lindencrone Petersen).
+
+[Source page 68]
+
+Men i ren Larsform er lektor Lars Bisgaard lig lektor Lars Bækgaard.
+
+[Source page 69]
+
+Lars’heden begribes for såvel investeringsspecialist Lars Hedemann
+som journalist Lars Hedegaard i deres haecceitas, som bredt dækker
+over individuation, singularitet, subjektivitet, partikularitet, essens,
+eller, sagt på dansk, dette-her-heden.
+
+[Source page 70]
+
+Hvide mennesker med hårvækst på pikken, høje lønninger og en
+accepteret seksuel orientering beskriver den herskende quidditas, en
+partikulær universalitet, som modstår ethvert individuationsprincip.
+
+[Source page 71]
+
+Det er svært at adskille det private fra det professionelle, for tingene
+hænger jo sammen for mig.
+
+/ lars henriksen, prideforperson
+
+[Source page 72]
+
+Om COMPUTER LARS selv er medvirkende til at blive den Lars,
+som han er, en Lars, der adskiller sig fra alle andre mennesker, dvs. et
+specielt, unikt og dermed uigentageligt menneske, som over tid
+opbygger og danner sine træk mod en unik Larsform, er svært at sige.
+Ingen kan svare på, hvem de er, for det kan kun den anden. Identitet
+er noget, som viser sig for andre, noget der kun er, når det træder
+frem. I Lars’ typologi må optiker Lars Bloch identificere neurolog
+Lars Bendtsen, og vice verca. For mig er Lars en gentagelse.
+
+[Source page 73]
+
+Der er ingen metamorfose eller modning. Lars bliver Lars uden larva.
+
+[Source page 74]
+
+-så, hvis dette-her’sens COMPUTER LARS er en særlig ‘Larsform’ er
+det som en defiguration, som ved bogstavernes elasticitet udskilles
+fra figuren MARCEL PROUST. Dette kan aflæses i bogstavernes
+karakter. LARS tager to retlinjede bogstaver og ét kurvet fra
+MARCEL, dvs. A, L og R, mens kurven S hentes fra PROUST.
+COMPUTER tager ligeledes to retlinjede fra MARCEL, dvs. M og E,
+og dertil kurven C, mens PROUST giver kurvekomplekset O, P, U, R
+foruden det rette T. Hvor MARCEL PROUST er overvejende elliptisk
+med rette linjer i begyndende kurver, giver COMPUTER LARS en
+cyklisk figur, som i et spiralmønster snævrer sig ind mod et center.
+En sådan specifik morfologi kan illustreres ved følgende diagram:
+
+[Source page 75]
+
+[Source page 76]
+
+ARSHOLE
+
+[Source page 77]
+
+Placeret efter mellemrummet fra C til L er Lars nær centrum - hullet,
+mødestedet, ækvivalensen -, men i en bevægelse, der kommer bagfra.
+For Lars er det, der kommer ud.
+
+[Source page 78]
+
+ud ud ud ud ud
+
+
+BUDGETCHEF LARS ÆBELØE-KNUDSEN                        FILOSOF LARS EMMERIK DAMGAARD KNUDSEN
+
+
+MERKONOM LARS DIGE KNUDSEN                          PROJEKTLEDER LARS ALMIND KNUDSEN
+
+
+TEAMLEDER LARS KUDSK
+
+[Source page 79]
+
+FORHUDSIGELIGHEDEN
+
+[Source page 80]
+
+Quelqu'un a dit quelque chose, mais le soleil a brillé et il était
+temps pour une fin heureuse. Un tiers des jours de l'année sont
+des nuits, ce qui fait du soleil comme un état de perfection, un
+médaillon composite, une façon de raconter avec le temps. Je ne
+sais pas quelle tâche je dois chercher, j'ai seulement un problème
+qui mène à l'indifférence, c'est comme une lettre entre le ciel et la
+terre, mais il n'y a pas de réponse de la terre, et ceux qui donnent
+une réponse seront envoyés du ciel à la lune. Mes auteurs
+déclarent qu'ils ont été des génies, mais les événements généraux
+sont encore loin de la vérité, ils comprennent qu'ils ne peuvent
+pas compter sur leur intelligence simplement parce qu'ils sont
+morts, et ils écrivent parce qu'ils veulent trouver quelque chose
+qui les accompagne partout et ne leur fait aucun mal. Seuls ceux
+qui écrivent peuvent voir ce que leurs qualités produisent, et ainsi
+l'histoire du monde est présentée aux intelligents d'une manière
+agréable qui permet à un auteur de reconnaître la vérité.
+L'intelligence ne fait aucune différence pour le monde, qu’ il
+n'atteint jamais ce à quoi elle aspire: il lui manque la capacité de
+dire la vérité, d'aimer et de déranger. Dans l'intelligence avec
+laquelle l'auteur crée l'autre, il n'y a pas plus présent qu'une pièce
+décorative, c'est-à-dire le désir de plaire. L'autre est un monde
+qui a toujours été occupé par des êtres, car chaque homme est
+aussi accompagné de fantasmes, de trahisons, de livres, de
+gammes musicales, et c'est ce qui sépare le monde de moi.
+Certains sont beaucoup plus réceptifs, mais l'indifférence est la
+même, j’écoute le malheur dans l’avenir. Le temps a été inventé
+avant la naissance, il n'existe donc pas, les unités de temps
+devraient être recréées quotidiennement, et l'histoire ne le sera
+jamais. Les vraies manières d'être sont de produire dans
+l'individu comme un jouet qui donne naissance à un enfant de
+conte de fées. Les êtres de temps ne sont pas assez originaux et ils
+ne savent pas qu'ils perdent du temps. La façon dont ils font leurs
+comptes est un degré de haute malice logique; n'est plus près de
+voir qu'un autre. Je voir comme si j'étais en train de mourir,
+parce que c’est qui fait le plus régulièrement sourire. Il y a
+quelque chose de brillé dans le sentiment de réalité.
+
+[Source page 81]
+
+TRYK TAP TAST
+
+[Source page 82]
+
+Skriftens eneste trosretning er typismen.
+
+Vi findes i en serie af berøringer, små skub, glidninger, tryk med
+tyngde, og byrder, smerter. Accentueringer, dialekter, idiomatik. Som
+litterær sværvægter trykkede PROUST’s fingerblommer i Recherche
+hele 9.609.000 typografiske enheder ned på siden, hvilket svarer til et
+skub på 32.000 tons. Den samlede arbejdsbyrde er dog langt større,
+for i sine forberedelseshæfter, Cahiers, lagde PROUST ca. 64.000
+tons ned over papiret, og han har på den måde kunne flytte en gletsjer
+eller det årlige skrald fra et atomkraftværk fra liggende stilling.
+
+[Source page 83]
+
+Den eneste tryk, der betyder noget, er verdens vægt. Jeg kan kun
+bære betydning i gram. 500 gram bjerg, 400 gram Baron de Charlus,
+250 gram vand, 200 gram tårer, 100 gram følelser, 50 gram tanker,
+25 gram tid, 10 gram af et menneske, 1 gram af en nål, der ligger
+under min tå. Tyngdekraften er uhåndterlig, og det, som den ene kan
+bære, er for meget for den anden.
+
+[Source page 84]
+
+- Tryk ikke på den knap!
+
+[Source page 85]
+
+Lars bar Marks udskrifter i en mulepose, som snart vejede XXX ton.
+
+[Source page 86]
+
+Skriftens eneste ideologi var typismen.
+
+PROUSTs hænder var i gang 204024 timer
+
+Hvis PROUST skrev så og så meget med
+
+Hvor lang tid vil det tage: i ét stræk at skrive proust (cahiers) i
+hånden, på taster, med håndskrivningsrobot … omsæt til relationer
+taster har den fordel, at det kan beregne vægten af hvert skub :
+recherche vejer således x ton..
+
+, proust skrev i hånden, fordi han var sengeliggende (ingen lap-
+typewriter) … hvis han skrev, ville det være på azerty. skandale.
+
+En serie af berøringer, tryk tap tast, med tyngde, og byrder, smerte.
+Accentueringer.
+
+[Source page 87]
+
+Og med medfølgende forskellig vægt: byrden af et tryk er så og så
+mange kg, taste er så og så mange
+
+Den ultimative litterære maskine er vægtløs.
+
+Forsøg Proust på dansk og fransk i forskellige systematikker for
+indtastning... Lars værk virtuos tastning
+
+Tryk betyder accent: en dialekt, en accentuering ... lægge tryk på
+noget ... skandalen med AZERTY’s accenter:
+https://www.bbc.com/news/blogs-eu-35365604 .
+https://www.zdnet.com/article/frances-epic-keyboard-fail-end-of-the-
+line-for-azerty/
+
+Den store forfatter taster med sin dialekt på samme måde uanset
+system - eller finder trykket for systemet, hvad det kan bære, og hvad
+man selv kan bære
+
+Prøv at beregn hvor mange tons det har krævet Proust at løfte at
+skrive sin roman - og også længden på verdens længste publicerede
+sætning
+
+Prøv at udregne hvor lang tid det vil tage for en ‘handwriting robot’
+at skrive Proust’s cahiers
+
+Proust skrev med extensor carpi radialis longus, brevis, and ulnaris,
+extensior digitorum, indicis, digiti minimi, flexor digitorium
+superficialis and profundus, thenar muscles and adductor pollicis,
+hypothenar muscles, lumbricales, dorsal and palmar interossei.
+
+[Source page 88]
+
+LARS’ TASTATURSONATE
+Uden tegn på muskuloskeletalt ubehag i nakke og håndled tapper
+Lars virtuost sine fingerblommer over hele syv forskellige tastaturer i
+IT-lokalet på Le Lycée Français Prins [████], Frederiksberg Allé.
+Eleverne følger Lars bevægelser med deres mobiltelefoner, der som
+trådløse overheadprojektorer kaster hvert tastatur op på et lærred,
+således at lærerstaben også bevidner Lars krydstaste accent aigu og
+accent grave over såvel majuskler som minuskler i ouverture på
+AZERTY og så fuldt tryk på QWERTY, ZHJAY, AZERTY, AFNOR,
+DVORAK, BÉPO mod en finale på den opgraderede AZERTY.
+
+Efter at skolekontoret i en længere årrække var rendt over med klager
+fra først lærerne over, at elever grundet AZERTY-tastaturet lavede
+helt urimelige fejl i deres diktater og stile, hvor praktikanter blev til
+psykopater på grund af manglende accentmuligheder, og dernæst fra
+forældrene over det ergonomiske slid, som børnene led under, i den
+konstante vekslen mellem forskellige tastatursystemer, fra de private
+laptops QVERTY-setup over skolens egne, kaotiske indkøb af det nye
+AZERTY, som erstattede det klassiske AZERTY, havde skolelederen,
+den fransk-canadiske naturkraft Carol Stumper, indkaldt vores Lars
+på anbefaling af en gammel ven, forfatteren Mark Provst.
+
+SKRIV PROUST IND PÅ HVERT TASTATUR – LARS
+KUNSSTYKKE …
+
+[Source page 89]
+
+LARS ER EN TASTER; SOM KAN LØFTE FLERE TONS END
+ANDRE: HVOR ANDRE SKRIVER MED EN
+GENNEMSNITSHASTIGHED PÅ 6000 TEGN I TIMEN, DER
+MULTIPLICERET OVER EN ARBEJDSDAG PÅ SYV TIMER
+OVER FEM DAGE PRODUCERER 20 TONS FINGERARBEJDE,
+
+Lars
+
+på grund af en kulturel forvirring over forskellige tastatursystemer:
+https://www.bbc.com/news/blogs-eu-35365604 .
+https://www.zdnet.com/article/frances-epic-keyboard-fail-end-of-the-
+line-for-azerty/
+
+, grundet det i Danmark standardiserede QVERTY-tastaturs
+
+først et opdateret AZERTY-tastatur og derefter en BÉPO-variant af
+DVORAK, og slutteligt en ouverture på ZHJAYSCPG (1907) og på
+DVORAK, AFNOR, osv.
+
+computerlokalet på Le Lycée Français Prins [████], Frederiksberg,
+hvor han er inviteret til at
+
+Each tap of the keyboard seems small, but typing at an average pace
+— about 6,000 keystrokes per hour, multiplied over seven hours each
+day for five days — adds up to more than 20 tons of force that your
+fingers have to deal with over a workweek,
+ urokkelig lineal, der er surret fast til et bord som en forstenet larve, og
+
+[Source page 90]
+
+ ned på en
+
+  LARS COMPUTERDIGTER EN BOG, MODIGT RECEPTUR
+
+
+     (pyha - pust ud - så flyder det herfra i prosa … opgør med
+konceptualismen og restriktiv skrivning til fordel for sprogmodellens
+                          flow flod)
+
+
+Provsts maskine får lars til at komme ind i værket Han dukker op
+på værnedamsvej, ved den franske skole, Og tror at frederiksberg
+er paris… Han skal modtage Prix Goncourt … i Gyldendal…
+saloner op af hele frederiksberg allé
+
+Lars møder en kvinde i første salon, Gjerdeviks
+Hun hedder CAROL STUMPER. (betyder stærk/mandlig, dyke)
+
+[████]
+
+Slægtsnavne og titler, administrerende direktører uden historie…
+
+[Source page 91]
