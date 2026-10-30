@@ -2,7 +2,7 @@
 
 **Intelligence Assessment: First Term of The Synthetic Party · Source dossiers · v.01**
 
-The European Democracy Sword and its agents belong to the chapter's institutional fiction. The source records predate that fiction; their claims are material for the inquiry, not findings endorsed by the register.
+The European Democracy Sword is a fictional investigating bureau whose agents assemble, examine and screen the evidence in this registry. The source records predate that fiction; their claims are material for the inquiry, not findings endorsed by the register.
 
 ## Holdings
 

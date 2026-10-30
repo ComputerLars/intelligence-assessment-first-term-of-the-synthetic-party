@@ -2,7 +2,7 @@
 
 **Intelligence Assessment: First Term of The Synthetic Party · v.01**
 
-Follow the chapter’s citations to the corresponding source records. The [record-level table](ARTICLE-REFERENCES.tsv) contains 99 references to 81 records; the lists below also include whole-dossier citations. Consecutive references link their first and last records.
+This concordance links the article *Intelligence Assessment: First Term of The Synthetic Party*, v.01, to the source records. The [record-level table](ARTICLE-REFERENCES.tsv) contains 99 references to 81 records; the lists below also include whole-dossier citations. Consecutive references link their first and last records.
 
 In the table, `P` locates a manuscript paragraph, counting headings; `A` identifies a source record or dossier.
 

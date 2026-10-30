@@ -3,7 +3,7 @@ window.REGISTER_DATA = {
   "subtitle": "EUROPEAN DEMOCRACY SWORD · EDS-2026-DSP-01 · COORDINATING ENVIRONMENT / PUBLIC SOURCE REGISTRY",
   "summary": "3,056 records · 32 dossiers · Preparations from 2021 and party activity through 2026",
   "author": "Asker Bryld Staunæs",
-  "articleUrl": "../Intelligence_Assessment_First_Term_Synthetic_Party_v01.docx",
+  "articleUrl": "https://github.com/ComputerLars/intelligence-assessment-first-term-of-the-synthetic-party/raw/refs/heads/main/Intelligence_Assessment_First_Term_Synthetic_Party_v01.docx",
   "repoUrl": "https://github.com/ComputerLars/intelligence-assessment-first-term-of-the-synthetic-party",
   "pagesUrl": "https://computerlars.github.io/intelligence-assessment-first-term-of-the-synthetic-party/",
   "abstract": [
@@ -108,7 +108,7 @@ window.REGISTER_DATA = {
     {
       "slug": "05-assurance-blowback",
       "title": "05. Assurance Agent: Blowback",
-      "question": "What happens when the four findings are enforced together, including against established parties?",
+      "question": "How do the classifications operate when applied together, including to established parties?",
       "links": [
         "https://github.com/ComputerLars/intelligence-assessment-first-term-of-the-synthetic-party/blob/main/source-edition/ARTICLE-INDEX.md#05-assurance-blowback"
       ]

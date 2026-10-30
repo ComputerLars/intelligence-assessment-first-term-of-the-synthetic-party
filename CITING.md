@@ -9,4 +9,4 @@ Add the record identifier and the page, row, passage or message consulted. For e
 | [Malmö intercept](source-edition/supplements/malmo/README.md) | `INT-2026-10-15-MALMO`; add passage ID and timestamp |
 | [Exchange and cost audit](source-edition/supplements/methods/README.md) | `METHOD-A15-A08/2026-10-26` |
 
-The [assessment concordance](source-edition/ARTICLE-INDEX.md) follows the chapter's citations. The [file register](source-edition/SOURCE_FILES.tsv) identifies the source files and their hashes; the [checksums](SHA256SUMS.txt) cover the repository files.
+The [assessment concordance](source-edition/ARTICLE-INDEX.md) links the article *Intelligence Assessment: First Term of The Synthetic Party* to individual source records. The [file register](source-edition/SOURCE_FILES.tsv) identifies the source files and their hashes; the [checksums](SHA256SUMS.txt) cover the repository files.

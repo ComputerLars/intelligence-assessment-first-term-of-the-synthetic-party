@@ -19,7 +19,7 @@ The Synthetic Party was founded in Denmark in 2022 with the chatbot Leader Lars 
 
 ## Public objections · Assurance 05
 
-The assessment proposes a public procedure for contesting representative authority. Its own findings are open to objection here.
+Objections may challenge a source attribution, classification, omission or interpretation. Identify the record and the disputed statement.
 
 [Submit an objection](https://github.com/ComputerLars/intelligence-assessment-first-term-of-the-synthetic-party/issues/new) · [Examine objections](https://github.com/ComputerLars/intelligence-assessment-first-term-of-the-synthetic-party/issues) · [Fork the register](https://github.com/ComputerLars/intelligence-assessment-first-term-of-the-synthetic-party/fork)
 
@@ -39,7 +39,7 @@ This register accompanies Asker Bryld Staunæs, *Intelligence Assessment: First 
 
 An artistic research project by **Computer Lars / Asker Bryld Staunæs**.
 
-Within the chapter's institutional fiction, the European Democracy Sword's coordinating environment assembles and screens these dossiers as an EEAS intelligence assessment. The records derive from The Synthetic Party's historical production archive. Their reproduction status, redactions and source limitations are documented in this edition.
+The European Democracy Sword is a fictional investigating bureau. Its agents assemble, examine and screen these dossiers as an EU intelligence file. The records derive from The Synthetic Party's historical production archive. Their reproduction status, redactions and source limitations are documented in this edition.
 
 The fictional bureau is not an authorisation, declassification or publication by the EEAS.
 
