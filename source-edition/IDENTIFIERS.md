@@ -2,7 +2,7 @@
 
 ## Records and files
 
-**A15-D02** identifies a record in dossier A15. **S** denotes an email record; **D** denotes a document, data or media record. Dossier titles and filenames use A01–A32. Identifiers remain stable. The former A33 is numbered A32 in this edition.
+**A15-D02** identifies a record in dossier A15. **S** denotes an email record; **D** denotes a document, data or media record. Dossier titles and filenames use A01–A32. Identifiers remain stable.
 
 The [catalogue](CATALOGUE.tsv) has one row per record; the [file register](SOURCE_FILES.tsv) has one row per source file. A record can have several files, and one file can serve several records. Email text may appear directly in its dossier, without a separate file. Page, row, passage and message numbers locate evidence within the supplied source sequence.
 

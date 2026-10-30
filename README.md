@@ -24,11 +24,11 @@ Open a dossier or enter a record identifier.
 
 ## Public objections · Assurance 05
 
-Objections may challenge a source attribution, classification, omission or interpretation. Identify the record and the disputed statement.
+Objections may challenge a source attribution, classification, omission or interpretation.
 
 [Submit an objection](https://github.com/ComputerLars/intelligence-assessment-first-term-of-the-synthetic-party/issues/new?template=objection.yml) · [Examine objections](https://github.com/ComputerLars/intelligence-assessment-first-term-of-the-synthetic-party/issues) · [Fork the register](https://github.com/ComputerLars/intelligence-assessment-first-term-of-the-synthetic-party/fork)
 
-Give the record identifier or the address of the registry page concerned. Submissions containing unredacted personal data or material withheld under institutional screening rules will be removed from the public register by the operator.
+Give the record identifier or registry address and quote the disputed statement. Submissions containing unredacted personal data or material withheld under institutional screening rules will be removed from the public register by the operator.
 
 The operator of this register retains authority over issue closure, accepted revisions and publication.
 
@@ -45,7 +45,5 @@ This register accompanies Asker Bryld Staunæs, *Intelligence Assessment: First 
 An artistic research project by **Computer Lars / Asker Bryld Staunæs**.
 
 The European Democracy Sword is a fictional investigating bureau. Its agents assemble, examine and screen these dossiers as an EU intelligence file. The records derive from The Synthetic Party's historical production archive. Their reproduction status, redactions and source limitations are documented in this edition.
-
-The fictional bureau is not an authorisation, declassification or publication by the EEAS.
 
 [Article and abstract](https://computerlars.github.io/intelligence-assessment-first-term-of-the-synthetic-party/#article) · [Article concordance](source-edition/ARTICLE-INDEX.md) · [Repository](https://github.com/ComputerLars/intelligence-assessment-first-term-of-the-synthetic-party) · [Citation](CITING.md) · [Release note](RELEASE-NOTES.md) · [Checksums](SHA256SUMS.txt)

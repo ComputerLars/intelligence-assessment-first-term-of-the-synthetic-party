@@ -12,7 +12,7 @@ These totals count registered records, including repeated witnesses, not people,
 
 ## Redactions and reproduction
 
-Within the assessment, preparing the dossiers for disclosure is an act of the investigating agents. **[████]** marks redaction; **[…]** marks an omitted passage. Some witnesses also use bracketed omission notes. Names, contact details, account keys and identifying private context are removed from correspondence and conversations. Public authorship, performances and project credits remain. Redaction does not establish anonymity where other evidence identifies a person.
+The investigating agents prepare the dossiers for disclosure. **[████]** marks redaction; **[…]** marks an omitted passage. Some witnesses also use bracketed omission notes. Names, contact details, account keys and identifying private context are removed from correspondence and conversations. Public authorship, performances and project credits remain. Redaction does not establish anonymity where other evidence identifies a person.
 
 Retained source wording has not been rewritten into new dialogue. Disagreement, criticism, costs and failed experiments remain part of the record. Transcriptions, extracts and facsimiles are distinguished; image masks replace the stored pixels. Missing words behind earlier redactions are not reconstructed. The original files are preserved separately.
 

@@ -18,7 +18,7 @@ function resolveLink(href,base){
  if(/^source-edition\/dossiers\/A\d{2}\.md$/.test(path)&&!at)return '#dossier/'+path.match(/A\d{2}/)[0];
  if(path==='source-edition/DOSSIERS.md')return '#register';
  if(path==='source-edition/CATALOGUE.tsv')return '#catalogue';
- if(path==='source-edition/ARTICLE-INDEX.md')return '#concordance';
+ if(path==='source-edition/ARTICLE-INDEX.md')return at?fileRoute(path,at):'#concordance';
  if(path==='README.md')return at?fileRoute(path,at):'#home';
  return files[path]?fileRoute(path,at):u.href.replace('https://archive.invalid/',root);
 }
@@ -28,21 +28,28 @@ function wireLinks(base){
  content.querySelectorAll('h1,h2,h3,h4').forEach(h=>{if(!h.id)h.id=h.textContent.toLowerCase().replace(/[^\p{L}\p{N} _-]/gu,'').replace(/ /g,'-');});
 }
 function contextLinks(parent=parentRoute){return `<p class="file-context"><a href="${parent}">Parent</a> · <a href="#home">Root</a></p>`;}
+function fileParent(path){
+ const owner=registry.records.find(r=>r.sources.some(s=>'source-edition/'+s.path===path));
+ if(owner)return '#record/'+owner.item_id;
+ const parts=path.split('/');parts.pop();
+ if(path.endsWith('/README.md'))parts.pop();
+ const parent=[...parts,'README.md'].join('/');
+ return parent==='README.md'?'#home':files[parent]?fileRoute(parent):'#register';
+}
+function recordNeighbours(r){const group=registry.records.filter(x=>x.dossier===r.dossier),i=group.findIndex(x=>x.item_id===r.item_id);return {previous:group[i-1],next:group[i+1]};}
 async function renderFile(path,at='',home=false){
  const f=files[path];if(!f)return renderMissing();
- const serial=routeSerial;parentRoute=path.includes('/')?fileRoute(path.slice(0,path.lastIndexOf('/')+1)+'README.md'):'#home';
- if(!files[path.slice(0,path.lastIndexOf('/')+1)+'README.md'])parentRoute='#register';
- const owner=registry.records.find(r=>r.sources.some(s=>'source-edition/'+s.path===path));if(owner)parentRoute='#record/'+owner.item_id;
+ const serial=routeSerial;parentRoute=fileParent(path);
  pageTitle.textContent='/'+path;
  let body='';
  if(f.kind==='text'){const response=await fetch(f.view);if(!response.ok)throw Error('file');body=(await response.json()).html;}
  else if(f.kind==='image')body=`<h2>${esc(path.split('/').pop())}</h2><img src="${f.url}" alt="${esc(path)}">`;
- else if(f.kind==='pdf')body=`<h2>${esc(path.split('/').pop())}</h2><object class="pdf" data="${f.url}" type="application/pdf"><p>Open the original PDF using the link below.</p></object>`;
- else body=`<h2>${esc(path.split('/').pop())}</h2><p>Original file available below.</p>`;
+ else if(f.kind==='pdf')body=`<h2>${esc(path.split('/').pop())}</h2><object class="pdf" data="${f.url}" type="application/pdf"><p>Open the PDF using the link below.</p></object>`;
+ else body=`<h2>${esc(path.split('/').pop())}</h2><p>File available below.</p>`;
  if(serial!==routeSerial)return;
- content.innerHTML=body;wireLinks(path);
+ content.innerHTML=body;if(f.kind==='text')wireLinks(path);
  if(!home)content.insertAdjacentHTML('afterbegin',contextLinks());
- content.insertAdjacentHTML('beforeend',`<p class="file-context"><a href="${f.url}" download>Original file / download</a> · <a href="${data.repoUrl}/blob/main/${encodeURI(path)}">View source on GitHub</a></p>`);
+ content.insertAdjacentHTML('beforeend',`<p class="file-context"><a href="${f.url}" download>Download this file</a> · <a href="${data.repoUrl}/blob/main/${encodeURI(path)}">View source on GitHub</a></p>`);
 }
 function renderDirectory(){parentRoute='#home';pageTitle.textContent='/dossiers';content.innerHTML=contextLinks()+`<h2>Dossier register</h2><p>Open a dossier or enter a record identifier.</p><p>32 dossiers · 3,056 records · <a href="#catalogue">Complete catalogue</a></p><ul class="links">${registry.dossiers.map(d=>`<li><a href="#dossier/${d.id}">${esc(d.title)}</a> · ${d.count} records</li>`).join('')}</ul>`;}
 function renderRegister(params=new URLSearchParams()){
@@ -50,7 +57,10 @@ function renderRegister(params=new URLSearchParams()){
  const d=registry.dossiers.find(d=>d.id===did);if(did&&!d)return renderMissing();
  parentRoute='#register';pageTitle.textContent=did?'/dossiers/'+did:'/catalogue';
  const matches=registry.records.filter(r=>(!did||r.dossier===did)&&(!type||r.type===type)&&(!q||(r.item_id+' '+r.title).toLowerCase().includes(q)));
- content.innerHTML=contextLinks()+`<h2>${d?esc(d.title):'Complete catalogue'}</h2><form id="filters"><label>Dossier <select name="dossier"><option value="">All dossiers</option>${registry.dossiers.map(d=>`<option value="${d.id}" ${d.id===did?'selected':''}>${esc(d.title)}</option>`).join('')}</select></label><label>Record type <select name="type"><option value="">All types</option>${['correspondence','document / data / media'].map(t=>`<option ${t===type?'selected':''}>${t}</option>`).join('')}</select></label><label>Identifier or title <input name="q" value="${esc(q)}"></label><button>Find records</button></form><p role="status">${matches.length} records</p><div class="list-table">${matches.map(r=>`<div class="list-row"><div>${recordLink(r)}</div><div>${esc(r.representation)} · ${esc(r.type)}</div></div>`).join('')}</div>`;
+ const size=75,totalPages=Math.max(1,Math.ceil(matches.length/size)),page=Math.min(totalPages,Math.max(1,parseInt(params.get('page'),10)||1)),start=(page-1)*size;
+ const pageLink=n=>{const p=new URLSearchParams(params);p.set('page',n);return '#catalogue?'+p;};
+ const batches=totalPages>1?`<p>${page>1?`<a href="${esc(pageLink(page-1))}">← Previous 75</a> · `:''}Page ${page} of ${totalPages}${page<totalPages?` · <a href="${esc(pageLink(page+1))}">Next ${Math.min(size,matches.length-start-size)} →</a>`:''}</p>`:'';
+ content.innerHTML=contextLinks()+`<h2>${d?esc(d.title):'Complete catalogue'}</h2><form id="filters"><label>Dossier <select name="dossier"><option value="">All dossiers</option>${registry.dossiers.map(d=>`<option value="${d.id}" ${d.id===did?'selected':''}>${esc(d.title)}</option>`).join('')}</select></label><label>Record type <select name="type"><option value="">All types</option>${['correspondence','document / data / media'].map(t=>`<option ${t===type?'selected':''}>${t}</option>`).join('')}</select></label><label>Identifier or title <input name="q" value="${esc(q)}"></label><button>Find records</button></form><p role="status">${matches.length} records${matches.length?` · Showing ${start+1}–${Math.min(start+size,matches.length)}`:''}</p>${batches}<div class="list-table">${matches.slice(start,start+size).map(r=>`<div class="list-row"><div>${recordLink(r)}</div><div>${esc(r.representation)} · ${esc(r.type)}</div></div>`).join('')}</div>${batches}`;
  document.getElementById('filters').addEventListener('submit',e=>{e.preventDefault();location.hash='catalogue?'+new URLSearchParams(new FormData(e.target));});
 }
 function renderFunctions(){parentRoute='#home';pageTitle.textContent='/assignments';content.innerHTML=contextLinks()+`<h2>Assigned functions</h2>${data.functions.map((f,i)=>`<section><h3><a href="#agent/${i}">${esc(f.title)}</a></h3><p>${esc(f.question)}</p></section>`).join('')}`;}
@@ -83,8 +93,8 @@ async function renderRecord(id){
  const serial=routeSerial,r=registry.records.find(r=>r.item_id===id);if(!r)return renderMissing();
  parentRoute='#dossier/'+r.dossier;pageTitle.textContent='/dossiers/'+r.dossier+'/'+id;
  const response=await fetch(`registry/${r.dossier}.json`);if(!response.ok)throw Error('entry');const entries=await response.json();if(serial!==routeSerial)return;
- const refs=registry.references.filter(x=>x.item_id===id),i=registry.records.indexOf(r);
- content.innerHTML=contextLinks()+`<h2>${id}: ${esc(r.title)}</h2><p class="status">${esc(r.representation)} · ${esc(r.type)}</p><section class="source-text"></section>${r.sources.length?`<h3>Source files</h3><ul>${r.sources.map(f=>`<li><a href="${fileRoute('source-edition/'+f.path)}">${esc(f.path)}</a><details><summary>SHA-256</summary><code>${f.sha256}</code></details></li>`).join('')}</ul>`:''}<p>${i?`<a href="#record/${registry.records[i-1].item_id}">Previous record</a> · `:''}${i<registry.records.length-1?`<a href="#record/${registry.records[i+1].item_id}">Next record</a> · `:''}<a href="${data.repoUrl}/blob/main/source-edition/dossiers/${r.dossier}.md#${id.toLowerCase()}">View source on GitHub</a> · <a href="${data.repoUrl}/issues/new?template=objection.yml&title=${encodeURIComponent('Objection: '+id)}">Contest this record</a></p>${refs.length?`<details><summary>Cited in the accompanying article</summary>${referenceTable(refs)}</details>`:''}`;
+ const refs=registry.references.filter(x=>x.item_id===id),{previous,next}=recordNeighbours(r);
+ content.innerHTML=contextLinks()+`<h2>${id}: ${esc(r.title)}</h2><p class="status">${esc(r.representation)} · ${esc(r.type)}</p><section class="source-text"></section>${r.sources.length?`<h3>Source files</h3><ul>${r.sources.map(f=>`<li><a href="${fileRoute('source-edition/'+f.path)}">${esc(f.path)}</a><details><summary>SHA-256</summary><code>${f.sha256}</code></details></li>`).join('')}</ul>`:''}<p>${previous?`<a href="#record/${previous.item_id}">← ${previous.item_id}</a> · `:''}${next?`<a href="#record/${next.item_id}">${next.item_id} →</a> · `:''}<a href="#register">Dossier register</a> · <a href="${data.repoUrl}/blob/main/source-edition/dossiers/${r.dossier}.md#${id.toLowerCase()}">View source on GitHub</a> · <a href="${data.repoUrl}/issues/new?template=objection.yml&title=${encodeURIComponent('Objection: '+id)}">Contest this record</a></p>${refs.length?`<details><summary>Cited in the accompanying article</summary>${referenceTable(refs)}</details>`:''}`;
  const target=content.querySelector('.source-text'),body=entries[id].replace(/^##[^\n]*\n+/,''),pattern=/\[([^\]\n]+)\]\(([^\s)]+)\)/g;let last=0,m;
  while((m=pattern.exec(body))){target.append(document.createTextNode(body.slice(last,m.index)));const a=document.createElement('a'),href=resolveLink(m[2],`source-edition/dossiers/${r.dossier}.md`);a.textContent=m[1];if(href){a.href=href;target.append(a);}else target.append(document.createTextNode(m[0]));last=pattern.lastIndex;}
  target.append(document.createTextNode(body.slice(last)));
