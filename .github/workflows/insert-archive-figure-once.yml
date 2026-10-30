@@ -92,7 +92,7 @@ jobs:
               run.font.name='Times New Roman'
               run.font.size=Pt(9)
               run.font.color.rgb=RGBColor(0,0,0)
-          remaining=[p.text for p in d.paragraphs if p is not fig and p is not cap]
+          remaining=[p.text for p in d.paragraphs if p._p is not fig._p and p._p is not cap._p]
           assert remaining==originals, 'No body text may be altered'
           assert len(d.inline_shapes)==1
           d.save(doc_path)
