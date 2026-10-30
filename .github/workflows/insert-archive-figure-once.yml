@@ -52,13 +52,8 @@ jobs:
           script=build.read_text(encoding='utf-8')
           marker="\n   entry['kind']='text';"
           assert script.count(marker)==1, 'Unexpected Pages README rendering code'
-          addition="""
-           if name=='README.md':
-            text=re.sub(r'^!\\[The deployed public source registry\\]\\(docs/assets/intelligence-assessment-pages-front\\.png\\)\\s*\\n\\s*\\*Public source registry, v\\.01\\.[^\\n]*\\*\\s*\\n', '', text, flags=re.M)
-          """
-          # Dedent added lines to match the local build_pages.py control flow.
-          addition=addition.replace('\n           if ','\n   if ').replace('\n            text=','\n    text=')
-          script=script.replace(marker,addition+marker)
+          additional = "   if name=='README.md':text=re.sub(r'^!\\[The deployed public source registry\\]\\(docs/assets/intelligence-assessment-pages-front\\.png\\)\\s*\\n\\s*\\*Public source registry, v\\.01\\.[^\\n]*\\*\\s*\\n', '', text, flags=re.M)\n"
+          script=script.replace(marker,'\n'+additional+marker)
           compile(script,str(build),'exec')
           build.write_text(script,encoding='utf-8')
           doc_path=root/'Intelligence_Assessment_First_Term_Synthetic_Party_v01.docx'
