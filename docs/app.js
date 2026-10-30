@@ -1,155 +1,7 @@
-
 const data = window.REGISTER_DATA;
-const nav = document.getElementById('nav');
 const content = document.getElementById('content');
 const pageTitle = document.getElementById('page-title');
-const facts = document.getElementById('facts');
-const quickLinks = document.getElementById('quick-links');
-const objections = document.getElementById('objections');
-document.getElementById('pages-link').href = data.pagesUrl;
-document.getElementById('repo-link').href = data.repoUrl;
-
-const pages = {
-  home: renderHome,
-  readme: renderReadme,
-  register: renderRegister,
-  functions: renderFunctions,
-  concordance: renderConcordance,
-  supplements: renderSupplements,
-  notes: renderNotes,
-};
-
-const navModel = [
-  {title: 'Front matter', links:[['home','Article / abstract'],['readme','README / register']]},
-  {title: 'Routes', links:[['register','Source register'],['functions','Assigned functions'],['concordance','Assessment concordance'],['supplements','Supplements']]},
-  {title: 'Protocol', links:[['notes','Reading the file / publication note']]}
-];
-
-function initNav() {
-  nav.innerHTML = navModel.map(group => `
-    <div class="nav-group">
-      <h3>${group.title}</h3>
-      ${group.links.map(([hash,label]) => `<a href="#${hash}">${label}</a>`).join('')}
-    </div>`).join('');
-}
-
-function initRail() {
-  facts.innerHTML = [
-    data.summary,
-    '32 dossiers (A01–A32)',
-    '99 record-level references to 81 records',
-    'Supplementary Malmö transcript and quantitative checks'
-  ].map(x => `<li>${x}</li>`).join('');
-  quickLinks.innerHTML = [
-    ['Dossier register', '#register'],
-    ['Complete catalogue', data.repoUrl + '/blob/main/source-edition/CATALOGUE.tsv'],
-    ['Source files and hashes', data.repoUrl + '/blob/main/source-edition/SOURCE_FILES.tsv'],
-    ['Citation guidance', data.repoUrl + '/blob/main/CITING.md'],
-    ['Release note', data.repoUrl + '/blob/main/RELEASE-NOTES.md']
-  ].map(([label,href])=> `<li><a target="_blank" rel="noopener" href="${href}">${label}</a></li>`).join('');
-  objections.innerHTML = data.objections.map(x => `<li><a target="_blank" rel="noopener" href="${x.href}">${x.label}</a></li>`).join('');
-}
-
-function renderHome() {
-  pageTitle.textContent = 'Article / abstract';
-  content.innerHTML = `
-    <section class="hero">
-      <div class="eyebrow">${data.subtitle}</div>
-      <h2>${data.title}</h2>
-      <div class="subline">${data.author} · public-facing Pages entry point</div>
-      <p class="tagline">${data.homeLead}</p>
-      <div class="grid">
-        <div class="card"><div class="kicker">Entry</div><h3>Article first</h3><p>The front page leads with the chapter title, abstract and routes into the source register so readers know what the environment is doing before they enter the dossiers.</p></div>
-        <div class="card"><div class="kicker">Register</div><h3>Indexical navigation</h3><p>Routes are organised by dossier span, investigative function, supplement and record-type convention. The Pages layer acts as the orienting registry of the whole.</p></div>
-        <div class="card"><div class="kicker">Repository</div><h3>Public source edition</h3><p>The GitHub repository remains the documentary base. This interface points outward to the archive while preserving the chapter's deadpan institutional fiction.</p></div>
-      </div>
-    </section>
-    <section class="panel abstract">
-      <div class="panel-title">Abstract</div>
-      ${data.abstract.map(p => `<p>${p}</p>`).join('')}
-    </section>
-    <section class="panel bodycopy">
-      <div class="panel-title">Methodological threshold</div>
-      <p>${data.readmeIntro[0]}</p>
-      <p>${data.readmeIntro[1]}</p>
-      <p class="note">From here, continue into the README rendering, the source-register routes, or the assessment concordance.</p>
-    </section>`;
-}
-
-function renderReadme() {
-  pageTitle.textContent = 'README / register';
-  content.innerHTML = `
-    <section class="panel bodycopy">
-      <div class="panel-title">Case file</div>
-      <h2>${data.title}</h2>
-      <p><strong>${data.subtitle}</strong></p>
-      <p>${data.summary}</p>
-      ${data.readmeIntro.map(p => `<p>${p}</p>`).join('')}
-    </section>
-    <section>
-      <div class="panel-title">Points of entry</div>
-      <div class="grid">${data.pointsOfEntry.map(item => `
-        <article class="card">
-          <div class="kicker">${item.id}</div>
-          <h3><a target="_blank" rel="noopener" href="${item.href}">${item.label}</a></h3>
-          <p>${item.desc}</p>
-        </article>`).join('')}</div>
-    </section>
-    <section class="panel">
-      <div class="panel-title">Public objections · Assurance 05</div>
-      <p>The assessment proposes a public procedure for contesting representative authority. Its own findings are open to objection here.</p>
-      <ul class="links">${data.objections.map(x=>`<li><a target="_blank" rel="noopener" href="${x.href}">${x.label}</a></li>`).join('')}</ul>
-    </section>`;
-}
-
-function renderRegister() {
-  pageTitle.textContent = 'Source register';
-  content.innerHTML = `
-    <section class="panel bodycopy">
-      <div class="panel-title">Routes through the record</div>
-      <p>The dossier entries connect each registered source to its available text, code, data or media. Redactions and omissions remain visible; the register retains every identifier.</p>
-      <div class="list-table">${data.routes.map(r => `
-        <div class="list-row">
-          <div class="left"><a target="_blank" rel="noopener" href="${r.href}">${r.span}</a></div>
-          <div>${r.label}</div>
-        </div>`).join('')}</div>
-    </section>
-    <section class="panel bodycopy">
-      <div class="panel-title">Open the repository files</div>
-      <p><a target="_blank" rel="noopener" href="${data.repoUrl + '/blob/main/source-edition/README.md'}">Source register README</a> · <a target="_blank" rel="noopener" href="${'#register'}">All dossiers</a> · <a target="_blank" rel="noopener" href="${data.repoUrl + '/blob/main/source-edition/CATALOGUE.tsv'}">Catalogue</a></p>
-    </section>`;
-}
-
-function renderFunctions() {
-  pageTitle.textContent = 'Assigned functions';
-  content.innerHTML = `
-    <section class="panel bodycopy">
-      <div class="panel-title">Investigative routing</div>
-      <p>The same six-part structure used in the manuscript also organises the public source register. Each function frames a distinct question under investigation.</p>
-      <div class="grid">${data.functions.map(f => `
-        <article class="card">
-          <div class="kicker">Function</div>
-          <h3><a target="_blank" rel="noopener" href="${f.links[0]}">${f.title}</a></h3>
-          <p>${f.question}</p>
-        </article>`).join('')}</div>
-    </section>`;
-}
-
-function renderConcordance() {
-  pageTitle.textContent = 'Assessment concordance';
-  content.innerHTML = `
-    <section class="panel bodycopy">
-      <div class="panel-title">Citations to records</div>
-      <p>Follow the chapter’s citations to the corresponding source records. The record-level table contains 99 references to 81 records; the lists below also include whole-dossier citations.</p>
-      <div class="list-table">${data.concordance.map(c => `
-        <div class="list-row">
-          <div class="left">${c.heading}</div>
-          <div>${c.items.join(' · ')}</div>
-        </div>`).join('')}</div>
-      <p class="note"><a target="_blank" rel="noopener" href="${data.repoUrl + '/blob/main/source-edition/ARTICLE-INDEX.md'}">Open ARTICLE-INDEX.md on GitHub</a></p>
-    </section>`;
-}
-
+const pages = {home:renderHome,readme:renderReadme,register:renderRegister,functions:renderFunctions,concordance:renderConcordance,supplements:renderSupplements,notes:renderReadme};
 function renderSupplements() {
   pageTitle.textContent = 'Supplements';
   content.innerHTML = `
@@ -165,54 +17,11 @@ function renderSupplements() {
     </section>`;
 }
 
-function renderNotes() {
-  pageTitle.textContent = 'Reading the file / publication note';
-  content.innerHTML = `
-    <section class="panel bodycopy">
-      <div class="panel-title">Reading the file</div>
-      <ul class="conventions">${data.conventions.map(c => `<li>${c}</li>`).join('')}</ul>
-    </section>
-    <section class="panel bodycopy">
-      <div class="panel-title">Source and publication note</div>
-      <p>This register accompanies Asker Bryld Staunæs, <em>Intelligence Assessment: First Term of The Synthetic Party</em>, prepared for <em>Political Parties and Digital Innovations: Participation, Democracy and Efficiency</em> (Palgrave Macmillan).</p>
-      <p>Within the chapter’s institutional fiction, the European Democracy Sword’s coordinating environment assembles and screens these dossiers as an EEAS intelligence assessment. The records derive from The Synthetic Party’s historical production archive. Their reproduction status, redactions and source limitations are documented in this edition.</p>
-    </section>`;
-}
-
-function route() {
-  const hash = (location.hash || '#home').replace('#','');
-  const renderer = pages[hash] || pages.home;
-  renderer();
-}
-
-function initSearch() {
-  const pool = [
-    ...Object.entries({home:'Article / abstract', readme:'README / register', register:'Source register', functions:'Assigned functions', concordance:'Assessment concordance', supplements:'Supplements', notes:'Reading the file / publication note'}).map(([hash,label])=>({label, target:'#'+hash})),
-    ...data.pointsOfEntry.map(x=>({label:`${x.id} · ${x.label}`, target:x.href})),
-    ...data.supplements.map(x=>({label:`${x.title} · ${x.sub}`, target:x.href})),
-    ...data.functions.map(x=>({label:x.title, target:x.links[0]}))
-  ];
-  const input = document.getElementById('search');
-  const results = document.getElementById('search-results');
-  function show(items) {
-    results.innerHTML = items.slice(0,12).map(item => item.target.startsWith('#')
-      ? `<a href="${item.target}">${item.label}</a>`
-      : `<a target="_blank" rel="noopener" href="${item.target}">${item.label}</a>`).join('');
-  }
-  show(pool.slice(0,8));
-  input.addEventListener('input', () => {
-    const q = input.value.toLowerCase().trim();
-    if (!q) return show(pool.slice(0,8));
-    show(pool.filter(item => item.label.toLowerCase().includes(q)));
-  });
-}
-
-
 let registry;
 const esc = value => String(value).replace(/[&<>"']/g, c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const recordLink = r => `<a href="#record/${r.item_id}">${r.item_id} · ${esc(r.title)}</a>`;
-function renderHome() {
- pageTitle.textContent='Article / abstract';
+function renderArticle() {
+ pageTitle.textContent='Article';
  content.innerHTML=`<section class="hero"><div class="eyebrow">EUROPEAN DEMOCRACY SWORD · v.01</div><h2>${data.title}</h2><p>${data.author}</p></section><section class="panel abstract"><div class="panel-title">Abstract</div>${data.abstract.map(p=>`<p>${p}</p>`).join('')}</section><p class="entry-actions"><a class="enter" href="#register">Enter the investigation →</a> <a href="${data.repoUrl}/raw/refs/heads/main/Intelligence_Assessment_First_Term_Synthetic_Party_v01.docx">Read the article (.docx)</a></p><p class="note">Computer Lars / Asker Bryld Staunæs · Artistic research. The investigating bureau is fictional; the historical sources are authentic.</p>`;
 }
 function renderRegister(params=new URLSearchParams()) {
@@ -261,8 +70,19 @@ function renderMissing(){pageTitle.textContent='Locator not found';content.inner
 async function route() {
  routeSerial++;const hash=decodeURI((location.hash||'#home').slice(1));const [path,query='']=hash.split('?');const [kind,id]=path.split('/');if(kind==='content'){content.focus();return;}
  try{if(kind==='record')await renderRecord(id);else if(kind==='agent')renderAgent(id);else if(kind==='register')renderRegister(new URLSearchParams(query));else if(pages[kind])pages[kind]();else renderMissing();}catch(e){pageTitle.textContent='Source unavailable';content.innerHTML='<p role="alert">The source could not be loaded. Reload or open the repository.</p>';}
- document.querySelectorAll('#nav a').forEach(a=>{if(a.hash==='#'+kind)a.setAttribute('aria-current','page');else a.removeAttribute('aria-current');});content.focus({preventScroll:true});window.scrollTo(0,0);
+ document.querySelectorAll('#nav a').forEach(a=>{if(a.hash==='#'+kind)a.setAttribute('aria-current','page');else a.removeAttribute('aria-current');});content.focus({preventScroll:true});document.getElementById('buffer').scrollTop=0;
 }
 function initSearch(){const input=document.getElementById('search'),results=document.getElementById('search-results');results.setAttribute('aria-live','polite');function update(){let q=input.value.trim().toLowerCase();let matches=q?registry.records.filter(r=>(r.item_id+' '+r.title).toLowerCase().includes(q)):[];results.innerHTML=q?`<p>${matches.length} matches</p>`+matches.slice(0,12).map(recordLink).join('')+(matches.length>12?`<a href="#register?q=${encodeURIComponent(q)}">See all matches</a>`:''):'';}input.addEventListener('input',update);input.addEventListener('keydown',e=>{if(e.key==='Enter'){const match=registry.records.find(r=>r.item_id.toLowerCase()===input.value.trim().toLowerCase());location.hash=match?'record/'+match.item_id:'register?q='+encodeURIComponent(input.value.trim());}});update();}
 async function boot(){try{const r=await fetch('registry/index.json');if(!r.ok)throw Error('index');registry=await r.json();initNav();initRail();initSearch();window.addEventListener('hashchange',route);await route();}catch(e){content.innerHTML='<p role="alert">The registry could not be loaded. Please reload or open the repository.</p>';}}
+
+function initNav() {}
+function initRail() {}
+function renderHome(){
+ pageTitle.textContent='Registry';
+ content.innerHTML=`<h2>Intelligence Assessment: First Term of The Synthetic Party</h2><p>3,056 records · 32 dossiers · v.01</p><p>The Synthetic Party was founded in Denmark in 2022 with the chatbot Leader Lars as its public representative. This file follows the party's formation, public speech, operating infrastructure and international collaborations.</p><p>Each route opens the available documentation or its concordance. Inclusion establishes a source reference, not the truth of a claim.</p><ol class="routes"><li><span class="number">01</span> <a href="#register">Open the dossiers — A01–A32</a></li><li><span class="number">02</span> <a href="#functions">Assigned functions — Commissioner to Assurance</a></li><li><span class="number">03</span> <a href="#concordance">Sources cited in the assessment</a></li><li><span class="number">04</span> <a href="#supplements">Malmö intercept and quantitative methods</a></li><li><span class="number">05</span> <a href="#readme">Reading the file</a></li><li><span class="number">06</span> <a href="#objections">Public objections · Assurance 05</a></li></ol><h3>Points of entry</h3><p>${data.pointsOfEntry.map(x=>`<a href="#record/${x.id}">${x.id} · ${x.label}</a>`).join('<br>')}</p><p>[████] marks redaction; […] marks an omitted passage. Source wording, disagreements and version differences remain.</p><p class="note">Within the chapter's institutional fiction, the European Democracy Sword's coordinating environment assembles and screens these dossiers. The records derive from The Synthetic Party's historical production archive.</p><p><a href="#article">Article and abstract</a> · <a href="${data.repoUrl}">Repository</a> · <a href="${data.repoUrl}/blob/main/CITING.md">Citation</a></p><p class="note">Computer Lars / Asker Bryld Staunæs · Artistic research.</p>`;
+}
+function renderReadme(){pageTitle.textContent='Reading the file';content.innerHTML=`<h2>Reading the file</h2><p>S identifies correspondence; D identifies a document, data or media record. [████] marks redaction; […] marks an omitted passage.</p><p>Four records remain indexed without reproduced content: A23-D10–D12 and A29-D19.</p><p>The agents assemble and screen the evidence within the assessment's institutional fiction. Source claims remain material for investigation, not findings endorsed by the register.</p><p><a href="${data.repoUrl}/blob/main/source-edition/IDENTIFIERS.md">Record conventions</a> · <a href="${data.repoUrl}/blob/main/source-edition/SOURCE_FILES.tsv">File register and source hashes</a> · <a href="${data.repoUrl}/blob/main/source-edition/EDITION.md">Edition note</a> · <a href="${data.repoUrl}/blob/main/source-edition/RIGHTS.md">Rights</a></p><p>This register accompanies Asker Bryld Staunæs, <em>Intelligence Assessment: First Term of The Synthetic Party</em>, prepared for <em>Political Parties and Digital Innovations: Participation, Democracy and Efficiency</em> (Palgrave Macmillan).</p><p>The fictional bureau is not an authorisation, declassification or publication by the EEAS.</p><p><a href="${data.repoUrl}/blob/main/README.md">Repository README</a> · <a href="#home">Return to registry</a></p>`;}
+function renderObjections(){pageTitle.textContent='Assurance 05';content.innerHTML=`<h2>Public objections</h2><p>The assessment proposes a public procedure for contesting representative authority. Its own findings are open to objection here.</p><p>Cite the contested finding and source identifier. Do not submit unredacted personal information or reconstruct withheld identities.</p><ul class="links">${data.objections.map(x=>`<li><a href="${x.href}">${x.label}</a></li>`).join('')}</ul><p>The operator retains authority over issue closure, accepted revisions and publication. The procedure is open to objection but not institutionally independent.</p><p><a href="#home">Return to registry</a></p>`;}
+pages.article=renderArticle;pages.objections=renderObjections;
+document.getElementById('locator').addEventListener('submit',e=>{e.preventDefault();const q=document.getElementById('search').value.trim();const r=registry.records.find(r=>r.item_id.toLowerCase()===q.toLowerCase());location.hash=r?'record/'+r.item_id:'register?q='+encodeURIComponent(q);});
 boot();
