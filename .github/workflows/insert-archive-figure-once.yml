@@ -1,0 +1,121 @@
+name: Insert archive figure (one time)
+on:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/insert-archive-figure-once.yml
+permissions:
+  contents: write
+concurrency:
+  group: archive-figure-finalize
+  cancel-in-progress: false
+jobs:
+  finalize:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install document and browser tools
+        run: |
+          python -m pip install python-docx==1.2.0 playwright==1.55.0
+          python -m playwright install --with-deps chromium
+      - name: Capture public terminal and insert figure
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import hashlib,re
+          from playwright.sync_api import sync_playwright
+          from docx import Document
+          from docx.enum.text import WD_ALIGN_PARAGRAPH
+          from docx.shared import Inches,Pt,RGBColor
+          root=Path('.')
+          image=root/'docs/assets/intelligence-assessment-pages-front.png'
+          url='https://computerlars.github.io/intelligence-assessment-first-term-of-the-synthetic-party/'
+          with sync_playwright() as p:
+              browser=p.chromium.launch(headless=True,args=['--disable-dev-shm-usage'])
+              page=browser.new_page(viewport={'width':1363,'height':936},device_scale_factor=1,reduced_motion='reduce')
+              page.goto(url,wait_until='networkidle',timeout=90000)
+              page.wait_for_function("document.getElementById('content')?.innerText.includes('Intelligence Assessment: First Term of The Synthetic Party')",timeout=30000)
+              page.screenshot(path=str(image),type='png',full_page=False,animations='disabled')
+              browser.close()
+          assert image.read_bytes().startswith(b'\x89PNG\r\n\x1a\n'), 'Real PNG screenshot required'
+          caption='Public source registry, v.01. Computer Lars / Asker Bryld Staunæs, 2026. Screenshot of the deployed site, 30 October 2026.'
+          readme=root/'README.md'
+          source=readme.read_text(encoding='utf-8')
+          old='*The public-facing source registry, captured from the deployed GitHub Pages site. Computer Lars / Asker Bryld Staunæs — artistic research.*'
+          assert source.count(old)==1, 'Unexpected root README caption'
+          readme.write_text(source.replace(old,'*'+caption+'*'),encoding='utf-8')
+          build=root/'scripts/build_pages.py'
+          script=build.read_text(encoding='utf-8')
+          marker="\n   entry['kind']='text';"
+          assert script.count(marker)==1, 'Unexpected Pages README rendering code'
+          addition="""
+           if name=='README.md':
+            text=re.sub(r'^!\\[The deployed public source registry\\]\\(docs/assets/intelligence-assessment-pages-front\\.png\\)\\s*\\n\\s*\\*Public source registry, v\\.01\\.[^\\n]*\\*\\s*\\n', '', text, flags=re.M)
+          """
+          # Dedent added lines to match the local build_pages.py control flow.
+          addition=addition.replace('\n           if ','\n   if ').replace('\n            text=','\n    text=')
+          script=script.replace(marker,addition+marker)
+          compile(script,str(build),'exec')
+          build.write_text(script,encoding='utf-8')
+          doc_path=root/'Intelligence_Assessment_First_Term_Synthetic_Party_v01.docx'
+          d=Document(doc_path)
+          assert not d.inline_shapes,'Expected the existing text-only manuscript'
+          originals=[p.text for p in d.paragraphs]
+          targets=[p for p in d.paragraphs if p.text.startswith('Determining whether The Synthetic Party represents an innovation in party form')]
+          assert len(targets)==1, 'Could not locate exact figure insertion point'
+          target=targets[0]
+          fig=target.insert_paragraph_before()
+          fig.alignment=WD_ALIGN_PARAGRAPH.CENTER
+          fig.paragraph_format.space_before=Pt(8)
+          fig.paragraph_format.space_after=Pt(4)
+          fig.paragraph_format.keep_with_next=True
+          section=d.sections[0]
+          available=section.page_width-section.left_margin-section.right_margin
+          maxwidth=min(available,Inches(6.15))
+          pic=fig.add_run().add_picture(str(image),width=maxwidth)
+          pic._inline.docPr.set('descr','Public source registry terminal, showing dossier navigation and the procedure for contesting records')
+          cap=target.insert_paragraph_before()
+          cap.paragraph_format.space_before=Pt(2)
+          cap.paragraph_format.space_after=Pt(8)
+          cap.alignment=WD_ALIGN_PARAGRAPH.LEFT
+          cap.paragraph_format.keep_together=True
+          r=cap.add_run('Figure 1. ')
+          r.bold=True
+          r=cap.add_run('Intelligence Assessment: First Term of The Synthetic Party')
+          r.italic=True
+          cap.add_run(', '+caption)
+          for run in cap.runs:
+              run.font.name='Times New Roman'
+              run.font.size=Pt(9)
+              run.font.color.rgb=RGBColor(0,0,0)
+          remaining=[p.text for p in d.paragraphs if p is not fig and p is not cap]
+          assert remaining==originals, 'No body text may be altered'
+          assert len(d.inline_shapes)==1
+          d.save(doc_path)
+          reopened=Document(doc_path)
+          assert len(reopened.inline_shapes)==1
+          assert len(reopened.paragraphs)==len(originals)+2
+          assert any(p.text.startswith('Figure 1. Intelligence Assessment: First Term of The Synthetic Party, Public source registry') for p in reopened.paragraphs),'Figure caption missing'
+          manifest=root/'SHA256SUMS.txt'
+          lines=manifest.read_text(encoding='utf-8').splitlines()
+          edited=['README.md','scripts/build_pages.py','docs/assets/intelligence-assessment-pages-front.png',doc_path.name]
+          for item in edited:
+              found=[i for i,line in enumerate(lines) if line.endswith('  '+item)]
+              assert len(found)==1,(item,found)
+              lines[found[0]]=hashlib.sha256((root/item).read_bytes()).hexdigest()+'  '+item
+          manifest.write_text('\n'.join(lines)+'\n',encoding='utf-8')
+          print('Captured live terminal screenshot',image.stat().st_size,'bytes')
+          print('Inserted figure and caption without changing manuscript body',doc_path.stat().st_size,'bytes')
+          PY
+      - name: Commit and discard one-time workflow
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git rm .github/workflows/insert-archive-figure-once.yml
+          git add README.md scripts/build_pages.py docs/assets/intelligence-assessment-pages-front.png Intelligence_Assessment_First_Term_Synthetic_Party_v01.docx SHA256SUMS.txt
+          git commit -m "Add captured source registry figure and matching attribution"
+          git push
