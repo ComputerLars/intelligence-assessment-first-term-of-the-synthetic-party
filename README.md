@@ -2,7 +2,7 @@
 
 ![The deployed public source registry](docs/assets/intelligence-assessment-pages-front.png)
 
-*The public-facing source registry, captured from the deployed GitHub Pages site. Computer Lars / Asker Bryld Staunæs — artistic research.*
+*Public source registry, v.01. Computer Lars / Asker Bryld Staunæs, 2026. Screenshot of the deployed site, 30 October 2026.*
 
 
 
