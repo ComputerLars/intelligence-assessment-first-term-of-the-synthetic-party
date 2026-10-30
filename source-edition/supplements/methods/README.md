@@ -4,7 +4,7 @@
 
 [Danish-language screen](language/README.md) · [October reconciliation](OCTOBER-RECONCILIATION.md) · [Supplement register](../README.md)
 
-The analysed [A15-D02](../../dossiers/A15.md#a15-d02) witness contains **5,097 completed input–response exchanges**: 289 under the Computer Lars label and **4,808 under other labels**. Counting follows numbered speaker starts and requires exactly one `-> Leder Lars:` reply per segment. Ten incomplete speaker fragments are excluded. These units count exchanges, not people, voters, members or provider API calls.
+This file counts exchanges with Leader Lars on The Synthetic Party’s Discord server and compares October 2022 activity with recorded cloud expenditure. The analysed Discord record [A15-D02](../../dossiers/A15.md#a15-d02) contains **5,097 completed input–response exchanges**: 289 under the Computer Lars label and **4,808 under other labels**. Counting follows numbered speaker starts and requires exactly one `-> Leder Lars:` reply per segment. Ten incomplete speaker fragments are excluded. These units count exchanges, not people, voters, members or provider API calls.
 
 | Quantity | Inclusion rule | Result |
 |---|---|---:|

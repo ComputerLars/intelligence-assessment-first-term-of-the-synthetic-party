@@ -1,6 +1,5 @@
 window.REGISTER_DATA = {
   "title": "Intelligence Assessment: First Term of The Synthetic Party",
-  "subtitle": "EUROPEAN DEMOCRACY SWORD · EDS-2026-DSP-01 · COORDINATING ENVIRONMENT / PUBLIC SOURCE REGISTRY",
   "summary": "3,056 records · 32 dossiers · Preparations from 2021 and party activity through 2026",
   "author": "Asker Bryld Staunæs",
   "articleUrl": "https://github.com/ComputerLars/intelligence-assessment-first-term-of-the-synthetic-party/raw/refs/heads/main/Intelligence_Assessment_First_Term_Synthetic_Party_v01.docx",
@@ -10,11 +9,6 @@ window.REGISTER_DATA = {
     "The Synthetic Party (Det Syntetiske Parti) was founded in Denmark in 2022 as an experiment in political representation, with the chatbot Leader Lars serving as its figurehead. This chapter analyses the party’s internal archive, the development of its positions, and its interactions with other AI parties (2022–2026). Across international scholarship, the party has become a contested prototype for delegating authority to AI, exposing how the line between democratic innovation and ideological interference depends on who defines the boundaries of the political order. This study provides the first internal perspective on the implications and challenges of AI-powered political representation, highlighting how The Synthetic Party complicates established notions of membership, legitimacy, and the integrity of democratic mechanisms.",
     "This chapter introduces a methodological innovation: a hypothetical investigation of The Synthetic Party conducted by the European Democracy Sword, a fictional bureau of AI agents within the European External Action Service (EEAS) operating for the European Democracy Shield. Within the fiction, the AI agents independently review the internal archive, correspondence, code, and publications. The assessment assigns six roles to the AI agents: one Commissioner, four Investigators (covering Participation and Representation, Information Integrity, Institutional Capacity, and Transnational Activity), and an Assurance function. Each agent applies a distinct conception of democracy. The Commissioner’s mandate is to defend democracy, while each Investigator defines democracy based on its own evidence and approach.",
     "Finally, the assessment proposes using AI investigators to put public objections about identity, membership and control to the operators of synthetic representatives, recording their answers or refusals and thereby turning democratic self-defence into a public procedure for contesting representative authority. Based on this investigation, I conclude that AI parties’ political innovation lies in redefining democracy by contesting its boundaries and pre-empting its defence."
-  ],
-  "homeLead": "3,056 records · 32 dossiers · v.01",
-  "readmeIntro": [
-    "The Synthetic Party was founded in Denmark in 2022 with the chatbot Leader Lars as its public representative. This file follows the party's formation, public speech, operating infrastructure and international collaborations.",
-    "Each route below opens the available documentation or its concordance. Inclusion establishes a source reference, not the truth of a claim."
   ],
   "pointsOfEntry": [
     {
@@ -71,6 +65,40 @@ window.REGISTER_DATA = {
       "question": "Which uses of political AI warrant investigation under European democratic safeguards?",
       "links": [
         "https://github.com/ComputerLars/intelligence-assessment-first-term-of-the-synthetic-party/blob/main/source-edition/ARTICLE-INDEX.md#00-tasking-and-scope"
+      ],
+      "dossiers": [
+        "A01",
+        "A02",
+        "A03",
+        "A04",
+        "A05",
+        "A06",
+        "A07",
+        "A08",
+        "A09",
+        "A10",
+        "A11",
+        "A12",
+        "A13",
+        "A14",
+        "A15",
+        "A16",
+        "A17",
+        "A18",
+        "A19",
+        "A20",
+        "A21",
+        "A22",
+        "A23",
+        "A24",
+        "A25",
+        "A26",
+        "A27",
+        "A28",
+        "A29",
+        "A30",
+        "A31",
+        "A32"
       ]
     },
     {
@@ -79,6 +107,13 @@ window.REGISTER_DATA = {
       "question": "Who joined the party, and who was merely counted as a member?",
       "links": [
         "https://github.com/ComputerLars/intelligence-assessment-first-term-of-the-synthetic-party/blob/main/source-edition/ARTICLE-INDEX.md#01-participation-conscription"
+      ],
+      "dossiers": [
+        "A07",
+        "A09",
+        "A10",
+        "A14",
+        "A15"
       ]
     },
     {
@@ -87,6 +122,19 @@ window.REGISTER_DATA = {
       "question": "Who speaks when Leader Lars replies, and who authorises a party position?",
       "links": [
         "https://github.com/ComputerLars/intelligence-assessment-first-term-of-the-synthetic-party/blob/main/source-edition/ARTICLE-INDEX.md#02-information-attribution"
+      ],
+      "dossiers": [
+        "A03",
+        "A04",
+        "A08",
+        "A09",
+        "A10",
+        "A11",
+        "A12",
+        "A14",
+        "A15",
+        "A18",
+        "A22"
       ]
     },
     {
@@ -95,6 +143,20 @@ window.REGISTER_DATA = {
       "question": "Who can finance, modify, interrupt or silence the political representative?",
       "links": [
         "https://github.com/ComputerLars/intelligence-assessment-first-term-of-the-synthetic-party/blob/main/source-edition/ARTICLE-INDEX.md#03-capacity-control"
+      ],
+      "dossiers": [
+        "A04",
+        "A05",
+        "A06",
+        "A08",
+        "A12",
+        "A14",
+        "A15",
+        "A17",
+        "A24",
+        "A27",
+        "A29",
+        "A30"
       ]
     },
     {
@@ -103,14 +165,62 @@ window.REGISTER_DATA = {
       "question": "What remains of a political representative when its voice, model and operators change across borders?",
       "links": [
         "https://github.com/ComputerLars/intelligence-assessment-first-term-of-the-synthetic-party/blob/main/source-edition/ARTICLE-INDEX.md#04-transnational-jurisdiction"
+      ],
+      "dossiers": [
+        "A05",
+        "A15",
+        "A18",
+        "A23",
+        "A24",
+        "A25",
+        "A26",
+        "A27",
+        "A28",
+        "A29",
+        "A30",
+        "A31"
       ]
     },
     {
       "slug": "05-assurance-blowback",
       "title": "05. Assurance Agent: Blowback",
-      "question": "How do the classifications operate when applied together, including to established parties?",
+      "question": "What do these tests of membership, authorship and control require of established parties and of this inquiry?",
       "links": [
         "https://github.com/ComputerLars/intelligence-assessment-first-term-of-the-synthetic-party/blob/main/source-edition/ARTICLE-INDEX.md#05-assurance-blowback"
+      ],
+      "dossiers": [
+        "A01",
+        "A02",
+        "A03",
+        "A04",
+        "A05",
+        "A06",
+        "A07",
+        "A08",
+        "A09",
+        "A10",
+        "A11",
+        "A12",
+        "A13",
+        "A14",
+        "A15",
+        "A16",
+        "A17",
+        "A18",
+        "A19",
+        "A20",
+        "A21",
+        "A22",
+        "A23",
+        "A24",
+        "A25",
+        "A26",
+        "A27",
+        "A28",
+        "A29",
+        "A30",
+        "A31",
+        "A32"
       ]
     }
   ],

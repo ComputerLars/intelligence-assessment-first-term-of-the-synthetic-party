@@ -6,26 +6,31 @@
 
 
 
-**Source registry:** https://computerlars.github.io/intelligence-assessment-first-term-of-the-synthetic-party/
+**[Source registry](https://computerlars.github.io/intelligence-assessment-first-term-of-the-synthetic-party/)**
 
-**EUROPEAN DEMOCRACY SWORD · EDS-2026-DSP-01**  
-**Coordinating environment · Source register · v.01**
+**v.01**
 
 3,056 records · 32 dossiers · Preparations from 2021 and party activity through 2026
 
 The Synthetic Party was founded in Denmark in 2022 with the chatbot Leader Lars as its public representative. This file follows the party's formation, public speech, operating infrastructure and international collaborations.
 
-**[Dossier register](source-edition/DOSSIERS.md)** · **[Sources cited in the assessment](source-edition/ARTICLE-INDEX.md)** · **[Complete catalogue](source-edition/CATALOGUE.tsv)**
+**[Dossier register](source-edition/DOSSIERS.md)** · **[Complete catalogue](source-edition/CATALOGUE.tsv)**
+
+Open a dossier or enter a record identifier.
+
+[Assigned functions](https://computerlars.github.io/intelligence-assessment-first-term-of-the-synthetic-party/#functions) · [Malmö intercept and quantitative methods](source-edition/supplements/README.md)
+
+[Training corpus](source-edition/dossiers/A07.md#a07-d01) · [Chatbot code](source-edition/dossiers/A14.md#a14-d01) · [Consultancy agreement](source-edition/dossiers/A17.md#a17-d03) · [Congress resolution](source-edition/dossiers/A27.md#a27-d34)
 
 ## Public objections · Assurance 05
 
 Objections may challenge a source attribution, classification, omission or interpretation. Identify the record and the disputed statement.
 
-[Submit an objection](https://github.com/ComputerLars/intelligence-assessment-first-term-of-the-synthetic-party/issues/new) · [Examine objections](https://github.com/ComputerLars/intelligence-assessment-first-term-of-the-synthetic-party/issues) · [Fork the register](https://github.com/ComputerLars/intelligence-assessment-first-term-of-the-synthetic-party/fork)
+[Submit an objection](https://github.com/ComputerLars/intelligence-assessment-first-term-of-the-synthetic-party/issues/new?template=objection.yml) · [Examine objections](https://github.com/ComputerLars/intelligence-assessment-first-term-of-the-synthetic-party/issues) · [Fork the register](https://github.com/ComputerLars/intelligence-assessment-first-term-of-the-synthetic-party/fork)
 
-Cite the contested finding and source identifier. Submissions containing unredacted personal data or material withheld under institutional screening rules will be removed from the public register by the operator.
+Give the record identifier or the address of the registry page concerned. Submissions containing unredacted personal data or material withheld under institutional screening rules will be removed from the public register by the operator.
 
-The operator retains authority over issue closure, accepted revisions and publication.
+The operator of this register retains authority over issue closure, accepted revisions and publication.
 
 ## Reading the file
 
@@ -43,4 +48,4 @@ The European Democracy Sword is a fictional investigating bureau. Its agents ass
 
 The fictional bureau is not an authorisation, declassification or publication by the EEAS.
 
-[Citation](CITING.md) · [Release note](RELEASE-NOTES.md) · [Checksums](SHA256SUMS.txt)
+[Article and abstract](https://computerlars.github.io/intelligence-assessment-first-term-of-the-synthetic-party/#article) · [Article concordance](source-edition/ARTICLE-INDEX.md) · [Repository](https://github.com/ComputerLars/intelligence-assessment-first-term-of-the-synthetic-party) · [Citation](CITING.md) · [Release note](RELEASE-NOTES.md) · [Checksums](SHA256SUMS.txt)

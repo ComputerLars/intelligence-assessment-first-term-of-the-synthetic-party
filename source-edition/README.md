@@ -15,6 +15,6 @@ The dossier entries connect each registered source to its available text, code, 
 | International contacts, Congress and further deployments | [A18](dossiers/A18.md)–[A28](dossiers/A28.md) |
 | Organising conversations, comparisons and maintenance | [A29](dossiers/A29.md)–[A32](dossiers/A32.md) |
 
-The [catalogue](CATALOGUE.tsv) locates individual records. The [assessment concordance](ARTICLE-INDEX.md) links the published article to individual source records. The [supplements](supplements/README.md) contain the Malmö transcript and the quantitative checks.
+The [catalogue](CATALOGUE.tsv) locates individual records. The [assessment concordance](ARTICLE-INDEX.md) links the accompanying article to individual source records. The [supplements](supplements/README.md) contain the Malmö transcript and the quantitative checks.
 
 [File register](SOURCE_FILES.tsv) · [Record conventions](IDENTIFIERS.md) · [Edition note](EDITION.md) · [Citation](../CITING.md)

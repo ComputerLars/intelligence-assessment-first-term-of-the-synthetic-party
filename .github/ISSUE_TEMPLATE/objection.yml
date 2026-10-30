@@ -1,5 +1,5 @@
 name: Public objection · Assurance 05
-description: Contest an assessment finding or source classification.
+description: Dispute a record, attribution, classification, omission or interpretation in this register.
 title: 'Objection: '
 body:
   - type: markdown
@@ -8,15 +8,15 @@ body:
   - type: input
     id: finding
     attributes:
-      label: Assessment finding
-      description: Section and paragraph, or the claim you contest.
+      label: Disputed statement or registry decision
+      description: Quote the passage or identify the attribution, classification, omission or interpretation you contest.
     validations:
       required: true
   - type: input
     id: record
     attributes:
-      label: Record identifier
-      placeholder: A17-D03, page 1
+      label: Record or registry location
+      placeholder: A17-D03, page 1; or the relevant registry page
     validations:
       required: true
   - type: textarea

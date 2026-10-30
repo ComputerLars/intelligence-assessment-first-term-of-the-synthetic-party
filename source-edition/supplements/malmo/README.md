@@ -4,7 +4,7 @@
 
 [Transcript](TRANSCRIPT.md) · [Image volume](IMAGES.pdf) · [Slide-to-source concordance](CONCORDANCE.tsv) · [Supplement register](../README.md)
 
-Asker Bryld Staunæs’s lecture and conversation with Emma Bexell provide a retrospective account of the project. They remain distinct from the earlier correspondence, code and documents they discuss.
+Asker Bryld Staunæs’s lecture and conversation with Emma Bexell provide a retrospective account of The Synthetic Party and its international collaborations. The transcript, images and source concordance are collected here. Their recollections remain distinct from the earlier correspondence, code and documents they discuss.
 
 ## Passage guide
 
