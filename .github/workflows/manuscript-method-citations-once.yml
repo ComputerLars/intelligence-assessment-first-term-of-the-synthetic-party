@@ -40,6 +40,9 @@ jobs:
           edits=[]
           def replace(start,old,new):
               hits=[p for p in ps if txt(p).startswith(start) and old in txt(p)]
+              if len(hits)!=1:
+                  print('DIAGNOSTIC_EXPECTED_START',start)
+                  print('DIAGNOSTIC_CANDIDATES',[(txt(p)[:1200]) for p in ps if any(key in txt(p) for key in ['genre fiction','immanent critique','AI simulation','Vuković then','With AI-powered parties','European Parliament and Council. 2018.'])])
               assert len(hits)==1,(start,old[:40],len(hits))
               p=hits[0];full=txt(p);assert full.count(old)==1
               lo=full.index(old);hi=lo+len(old);offset=0
