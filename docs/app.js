@@ -49,7 +49,7 @@ async function renderFile(path,at='',home=false){
  if(serial!==routeSerial)return;
  content.innerHTML=body;if(f.kind==='text')wireLinks(path);
  if(!home)content.insertAdjacentHTML('afterbegin',contextLinks());
- content.insertAdjacentHTML('beforeend',`<p class="file-context"><a href="${f.url}" download>Download this file</a> · <a href="${data.repoUrl}/blob/main/${encodeURI(path)}">View source on GitHub</a></p>`);
+ if(!home)content.insertAdjacentHTML('beforeend',`<p class="file-context"><a href="${f.url}" download>Download this file</a> · <a href="${data.repoUrl}/blob/main/${encodeURI(path)}">View source on GitHub</a></p>`);
 }
 function renderDirectory(){parentRoute='#home';pageTitle.textContent='/dossiers';content.innerHTML=contextLinks()+`<h2>Dossier register</h2><p>Open a dossier or enter a record identifier.</p><p>32 dossiers · 3,056 records · <a href="#catalogue">Complete catalogue</a></p><ul class="links">${registry.dossiers.map(d=>`<li><a href="#dossier/${d.id}">${esc(d.title)}</a> · ${d.count} records</li>`).join('')}</ul>`;}
 function renderRegister(params=new URLSearchParams()){
@@ -72,7 +72,7 @@ function renderAgent(n){
 }
 function renderArticle() {
  pageTitle.textContent='Article';
- content.innerHTML=`<section class="hero"><div class="eyebrow">EUROPEAN DEMOCRACY SWORD · v.01</div><h2>${data.title}</h2><p>${data.author}</p></section><section class="panel abstract"><div class="panel-title">Abstract</div>${data.abstract.map(p=>`<p>${p}</p>`).join('')}</section><p class="entry-actions"><a class="enter" href="#register">Source dossiers</a> <a href="${data.repoUrl}/raw/refs/heads/main/Intelligence_Assessment_First_Term_Synthetic_Party_v01.docx">Read the article (.docx)</a></p><p class="note">Computer Lars / Asker Bryld Staunæs · Artistic research. The investigating bureau is fictional; the historical sources are authentic.</p>`;
+ content.innerHTML=`<section class="hero"><div class="eyebrow">EUROPEAN DEMOCRACY SWORD</div><h2>${data.title}</h2><p>${data.author}</p></section><section class="panel abstract"><div class="panel-title">Abstract</div>${data.abstract.map(p=>`<p>${p}</p>`).join('')}</section><p class="entry-actions"><a class="enter" href="#register">Source dossiers</a> <a href="${data.repoUrl}/raw/refs/heads/main/Intelligence_Assessment_First_Term_Synthetic_Party_v01.docx">Read the article (.docx)</a></p><p class="note">Computer Lars / Asker Bryld Staunæs · Artistic research. The investigating bureau is fictional; the historical sources are authentic.</p>`;
 }
 function concordanceLink(s) {
  if(/^A\d{2}-[SD]\d+$/.test(s))return `<a href="#record/${s}">${s}</a>`;
@@ -117,7 +117,7 @@ async function route(){
  else if(kind==='concordance'){renderConcordance();pageTitle.textContent='/article/concordance';content.insertAdjacentHTML('afterbegin',contextLinks('#home'));}
  else if(kind==='article'){renderArticle();pageTitle.textContent='/publication/article';content.insertAdjacentHTML('afterbegin',contextLinks('#home'));}
  else if(kind==='supplements')await renderFile('source-edition/supplements/README.md');
- else if(kind==='objections'){await renderFile('README.md','',true);params.set('at','public-objections--assurance-05');}
+ else if(kind==='objections'){await renderFile('README.md','',true);params.set('at','public-objections');}
  else renderMissing();
  }catch(e){pageTitle.textContent='/unavailable';content.innerHTML=`<p role="alert">The source could not be loaded. <a href="${data.repoUrl}">Open the repository</a>.</p>`;console.error(e);}
  if(serial!==routeSerial)return;

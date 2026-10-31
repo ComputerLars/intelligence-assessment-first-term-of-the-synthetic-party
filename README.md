@@ -2,13 +2,11 @@
 
 ![The deployed public source registry](docs/assets/intelligence-assessment-pages-front.png)
 
-*Public source registry, v.01. Computer Lars / Asker Bryld Staunæs, 2026. Screenshot of the deployed site, 30 October 2026.*
+*Public source registry. Computer Lars / Asker Bryld Staunæs, 2026. Screenshot of the deployed site, 30 October 2026.*
 
 
 
 **[Source registry](https://computerlars.github.io/intelligence-assessment-first-term-of-the-synthetic-party/)**
-
-**v.01**
 
 3,056 records · 32 dossiers · Preparations from 2021 and party activity through 2026
 
@@ -22,7 +20,7 @@ Open a dossier or enter a record identifier.
 
 [Training corpus](source-edition/dossiers/A07.md#a07-d01) · [Chatbot code](source-edition/dossiers/A14.md#a14-d01) · [Consultancy agreement](source-edition/dossiers/A17.md#a17-d03) · [Congress resolution](source-edition/dossiers/A27.md#a27-d34)
 
-## Public objections · Assurance 05
+## Public objections
 
 Objections may challenge a source attribution, classification, omission or interpretation.
 
@@ -46,4 +44,4 @@ An artistic research project by **Computer Lars / Asker Bryld Staunæs**.
 
 The European Democracy Sword is a fictional investigating bureau. Its agents assemble, examine and screen these dossiers as an EU intelligence file. The records derive from The Synthetic Party's historical production archive. Their reproduction status, redactions and source limitations are documented in this edition.
 
-[Article and abstract](https://computerlars.github.io/intelligence-assessment-first-term-of-the-synthetic-party/#article) · [Article concordance](source-edition/ARTICLE-INDEX.md) · [Repository](https://github.com/ComputerLars/intelligence-assessment-first-term-of-the-synthetic-party) · [Citation](CITING.md) · [Release note](RELEASE-NOTES.md) · [Checksums](SHA256SUMS.txt)
+[Article](https://computerlars.github.io/intelligence-assessment-first-term-of-the-synthetic-party/#article) · [Concordance](source-edition/ARTICLE-INDEX.md) · [Repository](https://github.com/ComputerLars/intelligence-assessment-first-term-of-the-synthetic-party) · [Citation](CITING.md)
