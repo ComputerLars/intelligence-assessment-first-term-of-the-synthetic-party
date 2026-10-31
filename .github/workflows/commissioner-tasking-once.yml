@@ -29,7 +29,7 @@ jobs:
           import hashlib, os
 
           doc = Path('Intelligence_Assessment_First_Term_Synthetic_Party_v01.docx')
-          old1 = "The Shield seeks to assess how AI-driven political parties affect citizen engagement, election integrity, and EU democratic institutions. In the MIT Technology Review, The Synthetic Party was presented"
+          old1 = "The Shield seeks to assess how AI-driven political parties affect citizen engagement, election integrity, and EU democratic institutions. In MIT Technology Review, The Synthetic Party was presented"
           new1 = "The Shield seeks to assess how AI-driven political parties affect citizen engagement, election integrity, and EU democratic institutions. The Synthetic Party of Denmark, whose contacts with AI-driven political actors extend beyond Europe, has been selected for review. In the MIT Technology Review, it was presented"
           old2 = "Establish the capabilities and intentions of The Synthetic Party and its international contacts from the intercepts"
           new2 = "Establish the capabilities and intentions of The Synthetic Party and its international contacts, particularly those beyond Europe, from the intercepts"
