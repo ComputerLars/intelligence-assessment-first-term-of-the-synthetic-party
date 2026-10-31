@@ -1,0 +1,177 @@
+name: Highlight in-text proposed-volume references (one time)
+on:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/highlight-intext-volume-citations-once.yml
+permissions:
+  contents: write
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m pip install lxml==5.4.0 python-docx==1.2.0
+      - name: Highlight exactly five citation spans without changing text
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          from tempfile import NamedTemporaryFile
+          from zipfile import ZipFile
+          from copy import deepcopy
+          from lxml import etree
+          from docx import Document
+          from docx.enum.text import WD_COLOR_INDEX
+          import hashlib, os
+          filename='Intelligence_Assessment_First_Term_Synthetic_Party_v01.docx'
+          path=Path(filename)
+          W='{http://schemas.openxmlformats.org/wordprocessingml/2006/main}'
+          X='{http://www.w3.org/XML/1998/namespace}'
+          ns={'w':W[1:-1]}
+          context1='My project sought to disrupt the traditional party form, but, in Lupato and Meloni’s terms'
+          context2='While the European Democracy Shield is an actual EU initiative'
+          target=[
+            (context1,[
+              'Lupato and Meloni',
+              '(this volume, 10–11)',
+              '(cf. Tarditi and Raniolo on the design and implementation of democratic innovations, this volume, 9)'
+            ]),
+            (context2,[
+              'Tarditi and Raniolo',
+              '(this volume, 9)'
+            ])
+          ]
+          with ZipFile(path) as arc:
+            orig_info=arc.infolist()
+            orig={info.filename:arc.read(info.filename) for info in orig_info}
+          root=etree.fromstring(orig['word/document.xml'])
+          paragraphs=root.xpath('./w:body//w:p',namespaces=ns)
+          def tnodes(p):
+            return p.xpath('.//w:t',namespaces=ns)
+          def ptext(p):
+            return ''.join(t.text or '' for t in tnodes(p))
+          before=[ptext(p) for p in paragraphs]
+          def mark(run):
+            rp=run.find(W+'rPr')
+            if rp is None:
+              rp=etree.Element(W+'rPr')
+              run.insert(0,rp)
+            hl=rp.find(W+'highlight')
+            if hl is None:
+              hl=etree.SubElement(rp,W+'highlight')
+            hl.set(W+'val','yellow')
+          def set_text(node,txt):
+            node.text=txt
+            if txt.startswith(' ') or txt.endswith(' '):
+              node.set(X+'space','preserve')
+            else:
+              node.attrib.pop(X+'space',None)
+          changed=[]
+          for context,strings in target:
+            m=[(i,p) for i,p in enumerate(paragraphs) if context in ptext(p)]
+            assert len(m)==1,('Context not unique',context,len(m))
+            i,p=m[0]
+            text=ptext(p)
+            spans=[]
+            for s in strings:
+              assert text.count(s)==1,('Citation span not unique',s,text.count(s))
+              lo=text.index(s);spans.append((lo,lo+len(s),s))
+            spans.sort()
+            for (lo,hi,_),(l2,h2,_) in zip(spans,spans[1:]):
+              assert hi<=l2,('Overlapping citation spans',i)
+            # We require the citation paragraphs to comprise regular direct Word runs only
+            # within the target spans, avoiding hyperlinks, fields and other structures.
+            runs=p.xpath('./w:r',namespaces=ns)
+            offset=0
+            for run in list(runs):
+              own=run.xpath('./w:t',namespaces=ns)
+              if len(own)!=1:
+                assert not any(node in tnodes(run) for a,b,_ in spans for node in tnodes(run)),('Unexpected run structure',i)
+                continue
+              txt=own[0].text or ''
+              start=offset;end=offset+len(txt);offset=end
+              overlaps=[(a,b) for a,b,_ in spans if start < b and end > a]
+              if not overlaps:
+                continue
+              assert set(child.tag for child in run).issubset({W+'rPr',W+'t'}),('Citation run has field/other content',i)
+              cuts={0,len(txt)}
+              for a,b in overlaps:
+                if start<a<end:cuts.add(a-start)
+                if start<b<end:cuts.add(b-start)
+              cuts=sorted(cuts)
+              replacements=[]
+              for x,y in zip(cuts,cuts[1:]):
+                if x==y:continue
+                newrun=deepcopy(run)
+                node=newrun.find(W+'t')
+                set_text(node,txt[x:y])
+                is_target=any(a<=start+x and start+y<=b for a,b in overlaps)
+                if is_target:mark(newrun)
+                replacements.append(newrun)
+              index=p.index(run)
+              p.remove(run)
+              for j,r in enumerate(replacements):
+                p.insert(index+j,r)
+            assert ptext(p)==text,('Text changed during highlight',i)
+            changed.append((i,spans))
+          after=[ptext(p) for p in paragraphs]
+          assert after==before,'Unexpected change in manuscript text'
+          assert len(changed)==2 and sum(len(s) for _,s in changed)==5
+          newxml=etree.tostring(root,xml_declaration=True,encoding='UTF-8',standalone=True)
+          with NamedTemporaryFile(dir='.',suffix='.docx',delete=False) as f:
+            temp=Path(f.name)
+          try:
+            with ZipFile(temp,'w') as arc:
+              for info in orig_info:
+                arc.writestr(info,newxml if info.filename=='word/document.xml' else orig[info.filename])
+            with ZipFile(temp) as arc:
+              assert arc.testzip() is None
+              for name,raw in orig.items():
+                if name!='word/document.xml':
+                  assert arc.read(name)==raw,('Unwanted modification',name)
+            doc=Document(temp)
+            paras=doc.paragraphs
+            assert [p.text for p in paras]==before
+            assert len(doc.inline_shapes)==1
+            for i,spans in changed:
+              paragraph=paras[i]
+              highlighted=[]
+              at=0
+              for run in paragraph.runs:
+                if run.font.highlight_color==WD_COLOR_INDEX.YELLOW:
+                  highlighted.append((at,at+len(run.text)))
+                at+=len(run.text)
+              def is_yellow(j):
+                return any(a<=j<b for a,b in highlighted)
+              for j in range(len(paragraph.text)):
+                should=any(a<=j<b for a,b,_ in spans)
+                assert is_yellow(j)==should,('Highlighted text differs from plan',i,j)
+              print('CITATION_HIGHLIGHT_QA',i,[s for _,_,s in spans])
+            os.replace(temp,path)
+          finally:
+            temp.unlink(missing_ok=True)
+          manifest=Path('SHA256SUMS.txt')
+          lines=manifest.read_text().splitlines()
+          matches=[j for j,s in enumerate(lines) if s.endswith('  '+filename)]
+          assert len(matches)==1
+          digest=hashlib.sha256(path.read_bytes()).hexdigest()
+          lines[matches[0]]=digest+'  '+filename
+          manifest.write_text('\n'.join(lines)+'\n')
+          print('SUCCESS: 5 in-text spans highlighted across 2 paragraphs; 0 characters altered; image and footnotes byte-identical; sha256='+digest)
+          PY
+      - name: Validate source register and checksums
+        run: python scripts/verify_registry.py
+      - name: Commit highlighted manuscript and remove temporary workflow
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git rm .github/workflows/highlight-intext-volume-citations-once.yml
+          git add Intelligence_Assessment_First_Term_Synthetic_Party_v01.docx SHA256SUMS.txt
+          git commit -m 'Highlight in-text references to proposed Palgrave chapters'
+          git push
