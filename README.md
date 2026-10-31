@@ -2,7 +2,7 @@
 
 ![The deployed public source registry](docs/assets/intelligence-assessment-pages-front.png)
 
-*Public source registry. Computer Lars / Asker Bryld Staunæs, 2026. Screenshot of the deployed site, 30 October 2026.*
+*Public source registry. Computer Lars / Asker Bryld Staunæs, 2026. Screenshot of the deployed site, 31 October 2026.*
 
 
 
