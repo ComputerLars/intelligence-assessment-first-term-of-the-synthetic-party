@@ -18,6 +18,9 @@ def rendered(text):
  return result
 tracked=subprocess.check_output(['git','ls-files','-z'],cwd=ROOT).decode().split('\0')
 files={}
+translation_dir=ROOT/'docs/translations/en'
+translation_index=json.loads((translation_dir/'index.json').read_text()) if (translation_dir/'index.json').exists() else {}
+translated_records=[]
 for name in tracked:
  if not name:continue
  src=ROOT/name
@@ -41,7 +44,23 @@ for name in tracked:
    entry['kind']='text';view=OUT/'views'/Path(name+'.json');view.parent.mkdir(parents=True,exist_ok=True)
    view.write_text(json.dumps({'html':rendered(text) if suffix=='.md' else '<pre>'+html.escape(text)+'</pre>'},ensure_ascii=False))
    entry['view']=view.relative_to(OUT).as_posix()
+ if name in translation_index and entry['kind']=='text':
+  t=json.loads((translation_dir/translation_index[name]['file']).read_text())
+  assert t['source']==name and t['source_sha256']==entry['sha256'], 'Stale translation: '+name
+  marks=r'\[[^\]\n]*[█…][^\]\n]*\]|\[\.\.\.\]'
+  assert re.findall(marks,src.read_text())==re.findall(marks,t['text']), 'Changed redaction markers: '+name
+  english=OUT/'views/en'/Path(name+'.json');english.parent.mkdir(parents=True,exist_ok=True)
+  english.write_text(json.dumps({'html':rendered(t['text']) if suffix=='.md' else '<pre>'+html.escape(t['text'])+'</pre>'},ensure_ascii=False))
+  entry['en_view']=english.relative_to(OUT).as_posix()
+  if re.fullmatch(r'source-edition/dossiers/A\d{2}\.md',name):
+   matches=list(re.finditer(r'<a id="(a\d{2}-[sd]\d+)"></a>',t['text']));entries={}
+   for i,m in enumerate(matches):entries[m[1].upper()]=t['text'][m.end():matches[i+1].start() if i+1<len(matches) else len(t['text'])].strip()
+   original=json.loads((ROOT/'docs/registry'/Path(name).with_suffix('.json').name).read_text())
+   assert set(original)==set(entries),name
+   target=OUT/'registry/en'/Path(name).with_suffix('.json').name;target.parent.mkdir(parents=True,exist_ok=True);target.write_text(json.dumps(entries,ensure_ascii=False))
+   translated_records.extend(key for key in entries if entries[key]!=original[key])
  files[name]=entry
 (OUT/'registry/files.json').write_text(json.dumps(files,ensure_ascii=False))
+(OUT/'registry/english.json').write_text(json.dumps(translated_records))
 (OUT/'.nojekyll').touch()
 print(f'Staged {len(files)} public files in {OUT}')

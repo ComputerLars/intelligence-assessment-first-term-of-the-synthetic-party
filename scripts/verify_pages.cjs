@@ -28,3 +28,7 @@ for(const [path,expected] of [
 assert.equal(link('ARTICLE-INDEX.md#03-capacity-control','source-edition/README.md'),'#file/source-edition/ARTICLE-INDEX.md?at=03-capacity-control');
 for(const d of index.dossiers){const group=index.records.filter(r=>r.dossier===d.id);ctx.first=group[0];ctx.last=group.at(-1);assert.equal(vm.runInContext('recordNeighbours(first).previous',ctx),undefined);assert.equal(vm.runInContext('recordNeighbours(last).next',ctx),undefined);}
 console.log('Verified parent chain, owning-record return, concordance fragment and all 32 dossier boundaries.');
+assert.equal(vm.runInContext("languageHref(true,'#file/source-edition/supplements/malmo/TRANSCRIPT.md?at=P064')",ctx),'#file/source-edition/supplements/malmo/TRANSCRIPT.md?at=P064&lang=en');
+assert.equal(vm.runInContext("languageHref(false,'#record/A17-D03?lang=en')",ctx),'#record/A17-D03?lang=original');
+for(const [path,f] of Object.entries(files))if(f.en_view){assert(fs.existsSync(stage+'/'+f.en_view),path);assert.equal(f.kind,'text');}
+console.log('Verified language routes preserve passage locators and original access.');

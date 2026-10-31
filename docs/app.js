@@ -1,9 +1,10 @@
 const data=window.REGISTER_DATA;
 const content=document.getElementById('content'),pageTitle=document.getElementById('page-title'),buffer=document.getElementById('buffer');
 const esc=value=>String(value).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+let englishRecords=[],englishMode=false;
 let registry,files,routeSerial=0,currentHash='',parentRoute='#home';
 const scrolls=new Map();
-const recordLink=r=>`<a href="#record/${r.item_id}">${r.item_id} · ${esc(r.title)}</a>`;
+const recordLink=r=>`<a href="${esc(languageHref(englishMode,'#record/'+r.item_id))}">${r.item_id} · ${esc(r.title)}</a>`;
 const fileRoute=(path,at='')=>'#file/'+encodeURI(path)+(at?'?at='+encodeURIComponent(at):'');
 function resolveLink(href,base){
  const root=data.repoUrl+'/blob/main/';
@@ -37,19 +38,24 @@ function fileParent(path){
  return parent==='README.md'?'#home':files[parent]?fileRoute(parent):'#register';
 }
 function recordNeighbours(r){const group=registry.records.filter(x=>x.dossier===r.dossier),i=group.findIndex(x=>x.item_id===r.item_id);return {previous:group[i-1],next:group[i+1]};}
+function languageHref(english,hash=location.hash||'#home'){
+ const [path,query='']=hash.split('?'),params=new URLSearchParams(query);params.set('lang',english?'en':'original');return path+'?'+params;
+}
+function languageControls(){return `<p class="file-context language"><a href="${esc(languageHref(false))}" ${!englishMode?'aria-current="true"':''}>Original</a> · <a href="${esc(languageHref(true))}" ${englishMode?'aria-current="true"':''}>English</a>${englishMode?' <span class="note">· Machine translation</span>':''}</p>`;}
 async function renderFile(path,at='',home=false){
  const f=files[path];if(!f)return renderMissing();
  const serial=routeSerial;parentRoute=fileParent(path);
  pageTitle.textContent='/'+path;
  let body='';
- if(f.kind==='text'){const response=await fetch(f.view);if(!response.ok)throw Error('file');body=(await response.json()).html;}
+ if(f.kind==='text'){const response=await fetch(englishMode&&f.en_view?f.en_view:f.view);if(!response.ok)throw Error('file');body=(await response.json()).html;}
  else if(f.kind==='image')body=`<h2>${esc(path.split('/').pop())}</h2><img src="${f.url}" alt="${esc(path)}">`;
  else if(f.kind==='pdf')body=`<h2>${esc(path.split('/').pop())}</h2><object class="pdf" data="${f.url}" type="application/pdf"><p>Open the PDF using the link below.</p></object>`;
  else body=`<h2>${esc(path.split('/').pop())}</h2><p>File available below.</p>`;
  if(serial!==routeSerial)return;
  content.innerHTML=body;if(f.kind==='text')wireLinks(path);
+ if(f.en_view)content.insertAdjacentHTML('afterbegin',languageControls());
  if(!home)content.insertAdjacentHTML('afterbegin',contextLinks());
- if(!home)content.insertAdjacentHTML('beforeend',`<p class="file-context"><a href="${f.url}" download>Download this file</a> · <a href="${data.repoUrl}/blob/main/${encodeURI(path)}">View source on GitHub</a></p>`);
+ if(!home)content.insertAdjacentHTML('beforeend',`<p class="file-context"><a href="${f.url}" download>${englishMode&&f.en_view?'Download original':'Download this file'}</a> · <a href="${data.repoUrl}/blob/main/${encodeURI(path)}">View source on GitHub</a></p>`);
 }
 function renderDirectory(){parentRoute='#home';pageTitle.textContent='/dossiers';content.innerHTML=contextLinks()+`<h2>Dossier register</h2><p>Open a dossier or enter a record identifier.</p><p>32 dossiers · 3,056 records · <a href="#catalogue">Complete catalogue</a></p><ul class="links">${registry.dossiers.map(d=>`<li><a href="#dossier/${d.id}">${esc(d.title)}</a> · ${d.count} records</li>`).join('')}</ul>`;}
 function renderRegister(params=new URLSearchParams()){
@@ -61,7 +67,7 @@ function renderRegister(params=new URLSearchParams()){
  const pageLink=n=>{const p=new URLSearchParams(params);p.set('page',n);return '#catalogue?'+p;};
  const batches=totalPages>1?`<p>${page>1?`<a href="${esc(pageLink(page-1))}">← Previous 75</a> · `:''}Page ${page} of ${totalPages}${page<totalPages?` · <a href="${esc(pageLink(page+1))}">Next ${Math.min(size,matches.length-start-size)} →</a>`:''}</p>`:'';
  content.innerHTML=contextLinks()+`<h2>${d?esc(d.title):'Complete catalogue'}</h2><form id="filters"><label>Dossier <select name="dossier"><option value="">All dossiers</option>${registry.dossiers.map(d=>`<option value="${d.id}" ${d.id===did?'selected':''}>${esc(d.title)}</option>`).join('')}</select></label><label>Record type <select name="type"><option value="">All types</option>${['correspondence','document / data / media'].map(t=>`<option ${t===type?'selected':''}>${t}</option>`).join('')}</select></label><label>Identifier or title <input name="q" value="${esc(q)}"></label><button>Find records</button></form><p role="status">${matches.length} records${matches.length?` · Showing ${start+1}–${Math.min(start+size,matches.length)}`:''}</p>${batches}<div class="list-table">${matches.slice(start,start+size).map(r=>`<div class="list-row"><div>${recordLink(r)}</div><div>${esc(r.representation)} · ${esc(r.type)}</div></div>`).join('')}</div>${batches}`;
- document.getElementById('filters').addEventListener('submit',e=>{e.preventDefault();location.hash='catalogue?'+new URLSearchParams(new FormData(e.target));});
+ document.getElementById('filters').addEventListener('submit',e=>{e.preventDefault();location.hash=languageHref(englishMode,'#catalogue?'+new URLSearchParams(new FormData(e.target)));});
 }
 function renderFunctions(){parentRoute='#home';pageTitle.textContent='/assignments';content.innerHTML=contextLinks()+`<h2>Assigned functions</h2>${data.functions.map((f,i)=>`<section><h3><a href="#agent/${i}">${esc(f.title)}</a></h3><p>${esc(f.question)}</p></section>`).join('')}`;}
 function renderAgent(n){
@@ -92,9 +98,10 @@ function renderConcordance() {
 async function renderRecord(id){
  const serial=routeSerial,r=registry.records.find(r=>r.item_id===id);if(!r)return renderMissing();
  parentRoute='#dossier/'+r.dossier;pageTitle.textContent='/dossiers/'+r.dossier+'/'+id;
- const response=await fetch(`registry/${r.dossier}.json`);if(!response.ok)throw Error('entry');const entries=await response.json();if(serial!==routeSerial)return;
+ const response=await fetch(`registry/${englishMode&&englishRecords.includes(id)?'en/':''}${r.dossier}.json`);if(!response.ok)throw Error('entry');const entries=await response.json();if(serial!==routeSerial)return;
  const refs=registry.references.filter(x=>x.item_id===id),{previous,next}=recordNeighbours(r);
  content.innerHTML=contextLinks()+`<h2>${id}: ${esc(r.title)}</h2><p class="status">${esc(r.representation)} · ${esc(r.type)}</p><section class="source-text"></section>${r.sources.length?`<h3>Source files</h3><ul>${r.sources.map(f=>`<li><a href="${fileRoute('source-edition/'+f.path)}">${esc(f.path)}</a><details><summary>SHA-256</summary><code>${f.sha256}</code></details></li>`).join('')}</ul>`:''}<p>${previous?`<a href="#record/${previous.item_id}">← ${previous.item_id}</a> · `:''}${next?`<a href="#record/${next.item_id}">${next.item_id} →</a> · `:''}<a href="#register">Dossier register</a> · <a href="${data.repoUrl}/blob/main/source-edition/dossiers/${r.dossier}.md#${id.toLowerCase()}">View source on GitHub</a> · <a href="${data.repoUrl}/issues/new?template=objection.yml&title=${encodeURIComponent('Objection: '+id)}">Contest this record</a></p>${refs.length?`<details><summary>Cited in the accompanying article</summary>${referenceTable(refs)}</details>`:''}`;
+ if(englishRecords.includes(id))content.querySelector('.source-text').insertAdjacentHTML('beforebegin',languageControls());
  const target=content.querySelector('.source-text'),body=entries[id].replace(/^##[^\n]*\n+/,''),pattern=/\[([^\]\n]+)\]\(([^\s)]+)\)/g;let last=0,m;
  while((m=pattern.exec(body))){target.append(document.createTextNode(body.slice(last,m.index)));const a=document.createElement('a'),href=resolveLink(m[2],`source-edition/dossiers/${r.dossier}.md`);a.textContent=m[1];if(href){a.href=href;target.append(a);}else target.append(document.createTextNode(m[0]));last=pattern.lastIndex;}
  target.append(document.createTextNode(body.slice(last)));
@@ -104,6 +111,7 @@ async function route(){
  if(currentHash)scrolls.set(currentHash,buffer.scrollTop);
  const serial=++routeSerial,hash=location.hash||'#home';currentHash=hash;
  const [path,query='']=hash.slice(1).split('?'),split=path.indexOf('/'),kind=split<0?path:path.slice(0,split),id=split<0?'':decodeURI(path.slice(split+1)),params=new URLSearchParams(query);
+ englishMode=params.get('lang')==='en';
  if(kind==='content'){content.focus();return;}
  try{
  if(kind==='home'||kind==='readme'||kind==='notes')await renderFile('README.md','',true);
@@ -121,13 +129,15 @@ async function route(){
  else renderMissing();
  }catch(e){pageTitle.textContent='/unavailable';content.innerHTML=`<p role="alert">The source could not be loaded. <a href="${data.repoUrl}">Open the repository</a>.</p>`;console.error(e);}
  if(serial!==routeSerial)return;
+ content.querySelectorAll('a[href^="#"]').forEach(a=>{if(!a.closest('.language'))a.href=languageHref(englishMode,a.getAttribute('href'));});
  content.focus({preventScroll:true});buffer.scrollTop=scrolls.get(hash)||0;
  const at=params.get('at');if(at){const anchor=Array.from(content.querySelectorAll('[id]')).find(el=>el.id===at);if(anchor)anchor.scrollIntoView({block:'start'});}
  document.getElementById('search-results').innerHTML='';
 }
-function locate(){const q=document.getElementById('search').value.trim(),upper=q.toUpperCase();if(['README','ROOT','/'].includes(upper))location.hash='home';else if(q==='..'||upper==='PARENT')location.hash=parentRoute;else if(registry.dossiers.some(d=>d.id===upper))location.hash='dossier/'+upper;else if(registry.records.some(r=>r.item_id===upper))location.hash='record/'+upper;else location.hash='catalogue?q='+encodeURIComponent(q);}
+function locate(){const q=document.getElementById('search').value.trim(),upper=q.toUpperCase();let target;if(['README','ROOT','/'].includes(upper))target='#home';else if(q==='..'||upper==='PARENT')target=parentRoute;else if(registry.dossiers.some(d=>d.id===upper))target='#dossier/'+upper;else if(registry.records.some(r=>r.item_id===upper))target='#record/'+upper;else target='#catalogue?q='+encodeURIComponent(q);location.hash=languageHref(englishMode,target);}
+
 async function boot(){try{
- const responses=await Promise.all([fetch('registry/index.json'),fetch('registry/files.json')]);if(responses.some(r=>!r.ok))throw Error('index');[registry,files]=await Promise.all(responses.map(r=>r.json()));
+ const responses=await Promise.all([fetch('registry/index.json'),fetch('registry/files.json'),fetch('registry/english.json')]);if(responses.some(r=>!r.ok))throw Error('index');[registry,files,englishRecords]=await Promise.all(responses.map(r=>r.json()));
  document.getElementById('locator').addEventListener('submit',e=>{e.preventDefault();locate();});
  document.getElementById('search').addEventListener('input',e=>{const q=e.target.value.trim().toLowerCase(),matches=q?registry.records.filter(r=>(r.item_id+' '+r.title).toLowerCase().includes(q)):[];document.getElementById('search-results').innerHTML=q?`<p>${matches.length} identifier/title matches</p>`+matches.slice(0,8).map(recordLink).join(''):'';});
  window.addEventListener('hashchange',route);await route();

@@ -4,3 +4,5 @@
 @media(prefers-reduced-motion:reduce){*{scroll-behavior:auto}}
 pre{white-space:pre-wrap;overflow-wrap:anywhere;font:inherit}#content img{max-width:100%;height:auto}blockquote{border-left:1px solid var(--line);margin-left:0;padding-left:16px}.pdf{width:100%;height:65vh;border:1px solid var(--line)}.file-context{font-size:12px;color:var(--muted);margin:14px 0}#content{overflow-wrap:anywhere}h1{font-size:16px}
 @font-face{font-family:'PT Mono';font-style:normal;font-weight:400;font-display:swap;src:url('assets/fonts/PTMono-Regular.ttf') format('truetype')}
+
+.language [aria-current="true"]{color:var(--text);text-decoration:none;font-weight:bold}
