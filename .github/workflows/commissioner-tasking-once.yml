@@ -51,6 +51,8 @@ jobs:
 
           for old,new in changes:
               matches = [p for p in paragraphs if old in joined(p)]
+              if len(matches)!=1:
+                  print('DEBUG_POSSIBLE_PARAGRAPHS', [joined(p)[:1300] for p in paragraphs if any(k in joined(p) for k in ['The Shield seeks','MIT Technology Review','Establish the capabilities'])])
               assert len(matches)==1, ('expected one exact match',old[:60],len(matches))
               p=matches[0]
               ts=texts(p);full=joined(p)
