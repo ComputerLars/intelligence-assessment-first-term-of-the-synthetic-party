@@ -1,0 +1,109 @@
+name: Integrate Commissioner tasking (one time)
+on:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/commissioner-tasking-once.yml
+permissions:
+  contents: write
+jobs:
+  integrate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m pip install lxml==5.4.0 python-docx==1.2.0
+      - name: Apply exactly two text changes and reconcile document checksum
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          from zipfile import ZipFile
+          from tempfile import NamedTemporaryFile
+          from lxml import etree
+          from docx import Document
+          import hashlib, os
+
+          doc = Path('Intelligence_Assessment_First_Term_Synthetic_Party_v01.docx')
+          old1 = "The Shield seeks to assess how AI-driven political parties affect citizen engagement, election integrity, and EU democratic institutions. In the MIT Technology Review, The Synthetic Party was presented"
+          new1 = "The Shield seeks to assess how AI-driven political parties affect citizen engagement, election integrity, and EU democratic institutions. The Synthetic Party of Denmark, whose contacts with AI-driven political actors extend beyond Europe, has been selected for review. In the MIT Technology Review, it was presented"
+          old2 = "Establish the capabilities and intentions of The Synthetic Party and its international contacts from the intercepts"
+          new2 = "Establish the capabilities and intentions of The Synthetic Party and its international contacts, particularly those beyond Europe, from the intercepts"
+          changes = [(old1, new1), (old2, new2)]
+          ns = {'w':'http://schemas.openxmlformats.org/wordprocessingml/2006/main'}
+          w_tag = '{'+ns['w']+'}t'
+
+          with ZipFile(doc, 'r') as z:
+              before = {name: z.read(name) for name in z.namelist()}
+              members = z.infolist()
+          document_xml = 'word/document.xml'
+          root = etree.fromstring(before[document_xml])
+          paragraphs = root.xpath('./w:body//w:p',namespaces=ns)
+          def texts(p):
+              return p.xpath('.//w:t',namespaces=ns)
+          def joined(p):
+              return ''.join(t.text or '' for t in texts(p))
+          originals = [joined(p) for p in paragraphs]
+
+          for old,new in changes:
+              matches = [p for p in paragraphs if old in joined(p)]
+              assert len(matches)==1, ('expected one exact match',old[:60],len(matches))
+              p=matches[0]
+              ts=texts(p);full=joined(p)
+              assert full.count(old)==1
+              i=full.index(old);end=i+len(old);offset=0
+              for t in ts:
+                  val=t.text or '';st=offset;en=st+len(val);offset=en
+                  if en<=i or st>=end:continue
+                  if st<=i<en:
+                      t.text=val[:i-st]+new+(val[end-st:] if end<en else '')
+                  else:
+                      t.text=val[end-st:] if end<en else ''
+              assert joined(p)==full.replace(old,new)
+
+          expected=[line.replace(old1,new1).replace(old2,new2) for line in originals]
+          assert [joined(p) for p in paragraphs]==expected, 'Unrelated paragraph text changed'
+          updated=etree.tostring(root,encoding='UTF-8',xml_declaration=True,standalone=True)
+          with NamedTemporaryFile(prefix='commissioner-',suffix='.docx',dir='.',delete=False) as tf:
+              temporary=Path(tf.name)
+          try:
+              with ZipFile(temporary,'w') as output:
+                  for member in members:
+                      name=member.filename
+                      output.writestr(member,updated if name==document_xml else before[name])
+              with ZipFile(temporary,'r') as check:
+                  assert set(check.namelist())==set(before)
+                  for name in before:
+                      if name!=document_xml:assert check.read(name)==before[name],name
+              d=Document(temporary)
+              assert len(d.inline_shapes)==1,'Archive figure must be preserved'
+              assert [p.text for p in d.paragraphs].count('')>=0
+              for old,new in changes:
+                  assert not any(old in p.text for p in d.paragraphs)
+                  assert sum(new in p.text for p in d.paragraphs)==1
+              os.replace(temporary,doc)
+          finally:
+              temporary.unlink(missing_ok=True)
+
+          sums=Path('SHA256SUMS.txt')
+          lines=sums.read_text().splitlines()
+          hits=[idx for idx,line in enumerate(lines) if line.endswith('  '+doc.name)]
+          assert len(hits)==1,'Missing or duplicate manifest row'
+          newhash=hashlib.sha256(doc.read_bytes()).hexdigest()
+          lines[hits[0]]=newhash+'  '+doc.name
+          sums.write_text('\n'.join(lines)+'\n')
+          print('Verified changes: 2; image retained: 1; other DOCX parts unchanged')
+          print('DOCX_SHA256:',newhash)
+          PY
+      - name: Commit updated article and remove one-time workflow
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git rm .github/workflows/commissioner-tasking-once.yml
+          git add Intelligence_Assessment_First_Term_Synthetic_Party_v01.docx SHA256SUMS.txt
+          git commit -m 'Add international case-selection hinge to Commissioner tasking'
+          git push
