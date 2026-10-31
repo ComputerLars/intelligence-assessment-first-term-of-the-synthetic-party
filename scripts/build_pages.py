@@ -36,7 +36,7 @@ for name in tracked:
   except UnicodeDecodeError:pass
   else:
    if name=='README.md':text=re.sub(r'!\[The deployed public source registry\][^\n]*\n\s*\*The public-facing source registry[^\n]*\n','',text)
-   if name=='README.md':text=re.sub(r'^!\[The deployed public source registry\]\(docs/assets/intelligence-assessment-pages-front\.png\)\s*\n\s*\*Public source registry, v\.01\.[^\n]*\*\s*\n', '', text, flags=re.M)
+   if name=='README.md':text=re.sub(r'^!\[The deployed public source registry\]\(docs/assets/intelligence-assessment-pages-front\.png\)\s*\n\s*\*Public source registry(?:, v\.01)?\.[^\n]*\*\s*\n', '', text, flags=re.M)
 
    entry['kind']='text';view=OUT/'views'/Path(name+'.json');view.parent.mkdir(parents=True,exist_ok=True)
    view.write_text(json.dumps({'html':rendered(text) if suffix=='.md' else '<pre>'+html.escape(text)+'</pre>'},ensure_ascii=False))
