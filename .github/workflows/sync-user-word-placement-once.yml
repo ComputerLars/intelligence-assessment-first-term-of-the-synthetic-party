@@ -63,7 +63,7 @@ jobs:
           # Figure: retain existing embedded image, set alignment/dimensions,
           # and reproduce the shorter, linked and centered author's caption.
           caption=match(old_caption)
-          idx=doc.paragraphs.index(caption)
+          idx=next(i for i,x in enumerate(doc.paragraphs) if x._p is caption._p)
           image_para=doc.paragraphs[idx-1]
           assert image_para.text=='' and image_para._p.xpath('.//w:drawing'),'Figure is not immediately before its caption'
           image_para.alignment=WD_ALIGN_PARAGRAPH.CENTER
@@ -115,7 +115,7 @@ jobs:
           # Remove the paragraph break between regulatory rule and gallery example.
           regulatory=match('This constant shape-shifting may also enable regulatory evasion.')
           gallery=match('A statement made in an art gallery may attract political-advertising transparency obligations')
-          assert doc.paragraphs.index(gallery)==doc.paragraphs.index(regulatory)+1
+          assert next(i for i,x in enumerate(doc.paragraphs) if x._p is gallery._p)==next(i for i,x in enumerate(doc.paragraphs) if x._p is regulatory._p)+1
           assert regulatory.text.endswith('(Regulation 2024/900, Article 11).')
           assert gallery.text.startswith('A statement made in an art gallery')
           regulatory.add_run(' '+gallery.text)
@@ -145,7 +145,7 @@ jobs:
           assert conclusion.text==prefix+new_end
           # Placement: five blank paragraphs between the author's conclusion and References.
           following=conclusion._p.getnext()
-          assert following is not None and following.xpath('./w:r/w:t')==[]
+          assert following is not None and 'References' in ''.join((t.text or '') for t in following.xpath('.//w:t'))
           # Add blanks after the conclusion; existing blank spacer paragraphs remain.
           anchor=conclusion._p
           for _ in range(5):
