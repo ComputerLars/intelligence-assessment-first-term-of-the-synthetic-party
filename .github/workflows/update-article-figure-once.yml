@@ -1,0 +1,98 @@
+name: Update article screenshot to 31 October (one time)
+on:
+  push:
+    branches: [main]
+    paths: [.github/workflows/update-article-figure-once.yml]
+permissions:
+  contents: write
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m pip install python-docx==1.2.0 Pillow==11.3.0
+      - name: Replace only the embedded terminal screenshot and its date
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          from zipfile import ZipFile
+          from docx import Document
+          from PIL import Image
+          import hashlib
+          root=Path('.')
+          path=root/'Intelligence_Assessment_First_Term_Synthetic_Party_v01.docx'
+          image=root/'docs/assets/intelligence-assessment-pages-front.png'
+          with Image.open(image) as im:
+              assert im.format=='PNG'
+              dimensions=im.size
+          doc=Document(path)
+          before=[p.text for p in doc.paragraphs]
+          assert len(doc.inline_shapes)==1,'Expected exactly one existing figure'
+          matches=[(i,p) for i,p in enumerate(doc.paragraphs) if p.text.startswith('Figure 1. Intelligence Assessment: First Term of The Synthetic Party')]
+          assert len(matches)==1,'Figure caption missing or ambiguous'
+          index,caption=matches[0]
+          old='Screenshot of the deployed site, 30 October 2026.'
+          new='Screenshot of the deployed site, 31 October 2026.'
+          assert caption.text.count(old)==1,('Unexpected caption',caption.text)
+          changed=0
+          for run in caption.runs:
+              if old in run.text:
+                  run.text=run.text.replace(old,new)
+                  changed+=1
+          assert changed==1,'Expected one caption run replacement'
+          shape=doc.inline_shapes[0]
+          old_width=int(shape.width)
+          old_height=int(shape.height)
+          blip=shape._inline.graphic.graphicData.pic.blipFill.blip
+          target=doc.part.related_parts[blip.embed]
+          assert target.content_type=='image/png',target.content_type
+          original_image=target.blob
+          target._blob=image.read_bytes()
+          shape.height=round(old_width*dimensions[1]/dimensions[0])
+          after=[p.text for p in doc.paragraphs]
+          expected=before[:]
+          expected[index]=expected[index].replace(old,new)
+          assert after==expected,'Unexpected change outside figure caption'
+          assert len(doc.inline_shapes)==1
+          # Check that Word continues to contain exactly one image and unchanged footnotes.
+          with ZipFile(path) as archive:
+              old_footnotes=archive.read('word/footnotes.xml')
+              old_media={name:archive.read(name) for name in archive.namelist() if name.startswith('word/media/')}
+          assert len(old_media)==1,'Unexpected image structure'
+          assert len(original_image)>10000
+          doc.save(path)
+          check=Document(path)
+          assert len(check.inline_shapes)==1
+          assert [p.text for p in check.paragraphs]==expected
+          with ZipFile(path) as archive:
+              assert archive.testzip() is None
+              assert archive.read('word/footnotes.xml')==old_footnotes
+              media={name:archive.read(name) for name in archive.namelist() if name.startswith('word/media/')}
+              assert len(media)==1
+              assert next(iter(media.values()))==image.read_bytes(),'Embedded image differs from current GitHub screenshot'
+          assert abs(int(check.inline_shapes[0].height)/int(check.inline_shapes[0].width)-dimensions[1]/dimensions[0])<0.0002
+          manifest=root/'SHA256SUMS.txt'
+          lines=manifest.read_text().splitlines()
+          hits=[i for i,line in enumerate(lines) if line.endswith('  '+path.name)]
+          assert len(hits)==1
+          digest=hashlib.sha256(path.read_bytes()).hexdigest()
+          lines[hits[0]]=digest+'  '+path.name
+          manifest.write_text('\n'.join(lines)+'\n')
+          print('FIGURE_UPDATE_OK',{'date':'31 October 2026','dimensions':dimensions,'figure_index':index,'old_emu':(old_width,old_height),'new_emu':(int(check.inline_shapes[0].width),int(check.inline_shapes[0].height)),'docx_sha256':digest,'body_changed':False,'footnotes_preserved':True})
+          PY
+      - name: Verify source edition
+        run: python scripts/verify_registry.py
+      - name: Commit manuscript and remove temporary update workflow
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git rm .github/workflows/update-article-figure-once.yml
+          git add Intelligence_Assessment_First_Term_Synthetic_Party_v01.docx SHA256SUMS.txt
+          git commit -m 'Synchronize manuscript screenshot with 31 October registry image'
+          git push
