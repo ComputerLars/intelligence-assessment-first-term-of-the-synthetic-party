@@ -28,9 +28,13 @@ jobs:
           root=Path('.')
           path=root/'Intelligence_Assessment_First_Term_Synthetic_Party_v01.docx'
           image=root/'docs/assets/intelligence-assessment-pages-front.png'
+          from io import BytesIO
           with Image.open(image) as im:
-              assert im.format=='PNG'
+              assert im.format in ('JPEG','PNG')
               dimensions=im.size
+              png_stream=BytesIO()
+              im.convert('RGB').save(png_stream,format='PNG')
+              embedded_png=png_stream.getvalue()
           doc=Document(path)
           before=[p.text for p in doc.paragraphs]
           assert len(doc.inline_shapes)==1,'Expected exactly one existing figure'
@@ -53,7 +57,7 @@ jobs:
           target=doc.part.related_parts[blip.embed]
           assert target.content_type=='image/png',target.content_type
           original_image=target.blob
-          target._blob=image.read_bytes()
+          target._blob=embedded_png
           shape.height=round(old_width*dimensions[1]/dimensions[0])
           after=[p.text for p in doc.paragraphs]
           expected=before[:]
@@ -75,7 +79,7 @@ jobs:
               assert archive.read('word/footnotes.xml')==old_footnotes
               media={name:archive.read(name) for name in archive.namelist() if name.startswith('word/media/')}
               assert len(media)==1
-              assert next(iter(media.values()))==image.read_bytes(),'Embedded image differs from current GitHub screenshot'
+              assert next(iter(media.values()))==embedded_png,'Embedded PNG does not match conversion of current GitHub screenshot'
           assert abs(int(check.inline_shapes[0].height)/int(check.inline_shapes[0].width)-dimensions[1]/dimensions[0])<0.0002
           manifest=root/'SHA256SUMS.txt'
           lines=manifest.read_text().splitlines()
