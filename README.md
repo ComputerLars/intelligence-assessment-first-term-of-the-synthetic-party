@@ -38,7 +38,7 @@ The operator of this register retains authority over issue closure, accepted rev
 
 ## Source and publication note
 
-This register accompanies Asker Bryld Staunæs, *Intelligence Assessment: First Term of The Synthetic Party*, prepared for *Political Parties and Digital Innovations: Participation, Democracy and Efficiency* (Palgrave Macmillan).
+This register accompanies Asker Bryld Staunæs, *Intelligence Assessment: First Term of The Synthetic Party*, prepared as a chapter for the proposed edited volume *Political Parties and Digital Innovations: Participation, Democracy and Efficiency* (working title), edited by Fabio G. Lupato, Oscar Barberà, Valeria Tarditi and Marco Meloni for Palgrave Macmillan.
 
 An artistic research project by **Computer Lars / Asker Bryld Staunæs**.
 
