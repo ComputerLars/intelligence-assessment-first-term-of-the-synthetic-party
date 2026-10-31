@@ -1,0 +1,63 @@
+name: Correct edited-volume attribution and archive credit (one time)
+on:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/finalize-volume-attribution-once.yml
+permissions:
+  contents: write
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Replace only the two approved source-edition lines
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import hashlib
+          edits=[
+            (
+              'README.md',
+              'This register accompanies Asker Bryld Staunæs, *Intelligence Assessment: First Term of The Synthetic Party*, prepared for *Political Parties and Digital Innovations: Participation, Democracy and Efficiency* (Palgrave Macmillan).',
+              'This register accompanies Asker Bryld Staunæs, *Intelligence Assessment: First Term of The Synthetic Party*, prepared as a chapter for the proposed edited volume *Political Parties and Digital Innovations: Participation, Democracy and Efficiency* (working title), edited by Fabio G. Lupato, Oscar Barberà, Valeria Tarditi and Marco Meloni for Palgrave Macmillan.'
+            ),
+            (
+              'LICENSE-EDITORIAL.md',
+              'Suggested attribution: “Asker Bryld Staunæs, The Synthetic Party Research Archive, editorial material, 2026, CC BY 4.0,” with a link to the edition and an indication of changes.',
+              'Suggested attribution: “Asker Bryld Staunæs, *Intelligence Assessment: First Term of The Synthetic Party*, source dossiers, v.01, editorial material, 2026, CC BY 4.0,” with a link to the edition and an indication of changes.'
+            )
+          ]
+          manifest=Path('SHA256SUMS.txt')
+          lines=manifest.read_text().splitlines()
+          assert len(edits)==2
+          for filename,old,new in edits:
+            path=Path(filename)
+            before=path.read_text(encoding='utf-8')
+            assert before.count(old)==1,('Target missing or ambiguous',filename)
+            after=before.replace(old,new)
+            assert after.replace(new,old)==before,('Unintended change',filename)
+            path.write_text(after,encoding='utf-8')
+            hits=[i for i,s in enumerate(lines) if s.endswith('  '+filename)]
+            assert len(hits)==1,('Hash manifest entry not unique',filename)
+            lines[hits[0]]=hashlib.sha256(path.read_bytes()).hexdigest()+'  '+filename
+            print('EDIT_OK',filename)
+          manifest.write_text('\n'.join(lines)+'\n')
+          print('BIBLIOGRAPHY_UNCHANGED: manuscript is not modified by this workflow')
+          PY
+      - name: Verify registry integrity
+        run: python scripts/verify_registry.py
+      - name: Commit two corrections and remove one-time workflow
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git rm .github/workflows/finalize-volume-attribution-once.yml
+          git add README.md LICENSE-EDITORIAL.md SHA256SUMS.txt
+          git commit -m 'Clarify proposed Palgrave volume and source edition attribution'
+          git push
