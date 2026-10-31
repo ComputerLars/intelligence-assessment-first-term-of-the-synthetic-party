@@ -1,0 +1,194 @@
+name: Synchronize user Word placement and final edits (one time)
+on:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/sync-user-word-placement-once.yml
+permissions:
+  contents: write
+jobs:
+  synchronize:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m pip install python-docx==1.2.0 lxml==5.4.0
+      - name: Integrate manuscript wording and user-chosen page placement
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          from zipfile import ZipFile
+          from hashlib import sha256
+          from docx import Document
+          from docx.shared import Pt
+          from docx.enum.text import WD_ALIGN_PARAGRAPH
+          from docx.oxml import OxmlElement
+          from docx.oxml.ns import qn
+          from docx.opc.constants import RELATIONSHIP_TYPE as RT
+          from docx.enum.text import WD_COLOR_INDEX
+          import os
+          path=Path('Intelligence_Assessment_First_Term_Synthetic_Party_v01.docx')
+          old_caption='Figure 1. Intelligence Assessment: First Term of The Synthetic Party, Public source registry, v.01. Computer Lars / Asker Bryld Staunæs, 2026. Screenshot of the deployed site, 31 October 2026.'
+          new_caption='Figure 1. Intelligence Assessment: First Term of The Synthetic Party. Computer Lars / Asker Bryld Staunæs, 2026. Screenshot of the deployed site, 31 October 2026.'
+          old_question="He had other model providers in mind, so was he seeking permission to use OpenAI's API, or a refusal he could turn into publicity?"
+          new_question="He had other model providers in mind, so was he seeking permission to use OpenAI's API, or a refusal to turn into publicity?"
+          old_end='By facilitating public contestation of representative authority, the use of AI in politics and governance transforms democracy by reconfiguring its categories of delegation, participation, and representation through techniques of intelligence, both artificial and forensic.'
+          new_end='By facilitating public contestation of representative authority, the spread of AI in politics and governance transforms democracy by disrupting delegation, participation, and representation through techniques of intelligence, both artificial and forensic.'
+          # These are all paragraph hashes of the edited copy supplied by the author.
+          # They validate that no other sentence, citation or bibliography entry changed.
+          target_hashes="""7236d953 b948ac4c 6b230e93 1bfa6f5b da51bbf3 ecb955c0 811c9dc5 75cf7aa8 871a8589 3e20d15b 811c9dc5 39c494d4 a4a27a21 3ccda22d 02a33fd1 e7d84816 a9433c46 600b286f 71ed7acf c765a3b7 afaf7ffe b0d0eb23 81a51a16 3dcbdb31 92779a37 df923e91 d55f9fe9 ea9c678e c1ba5040 01879f18 7c1870f4 d95db8ed 64125263 e8b3b823 6bef0477 056837bd 6f91037a c91c2e2d 15a71cd6 41281f60 e64b2f8a 55f1be44 7f79291e 5bd7e734 ea7b34f8 a26cfa35 121f8ca1 4c32d383 20e2db8f 92dca0c3 3a22d6e4 b5a986a8 e6be33a8 58bd75d7 db3941a0 803824ef 905a5d07 acd19880 9e083321 53917371 efddb3d9 5e4105cb 3ca775a5 a1fd0005 3dab052b 1cc2b001 d8ad85f6 c3176ad9 97181353 4e798e07 1f71bcf0 68d9038d 46c14833 9825d048 73b0d9f9 abda206f 8b17406a 811c9dc5 811c9dc5 811c9dc5 811c9dc5 811c9dc5 dc0b6beb db5038f0 ba73fbbe 5d934a40 3d541881 5984a519 0dd94ed0 71a7b2f5 2c7676be 3cac1ac6 7f765bc0 e93ce749 175984b4 063e9ddb 6e1a7d72 0a5e57d5 c4cee9bc 24f5460d efe0dfe5 ee948f2c f9accc61 058528a7 175be726 d2fa7689 01ebc667 ff9cfed2 b4d9a1ff e25307b2 2610f2c8 81bcabae 5035bdd4 1b452855 2b98eb96 0472ba89 4c2de75a 9336d6c0 380de7ff 8a939a27 00ed56ad 09e708ba 84814eef cac1cccb 0442e017 37bba8c6 9a9dd7d4 37e181c8 f55aa7fc b79705c3 cbb50d69""".split()
+          def hash32(s):
+            h=2166136261
+            b=s.encode('utf-16-le')
+            for j in range(0,len(b),2):
+              h=((h^(b[j]+b[j+1]*256))*16777619)&0xffffffff
+            return f'{h:08x}'
+          with ZipFile(path) as previous:
+            prior_parts={n:previous.read(n) for n in previous.namelist()}
+          doc=Document(path)
+          assert len(doc.paragraphs)==126 and len(doc.inline_shapes)==1,'Unexpected source document structure'
+          def match(sub):
+            found=[p for p in doc.paragraphs if sub in p.text]
+            assert len(found)==1,(sub,len(found))
+            return found[0]
+          # Placement: add one paragraph after the abstract, exactly as in the uploaded DOCX.
+          abstract_end=match('Finally, the assessment proposes using AI investigators')
+          blank=OxmlElement('w:p')
+          abstract_end._p.addnext(blank)
+          # Figure: retain existing embedded image, set alignment/dimensions,
+          # and reproduce the shorter, linked and centered author's caption.
+          caption=match(old_caption)
+          idx=doc.paragraphs.index(caption)
+          image_para=doc.paragraphs[idx-1]
+          assert image_para.text=='' and image_para._p.xpath('.//w:drawing'),'Figure is not immediately before its caption'
+          image_para.alignment=WD_ALIGN_PARAGRAPH.CENTER
+          image_para.paragraph_format.keep_with_next=True
+          image_para.paragraph_format.space_before=Pt(8)
+          image_para.paragraph_format.space_after=Pt(4)
+          doc.inline_shapes[0].width=5623560
+          doc.inline_shapes[0].height=3163252
+          caption.clear()
+          caption.alignment=WD_ALIGN_PARAGRAPH.CENTER
+          caption.paragraph_format.space_before=Pt(2)
+          caption.paragraph_format.space_after=Pt(8)
+          r=caption.add_run('Figure 1. ')
+          r.bold=True
+          caption.add_run('Intelligence Assessment: First Term of The Synthetic Party').italic=True
+          caption.add_run('. Computer Lars / Asker Bryld Staunæs, 2026. Screenshot of the ')
+          url='https://computerlars.github.io/intelligence-assessment-first-term-of-the-synthetic-party/'
+          rid=caption.part.relate_to(url,RT.HYPERLINK,is_external=True)
+          link=OxmlElement('w:hyperlink')
+          link.set(qn('r:id'),rid)
+          rr=OxmlElement('w:r')
+          rp=OxmlElement('w:rPr')
+          col=OxmlElement('w:color')
+          col.set(qn('w:val'),'0563C1')
+          under=OxmlElement('w:u')
+          under.set(qn('w:val'),'single')
+          rp.append(col);rp.append(under)
+          rr.append(rp)
+          t=OxmlElement('w:t')
+          t.text='deployed site'
+          rr.append(t)
+          link.append(rr)
+          caption._p.append(link)
+          caption.add_run(', 31 October 2026.')
+          assert caption.text==new_caption
+          assert len(caption.hyperlinks)==1 and caption.hyperlinks[0].address==url
+          # One grammatical revision in Capacity Agent.
+          p=match(old_question)
+          updated=p.text.replace(old_question,new_question)
+          assert updated!=p.text
+          if sum(old_question in r.text for r in p.runs)==1:
+            for r in p.runs:
+              if old_question in r.text:r.text=r.text.replace(old_question,new_question)
+          else:
+            assert all(not r.bold and not r.italic for r in p.runs)
+            p.clear()
+            p.add_run(updated)
+          assert p.text==updated
+          # Remove the paragraph break between regulatory rule and gallery example.
+          regulatory=match('This constant shape-shifting may also enable regulatory evasion.')
+          gallery=match('A statement made in an art gallery may attract political-advertising transparency obligations')
+          assert doc.paragraphs.index(gallery)==doc.paragraphs.index(regulatory)+1
+          assert regulatory.text.endswith('(Regulation 2024/900, Article 11).')
+          assert gallery.text.startswith('A statement made in an art gallery')
+          regulatory.add_run(' '+gallery.text)
+          gallery._p.getparent().remove(gallery._p)
+          assert regulatory.text.endswith('nor does deep-fake disclosure under Article 50(4) settle permission to use its voice.')
+          # Preserve the author's new conclusion and the bold emphasis on "transforms democracy".
+          conclusion=match(old_end)
+          assert conclusion.text.endswith(old_end)
+          prefix=conclusion.text[:-len(old_end)]
+          at=0
+          for run in list(conclusion.runs):
+            txt=run.text
+            start=at
+            at+=len(txt)
+            if at<=len(prefix):continue
+            if start<len(prefix):
+              run.text=txt[:len(prefix)-start]
+            else:
+              run._r.getparent().remove(run._r)
+          assert conclusion.text==prefix,('Could not safely isolate conclusion sentence',conclusion.text)
+          a,b=new_end.split('transforms democracy')
+          conclusion.add_run(a)
+          conclusion.add_run('transforms').bold=True
+          conclusion.add_run(' ')
+          conclusion.add_run('democracy').bold=True
+          conclusion.add_run(b)
+          assert conclusion.text==prefix+new_end
+          # Placement: five blank paragraphs between the author's conclusion and References.
+          following=conclusion._p.getnext()
+          assert following is not None and following.xpath('./w:r/w:t')==[]
+          # Add blanks after the conclusion; existing blank spacer paragraphs remain.
+          anchor=conclusion._p
+          for _ in range(5):
+            blank=OxmlElement('w:p')
+            anchor.addnext(blank)
+            anchor=blank
+          paras=doc.paragraphs
+          actual=[hash32(p.text) for p in paras]
+          if actual!=target_hashes:
+            diffs=[(i,a,b) for i,(a,b) in enumerate(zip(actual,target_hashes)) if a!=b]
+            print('HASH_DIFFERENCES',diffs[:25],'counts',len(actual),len(target_hashes))
+            raise AssertionError('Result does not match submitted Word text paragraph for paragraph')
+          assert len(doc.inline_shapes)==1
+          for p in [match('My project sought to disrupt the traditional party form'),match('While the European Democracy Shield is an actual EU initiative')]:
+            assert any(r.font.highlight_color==WD_COLOR_INDEX.YELLOW for r in p.runs),'In-text highlights lost'
+          for s in ['Lupato, Fabio G. and Marco Meloni. This volume.','Tarditi, Valeria and Francesco Raniolo. This volume.']:
+            p=match(s)
+            assert any(r.font.highlight_color==WD_COLOR_INDEX.YELLOW for r in p.runs),'Reference highlights lost'
+          doc.save(path)
+          checked=Document(path)
+          assert [hash32(p.text) for p in checked.paragraphs]==target_hashes
+          assert checked.paragraphs[11].hyperlinks[0].address==url
+          assert len(checked.inline_shapes)==1
+          with ZipFile(path) as after:
+            for name in ['word/media/image1.png','word/footnotes.xml','word/endnotes.xml']:
+              assert after.read(name)==prior_parts[name],('Protected component changed',name)
+          print('WORD_SYNC_QA: uploaded text matches all 131 paragraphs; image & footnotes preserved; hyperlinks and yellow highlights preserved')
+          manifest=Path('SHA256SUMS.txt')
+          lines=manifest.read_text().splitlines()
+          hits=[j for j,line in enumerate(lines) if line.endswith('  '+path.name)]
+          assert len(hits)==1
+          digest=sha256(path.read_bytes()).hexdigest()
+          lines[hits[0]]=digest+'  '+path.name
+          manifest.write_text('\n'.join(lines)+'\n')
+          print('SHA256',digest)
+          PY
+      - name: Verify full public register
+        run: python scripts/verify_registry.py
+      - name: Commit manuscript and remove temporary workflow
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git rm .github/workflows/sync-user-word-placement-once.yml
+          git add Intelligence_Assessment_First_Term_Synthetic_Party_v01.docx SHA256SUMS.txt
+          git commit -m 'Synchronize author wording and figure/reference placement'
+          git push
